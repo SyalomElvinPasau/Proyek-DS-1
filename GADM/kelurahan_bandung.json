@@ -1,0 +1,908 @@
+[
+    {
+        "NAME_3":"Andir",
+        "NAME_4":"Campaka",
+        "longitude":107.5665043169,
+        "latitude":-6.9004118369
+    },
+    {
+        "NAME_3":"Andir",
+        "NAME_4":"Ciroyom",
+        "longitude":107.5882524245,
+        "latitude":-6.9157704147
+    },
+    {
+        "NAME_3":"Andir",
+        "NAME_4":"Dungus Cariang",
+        "longitude":107.5808058111,
+        "latitude":-6.9141193874
+    },
+    {
+        "NAME_3":"Andir",
+        "NAME_4":"Garuda",
+        "longitude":107.5760321033,
+        "latitude":-6.9114548423
+    },
+    {
+        "NAME_3":"Andir",
+        "NAME_4":"Kebon Jeruk",
+        "longitude":107.5988984934,
+        "latitude":-6.9171869157
+    },
+    {
+        "NAME_3":"Andir",
+        "NAME_4":"Maleber",
+        "longitude":107.5723917239,
+        "latitude":-6.9094266049
+    },
+    {
+        "NAME_3":"Antapani",
+        "NAME_4":"Antapani Kidul",
+        "longitude":107.6599153098,
+        "latitude":-6.9232098815
+    },
+    {
+        "NAME_3":"Antapani",
+        "NAME_4":"Antapani Kulon",
+        "longitude":107.6563147592,
+        "latitude":-6.9100250354
+    },
+    {
+        "NAME_3":"Antapani",
+        "NAME_4":"Antapani Tengah",
+        "longitude":107.6623355263,
+        "latitude":-6.9189414593
+    },
+    {
+        "NAME_3":"Antapani",
+        "NAME_4":"Antapani Wetan",
+        "longitude":107.6640403898,
+        "latitude":-6.9092878796
+    },
+    {
+        "NAME_3":"Arcamanik",
+        "NAME_4":"Cisaranten Bina Harapan",
+        "longitude":107.6855576395,
+        "latitude":-6.9118271909
+    },
+    {
+        "NAME_3":"Arcamanik",
+        "NAME_4":"Cisaranten Endah",
+        "longitude":107.6721090096,
+        "latitude":-6.9306822168
+    },
+    {
+        "NAME_3":"Arcamanik",
+        "NAME_4":"Cisaranten Kulon",
+        "longitude":107.6807283128,
+        "latitude":-6.9257093922
+    },
+    {
+        "NAME_3":"Arcamanik",
+        "NAME_4":"Sukamiskin",
+        "longitude":107.6738059294,
+        "latitude":-6.9130720471
+    },
+    {
+        "NAME_3":"Astanaanyar",
+        "NAME_4":"Cibadak",
+        "longitude":107.5959699477,
+        "latitude":-6.9231091144
+    },
+    {
+        "NAME_3":"Astanaanyar",
+        "NAME_4":"Karang Anyar",
+        "longitude":107.6014239634,
+        "latitude":-6.9235008679
+    },
+    {
+        "NAME_3":"Astanaanyar",
+        "NAME_4":"Karasak",
+        "longitude":107.6077834008,
+        "latitude":-6.9488622467
+    },
+    {
+        "NAME_3":"Astanaanyar",
+        "NAME_4":"Nyengseret",
+        "longitude":107.601664986,
+        "latitude":-6.9307722375
+    },
+    {
+        "NAME_3":"Astanaanyar",
+        "NAME_4":"Panjunan",
+        "longitude":107.5981184225,
+        "latitude":-6.9296965064
+    },
+    {
+        "NAME_3":"Astanaanyar",
+        "NAME_4":"Pelindung Hewan",
+        "longitude":107.60321593,
+        "latitude":-6.9398980219
+    },
+    {
+        "NAME_3":"Babakan Ciparay",
+        "NAME_4":"Babakan",
+        "longitude":107.5754534478,
+        "latitude":-6.934465621
+    },
+    {
+        "NAME_3":"Babakan Ciparay",
+        "NAME_4":"Babakan Ciparay",
+        "longitude":107.5798084648,
+        "latitude":-6.9410503618
+    },
+    {
+        "NAME_3":"Babakan Ciparay",
+        "NAME_4":"Cirangrang",
+        "longitude":107.5851496542,
+        "latitude":-6.9572332189
+    },
+    {
+        "NAME_3":"Babakan Ciparay",
+        "NAME_4":"Margahayu Utara",
+        "longitude":107.5762358779,
+        "latitude":-6.9481836481
+    },
+    {
+        "NAME_3":"Babakan Ciparay",
+        "NAME_4":"Margasuka",
+        "longitude":107.5755267939,
+        "latitude":-6.9543381728
+    },
+    {
+        "NAME_3":"Babakan Ciparay",
+        "NAME_4":"Sukahaji",
+        "longitude":107.5831761759,
+        "latitude":-6.9267146838
+    },
+    {
+        "NAME_3":"Bandung Kidul",
+        "NAME_4":"Batununggal",
+        "longitude":107.6323239683,
+        "latitude":-6.9525697344
+    },
+    {
+        "NAME_3":"Bandung Kidul",
+        "NAME_4":"Kujangsari",
+        "longitude":107.6428268501,
+        "latitude":-6.9615736359
+    },
+    {
+        "NAME_3":"Bandung Kidul",
+        "NAME_4":"Mengger",
+        "longitude":107.6287459032,
+        "latitude":-6.9602268198
+    },
+    {
+        "NAME_3":"Bandung Kidul",
+        "NAME_4":"Wates",
+        "longitude":107.6164300219,
+        "latitude":-6.9583203571
+    },
+    {
+        "NAME_3":"Bandung Kulon",
+        "NAME_4":"Caringin",
+        "longitude":107.5706423959,
+        "latitude":-6.9309205847
+    },
+    {
+        "NAME_3":"Bandung Kulon",
+        "NAME_4":"Cibuntu",
+        "longitude":107.571802929,
+        "latitude":-6.9215966272
+    },
+    {
+        "NAME_3":"Bandung Kulon",
+        "NAME_4":"Cigondewah Kaler",
+        "longitude":107.5624857386,
+        "latitude":-6.9353002073
+    },
+    {
+        "NAME_3":"Bandung Kulon",
+        "NAME_4":"Cigondewah Kidul",
+        "longitude":107.5627165296,
+        "latitude":-6.9413872474
+    },
+    {
+        "NAME_3":"Bandung Kulon",
+        "NAME_4":"Cigondewah Rahayu",
+        "longitude":107.5635021271,
+        "latitude":-6.9478433072
+    },
+    {
+        "NAME_3":"Bandung Kulon",
+        "NAME_4":"Cijerah",
+        "longitude":107.5672417507,
+        "latitude":-6.9189441117
+    },
+    {
+        "NAME_3":"Bandung Kulon",
+        "NAME_4":"Gempol Sari",
+        "longitude":107.5532277372,
+        "latitude":-6.9315999752
+    },
+    {
+        "NAME_3":"Bandung Kulon",
+        "NAME_4":"Warung Muncang",
+        "longitude":107.577114395,
+        "latitude":-6.9239273141
+    },
+    {
+        "NAME_3":"Bandung Wetan",
+        "NAME_4":"Cihapit",
+        "longitude":107.6270316793,
+        "latitude":-6.9082254629
+    },
+    {
+        "NAME_3":"Bandung Wetan",
+        "NAME_4":"Citarum",
+        "longitude":107.6164112001,
+        "latitude":-6.9044616145
+    },
+    {
+        "NAME_3":"Bandung Wetan",
+        "NAME_4":"Taman Sari",
+        "longitude":107.6072887342,
+        "latitude":-6.901503911
+    },
+    {
+        "NAME_3":"Batununggal",
+        "NAME_4":"Binong",
+        "longitude":107.6407582493,
+        "latitude":-6.938091202
+    },
+    {
+        "NAME_3":"Batununggal",
+        "NAME_4":"Cibangkong",
+        "longitude":107.6336497613,
+        "latitude":-6.9237340979
+    },
+    {
+        "NAME_3":"Batununggal",
+        "NAME_4":"Gumuruh",
+        "longitude":107.6372866302,
+        "latitude":-6.9379945365
+    },
+    {
+        "NAME_3":"Batununggal",
+        "NAME_4":"Kacapiring",
+        "longitude":107.6340466502,
+        "latitude":-6.917673068
+    },
+    {
+        "NAME_3":"Batununggal",
+        "NAME_4":"Kebon Gedang",
+        "longitude":107.6428234778,
+        "latitude":-6.9263689645
+    },
+    {
+        "NAME_3":"Batununggal",
+        "NAME_4":"Kebon Waru",
+        "longitude":107.6412629433,
+        "latitude":-6.9163270645
+    },
+    {
+        "NAME_3":"Batununggal",
+        "NAME_4":"Maleer",
+        "longitude":107.6396626728,
+        "latitude":-6.9267216163
+    },
+    {
+        "NAME_3":"Batununggal",
+        "NAME_4":"Samoja",
+        "longitude":107.6273649633,
+        "latitude":-6.9215377845
+    },
+    {
+        "NAME_3":"Bojongloa Kaler",
+        "NAME_4":"Babakan Asih",
+        "longitude":107.5947966435,
+        "latitude":-6.9324005904
+    },
+    {
+        "NAME_3":"Bojongloa Kaler",
+        "NAME_4":"Babakan Tarogong",
+        "longitude":107.5912234844,
+        "latitude":-6.927529527
+    },
+    {
+        "NAME_3":"Bojongloa Kaler",
+        "NAME_4":"Jamika",
+        "longitude":107.589173226,
+        "latitude":-6.9224828656
+    },
+    {
+        "NAME_3":"Bojongloa Kaler",
+        "NAME_4":"Kopo",
+        "longitude":107.5876265141,
+        "latitude":-6.9411468287
+    },
+    {
+        "NAME_3":"Bojongloa Kaler",
+        "NAME_4":"Suka Asih",
+        "longitude":107.58905717,
+        "latitude":-6.9335649311
+    },
+    {
+        "NAME_3":"Bojongloa Kidul",
+        "NAME_4":"Cibaduyut",
+        "longitude":107.5932722818,
+        "latitude":-6.9535026261
+    },
+    {
+        "NAME_3":"Bojongloa Kidul",
+        "NAME_4":"Cibaduyut Kidul",
+        "longitude":107.5904121535,
+        "latitude":-6.9598080197
+    },
+    {
+        "NAME_3":"Bojongloa Kidul",
+        "NAME_4":"Cibaduyut Wetan",
+        "longitude":107.5987774683,
+        "latitude":-6.9590186679
+    },
+    {
+        "NAME_3":"Bojongloa Kidul",
+        "NAME_4":"Kebon Lega",
+        "longitude":107.5975879742,
+        "latitude":-6.9473943369
+    },
+    {
+        "NAME_3":"Bojongloa Kidul",
+        "NAME_4":"Mekar Wangi",
+        "longitude":107.6046438054,
+        "latitude":-6.9552446533
+    },
+    {
+        "NAME_3":"Bojongloa Kidul",
+        "NAME_4":"Situsaeur",
+        "longitude":107.5955394888,
+        "latitude":-6.9403168359
+    },
+    {
+        "NAME_3":"Buahbatu",
+        "NAME_4":"Cijaura",
+        "longitude":107.6509992374,
+        "latitude":-6.9587774822
+    },
+    {
+        "NAME_3":"Buahbatu",
+        "NAME_4":"Jati Sari",
+        "longitude":107.6619153922,
+        "latitude":-6.9360065967
+    },
+    {
+        "NAME_3":"Buahbatu",
+        "NAME_4":"Margasari",
+        "longitude":107.6572604973,
+        "latitude":-6.9546352841
+    },
+    {
+        "NAME_3":"Buahbatu",
+        "NAME_4":"Sekejati",
+        "longitude":107.6552919456,
+        "latitude":-6.9459322753
+    },
+    {
+        "NAME_3":"Cibeunying Kaler",
+        "NAME_4":"Cigadung",
+        "longitude":107.6274889915,
+        "latitude":-6.8797739897
+    },
+    {
+        "NAME_3":"Cibeunying Kaler",
+        "NAME_4":"Cihaurgeulis",
+        "longitude":107.6285724479,
+        "latitude":-6.9013033038
+    },
+    {
+        "NAME_3":"Cibeunying Kaler",
+        "NAME_4":"Neglasari",
+        "longitude":107.6388212469,
+        "latitude":-6.8944797564
+    },
+    {
+        "NAME_3":"Cibeunying Kaler",
+        "NAME_4":"Sukaluyu",
+        "longitude":107.6300889387,
+        "latitude":-6.8959379833
+    },
+    {
+        "NAME_3":"Cibeunying Kidul",
+        "NAME_4":"Cicadas",
+        "longitude":107.6373465916,
+        "latitude":-6.9060620993
+    },
+    {
+        "NAME_3":"Cibeunying Kidul",
+        "NAME_4":"Cikutra",
+        "longitude":107.6401122764,
+        "latitude":-6.9028165217
+    },
+    {
+        "NAME_3":"Cibeunying Kidul",
+        "NAME_4":"Padasuka",
+        "longitude":107.6476761448,
+        "latitude":-6.9037415149
+    },
+    {
+        "NAME_3":"Cibeunying Kidul",
+        "NAME_4":"Pasirlayung",
+        "longitude":107.6565489525,
+        "latitude":-6.8949865006
+    },
+    {
+        "NAME_3":"Cibeunying Kidul",
+        "NAME_4":"Sukamaju",
+        "longitude":107.6341293054,
+        "latitude":-6.9085737665
+    },
+    {
+        "NAME_3":"Cibeunying Kidul",
+        "NAME_4":"Sukapada",
+        "longitude":107.6469244003,
+        "latitude":-6.8959757063
+    },
+    {
+        "NAME_3":"Cibiru",
+        "NAME_4":"Cipadung",
+        "longitude":107.7193233644,
+        "latitude":-6.9240831057
+    },
+    {
+        "NAME_3":"Cibiru",
+        "NAME_4":"Cisurupan",
+        "longitude":107.7237478346,
+        "latitude":-6.9053955016
+    },
+    {
+        "NAME_3":"Cibiru",
+        "NAME_4":"Palasari",
+        "longitude":107.722864998,
+        "latitude":-6.9140021064
+    },
+    {
+        "NAME_3":"Cibiru",
+        "NAME_4":"Pasir Biru",
+        "longitude":107.7261750402,
+        "latitude":-6.9206315235
+    },
+    {
+        "NAME_3":"Cicendo",
+        "NAME_4":"Arjuna",
+        "longitude":107.5935367829,
+        "latitude":-6.9103857792
+    },
+    {
+        "NAME_3":"Cicendo",
+        "NAME_4":"Husen Sastranegara",
+        "longitude":107.5792830951,
+        "latitude":-6.901671614
+    },
+    {
+        "NAME_3":"Cicendo",
+        "NAME_4":"Pajajaran",
+        "longitude":107.5872805255,
+        "latitude":-6.8991071276
+    },
+    {
+        "NAME_3":"Cicendo",
+        "NAME_4":"Pamoyanan",
+        "longitude":107.5939392946,
+        "latitude":-6.902950569
+    },
+    {
+        "NAME_3":"Cicendo",
+        "NAME_4":"Pasirkaliki",
+        "longitude":107.6008984125,
+        "latitude":-6.9075966055
+    },
+    {
+        "NAME_3":"Cicendo",
+        "NAME_4":"Sukaraja",
+        "longitude":107.5660903372,
+        "latitude":-6.8922128333
+    },
+    {
+        "NAME_3":"Cidadap",
+        "NAME_4":"Ciumbuleuit",
+        "longitude":107.613094684,
+        "latitude":-6.860999776
+    },
+    {
+        "NAME_3":"Cidadap",
+        "NAME_4":"Hegarmanah",
+        "longitude":107.6008405114,
+        "latitude":-6.8743387523
+    },
+    {
+        "NAME_3":"Cidadap",
+        "NAME_4":"Ledeng",
+        "longitude":107.5991056671,
+        "latitude":-6.8557568606
+    },
+    {
+        "NAME_3":"Cinambo",
+        "NAME_4":"Babakan Penghulu",
+        "longitude":107.6897994769,
+        "latitude":-6.935928408
+    },
+    {
+        "NAME_3":"Cinambo",
+        "NAME_4":"Cisaranten Wetan",
+        "longitude":107.6878656845,
+        "latitude":-6.9243053109
+    },
+    {
+        "NAME_3":"Cinambo",
+        "NAME_4":"Pakemitan",
+        "longitude":107.6935823741,
+        "latitude":-6.9208052568
+    },
+    {
+        "NAME_3":"Cinambo",
+        "NAME_4":"Sukamulya",
+        "longitude":107.6989722413,
+        "latitude":-6.9202729416
+    },
+    {
+        "NAME_3":"Coblong",
+        "NAME_4":"Cipaganti",
+        "longitude":107.6040675935,
+        "latitude":-6.890475406
+    },
+    {
+        "NAME_3":"Coblong",
+        "NAME_4":"Dago",
+        "longitude":107.6159529987,
+        "latitude":-6.874662982
+    },
+    {
+        "NAME_3":"Coblong",
+        "NAME_4":"Lebak Gede",
+        "longitude":107.6162334408,
+        "latitude":-6.8926881765
+    },
+    {
+        "NAME_3":"Coblong",
+        "NAME_4":"Lebak Siliwangi",
+        "longitude":107.6099370741,
+        "latitude":-6.8910410364
+    },
+    {
+        "NAME_3":"Coblong",
+        "NAME_4":"Sadang Serang",
+        "longitude":107.6240618462,
+        "latitude":-6.8943101134
+    },
+    {
+        "NAME_3":"Coblong",
+        "NAME_4":"Sekeloa",
+        "longitude":107.6208916229,
+        "latitude":-6.8864946278
+    },
+    {
+        "NAME_3":"Gedebage",
+        "NAME_4":"Cimincrang",
+        "longitude":107.7050217587,
+        "latitude":-6.9457403056
+    },
+    {
+        "NAME_3":"Gedebage",
+        "NAME_4":"Cisaranten Kidul",
+        "longitude":107.6932474384,
+        "latitude":-6.9496407737
+    },
+    {
+        "NAME_3":"Gedebage",
+        "NAME_4":"Rancabolang",
+        "longitude":107.6932117585,
+        "latitude":-6.9622069152
+    },
+    {
+        "NAME_3":"Gedebage",
+        "NAME_4":"Rancanumpang",
+        "longitude":107.7099248647,
+        "latitude":-6.9603251179
+    },
+    {
+        "NAME_3":"Kiaracondong",
+        "NAME_4":"Babakan Sari",
+        "longitude":107.6506879134,
+        "latitude":-6.9231272271
+    },
+    {
+        "NAME_3":"Kiaracondong",
+        "NAME_4":"Babakan Surabaya",
+        "longitude":107.6478786648,
+        "latitude":-6.9141638505
+    },
+    {
+        "NAME_3":"Kiaracondong",
+        "NAME_4":"Cicaheum",
+        "longitude":107.6531242268,
+        "latitude":-6.9069834721
+    },
+    {
+        "NAME_3":"Kiaracondong",
+        "NAME_4":"Kebon Kangkung",
+        "longitude":107.6441364908,
+        "latitude":-6.9377888928
+    },
+    {
+        "NAME_3":"Kiaracondong",
+        "NAME_4":"Kebun Jayanti",
+        "longitude":107.6468787644,
+        "latitude":-6.9274233033
+    },
+    {
+        "NAME_3":"Kiaracondong",
+        "NAME_4":"Sukapura",
+        "longitude":107.6515096689,
+        "latitude":-6.9348462078
+    },
+    {
+        "NAME_3":"Lengkong",
+        "NAME_4":"Burangrang",
+        "longitude":107.6182589149,
+        "latitude":-6.9295853542
+    },
+    {
+        "NAME_3":"Lengkong",
+        "NAME_4":"Cijagra",
+        "longitude":107.6253892633,
+        "latitude":-6.9441909667
+    },
+    {
+        "NAME_3":"Lengkong",
+        "NAME_4":"Cikawao",
+        "longitude":107.6122279179,
+        "latitude":-6.9265155899
+    },
+    {
+        "NAME_3":"Lengkong",
+        "NAME_4":"Lingkar Selatan",
+        "longitude":107.6295791333,
+        "latitude":-6.9293041935
+    },
+    {
+        "NAME_3":"Lengkong",
+        "NAME_4":"Malabar",
+        "longitude":107.621574518,
+        "latitude":-6.9261358272
+    },
+    {
+        "NAME_3":"Lengkong",
+        "NAME_4":"Paledang",
+        "longitude":107.6147791068,
+        "latitude":-6.9247986961
+    },
+    {
+        "NAME_3":"Lengkong",
+        "NAME_4":"Turangga",
+        "longitude":107.6294313453,
+        "latitude":-6.9386256447
+    },
+    {
+        "NAME_3":"Mandalajati",
+        "NAME_4":"Jatihandap",
+        "longitude":107.6634460128,
+        "latitude":-6.8957029696
+    },
+    {
+        "NAME_3":"Mandalajati",
+        "NAME_4":"Karang Pamulang",
+        "longitude":107.6719260853,
+        "latitude":-6.8982539253
+    },
+    {
+        "NAME_3":"Mandalajati",
+        "NAME_4":"Pasir Impun",
+        "longitude":107.6793565531,
+        "latitude":-6.8972873483
+    },
+    {
+        "NAME_3":"Mandalajati",
+        "NAME_4":"Sindang Jaya",
+        "longitude":107.6838606497,
+        "latitude":-6.900907935
+    },
+    {
+        "NAME_3":"Panyileukan",
+        "NAME_4":"Cipadung Kidul",
+        "longitude":107.7124055423,
+        "latitude":-6.9410142713
+    },
+    {
+        "NAME_3":"Panyileukan",
+        "NAME_4":"Cipadung Kulon",
+        "longitude":107.7046129644,
+        "latitude":-6.9217084139
+    },
+    {
+        "NAME_3":"Panyileukan",
+        "NAME_4":"Cipadung Wetan",
+        "longitude":107.7100388601,
+        "latitude":-6.9316772992
+    },
+    {
+        "NAME_3":"Panyileukan",
+        "NAME_4":"Mekar Mulya",
+        "longitude":107.7000031989,
+        "latitude":-6.9310820297
+    },
+    {
+        "NAME_3":"Rancasari",
+        "NAME_4":"Cipamokolan",
+        "longitude":107.6759235975,
+        "latitude":-6.946731068
+    },
+    {
+        "NAME_3":"Rancasari",
+        "NAME_4":"Derwati",
+        "longitude":107.6817604308,
+        "latitude":-6.9612158972
+    },
+    {
+        "NAME_3":"Rancasari",
+        "NAME_4":"Manjahlega",
+        "longitude":107.6668422563,
+        "latitude":-6.947149392
+    },
+    {
+        "NAME_3":"Rancasari",
+        "NAME_4":"Mekarjaya",
+        "longitude":107.669371809,
+        "latitude":-6.9629013655
+    },
+    {
+        "NAME_3":"Regol",
+        "NAME_4":"Ancol",
+        "longitude":107.616388256,
+        "latitude":-6.9406109454
+    },
+    {
+        "NAME_3":"Regol",
+        "NAME_4":"Balong Gede",
+        "longitude":107.6079052751,
+        "latitude":-6.9256803835
+    },
+    {
+        "NAME_3":"Regol",
+        "NAME_4":"Ciateul",
+        "longitude":107.6079709358,
+        "latitude":-6.9344447235
+    },
+    {
+        "NAME_3":"Regol",
+        "NAME_4":"Cigereleng",
+        "longitude":107.6107885573,
+        "latitude":-6.9407559713
+    },
+    {
+        "NAME_3":"Regol",
+        "NAME_4":"Ciseureuh",
+        "longitude":107.6130055171,
+        "latitude":-6.9506715033
+    },
+    {
+        "NAME_3":"Regol",
+        "NAME_4":"Pasirluyu",
+        "longitude":107.6191803938,
+        "latitude":-6.9472446862
+    },
+    {
+        "NAME_3":"Regol",
+        "NAME_4":"Pungkur",
+        "longitude":107.60736369,
+        "latitude":-6.9299330865
+    },
+    {
+        "NAME_3":"Sukajadi",
+        "NAME_4":"Cipedes",
+        "longitude":107.5936984475,
+        "latitude":-6.8857707665
+    },
+    {
+        "NAME_3":"Sukajadi",
+        "NAME_4":"Pasteur",
+        "longitude":107.5994327192,
+        "latitude":-6.8903860803
+    },
+    {
+        "NAME_3":"Sukajadi",
+        "NAME_4":"Sukabungah",
+        "longitude":107.594271552,
+        "latitude":-6.8957080019
+    },
+    {
+        "NAME_3":"Sukajadi",
+        "NAME_4":"Sukagalih",
+        "longitude":107.5864716748,
+        "latitude":-6.8866681488
+    },
+    {
+        "NAME_3":"Sukajadi",
+        "NAME_4":"Sukawarna",
+        "longitude":107.5777122739,
+        "latitude":-6.8862215858
+    },
+    {
+        "NAME_3":"Sukasari",
+        "NAME_4":"Gegerkalong",
+        "longitude":107.5886556113,
+        "latitude":-6.8690832253
+    },
+    {
+        "NAME_3":"Sukasari",
+        "NAME_4":"Isola",
+        "longitude":107.5929781421,
+        "latitude":-6.8535564822
+    },
+    {
+        "NAME_3":"Sukasari",
+        "NAME_4":"Sarijadi",
+        "longitude":107.5771965249,
+        "latitude":-6.8757613484
+    },
+    {
+        "NAME_3":"Sukasari",
+        "NAME_4":"Sukarasa",
+        "longitude":107.5854159041,
+        "latitude":-6.8742171348
+    },
+    {
+        "NAME_3":"Sumur Bandung",
+        "NAME_4":"Babakan Ciamis",
+        "longitude":107.6086241831,
+        "latitude":-6.9114457285
+    },
+    {
+        "NAME_3":"Sumur Bandung",
+        "NAME_4":"Braga",
+        "longitude":107.6086136723,
+        "latitude":-6.9181076515
+    },
+    {
+        "NAME_3":"Sumur Bandung",
+        "NAME_4":"Kebon Pisang",
+        "longitude":107.6171624126,
+        "latitude":-6.9192724381
+    },
+    {
+        "NAME_3":"Sumur Bandung",
+        "NAME_4":"Merdeka",
+        "longitude":107.6212068269,
+        "latitude":-6.9135037606
+    },
+    {
+        "NAME_3":"Ujung Berung",
+        "NAME_4":"Cigending",
+        "longitude":107.6979633249,
+        "latitude":-6.9105094321
+    },
+    {
+        "NAME_3":"Ujung Berung",
+        "NAME_4":"Pasanggrahan",
+        "longitude":107.7138158605,
+        "latitude":-6.9107758502
+    },
+    {
+        "NAME_3":"Ujung Berung",
+        "NAME_4":"Pasir Endah",
+        "longitude":107.6902132226,
+        "latitude":-6.9043751898
+    },
+    {
+        "NAME_3":"Ujung Berung",
+        "NAME_4":"Pasir Wangi",
+        "longitude":107.7061984476,
+        "latitude":-6.8993959007
+    },
+    {
+        "NAME_3":"Ujung Berung",
+        "NAME_4":"Pasirjati",
+        "longitude":107.7102869409,
+        "latitude":-6.9026069423
+    }
+]
