@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from shapely.geometry import Point, Polygon
 
 # Load the JSON data
-with open("ciumbueluit.json", "r") as file:
+with open("ciumbuleuit.json", "r") as file:
     data = json.load(file)
 
 # Validate that the JSON contains a Polygon
