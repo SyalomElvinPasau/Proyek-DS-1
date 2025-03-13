@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from shapely.geometry import Point, Polygon, MultiPolygon
 
 # Load the JSON data
-with open("C:/Users/Alief/Documents/ProyekDS/Proyek-DS-1/GADM/kelurahan_bandung.geojson", "r") as file:
+with open("/home/elvin/Documents/Code/College/Proyek Data Science/Proyek-DS-1/GADM/kelurahan_bandung.geojson", "r") as file:
     data = json.load(file)
 
 # Extract all kelurahan features
@@ -14,8 +14,7 @@ def find_kelurahan(latitude, longitude):
     point = Point(longitude, latitude)  # Shapely uses (x, y) = (longitude, latitude)
 
     for kelurahan in kelurahan_list:
-        name = kelurahan["properties"]["NAME_4"]  # Get the kelurahan name
-        geometry_type = kelurahan["geometry"]["type"]
+        name = kelurahan["properties"]["NAME_4"]  # Get the kelurahan name---
         coordinates = kelurahan["geometry"]["coordinates"]
 
         # Check if it's a MultiPolygon or a Polygon
