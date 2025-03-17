@@ -1,12 +1,6 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-"Faculty of Economics, University of Bandung Raya (FE unbar)","Jalan Khp Hasan Mustopa No.25, Neglasari",-6.898100500000001,107.6364434,OPERATIONAL,4.1,12,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-"Faculty of Agriculture, University of Bandung Raya","Jalan Cikutra No.171, Neglasari",-6.896305199999999,107.6434572,OPERATIONAL,4.6,10,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Karyawan- Class Program Widyatama University Bandungc,"Jalan Cikutra No.204 A, Neglasari",-6.897880399999999,107.6437114,OPERATIONAL,5,11,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Widyatama University Graduate,"Jalan Khp Hasan Mustopa No.59, Neglasari",-6.899489399999998,107.6432142,OPERATIONAL,4.5,125,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Utama Pasca Saujana Widyamata,"JL. Penghulu Haji Hasan Mustopa 59, Cicaheum 40282 , Bandung , West Jawa, Neglasari",-6.899564,107.643184,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Boarding School Property Bandung,Jalan Cikutra No.209A,-6.8938093,107.6390033,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Les Kursus Private Bahasa Inggris - Britland English Course,Jalan Cikutra No.211C,-6.893765299999999,107.6388066,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
-Kumon Cikutra Baru,"Jalan Cikutra Baru No.3, RT.01/RW.07, Neglasari",-6.895594099999999,107.6384228,OPERATIONAL,5,19,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-CLC CIKUTRA BANDUNG,"Jalan Cikutra Baru X No.8, Neglasari",-6.896929300000001,107.6382269,OPERATIONAL,4.8,11,"school, university, point_of_interest, establishment",,{'open_now': False},Unknown
-"Gedung 1, Prodi Desain Komunikasi Visual (DKV) Itenas","Jalan Khp Hasan Mustopa No.23, Neglasari",-6.8962406,107.6363045,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Faculty of Art and Design (National Institute of Technology),"Jl. PKH. Mustopha No.23,Neglasari, Cibeunying Kaler, Neglasari",-6.8962772,107.6361714,OPERATIONAL,5,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Jl Cikutra No.300 Rt.04 Rw.02 Kel.Neglasari Kec.Cibeunying Bandung, Neglasari",-6.893547799999999,107.6384869,OPERATIONAL,3.6,16,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung nainggolan,"Jalan Cikutra No.229, Cikutra",-6.893102499999999,107.6358777,OPERATIONAL,3.7,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Warung Pak Ace,"Gang Babakan Cikutra No.47, Neglasari",-6.891233499999999,107.6398252,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+W A R F I R,"Jl. Terusan Jalan Citra Green Garden No.27, Neglasari",-6.896686900000001,107.6415748,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Alfamart,"Jalan Cikutra No.151 Rt.02/05, Neglasari",-6.8978573,107.643534,OPERATIONAL,4.1,80,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

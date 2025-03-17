@@ -1,6 +1,10 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-BBC Bandung,"Jalan Indramayu Jalan Puri Sari No.22, Antapani Kidul",-6.9186529,107.6573839,OPERATIONAL,5,5,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-"EDUDI ( Bimbingan Belajar, SMK Solutions, Pelatihan)","Jalan Randusari Timur, Antapani Kidul",-6.9282032,107.6608551,OPERATIONAL,5,28,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Chiya,Perum Bina Karya II Blok A No.76,-6.9288001,107.6617921,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Bimba Rainbow Kids-Antapani Kidul Bandung,"komplek Antapani mas, Blok A No.69, RT.03/RW.19, Antapani Kidul",-6.9293461,107.6626763,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Antapani,"Jalan Cicalengka 3 No.3, Antapani Kidul",-6.918220199999999,107.6550578,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Jalan Sukanagara No.60 Kel, Antapani Kidul",-6.921486499999999,107.6600573,OPERATIONAL,4.1,71,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Szava Cosmetic Bandung,"Jalan Sariwates Indah I, Antapani Kidul",-6.9231258,107.6555523,OPERATIONAL,3.9,11,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Alfamart,"Jalan Indramayu No.6, RT.001/RW.003, Antapani Kidul",-6.9181382,107.6574347,OPERATIONAL,3.2,37,"convenience_store, atm, supermarket, grocery_or_supermarket, store, finance, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomaret,"Jalan Kuningan Raya No.61, RT.01/RW.13, Kel, Central",-6.9169387,107.6620725,OPERATIONAL,3.9,46,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Putra,"3MF5+WP5, Jalan Randusari VII, Antapani Kidul",-6.9252437,107.6593709,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Fajar Jaya,"3MG6+6QW, Antapani Kidul",-6.924379299999999,107.6619554,OPERATIONAL,4.6,152,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Warung Ibu Tati Tribudiarti,"Jalan Randusari VII No.19, RT.002/RW.017, Antapani Kidul",-6.925731300000001,107.6601067,OPERATIONAL,3.5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Vegetables Store Blitar,"Jalan Blitar No.6, Antapani Kidul",-6.9192322,107.6593367,CLOSED_TEMPORARILY,4.9,18,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+WARBELL,"3MG7+JRV, Jalan Cibodas Raya, Antapani Tengah",-6.9233923,107.6645556,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown

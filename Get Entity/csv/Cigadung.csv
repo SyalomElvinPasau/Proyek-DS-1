@@ -1,3 +1,15 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-MTs Al Burhan,Indonesia,-6.881024999999999,107.627059,OPERATIONAL,4.6,24,"university, point_of_interest, establishment",,Unknown,Unknown
-Kost Residence 99 Bandung,"Jalan Terusan Cigadung Timur No.99, Sekeloa",-6.8853179,107.6252591,OPERATIONAL,4.9,11,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Warung teh Poppy (vika cell),"Cigadung Rt/Rw 03/05 no 80, Kelurahan, Cigadung",-6.8787348,107.6280441,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+toko banjar,"Jalan Cigadung Wetan No.16, Cigadung",-6.881404400000001,107.6277778,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Isur - Toko Abay,"Jalan Cigadung Raya Tengah No.40/11, Cigadung",-6.877936800000001,107.628991,OPERATIONAL,4.7,10,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Elok Minimarket,"Jalan Cigadung Raya Barat No.35, Cigadung",-6.8803291,107.6249071,OPERATIONAL,3.9,35,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Cigadung Frozen Food,"Jalan Cigadung Raya Tengah No.13, Cigadung",-6.882776299999999,107.629659,CLOSED_TEMPORARILY,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+"Cigadung Wetan, Rancakalong No 1","Jalan Cigadung Wetan No.1, Cigadung",-6.875985,107.6291888,OPERATIONAL,4.4,20,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+warung ibu wati,"Gang Cigadung Kaler II No.99, Cigadung",-6.8776241,107.623278,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Diva Mart,"Jalan Cigadung Selatan No.100 A, Cigadung",-6.885840399999999,107.6265883,OPERATIONAL,4.8,12,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Blue Racing Garage,"Jalan Cigadung Raya Timur No.90, Cigadung",-6.8862766,107.6303691,OPERATIONAL,4.9,11,"supermarket, grocery_or_supermarket, car_repair, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+UBi Cilembu si madu manis,"Jalan Sekemirung Kidul, Cigadung",-6.886825099999999,107.6308103,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung Anut,Cigadung,-6.8851432,107.6331676,OPERATIONAL,5,5,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko Ghifari,"4JHJ+24C, Cigadung",-6.8724412,107.6302716,OPERATIONAL,4.9,7,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko mona,"Jalan sekemirung kaler gang anggrek, Jalan Sekemirung Kidul kaler No.32, Cigadung",-6.8856402,107.6329966,OPERATIONAL,4.7,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+House52.bdg,"4J7M+95Q, Cigadung",-6.8865463,107.6330029,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown

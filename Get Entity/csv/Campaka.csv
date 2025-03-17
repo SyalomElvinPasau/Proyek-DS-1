@@ -1,1 +1,8 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Warung Mamah Uwil,"4H28+7M4, Campaka",-6.8993511,107.5667132,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Toko Shabira,"3HX9+J4H, Gang Babakan Hegar, Campaka",-6.9009376,107.5678461,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Alfamart - Kompleks SPBU Panghegar,"Kompleks SPBU Panghegar, Jalan Jendral Haji Amir Machmud No.60-62, Campaka",-6.9026516,107.5649983,OPERATIONAL,4,14,"convenience_store, supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Hoyong Untung Mbung Rugi,"4H48+3H8, Jalan Cempaka, Campaka",-6.8948386,107.5664653,OPERATIONAL,4.5,2,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,Unknown,Unknown
+Warung pa dayat,Jalan Babakan Cianjur gg. Rahayu 1 No.48,-6.894205,107.5656862,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,Unknown,Unknown
+Agen beras mahkota barokah,"Jalan Babakan Cianjur No.15, Campaka",-6.894168800000001,107.5656265,OPERATIONAL,4.6,12,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+UcaiMart,"Jalan Cempaka No.23, Campaka",-6.893710699999999,107.566282,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,Unknown,Unknown

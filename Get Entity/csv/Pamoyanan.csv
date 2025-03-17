@@ -1,10 +1,6 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Sekolah Tinggi Ilmu Keperawatan PPNI Jawa Barat,"Jalan Mahmud No.34, Pamoyanan",-6.9006033,107.5945613,OPERATIONAL,4.9,325,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-International Women University,"Jalan Pasir Kaliki No.179, Pamoyanan",-6.9015868,107.5972338,OPERATIONAL,4.5,425,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-LPP Ariyanti,"Jalan Pasir Kaliki No.127-133, Pamoyanan",-6.905111400000001,107.5972875,OPERATIONAL,4.7,116,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Blesing Room,"Jl. Dr. Djunjunan 143-149 Bandung Pajajaran Cicendo Bandung Jawa Barat, Pamoyanan",-6.9016723,107.5933898,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-MTs Swasta Darul Ma'arif,"Jalan Mahmud IV No.6, Pamoyanan",-6.9026565,107.596152,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Kursus Gitar Bandung,Jalan Ahmad 4,-6.900963000000001,107.595766,OPERATIONAL,3,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Fakultas Seni dan Desain IWU,"3HXW+9R7, Pamoyanan",-6.9015998,107.5970339,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
-Ariyanti Lembaga Pendidikan Luar Sekolah & Pusat Tutorial UT,"Jalan Pasir Kaliki No.127-129, Pamoyanan",-6.9051372,107.5973779,OPERATIONAL,4.6,26,"university, point_of_interest, establishment",,Unknown,Unknown
-Asm Ariyanti,"Jalan Pasir Kaliki No.127-131, Pasir Kaliki",-6.905181000000001,107.5973671,OPERATIONAL,4.9,22,"university, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Jalan Muhamad No.2B, RT.04/RW.06, Pajajaran",-6.901440000000001,107.59622,OPERATIONAL,3.8,18,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung mang asep,"Jln. Muhamad II Gang Muhammad II No.295, RT.007/RW.006, Pamoyanan",-6.901062500000001,107.5946021,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Sukasari 14,"Gang Sukasari No.14, Pamoyanan",-6.9053095,107.5950352,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Circle K Pasir Kaliki,"3HWW+FW8, Jalan Pasir Kaliki, Pamoyanan",-6.9038282,107.5973135,OPERATIONAL,3.3,70,"convenience_store, supermarket, liquor_store, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Hyfresh Istana Plaza Bandung,"Istana Plaza, Jalan Pasir Kaliki No.121-123, Pamoyanan",-6.9062676,107.5972268,OPERATIONAL,4,12,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

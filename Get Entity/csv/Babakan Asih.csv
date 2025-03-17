@@ -1,1 +1,7 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Tk Sabrina Aice,"3H9V+CX9, Babakan Asih",-6.931473399999999,107.5949722,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Tante Riska,"3H9W+J89, Gang Rh. Yusuf, Babakan Asih",-6.930974299999999,107.5958498,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Ouval&Ueen,"JL.KOPO GG.H.YUSUF2 RT10, RW01 No.21/198A",-6.930569699999999,107.5961095,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart - Kopo Asih,"Jalan Raya Kopo No.180, Babakan Asih",-6.9345005,107.5958531,OPERATIONAL,3.3,19,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung bu imas roswati,"3H9V+V7H, Gang Bojong Asih III, Babakan Asih",-6.930316400000001,107.5932367,OPERATIONAL,4.7,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Toko Bintang 88,"Jalan Raya Kopo No.210, Babakan Asih",-6.9357104,107.5954737,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown

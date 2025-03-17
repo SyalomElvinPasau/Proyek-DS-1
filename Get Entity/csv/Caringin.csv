@@ -1,2 +1,7 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-English Inside - Kursus & Les Privat B. Inggris di Bandung,"Jalan Bojong Raya No.55, Caringin",-6.927838,107.5693233,OPERATIONAL,5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Ilman muhamad kamal,"3H9C+VQP, Caringin",-6.930296100000001,107.5719663,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung Pintar Hafidzah,"Jl. Holis Gg. Abah, RT.3/RW.3, Kel, Caringin",-6.930994300000001,107.5726625,OPERATIONAL,1,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko amih,"Jalan Batukali No.39, Caringin",-6.9272695,107.5688213,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Gudang Kurma Aini,"Jalan Cibuntu Barat No.73, Caringin",-6.9242085,107.5721183,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Mainan Dan Aksesoris Jaipong AAN,"Jalan Cibuntu Barat No.RT 006/001, Caringin",-6.9243887,107.5735002,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Kain cigondewah,"Jalan Holis No.410, Caringin",-6.9385337,107.5691,OPERATIONAL,3.8,10,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

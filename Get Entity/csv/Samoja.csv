@@ -1,2 +1,5 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-STIA Bagasasi,"Jalan Cukang Jati No.5, Samoja",-6.924019400000001,107.629004,OPERATIONAL,4.1,125,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Pa Yanyan,"Jalan Samoja No.16, Samoja",-6.921463999999999,107.627512,OPERATIONAL,4.8,4,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung LUNA,"3JHH+95J, Samoja",-6.921549199999999,107.6278843,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Rify Choco,"3JHH+362, Samoja",-6.922350799999999,107.6280288,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+GARIS BETTA,"Jl. Laswi No.244, RW.11/RT.06, Samoja",-6.920112,107.6306909,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown

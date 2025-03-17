@@ -1,4 +1,8 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Cibadak,"3HHW+3GQ, Cibadak",-6.922289599999999,107.5963654,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Free Night School Chinese Language,"3HHX+F7R, Jalan Cibadak, Cibadak",-6.9212682,107.5981255,OPERATIONAL,3.5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-STT Kalam Mulia,"Gang Nyi Empok No.3, Cibadak",-6.921318899999999,107.5934078,OPERATIONAL,3.5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Jalan Cibadak Kel No.279, RT.01/RW.03, Cibadak",-6.920768100000001,107.5936398,OPERATIONAL,3.6,19,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+XI XUKI,"Jl. Pagarsih, Gg. Sereh No.77/9b, RT.7/RW.02, Cibadak",-6.922663900000001,107.5972774,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+TOKO RESIN FIBERGLASS 268,"Jalan Cibadak No.268, Cibadak",-6.920844499999999,107.5941135,OPERATIONAL,5,15,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Makmur Sandal Store,"Jalan Jend. Sudirman No.181, Cibadak",-6.920364,107.5979241,OPERATIONAL,4.1,80,"department_store, shopping_mall, shoe_store, supermarket, storage, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko mekar jaya,"Jalan Astana Anyar No.126, Cibadak",-6.925083099999999,107.5991145,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Circle K,"Jalan Jend. Sudirman No.281, Cibadak",-6.919765800000001,107.5944569,OPERATIONAL,3.9,40,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+molen mini,"Jalan Pasirkoja No.118, Nyengseret",-6.9266337,107.5981719,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

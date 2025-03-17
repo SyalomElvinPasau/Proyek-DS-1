@@ -1,4 +1,6 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-MK Record Studio,"Jalan Golf Selatan IⅤ No.3, Cisaranten Bina Harapan",-6.9164622,107.6862559,OPERATIONAL,4.4,89,"school, university, store, point_of_interest, establishment",,{'open_now': False},Unknown
-Bumi Berbakti College,"Jalan AH. Nasution No.51, RT.04/RW.01, Pasir Endah",-6.9102614,107.6896057,OPERATIONAL,4.9,11,"university, point_of_interest, establishment",,{'open_now': True},Unknown
-Lie Tulip,"Jl.Jendral Jl. A.H. Nasution No.198, Seberang Perumahan Taman Sari, Bukit Bandung",-6.905427500000001,107.6817387,OPERATIONAL,5,284,"beauty_salon, hair_care, university, health, point_of_interest, establishment",,{'open_now': False},Unknown
+CV.WINJAYA,"3MPP+24R, Cisaranten Bina Harapan",-6.9148948,107.6852575,CLOSED_TEMPORARILY,2,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+"Depot Air Minum ""Station Segar""","Jalan Cicukang No.78, Cisaranten Bina Harapan",-6.915070699999999,107.6847155,OPERATIONAL,5,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Crushlicious Sekayu,"Jalan Trs Pesantren No.102, Sukamiskin",-6.913010000000001,107.6817057,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung Ayumi Scorpio,"Jalan Golf Dalam, Cisaranten Bina Harapan",-6.914881599999999,107.6900977,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+TOKO TEH VERA,"3MRJ+C2X, Jalan Pasar Sindanglaya, Sukamiskin",-6.9088924,107.6801153,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown

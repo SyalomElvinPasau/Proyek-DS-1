@@ -1,8 +1,8 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-CK Education,"2JWG+2QM, Jalan Batununggal Indah Raya, Batununggal",-6.954924600000001,107.6269197,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-TKA-TPA Baiturrahman,"Jalan Batu Indah Raya No.37, Batununggal",-6.953165500000001,107.6336919,OPERATIONAL,3.3,3,"university, point_of_interest, establishment",,Unknown,Unknown
-South Asia Course Center,"2JWH+5M9, Jalan Batununggal Indah Raya, Batununggal",-6.9545849,107.6292424,OPERATIONAL,5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Sekolah Tinggi Farmasi Indonesia,"Jalan Soekarno-Hatta No.354, Batununggal",-6.949570599999999,107.6297478,OPERATIONAL,4.7,146,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Pascasarjana Polinema,"SOEKARNO HATTA, Jalan Soekarno-Hatta, Batununggal",-6.9486072,107.6332313,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Kelas Karyawan Univ. Faletehan Bandung,"Jalan Parakan Resik No.2, Batununggal",-6.9495872,107.6294264,OPERATIONAL,4,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Institut Digital Ekonomi LPKIA Bandung,"Jalan Soekarno-Hatta No.456, Batununggal",-6.9497258,107.6246344,OPERATIONAL,4.4,245,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomaret Batununggal,"Jalan Batununggal Indah IV No.17, Batununggal",-6.955377599999998,107.6287018,OPERATIONAL,3.7,42,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung tante yelin,"Jalan Parakan Ayu Raya No.7, Batununggal",-6.9511181,107.6322833,OPERATIONAL,4.2,5,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Alfamart Batununggal indah,"Jalan Batununggal Indah I No.14, Batununggal",-6.9549409,107.6270597,OPERATIONAL,4.5,26,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+osaka replexi,"2JWQ+M6Q, jalan 275buah batu, Batununggal",-6.9532847,107.6380951,OPERATIONAL,3.3,3,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Batununggal Cafe,"Jalan Batununggal Jalan Terusan Buah Batu No.1, Batununggal",-6.953712500000001,107.6384103,OPERATIONAL,4.8,4,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Intan asgar pangkas rambut,"Jalan Batununggal No.110, Batununggal",-6.954698400000001,107.638378,OPERATIONAL,3,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+TOKO FAMILY GRUP,"Jalan Batununggal No.67 A, Batununggal",-6.956930499999999,107.6375405,OPERATIONAL,4.8,5,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown

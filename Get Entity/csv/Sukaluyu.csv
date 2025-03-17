@@ -1,11 +1,7 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Winaya Mukti University,"Jalan Pahlawan No.69, Sukaluyu",-6.8957595,107.6342641,OPERATIONAL,4.3,49,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Universitas Sangga Buana,"Jalan Khp Hasan Mustopa No.68, Sukaluyu",-6.898105099999999,107.6320104,OPERATIONAL,4.3,41,"university, point_of_interest, establishment",,Unknown,Unknown
-LP3I Polytechnic Bandung,"Jalan Pahlawan No.59, Sukaluyu",-6.896771999999999,107.634258,OPERATIONAL,4.6,245,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Politeknik Lp3i Bandung,"Jalan Rereng Adumanis No.33, Cikutra",-6.894821899999999,107.6310096,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
-KAMPUNG INGGRIS BANDUNG - KEC,"4J2J+H8M, Gang Perumnas Sukaluyu I, Sukaluyu",-6.898536200000001,107.6307961,OPERATIONAL,4.3,24,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-OTC BALI YPKP BANDUNG,"Jalan Surapati No.189, Sukaluyu",-6.898140700000001,107.631844,OPERATIONAL,5,9,"university, travel_agency, school, point_of_interest, establishment",,{'open_now': False},Unknown
-Gedung Ad Dawah,"Jalan Batik Halus No.25, Sukaluyu",-6.8933232,107.6287249,OPERATIONAL,4.7,62,"university, point_of_interest, establishment",,Unknown,Unknown
-PENANGKARAN BARUDAK,"Jalan Pahlawan No.67, RW.12, Sukaluyu",-6.895731699999999,107.6340688,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
-Fakultas Kehutanan,"4J3M+PM9, Sukaluyu",-6.895717599999999,107.6342487,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Fakultas Teknik Unwim,"Jalan Pahlawan No.69, Sukaluyu",-6.8957451,107.6343171,OPERATIONAL,4.6,9,"university, point_of_interest, establishment",,Unknown,Unknown
+Indomaret Jalaprang,"Jalan Jalaprang No.36, Sukaluyu",-6.896562800000001,107.6309786,OPERATIONAL,4,42,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Alfamart Surapati Baru,"Jalan Surapati No.131, Sukaluyu",-6.8991829,107.6269579,OPERATIONAL,3.8,18,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko 55 (AHS 55),"Jalan Rereng Adumanis No.11, Sukaluyu",-6.8953978,107.6313103,OPERATIONAL,4.4,5,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Suradi,"Jalan Batik Jonas No.16, Sukaluyu",-6.894960299999999,107.6329154,OPERATIONAL,4.8,8,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Cantik Mini Market,"Jalan Cibeunying Landeuh No.61, RT.06/RW.04, Sukaluyu",-6.898632099999999,107.6271048,OPERATIONAL,4.5,150,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko Bumbu Uni EMA,"Pasar Cihaurgeulis, k9, Cihaur Geulis",-6.899423599999999,107.6274133,OPERATIONAL,5,8,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

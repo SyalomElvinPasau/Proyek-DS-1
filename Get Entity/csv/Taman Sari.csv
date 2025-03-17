@@ -1,18 +1,11 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Bandung Institute of Technology Rectorate,"Jalan Tamansari No.64, Tamansari",-6.8988318,107.6100192,OPERATIONAL,4.5,119,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Akpari,"Jalan Hariangbanga No.5, Tamansari",-6.9023642,107.6089387,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Prodi Teknik Pertambangan Unisba,"Jalan Tamansari No.1, Tamansari",-6.9033757,107.6076923,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Fakultas Dakwah Unisba,"Jalan Tamansari No.1, Tamansari",-6.9034035,107.6076528,OPERATIONAL,4.8,6,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Bandung Islamic University,"Jalan Tamansari No.1, Tamansari",-6.903590299999999,107.6078372,OPERATIONAL,4.7,716,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
-Faculty Of Medicine Bandung Islamic University,"Jalan Tamansari No.20, Tamansari",-6.903312499999999,107.6087914,OPERATIONAL,4.4,303,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Kantor Jurnal MIMBAR (Sosial dan Pembangunan),"Jalan Tamansari No.20, Tamansari",-6.9035339,107.6086157,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
-Rektorat Universitas Islam Bandung,"Jalan Tamansari No.20, Tamansari",-6.903564299999998,107.6086509,OPERATIONAL,4.8,6,"university, point_of_interest, establishment",,Unknown,Unknown
-Sekretariat Pascasarjana UNISBA,"Jalan Purnawarman No.59, Tamansari",-6.9032111,107.6092819,OPERATIONAL,4.9,47,"university, point_of_interest, establishment",,Unknown,Unknown
-UPT Promosi FE Unpas,"Jalan Tamansari No.6-8, Tamansari",-6.904634199999999,107.608258,OPERATIONAL,4.4,49,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Pasundan University,Jalan Tamansari No.6-8,-6.905365999999998,107.6081044,OPERATIONAL,4.6,439,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-CCAR Building ITB,"Jalan Tamansari No.64, Tamansari",-6.8987932,107.6101937,OPERATIONAL,4.5,12,"university, point_of_interest, establishment",,{'open_now': True},Unknown
-Sekolah Tinggi Desain Indonesia,"3JW3+9R5, Jalan Wastukencana No.52, Tamansari",-6.903943700000001,107.604651,OPERATIONAL,4.6,68,"university, point_of_interest, establishment",,Unknown,Unknown
-Kost Luna,"Jalan Tamansari Bawah No.83/59, RT.08/RW.20, Tamansari",-6.901746599999999,107.607351,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Kost-an Asterina,"Jalan Tamansari Bawah Gang Aster No.99/59, RT.06/RW.20, Tamansari",-6.9024457,107.6066363,OPERATIONAL,Unknown,Unknown,"university, lodging, point_of_interest, establishment",,Unknown,Unknown
-Rumah Kos Puteri Bumi Atikan I,"Jalan Tamansari Atas, Gang Karya Laksana No.21, RT.01/RW.14, Tamansari",-6.9027496,107.6070998,OPERATIONAL,5,6,"university, point_of_interest, establishment",,Unknown,Unknown
-Fakultas Hukum Unisba,"Jalan Tamansari No.24, Tamansari",-6.902327699999999,107.6083537,OPERATIONAL,5,4,"university, point_of_interest, establishment",,Unknown,Unknown
+Indomaret Point Taman Sari 16,"Jalan Tamansari No.16, RT.02/RW.03, Tamansari",-6.903959299999999,107.6084195,OPERATIONAL,3.9,78,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomaret Cihampelas 70,"Jalan Cihampelas No.70, Tamansari",-6.9015033,107.6043875,OPERATIONAL,3.5,35,"convenience_store, atm, supermarket, finance, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Indomaret - Cihampelas 122,"Jalan Cihampelas No.122, Tamansari",-6.8974002,107.6041444,OPERATIONAL,2.8,22,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Ibu Imas,"Jalan Linggawastu No.269/25, Tamansari",-6.900359399999999,107.6064933,OPERATIONAL,4.3,6,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+PANGKALAN GOJEK HDDR,"4J25+H9G, Tamansari",-6.898552700000001,107.6084443,OPERATIONAL,4,3,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Warung BAGUS,"Jalan Kebon Bibit Barat No.15, Tamansari",-6.8975041,107.6053967,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Toko Cipaganti,"3JX3+M2P, Jalan Cipaganti, Tamansari",-6.900778,107.602581,OPERATIONAL,4.9,8,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung ANUGERAH 01,"4J33+2XV, Tamansari",-6.8973892,107.6049188,OPERATIONAL,5,7,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Warung Ba Is,"3JV4+HF3, Gang Nangkasuni, Tamansari",-6.906121600000001,107.6061737,OPERATIONAL,4.8,4,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Warung Pak Ading,"4J34+G2X, Tamansari",-6.896177,107.6052152,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

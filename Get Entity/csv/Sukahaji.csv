@@ -1,3 +1,7 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Akademi Pariwisata Bandung,"Jalan Situ No.16, Sukahaji",-6.9209038,107.5821426,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-MTsS Daarur Rahmah,"Jalan Jend. Sudirman No.545, Sukahaji",-6.9190808,107.5857071,OPERATIONAL,4,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Stokis Rokok Herbal SIN AAJ Sinergi,"Gang KH Ishak Wijaya, Sukahaji",-6.925552499999999,107.5847175,CLOSED_TEMPORARILY,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Rumah Zidan,"Sukahaji, Babakan Ciparay, Kota Bandung,rt7 rw1, Sukahaji",-6.9247038,107.5834965,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Premen,"area, Jalan Terusan Pasirkoja, Sukahaji",-6.927784999999999,107.5852938,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+AL Zadda,"Jalan Terusan Pasirkoja Gang Satata Sariksa, Sukahaji",-6.929147599999999,107.5829848,OPERATIONAL,5,30,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Tasya,"3HCM+87M, Gang Satata Sariksa, Sukahaji",-6.929163,107.5831791,OPERATIONAL,5,5,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung tante Vera,"Jalan Babakan Sawah No.156, Sukahaji",-6.930495099999999,107.5818279,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown

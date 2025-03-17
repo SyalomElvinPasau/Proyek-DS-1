@@ -1,4 +1,7 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Sekolah Tinggi Ilmu Kesehatan Immanuel Bandung,"Jalan Raya Kopo No.161, Situsaeur",-6.937022699999999,107.5962781,OPERATIONAL,4.8,225,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-STMIK Mardira Indonesia,"Jalan Soekarno-Hatta Jalan Leuwi Panjang No.211, Situsaeur",-6.9467364,107.5938228,OPERATIONAL,4.5,125,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-STIKI2,"Jalan Raya Kopo No.163-167, Babakan Asih",-6.9363353,107.5955108,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Alfamart Leuwi Panjang,"Jalan Leuwi Panjang No.148, Situsaeur",-6.9455506,107.5951971,OPERATIONAL,4.2,435,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Pak Encep,Gang Kebon Kalapa No.22,-6.9400553,107.5962031,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Vin Cell,Indonesia,-6.9403808,107.5965357,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+K Frozen Food,"3H6W+9CR, Gang Bakti II, Situsaeur",-6.9390157,107.5960293,OPERATIONAL,4.5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+Warung wa nani,"Gang Leuwi Mukti No.22, Situsaeur",-6.939805300000001,107.5971303,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Havika fashion,"Komplek, Jalan Leuwianyar Raya No.97, Situsaeur",-6.9425515,107.5943812,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown

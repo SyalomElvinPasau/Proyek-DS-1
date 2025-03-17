@@ -1,5 +1,5 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Politeknik Kridatama Bandung,"JL. Terusan Borobudur, No. 1-4, Bandung, Cibaduyut Kidul",-6.958463,107.5913767,OPERATIONAL,4.7,12,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Universitas Mandiri,"Jalan Borobudur No.1-4, Cibaduyut Kidul",-6.9582346,107.5911039,OPERATIONAL,5,42,"university, point_of_interest, establishment",,Unknown,Unknown
-Sekolah Tinggi Ilmu Ekonomi Kridatama Bandung,"Jalan Borobudur No.1-4, Cibaduyut Kidul",-6.9582254,107.5911519,OPERATIONAL,4.4,41,"university, point_of_interest, establishment",,Unknown,Unknown
-Sekolah Lanjutan Tingkat Pertama Negeri (SLTPN) 38,"Jalan Borobudur No.29, Cibaduyut Kidul",-6.9575242,107.5907736,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+TOKO SINAGA SISTER,"2HQR+Q43, Cibaduyut Kidul",-6.9606189,107.5902899,OPERATIONAL,4,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+HAYANGCUPANG,"Gang Babakan TVRI II, Cibaduyut Kidul",-6.960641600000001,107.5930826,OPERATIONAL,5,5,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Metozsacollection,"Gang Babakan TVRI II No.10b, Cibaduyut Kidul",-6.9604668,107.5931728,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+warung alfatih/ibu yeni,"2HVQ+G6P, Gang Cirangrang Timur, Cirangrang",-6.956157200000001,107.588063,OPERATIONAL,4.7,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown

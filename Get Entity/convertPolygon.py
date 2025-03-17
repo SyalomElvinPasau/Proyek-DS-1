@@ -32,7 +32,7 @@ for kelurahan_data in geojson_data["features"]:
     places_result = gmaps.places_nearby(
         location=(centroid.y, centroid.x),
         radius=SEARCH_RADIUS,
-        type="university"
+        type="supermarket"
     )
 
     filtered_places = []
@@ -58,7 +58,7 @@ for kelurahan_data in geojson_data["features"]:
 
     # Simpan hasil dalam file CSV
     csv_filename = os.path.join(CSV_FOLDER, f"{kelurahan_name}.csv")
-    with open(csv_filename, "w", newline="", encoding="utf-8") as csvfile:
+    with open(csv_filename, "w", newline="") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=["name", "address", "lat", "lng", "business_status", "rating", "user_ratings_total", "types", "price_level", "opening_hours", "secondary_opening_hours"])
         writer.writeheader()
         writer.writerows(filtered_places)

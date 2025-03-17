@@ -1,6 +1,14 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Sekolah tinggi bhakti asih cimenyan,"4H57+27M, Jalan Gunung Batu No.203, Sukaraja",-6.892395100000001,107.5631129,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Asrama,"4H5C+V3G, Jalan Mentor, Sukaraja",-6.8903175,107.5702148,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Universitas Nasional PASIM Bandung,"Jalan Dakota No.8A, Sukaraja",-6.894630999999999,107.5714667,OPERATIONAL,4.5,185,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-MTsS Al Hasan,"Jalan Sukaraja No.42 E, Sukaraja",-6.8926563,107.5726028,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Amanah Jadid Cendekia,"Gang Bunisugih Jalan Raya Cibabat No.254, RT.07/RW.15, Sukaraja",-6.8886645,107.5581755,OPERATIONAL,5,13,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomaret - Gunung Batu 15,"4H46+89V, Jalan Gunung Batu, Sukaraja",-6.894135800000001,107.5609111,OPERATIONAL,3.5,64,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Budi No.07, RT.001/RW.04, Sukaraja",-6.8917644,107.5583746,OPERATIONAL,4,35,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung pa rt dayat,"Jalan Babakan Cianjur No.47, RT.11/RW.02, Sukaraja",-6.8926541,107.5645265,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Jl. Gunung Batu No. 203 Apartement Gateaway Tower Ruby Blok B Gf15-Ef01, Sukaraja",-6.8893829,107.5659515,OPERATIONAL,4.6,9,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Bu Iis,"Gg. Cikahuripan, Sukaraja",-6.8937537,107.5634169,OPERATIONAL,4.8,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Olantmart,"Jalan Gunung Batu Gang Sukaasih No.99, RT.02/RW.09, Sukaraja",-6.891638200000001,107.5618131,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Borma Toserba Dakota,"Jalan Dakota No.109, Sukaraja",-6.8910747,107.5721001,OPERATIONAL,4.4,8695,"supermarket, shopping_mall, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Gunung Batu No.26, RT.06/RW.01, Sukaraja",-6.8941897,107.5608699,OPERATIONAL,4.1,18,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Melsan,"Jalan Mentor 1 B No.13, Sukaraja",-6.894880599999999,107.5710494,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung fadil,"4H36+JMV, Sukaraja",-6.8958812,107.5616822,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Norma,"Jalan Dakota No.109, Sukaraja",-6.892929000000001,107.5719485,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung Bapak Uju,"1 No 110 Rt/Rw 03/10, Jalan Raden Ganda, Sukaraja",-6.8921955,107.5599823,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Agen Galon Le Minerale - Water YL,"Jalan Budi No.81, Sukaraja",-6.888999,107.560701,OPERATIONAL,2,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

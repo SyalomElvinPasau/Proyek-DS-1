@@ -1,3 +1,8 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Akper Parahiangan,"Jalan Garuda No.74, Garuda",-6.9112824,107.5779736,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-LP3I,"Jalan Garuda No.89, Dungus Cariang",-6.9109726,107.5781891,OPERATIONAL,4.3,3,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Yomart Garuda,"Jalan Garuda No No.108N, Garuda",-6.908357400000001,107.5786223,OPERATIONAL,4,105,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+KIOS HIJAU,"Jalan Dadali, Garuda",-6.9118596,107.5777976,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Super Indo Rajawali,"Jalan Rajawali Barat No.65-75, Garuda",-6.91345,107.575367,OPERATIONAL,4.3,2457,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+AISHA COVER (Body Cover Mobil & Motor),"01, Jalan Garuda No.44, Garuda",-6.9138321,107.5773951,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Kacamata,"Jalan Tundungsari No.1, RT.05/RW.03, Garuda",-6.908546599999999,107.5761886,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung mang oleh,"Jalan Tundungsari No.38, Garuda",-6.9080999,107.5751797,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Adit Conditioner,"Gang Bakti 1 No.344, Garuda",-6.907949199999999,107.5770002,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

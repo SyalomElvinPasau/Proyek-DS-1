@@ -1,1 +1,7 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+toko BKM,"2MV4+6QP, Bandung, Margasari",-6.9568498,107.6569471,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+SUSU MURAH,"Jalan Ciwastra No.139, Cijaura",-6.955626,107.6548877,OPERATIONAL,4.6,80,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Tk Nisa,"2MV5+7F3, Margasari",-6.9568707,107.6586733,OPERATIONAL,4.5,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+"Jln pluto raya, margahayu raya, (marga cinta)","Jalan Pluto Raya No.48-32, Margasari",-6.9569719,107.6620151,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+TOSERBA GRIYA,"Jalan Pluto Utara No.1, Margasari",-6.9550459,107.6627874,OPERATIONAL,4.4,851,"supermarket, atm, finance, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Pakdhe,Jalan Margaluyu Barat RT.02/RW.08,-6.952468399999999,107.6516211,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

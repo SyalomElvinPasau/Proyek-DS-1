@@ -1,2 +1,8 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Pusat Pelatihan Manajerail Pt. Kai,"No., Jalan Laswi No.58, Kacapiring",-6.919490199999999,107.6309417,OPERATIONAL,3,1,"university, point_of_interest, establishment",,Unknown,Unknown
+BJ Home Supermarket Bangunan - Bandung,"Plaza Ibcc, Jalan A. Yani Blok E1, Kacapiring",-6.9157047,107.6331035,OPERATIONAL,4.5,1074,"shopping_mall, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+THTLstore,"3JJM+WVH, Gang Murai, Kacapiring",-6.917686700000001,107.6347376,OPERATIONAL,3,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Sinar jaya,"Jalan Sukabumi Dalam No.7, Kacapiring",-6.9177516,107.6363135,OPERATIONAL,4.7,30,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Warung Novi,"Gg. PansJalan Jalan Jakarta Dalam V No.59, Kacapiring",-6.9169761,107.6370954,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Jalan Laswi Kel No.56, RT.04/RW.04, Kacapiring",-6.919464700000001,107.6309684,OPERATIONAL,4.1,21,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Juwita Supermarket,"JL Jakarta, Komplek Kota Kembang Permai Kav 4/20-22, Kacapiring",-6.914359200000001,107.6358567,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Jiro,"Jalan Cikudapateuh Dalam No.20, Kacapiring",-6.9185123,107.6282233,OPERATIONAL,4.9,8,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

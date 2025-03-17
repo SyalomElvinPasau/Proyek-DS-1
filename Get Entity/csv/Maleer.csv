@@ -1,3 +1,13 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Polytechnic Piksi Ganesha,"Jalan Gatot Subroto No.301, Maleer",-6.9283452,107.6377337,OPERATIONAL,3.8,563,"university, point_of_interest, establishment",,Unknown,Unknown
-Fakultas Ekonomi Politeknik Piksi Ganesha,"3JCQ+G8M, Maleer",-6.928660100000001,107.6383057,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Toserba Yogya Gatot Subroto,"Jalan Gatot Subroto No.299, Maleer",-6.9282678,107.637501,OPERATIONAL,4.5,2462,"department_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomaret Maleer,"Jalan Maleer I No.78, Maleer",-6.9280547,107.6371178,OPERATIONAL,3.2,10,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko amalia,"Jalan Maleer Indah II No.42, Maleer",-6.9268968,107.6396049,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Pa Iri,"Jalan Kebon Gedang III No.97/119, RT.2/RW.12",-6.926136400000001,107.6391602,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Restu Rizqi,"Gang Kebon Gedang 1 No.24, Maleer",-6.925816200000001,107.6414216,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Adink family,Jalan Maleer V RT.02/RW.01,-6.9296195,107.6398467,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+ivan rental,"3JGQ+534, Maleer",-6.924601599999998,107.6377038,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Abs kelos,"Jalan Jembatan Opat Gang absari No.72, RT.04/RW.06, Maleer",-6.9230361,107.639618,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Sembako Murah Sembaqo Mart,"Jl. Kb. Gedang No. 107, Meleer, Kec. Batununggal, Kota Bandung, Jawa barat 40274",-6.930073500000001,107.6416832,OPERATIONAL,5,9,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung ibu wati,"Jalan Cibangkong Lor, Cibangkong",-6.9227325,107.6381518,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+WARung heJO,"Jalan Jembatan Opat, Maleer",-6.922325700000001,107.6387075,OPERATIONAL,4.4,8,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+assyfa jok motor,"Gang Binong Kulon VI, Jatisari",-6.9310896,107.6414769,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

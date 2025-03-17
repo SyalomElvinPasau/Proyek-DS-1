@@ -1,2 +1,6 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Politeknik Manufaktur Igasa Pindad,"Jalan Kiara Condong No.206, Binong",-6.9285139,107.6440648,OPERATIONAL,3,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Toko Bu hj Lili,Gang Cipicung I No.Rt 005/02,-6.9278662,107.6439749,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+warung Leor,"3JFR+XF8, Kebon Gedang",-6.925089499999999,107.6412028,OPERATIONAL,5,7,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Warung XO,"Gang Mama Lurah, Kebon Gedang",-6.9247759,107.6413576,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung RT Muhyidin/Mae,"Belakang kost pelangi, Jl kiaracondong barat Rt.005 Rw.007 Kel, Kebon Gedang",-6.9248937,107.6410634,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Beras bu Teti,"Jalan Kiaracondong Barat No.41/126D, Kebon Gedang",-6.9235251,107.6404313,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

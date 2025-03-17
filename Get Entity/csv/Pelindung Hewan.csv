@@ -1,2 +1,12 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Akademik Teknologi Bandung,"Jalan BKR No.176, Pelindung Hewan",-6.9372497,107.6025289,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Arofah,"Kompleks Jati Permai, Jalan Inhoftank No.46, Pelindung Hewan",-6.940651099999999,107.6031264,OPERATIONAL,3.3,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Dua R Sen Store,"3J63+66Q, Gang Perikanan 2, Pelindung Hewan",-6.9394114,107.6031168,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko a cecep,"3J63+GC8, Pelindung Hewan",-6.9387095,107.6035692,OPERATIONAL,4.8,24,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko Barokah,"Jalan Inhoftank No.1, RT.2/RW.7, Pelindung Hewan",-6.938008000000001,107.6030458,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+SRC TOKO PH 7,"Jalan Pelindung Hewan No.8, Pelindung Hewan",-6.940666299999999,107.606285,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Tk. Mitra Jaya,"Jalan Pelindung Hewan No.20, Pelindung Hewan",-6.9370275,107.6018886,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Jp fresh & shop,"Jalan Karasak Lama dlm 3 No.10, Pelindung Hewan",-6.943035,107.6047066,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Goreng Tempe Sawargi 62,"Jalan Inhoftank No.76, Pelindung Hewan",-6.943540500000001,107.6027936,OPERATIONAL,4.3,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+"Warung Seblak Rayyan, Astana Anyar","Gang Tebar 1 No.74/95, RT.001/RW.003, Pelindung Hewan",-6.9358109,107.602573,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Orin Toko Sablon DTF,"no 164, Jalan Peta Gang Jamhari No.95, Pelindung Hewan",-6.9362515,107.6010777,OPERATIONAL,4.3,15,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Auravikafood,"Jalan Haji Kurdi 1 gang babakan raksa No.selatan, Pelindung Hewan",-6.9451337,107.6036415,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

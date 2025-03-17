@@ -1,3 +1,12 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Arzanka Edu Centre,Jalan Mirabilis VII Ujung No.31,-6.931858099999999,107.5531241,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
-Mesjid Roudhotul Hasanah,"Jalan Rengas, Gempolsari",-6.928875499999999,107.5494012,OPERATIONAL,4.7,21,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Alfamart,"Jalan Gempol Sari No.275 Ds, RT.02/RW.03, Gempolsari",-6.929864599999999,107.5580809,OPERATIONAL,3.4,27,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Agen galon le minerale - karya abadi,"3H92+7QX, Gempolsari",-6.931762199999999,107.551995,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Supermarket tanaman bandung,"Jalan Alamanda VII No.13, Gempolsari",-6.930151899999999,107.5549638,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+warung bro,"3H94+Q49, Gempolsari",-6.9305778,107.5553597,OPERATIONAL,4.8,6,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung Bimo,Gempolsari,-6.930102600000001,107.5556035,OPERATIONAL,4.2,14,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+Mitra Aice Iis Gempol Sari,"3H94+5GM, Gempolsari",-6.932037999999999,107.5562978,OPERATIONAL,4.3,4,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung Asep Onong,"No.91, Gang Saluyu No.Rt 03 07, Gempolsari",-6.930450499999999,107.5565759,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung pak Arifin,"Jalan Rengas No.35 RT 05/06, Gempolsari",-6.9314642,107.549417,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Toko Asian Baka,"Jl. Reungas, Gg. H. Gozali 1 Jalan Gempol Sari No.78, Gempolsari",-6.9308643,107.5493959,OPERATIONAL,4.3,3,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung mba parmi,"Jl. Reungas (lewat, Jalan Dirgantara Raya No.038, Gempolsari",-6.931735,107.549126,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Toko Zulfan,"3H73+6JJ, Jalan Cendana IV, Gempolsari",-6.9369006,107.5540215,OPERATIONAL,4.7,18,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown

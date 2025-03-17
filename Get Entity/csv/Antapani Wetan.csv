@@ -1,1 +1,8 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Warung Bu Uneng,"Samping Masjid Riyadlul Muttaqin, Jalan Sindang Sari III No.02, RT.03/RW.09, Antapani Wetan",-6.910169499999999,107.6637156,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Immanuel Alvaro's Market,"3MR7+R9P, Jalan Sindang Sari III, Antapani Wetan",-6.907903300000001,107.6634404,OPERATIONAL,4.8,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+TOKO BERAS SINURAT,"Jalan Sindangsari II Indah No.43B, Antapani Wetan",-6.906917300000001,107.6641317,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+TOKO BERAS BAROKAH,"Jalan Sindang Sari I No.35A, Antapani Wetan",-6.906686499999998,107.6646243,OPERATIONAL,1,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Bp.Ise,"3MR8+RHR, Antapani Wetan",-6.9078933,107.666385,OPERATIONAL,1,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Agen Galon Le Minerale - Cahaya Anugrah,"3MP6+9RJ, Jalan Terusan Jakarta, Antapani Wetan",-6.914020499999999,107.6620533,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+warung anisa,"3MV5+MJW, Gang Karamat II, Cicaheum",-6.9057584,107.6590805,OPERATIONAL,5,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

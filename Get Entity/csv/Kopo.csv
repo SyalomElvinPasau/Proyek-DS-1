@@ -1,3 +1,15 @@
 name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
-Sekolah Menengah Pertama (SMP) Karya Pembangunan Margahayu,"JL Terusan Kopo, No. 399, 40229, Kopo",-6.944043,107.590634,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
-Sekolah Menengah Pertama (SMP) Mathlaul Anwar,"JL Terusan Kopo, No. 302, 40226, Kopo",-6.944212500000001,107.590494,OPERATIONAL,4.8,6,"university, point_of_interest, establishment",,Unknown,Unknown
+Cetarip Kidul Dalam 1,"3H5Q+CFP, Jalan Citarip Kidul Dalam I, Kopo",-6.941617299999999,107.5882872,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung Bu Imas,"3H5P+HM7, Jalan Soekarno Hatta Gang Pusri, Kopo",-6.941094400000001,107.5866816,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung mamah alfin,"3H4Q+W27, Jalan Raya Kopo Gang Lapang 4, Kopo",-6.942705499999999,107.5875401,OPERATIONAL,4.6,5,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Chen - Chen Bakery,"Gang Babakan Rahayu, Kopo",-6.9418586,107.5891316,OPERATIONAL,5,10,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Toko aeroDaily,"Jalan Citarip Tengah I No.5 No.4, Kopo",-6.9398913,107.5890194,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Neng Siti,"gg bbk rahayu kel No.35 blok f, RT.04/RW.06, Kopo",-6.942568799999999,107.5894275,OPERATIONAL,5,7,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Rizki Bersama,"Jalan Cetarip Barat No.25, Kopo",-6.939744799999999,107.5897723,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung bapa Mastur,"3H5R+642, Unnamed Road, Kopo",-6.9419947,107.5902747,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Toko Pinky,Jalan Babakan Ciparay gg atakiria 1 No.33,-6.9423268,107.5846665,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Toko Anugerah Bukhori,"Jalan Madesa No.9, Kopo",-6.938568,107.585457,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Toko Mang Enoh,"3H6M+3J2, Gang Pa Abid, Kopo",-6.939873299999999,107.5840147,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung bu enok,"Gang H.Abdul rajak no.263 Rt.02/02 Kel, Kopo",-6.944415900000002,107.5851252,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Indomarco Prismatama. PT,"Jalan Raya Kopo No.168, Kopo",-6.9425078,107.591521,OPERATIONAL,4.6,11,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+SIMANTEL,"Jalan Babakan Ciparay No.203, Babakan Ciparay",-6.938044099999999,107.5831325,OPERATIONAL,4.5,8,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
