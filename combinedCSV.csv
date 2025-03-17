@@ -1,0 +1,415 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total,Kelurahan
+Klinik Utama Restu Bunda,"Jalan Holis No.234, Caringin",-6.927385699999999,107.5740068,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.3,121,Caringin
+Posyandu Tulip 2,"Jalan Samoja No.8d, Samoja",-6.9216537,107.625882,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Samoja
+Tusuk Raga,"3JGG+J9J, Samoja",-6.9234101,107.6258784,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Samoja
+Melinda Beauty & Baby Care (Melby Care),"Jalan Pajajaran, Pajajaran, Cicendo, Melinda Hospital 1 Lantai M Jl. Pajajaran no 46 Bandung, Pasir Kaliki",-6.906924299999998,107.6031359,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasirkaliki
+RSIA Melinda,"3JV3+68F, Jalan Pajajaran No.46, Pasir Kaliki",-6.9069686,107.6032797,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,232,Pasirkaliki
+Rumah Sakit Melinda 2,"Jalan Doktor Cipto No.1, Pasir Kaliki",-6.9063167,107.5983705,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.8,1360,Pasirkaliki
+Perhimpunan Rumah Sakit Seluruh Indonesia (PERSI) Wilayah Jawa Barat,"RS Dr Hasan Sadikin Jalan Pasteur No.38, Pasir Kaliki",-6.9005236,107.6007707,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Pasirkaliki
+dr. Riadi di Melinda Hospital,"Jalan Pajajaran No.46, Pasir Kaliki",-6.906572,107.59979,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasirkaliki
+Praktek Dokter Susan Melinda,"Jalan Pajajaran No.46, Pasir Kaliki",-6.906572,107.59979,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Pasirkaliki
+Melinda Cardio Vascular Center,Jalan Doktor Cipto No.11,-6.905150600000001,107.6006522,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.7,42,Pasirkaliki
+Melinda Sport Clinic,"Jalan Doktor Cipto No.1, Pasir Kaliki",-6.906385799999999,107.5982976,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasirkaliki
+Morula IVF Melinda Bandung,"Jalan Doktor Cipto, Pasir Kaliki",-6.906232999999999,107.5983274,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,104,Pasirkaliki
+Melinda Child Development Center,"Jalan Doktor Cipto No.1, Pasir Kaliki",-6.906342800000001,107.5982255,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasirkaliki
+Gd. Kemuning RSHS,"3HVX+962, Jalan Pasir Kaliki, Pasir Kaliki",-6.906602899999999,107.5980013,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.4,5,Pasirkaliki
+Klinik Mata Dr Soediro,"Jalan Nyland No.2, Pasir Kaliki",-6.9036883,107.6016261,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,21,Pasirkaliki
+Sri Rahayu Skd Rr Drg,"Jalan Kebon Kawung No.43, Pasir Kaliki",-6.912597300000001,107.6012111,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasirkaliki
+Klinik Mediska Kebon Kawung,"Jalan Kebon Kawung, Pasir Kaliki",-6.9127683,107.6019826,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.3,33,Pasirkaliki
+Bidan Wulan Maternity Clinic,"Jalan Inhoftank No.120, Kebon Lega",-6.946816499999999,107.6022486,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.9,7,Kebon Lega
+Rumah Bersalin Ibu Ida. S,"Jalan Cibaduyut Lama No.78, Kebon Lega",-6.948130799999999,107.5925509,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1,Kebon Lega
+Klinik Permata Bunda,"Jalan Cibaduyut Lama No.76, Kebon Lega",-6.948139800000001,107.5924386,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Kebon Lega
+Posyandu Cemara II Rw. 07,"Jalan Cibaduyut Lama No.07, Kebon Lega",-6.9482905,107.5908453,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Lega
+Rumah Sakit Angkatan Udara (RSAU) dr. M. Salamun,"Jalan Ciumbuleuit No.203, Ciumbuleuit",-6.863781000000001,107.605075,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.5,2643,Ciumbuleuit
+Parkiran teduh salamun,"4JP3+GXF, Ciumbuleuit",-6.863678399999999,107.6049149,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Ciumbuleuit
+RS Salamun Paviliun Firdaus,"Jalan Panumbang Jaya No.22, Ciumbuleuit",-6.8647958,107.6050409,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3,Ciumbuleuit
+Puskesmas Dadali Ciumbuleuit,"4JM4+P67, Ciumbuleuit",-6.8657144,107.6055415,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.5,4,Ciumbuleuit
+Paviliun Firdaus Buana 9,"Jalan Ciumbuleuit No.203, Ciumbuleuit",-6.8647322,107.6049632,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Ciumbuleuit
+Rachmawati Noverina DRH,"JL. Mars Selatan 5, No. 3, Margahayu Raya, Bandung, Manjahlega",-6.948201,107.664969,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Manjahlega
+Klinik Khitan,Manjahlega,-6.949248899999999,107.665927,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,2,Manjahlega
+Fisioterapi RS Al Islam Bandung,"3M59+R7G, Manjahlega",-6.9404314,107.6682079,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,1,Manjahlega
+Al Islam Hospital,"Jalan Soekarno-Hatta No.644, Manjahlega",-6.9390073,107.6691759,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,2023,Manjahlega
+"Irma Sukmawati Indrawan, DRG","JL. Merkuri Raya, No. 76, Margasari, Margacinta, Bandung, Manjahlega",-6.946124999999999,107.668099,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Manjahlega
+Pavilium Parahyangan,"Jalan Venus Timur IX No.10, Manjahlega",-6.9412411,107.6687503,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Manjahlega
+Klinik Tumbuh Kembang Anak Al Islam,"Jl. Venus, Jalan Aria Timur III No.7, Manjahlega",-6.940471000000001,107.668157,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3,Manjahlega
+RS Humana Prima,"Jalan Rancabolang No.21, Manjahlega",-6.9407992,107.6640191,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.4,817,Manjahlega
+Klinik Bedah Saraf,"3M59+RJV, Manjahlega",-6.940384700000001,107.669061,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Manjahlega
+Klinik Jantung dan Pembuluh Darah,"3M59+RJV, Manjahlega",-6.940384700000001,107.6690623,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Manjahlega
+Klinik Bedah Tulang/Orthopedi,"3M59+RJV, Manjahlega",-6.9403837,107.6690606,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Manjahlega
+Klinik Mata,"3M59+RJV, Manjahlega",-6.940383600000001,107.6690611,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.7,3,Manjahlega
+Klinik Paru,"3M59+RJV, Manjahlega",-6.940383199999999,107.6690601,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Manjahlega
+Klinik Bedah Urolog,"3M59+RJV, Manjahlega",-6.940383699999999,107.6690619,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Manjahlega
+Klinik Bedah Umum,"3M59+RJV, Manjahlega",-6.940383600000001,107.6690615,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Manjahlega
+Klinik Psikiatri,"3M59+RJV, Manjahlega",-6.9403831,107.6690601,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.8,6,Manjahlega
+Klinik Bedah Plastik,"3M59+RJV, Manjahlega",-6.9403832,107.6690614,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Manjahlega
+"Klinik Kulit, Kelamin dan Kosmetik","3M59+RJV, Manjahlega",-6.940383100000001,107.6690615,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Manjahlega
+Hermina Arcamanik Hospital,"Jalan AH. Nasution No.50, Antapani Wetan",-6.904193999999999,107.666794,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.3,4472,Antapani Wetan
+Gendung Padma RS Hermina Arcamanik,"3MV8+QP5, Jalan AH. Nasution, Cipadung Kulon",-6.905724599999999,107.6669131,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,1,Antapani Wetan
+PT Karsa Sangga Buwana,Jalan Soekarno-Hatta No.147,-6.9374091,107.5806017,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Ciparay
+Dr Gigi Bertha Triana,Jalan Sumber Nanjung III No.25-17,-6.937593099999999,107.5749831,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.6,8,Babakan Ciparay
+Klinik Umum Pratama Walagri,"Jalan Makam Caringin No.30, Babakan Ciparay",-6.947099699999999,107.5832728,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Ciparay
+Posyandu Kenanga 1 & 2,"Jalan Babakan Ciparay No.08, Suka Asih",-6.934172999999999,107.5845851,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Babakan Ciparay
+BIDAN S. INDRI,"Jalan Jatihandap No.158, Jatihandap",-6.891631699999999,107.6628146,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Jatihandap
+Bidan IIyan,"Jalan Jatihandap No.40, Jatihandap",-6.889672999999999,107.6638649,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Jatihandap
+Pijat Pak Agus,"Jalan Cicabe No.26, Jatihandap",-6.899275499999999,107.6579264,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Jatihandap
+pengobatan asia afrika,"3MX5+FMR, Jatihandap",-6.901253699999999,107.6591475,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Jatihandap
+Asia Eropa,"3MX5+FJQ, Jatihandap",-6.90128,107.659094,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Jatihandap
+KLINIK KLARA SANTOSA ( DR HERMAN SPOG),"Jalan Raya Panyileukan No.D2-10, Cipadung Kidul",-6.9415515,107.7140523,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,35,Cipadung Kidul
+Bandung City Regional General Hospital,"Jalan Rumah Sakit No.22, Pakemitan",-6.915633799999999,107.6987512,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,2.9,681,Pakemitan
+Bidan Dewi. S,"no 47, Pakemitan",-6.925206999999999,107.6908126,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,6,Pakemitan
+Andir Kidul 1,"3MPX+29G, Pakemitan",-6.914940099999999,107.6984489,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,1,Pakemitan
+Rumah sakit ujungberung,"Jalan Rumah Sakit No.22, Pakemitan",-6.915732999999999,107.699318,"hospital, health, point_of_interest, establishment",OPERATIONAL,1.5,110,Pakemitan
+Islamic Ruqya,"Jalan Cirengot No.1, RT.01/RW.01",-6.915833799999999,107.7014003,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,17,Sukamulya
+Rismay Alkes,Jalan Bunga Bakung Raya,-6.9561991,107.6478078,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cijaura
+RSB Harapan Keluarga,"Jalan Pasir Salam No.6-8, Ancol",-6.9452772,107.6167616,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,13,Ancol
+Klinik Bersalin Harkel (Harapan Keluarga),"Jalan Pasir Salam Raya I No.6-8, Ancol",-6.945373000000001,107.6168,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.5,167,Ancol
+Pengobatan Pak Fauzan,"Margahayu Raya Barat, Jl. Neptunus Tengah I A 26 no 1, Sekejati",-6.947910299999999,107.6570344,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,8,Sekejati
+Edelweiss Hospital,"Jalan Soekarno-Hatta No.550, Sekejati",-6.943559099999999,107.6496628,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.4,1793,Sekejati
+Hermina Hospital Pasteur,"Jalan Dr. Djundjunan No.107, Pasteur",-6.8958508,107.5888307,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.6,6448,Pajajaran
+Kesehatan Anak,"4H3Q+PGC, Pajajaran",-6.895678999999999,107.5887702,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pajajaran
+ICU,"4H3Q+PGC, Pajajaran",-6.8956811,107.5887768,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pajajaran
+NICU,"4H3Q+PGC, Pajajaran",-6.895680599999999,107.5887767,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pajajaran
+Kebidanan dan Penyakit Kandungan :,"4H3Q+PGC, Pajajaran",-6.8956785,107.5887718,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pajajaran
+Fetomaternal,"4H3Q+PGC, Pajajaran",-6.8956803,107.5887767,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,4,Pajajaran
+PICU,"4H3Q+PGC, Pajajaran",-6.8956799,107.5887761,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pajajaran
+Fisioterapi,"4H3Q+PGC, Pajajaran",-6.895678299999999,107.5887754,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pajajaran
+Klinik Geriatri,"4H3Q+QC5, Pajajaran",-6.895600099999999,107.5886046,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pajajaran
+Diamedic,"Jl. Raya Dakota No. 42 D Sukaraja Cicendo Bandung Jawa Barat, Pamoyanan",-6.903451599999999,107.5955522,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pamoyanan
+"Tita Husnitawati M, SP.Og, K-Fer","Melinda Hospital, JL. Pajajaran, No. 46, Bandung, West Java, Pamoyanan",-6.9066467,107.5939613,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Pamoyanan
+Karya Sadar,"Jalan Tamansari No.3, Tamansari",-6.9026443,107.607885,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.7,3,Taman Sari
+MABES FLAMES,"Gang Pangumbahan No.7, Tamansari",-6.9028381,107.6049761,"hospital, health, point_of_interest, establishment",CLOSED_TEMPORARILY,3.7,3,Taman Sari
+UPT Pelayanan Kesehatan UNISBA,"Jalan Tamansari No.1, Tamansari",-6.9040599,107.6080489,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Taman Sari
+Rumah Kost Wastu 89,"Jalan Wastukencana No.89, Tamansari",-6.904270899999999,107.6060769,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Taman Sari
+Puskesmas Berlin,"Balubur Town Square, Tamansari",-6.898813499999999,107.6087699,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Taman Sari
+ALEX DENTAL CARE Dokter Gigi drg. Alexander Anugrahputra,"Cihampelas no, Jl. Cihampelas No, 73, Tamansari",-6.9015298,107.6040892,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Taman Sari
+Praktek Dokter Revita,"Jl. Cihampelas No.73, Kota Bandung RT 004/RW 008 Kelurahan : Taman Sari, Kecamatan :",-6.901465600000001,107.6039017,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Taman Sari
+santosa hospital bandung centrl,"Jalan Doktor Hatta No.14-6, Tamansari",-6.901735899999999,107.6038568,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,14,Taman Sari
+Bedah Plastik (dr. Ade Sari Sitorus @ The Clinic Beautylosophy),"Jalan Ir. H. Juanda No.27, RT.04/RW.01, Tamansari",-6.904603400000001,107.6105773,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.9,118,Taman Sari
+Klinik Universitas Pasundan Tamansari,"3JV5+J9Q, Jalan Gajah Lumantung, Tamansari",-6.9059214,107.6084886,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Taman Sari
+futri bintang,"2HWV+M9F, Cibaduyut",-6.953320499999999,107.593418,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cibaduyut
+UPTD Puskesmas Sukapakir,"Jalan Pagarsih Gang Pa. Oyon No.27, Jamika",-6.9232702,107.587036,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.1,75,Jamika
+Dr. Ade Burhanudin,"Jalan Pagarsih No.221, Jamika",-6.9221453,107.5870234,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,1,Jamika
+Dr Ikin Tjandra,"Jalan Jamika No.98 B, Babakan Tarogong",-6.9226825,107.5857892,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.9,26,Jamika
+Klinik Jamika,Jalan Jamika No.86,-6.922345600000001,107.5857548,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,37,Jamika
+Klinik KF,"Ruko Cipta Pesona, Jalan Cipamokolan No.B19, Cipamokolan",-6.950357400000001,107.6762272,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cipamokolan
+Jibran Jaya Motor Service,"Jalan Silih Asih No.55, Cipamokolan",-6.945999100000001,107.6720085,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cipamokolan
+Bekam Riung Bandung,"Jalan Cipamokolan No.18, Cipamokolan",-6.9425668,107.677076,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,16,Cipamokolan
+Bumi Sehat Suci,"Komplek Nuansa Mas estate blok f No 3 Rt/rw : 012/009, Jalan Riung Bandung Raya, Cipamokolan",-6.948108599999999,107.6809047,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Cipamokolan
+Proyek RS Borromeus Kawasan Sumarecon Bandung,"2MXC+HQ4, Jalan Sharon Boulevard Raya, Sumarecon",-6.951118500000001,107.6719397,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cipamokolan
+RSIA Grha Bunda,"3JPW+P6X, Jalan Terusan Jakarta No.15 - 17, Babakan Surabaya",-6.913130199999999,107.645485,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,778,Babakan Surabaya
+Santosa Hospital Bandung Central,"Jalan Kebon Jati No.38, Kebon Jeruk",-6.9154958,107.600376,"hospital, dentist, health, point_of_interest, establishment",OPERATIONAL,4.6,11164,Kebon Jeruk
+Provider InHealth Bandung,"RS Santosa Bandung Internasional, JL. Kebon Jati, No. 38, Campaka, 40181, Kebon Jeruk",-6.9161167,107.6010271,"hospital, insurance_agency, health, point_of_interest, establishment",OPERATIONAL,5,2,Kebon Jeruk
+Rumah Sakit Kebon Jati,"Jalan Kebon Jati No.152, Ciroyom",-6.9161037,107.5963194,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,3.7,1402,Kebon Jeruk
+Pintu Portal Sentosa Hospital Bandung,"Jalan Kebon Jeruk No.38, Kebon Jeruk",-6.918528599999999,107.6002356,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3,Kebon Jeruk
+Lobby Security Rs Kebon Jati,"Jalan Kebon Jati No.130, Ciroyom",-6.9159619,107.597288,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Jeruk
+"Eppy Darmadi Achmad, SP.Og","Santosa Bandung International, Jalan Kebon Jati No.38, Kebon Jeruk",-6.915789999999999,107.600513,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,5,Kebon Jeruk
+Klinik Disfungsi Seksual,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1,Kebon Jeruk
+Pusat Kesehatan Anak,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Jeruk
+Sandia Biotech Diagnostic Centre (SBDC),"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.3,7,Kebon Jeruk
+Klinik Mata,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Kebon Jeruk
+Pusat Ortopedi Rekonstruksi dan Sport Medicine,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1,Kebon Jeruk
+Klinik-Klinik Penyakit Dalam,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.7,7,Kebon Jeruk
+Klinik Gizi,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Jeruk
+Obstetric and gynecology center,"Jalan Kebon Jati No.38, Kebon Jeruk",-6.915402099999999,107.6002868,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Kebon Jeruk
+Santosa Eye Center,"3JM2+R58, Kebon Jeruk",-6.9154689,107.6004609,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,4,Kebon Jeruk
+Musholla Asy-Syifa,"Santosa Hospital Bandung Central, Kebon Jeruk",-6.915213700000001,107.6004507,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Kebon Jeruk
+East Wing RS Santosa Bandung,"Jalan Kebon Jati No.32, Kebon Jeruk",-6.9154049,107.6008491,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.7,3,Kebon Jeruk
+Klinik Paru,"3HMW+HFW, Ciroyom",-6.9160241,107.5962104,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Jeruk
+Cafetatia Santosa,"3JP2+45G, Jalan Stasiun Barat, Kebon Jeruk",-6.9146812,107.6004384,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Kebon Jeruk
+D Mana Posisi Ari Akbar,"3PQ2+24M, Cigending",-6.9124098,107.7002883,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cigending
+PT. RAFA Topaz Utama,"Jalan Hantap Raya No.2-10, Antapani Kidul",-6.9231522,107.6574818,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Antapani Kidul
+dr. R. H Agoes Hardiana,"3MJ6+H26, Antapani Kidul",-6.9185959,107.6600056,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Antapani Kidul
+UPT PUSKESMAS JAJAWAY,"Jalan Pratista Timur VIII No.43, Antapani Kidul",-6.927591799999999,107.6644721,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.3,90,Antapani Kidul
+Holistic,"3MM4+2RR, Jalan Purwakarta, Antapani Tengah",-6.917382099999999,107.6570208,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Antapani Kidul
+Klinic Vega,"Jalan Kebon Sirih No.23, Babakan Ciamis",-6.911597899999999,107.6060068,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Ciamis
+RS PTP VIII Yung Huhn,"3JP5+375, Jl. Pangkalan AU Sulaiman, Babakan Ciamis, Sumur Bandung, Babakan Ciamis",-6.9148644,107.6082421,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Ciamis
+Caringin,Babakanciamis,-6.9148644,107.6082421,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Ciamis
+RS TB Paru Cipaganti,Babakanciamis,-6.9148644,107.6082421,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Ciamis
+Poli Eksekutif VIP RS Cicendo,"Jalan Cicendo No.4, Babakan Ciamis",-6.91013,107.6047955,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Ciamis
+Cicendo LASIK Center,"3JR3+2Q7, Unnamed Road, Jalan Pasir Kaliki, Babakanciamis",-6.9099565,107.6044361,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,6,Babakan Ciamis
+RSMC,"Jalan Cicendo No.33, Babakan Ciamis",-6.910589499999999,107.6042602,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3,Babakan Ciamis
+Mandiri ATM Rs Mata Cicendo,"Jalan Cicendo No.24a, Pasir Kaliki",-6.9105742,107.6041998,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,1,Babakan Ciamis
+Salam Homecare | Dokter ke Rumah | Infus Vitamin C | Rumah Sunat Ku | Bandung | Kesehatan,"Perum Vijaya Kusuma Jalan Kusuma Indah B16 No16, Cipadung",-6.917414399999999,107.7216804,"hospital, lodging, store, health, point_of_interest, establishment",OPERATIONAL,5.0,510,Cipadung
+"Klinik Pratama UIN Sunan Gunung Djati, Bandung","Jalan AH. Nasution No.497, Cipadung",-6.9325634,107.7163624,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.3,18,Cipadung
+"Gedung Ilmu Penyakit Dalam, FK Unpad, RSUP Dr. Hasan Sadikin","No., Jalan Pasir Kaliki No.190, Pasteur",-6.8985892,107.5984397,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.8,4,Pasteur
+RSUP Dr. Hasan Sadikin Bandung,"Jalan Pasteur No.38, Pasteur",-6.898158799999999,107.5983954,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,2.9,5548,Pasteur
+Dr. Lina,"JL. Jurang Blok 181 No.735, Pasteur",-6.889275,107.6005035,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasteur
+Hospital Scooter's Matic,"4H4X+XJ4, Pasteur",-6.8926077,107.5990687,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasteur
+rumah singgah kab. subang,"Jalan Tawekal No.19, Pasteur",-6.8935675,107.5997218,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasteur
+RUMAH SEHAT MANDIRI,"Jalan Tawekal, Pasteur",-6.8937219,107.6001814,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,47,Pasteur
+Poliklinik Kesehatan Gigi dan Mulut,"Jalan Makmur, isya, gotong royong",-6.894579599999999,107.600103,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasteur
+Klinik Khitan Sukajadi,"Jalan Sukajadi No.36A, Pasteur",-6.894080099999999,107.5972743,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,47,Pasteur
+Poliklinik Husni Sukajadi,"Jalan Sukajadi No.36, Sukabungah",-6.8941876,107.5972477,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.4,64,Pasteur
+Klinik Teratai RSUP Dr. Hasan Sadikin,"Jalan Professor Eyckman No.38, Pasteur",-6.8954111,107.5985651,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.3,3,Pasteur
+MEDICAL SCIENCE CENTER RSP UNPAD BANDUNG,"Gedung RSP UNPAD, Jalan Professor Eyckman No.38, Pasteur",-6.895729599999999,107.5988751,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3,Pasteur
+R.sakit pusat Hassan Sadikin,"4J32+F3R, Jalan Professor Eyckman, Pasteur",-6.8962702,107.6001429,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Pasteur
+Gedung Parahyangan - RSHS,"Jalan Pasteur No.38, Pasir Kaliki",-6.896355399999999,107.5987659,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasteur
+Poliklinik Kesehatan Jiwa,"4H3X+76W, Pasteur",-6.896772500000001,107.5980681,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasteur
+Poliklinik Kebidanan & kandungan,"4H3X+76W, Pasteur",-6.896772500000001,107.5980681,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasteur
+Yayasan An-Nur Adi Thalia,"Jalan Sarikaso 1 No.8, Sarijadi",-6.876641999999999,107.5786123,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sarijadi
+Bidan Ros,"Sarijadi Blok 3 RT 05 RW 02 No. 123,, Sarijadi",-6.875629699999999,107.5790346,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Sarijadi
+F th Rani Bidan,"Jalan Sarijadi Raya No.16, Sarijadi",-6.870543000000001,107.580624,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sarijadi
+Svarga E-motion Sanctuary,"2JW2+9H7, Jalan Mekar Pratama, Mekarwangi",-6.954095,107.6014289,"gym, hospital, health, point_of_interest, establishment",OPERATIONAL,4.3,7,Mekar Wangi
+Tan Tjiong Hoat,"JL. Mohammad Toha, No. 45, Pungkur Regol, Bandung, Cigereleng",-6.941668,107.607433,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cigereleng
+Wootekh Indonesia,"Jalan Srimahi No.14, Cigereleng",-6.9352982,107.6136451,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,1,Cigereleng
+Rumah Sakit Max I Salhutera,3MPC+48C,-6.914675,107.670764,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukamiskin
+Klinik Utama Rachmawati,"Jalan Pesona Arcamanik Endah No.A4, Sukamiskin",-6.920363399999999,107.6711234,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Sukamiskin
+Rumah Bersalin Rachmawati,"Jalan Pesona Arcamanik Endah No.A4, Sukamiskin",-6.920370899999999,107.6711396,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,8,Sukamiskin
+Deshi,"3MV9+C85, Jalan Simpangsari, Sukamiskin",-6.906497600000001,107.668375,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukamiskin
+Posyandu Rw 7 Cibiruwetan,"Jalan Cibiru Tonggoh No.2, Pasir Biru",-6.9243367,107.7259877,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasir Biru
+Balai Pengobatan Yazka,"Jalan Sukapura No.22, Antapani Kulon",-6.9118597,107.6581112,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Antapani Kulon
+Pondok Ruqyah Thabib utsmani,"3MQ5+8CW, Jalan Sukapura X, Antapani Kulon",-6.911649700000001,107.6585678,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Antapani Kulon
+Mutiara Cikutra Clinic,"Jalan Cikutra No.115 Blok A-B, Cikutra",-6.9003652,107.6432116,"dentist, hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.7,1367,Cikutra
+Rumah Sakit Santo Yusup,"Jalan Cikutra No.7, Cikutra",-6.9066719,107.6430629,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,4.4,2923,Cikutra
+Balai Pengobatan YPKP,"Jalan Khp Hasan Mustopa No.70, Cikutra",-6.899900100000001,107.6410542,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cikutra
+Radiology room saint joseph hospital,"3JVV+996, Jalan Cikutra, Cikutra",-6.9065935,107.6434043,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1,Cikutra
+Radiology Room's Santo Yusup Hospital,"3JVV+79C, Jalan Cikutra, Cikutra",-6.906820799999999,107.6433838,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1,Cikutra
+H. DR. A. Fattah Madani (Private House),"Jalan Sukasenang V, Cikutra",-6.8995687,107.6341533,"hospital, health, point_of_interest, establishment",CLOSED_TEMPORARILY,5,1,Cikutra
+MITRA MEDIKA Padasuka Primary Clinic (Dr. Henry HS),"Jalan Sirnagalih No.17, Pasirlayung",-6.895026700000002,107.6574453,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,44,Pasirlayung
+zomer jatihandap,"3MX5+53C, Pasirlayung",-6.902059299999999,107.6576538,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasirlayung
+Manusia Purba,"3MX5+53C, Jalan Jatihandap, Jatihandap",-6.902067199999999,107.6576504,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,5,Pasirlayung
+"Elvi Setiawan, DRH","JL. Sukahaji, No. 59 A, Geger Kalong Hilir Sukasari, Bandung, Sukarasa",-6.873749,107.584095,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Sukarasa
+Akupuntur,"Jalan Setramurni Tengah II No.18, Sukarasa",-6.8751001,107.5819528,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukarasa
+"Isnaniah Mulyana, DRG","JL. Setra Ria, No. 33 Rt. 002 Rw. 06, Sukagalih, Sukajadi, Bandung, Sukarasa",-6.879070500000001,107.5860675,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukarasa
+Port Heath Bandara Husein Sastranegara Bandung,"Jalan Pajajaran No.156, Husen Sastranegara",-6.9042033,107.5803344,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.0,2,Husen Sastranegara
+Poliklinik PTDI,"Jalan Pajajaran No.154, Husen Sastranegara",-6.9009797,107.5845355,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.0,2,Husen Sastranegara
+Klinik Pratama Terpadu Husein S,"3HVH+4MR, Unnamed Road, Husen Sastranegara",-6.907137700000001,107.5791316,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.4,22,Husen Sastranegara
+Pratama Husein Sastranegara Klinik,"Jalan Abdul Rahman Saleh No.1, Husen Sastranegara",-6.907183700000001,107.5861231,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,3,Husen Sastranegara
+KLINIK DAN APOTEK MEDIKA KALIMANGGIS,"JL. KALIMANGGIS RT 24 RW 4 NO 1 KIDUL LAPANG, Kalimanggis Kulon",-6.917324799999999,107.610112,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Braga
+Klinik Cory Skin,"Jalan Lembong No.14, Braga",-6.9166456,107.6106477,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Braga
+"Andre, DRG","Gang Suniaraja No.46, Braga",-6.916856999999999,107.605452,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Braga
+Mayapada Hospital Bandung (MHBD),"Jalan Terusan Buah Batu No.5, Batununggal",-6.948580799999998,107.6347498,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,1875,Batununggal
+ZOYAQQ,"3J3P+2HV, Jalan Soekarno-Hatta, Gumuruh",-6.9473761,107.6364065,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Batununggal
+Panti Jompo YPWG,"Jalan Pak Gatot 1 No.20, Gegerkalong",-6.868622499999998,107.5893144,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,1,Gegerkalong
+Doktor Agus Siswanto,"4HFV+G2P, Gegerkalong",-6.8761579,107.5925809,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Gegerkalong
+Apotik Dextro,"3JQF+79J, Merdeka",-6.9117928,107.6233926,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Merdeka
+Skin Ethica | Klinik Spesialis Kulit & Body Slimming  Aesthetic  Operasi Plastik  Ozempic (Semaglutide)  Bandung,"Jalan Aceh No.66, Merdeka",-6.9093015,107.6194375,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,66,Merdeka
+Klinik Pratama Kodiklat AD,"Jalan Belitung No.3, Merdeka",-6.9114009,107.6169155,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,8,Merdeka
+"Dr. L. Kabul Budianto, SPKJ","Apt. Mega Farma, JL. Aceh, No. 129, Bandung, Merdeka",-6.909844,107.616494,"hospital, health, point_of_interest, establishment",CLOSED_TEMPORARILY,4.8,5,Merdeka
+Rumah Sakit Bersalin Emma Poeradiredja,Jalan Sumatera No.46 - 48,-6.912985999999999,107.613875,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Merdeka
+Kantor BOS,"Jalan Sumatera No.46, Merdeka",-6.913158299999999,107.6135348,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Merdeka
+Balai Besar Kesehatan Paru Masyarakat Bandung,"Jalan Cibadak No.214, Cibadak",-6.920768199999999,107.5966951,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.3,833,Cibadak
+Balai Pengobatan Pagarsih,"3HGW+QFF, Jalan Pagarsih, Cibadak",-6.9230578,107.5961734,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cibadak
+Bpkbm,"Jalan Cibadak No.212, Cibadak",-6.921149900000001,107.5969125,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cibadak
+Lobby Pendaftaran BBKPM,"Jalan Cibadak No.214, Cibadak",-6.920628799999998,107.5966548,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,4,Cibadak
+Klinik R Soma & Apotek Sehat mental,"Jalan Cirengot No.3, Sukamulya",-6.917008,107.701823,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,8,Cipadung Kulon
+Klinik Utama Dewi Husada,"3P87+JF4, Jalan Pertamina, Cipadung Wetan",-6.933483299999999,107.7137014,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.4,8,Cipadung Wetan
+Rumah Sakit Umum Bungsu,"Jalan Veteran No.6, Kebon Pisang",-6.9185474,107.6133476,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.2,421,Kebon Pisang
+Rumah Sakit Veteran,"Jalan Veteran No. 6, Kebon Pisang, Sumur Bandung, Kebon Pisang",-6.919426400000001,107.6156944,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Kebon Pisang
+RS MURNI TEGUH NARIPAN BANDUNG,Jalan Naripan No.89,-6.9208083,107.6163019,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,70,Kebon Pisang
+Pasir Kaliki,"3JM9+2M3, Kebon Pisang",-6.917476499999999,107.6191593,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Pisang
+klinikk Anggrek RSHS Bandung,"3JM9+2M3, Kebon Pisang",-6.917476499999999,107.6191593,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Pisang
+Klinik istamedika,"3JM9+2M3, Kebon Pisang",-6.917476499999999,107.6191593,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Pisang
+kordinat satu,"Jalan Natuna No.4, Kebon Pisang",-6.9165767,107.6143143,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Pisang
+Bidan darmi,"Jalan Babakan Baru No.230, Sukapada",-6.8988087,107.6472726,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3,Sukapada
+Balai Pengobatan Bina Insan Sehat,Jalan Cimuncang No.54-A,-6.897921499999999,107.650588,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapada
+Posyandu Cempaka Mekar,"Jalan Sekemerak No.182, Sukapada",-6.8918004,107.6464573,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapada
+Puskesmas Pasirluyu,"Jalan Suka Ati Raya No.1, Pasirluyu",-6.9512079,107.6206673,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.2,58,Pasirluyu
+Mahkota Medical Centre - Kantor Perwakilan & Informasi Bandung,"Setrasari Plaza Blok B4 No. 94 Jl. Terusan Surya Sumantri, Sukagalih, Sukajadi, Sukagalih",-6.8810937,107.5832589,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.6,5,Sukagalih
+Weliam Wiharja drg.,"Jalan Babakan Jeruk VI No.14, Sukagalih",-6.888497699999999,107.5857831,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,1,Sukagalih
+Rumah Sakit KCK Pindad,"3JFJ+RG9, Jalan Gatot Subroto",-6.925456,107.63135,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lingkar Selatan
+Kontrakan dr. Hanafi,"Jalan Dagopojok No.24, Dago",-6.873627399999999,107.6173575,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.3,3,Dago
+Maria 407,"4JF9+P96, Jalan, Dago",-6.8757044,107.6183813,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Dago
+Pos Pelayanan Terpadu (POSYANDU),"4J95+RVC, Jalan Sangkuriang Barat 2, Dago",-6.8804263,107.6096436,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Dago
+Bidan yati,"2HRM+QW6, Cirangrang",-6.958096599999998,107.5847776,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cirangrang
+Praktek bidan heni,"Jalan Bintang No.32, Cirangrang",-6.958417599999999,107.5844362,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,10,Cirangrang
+Gedung C Paviliun Mahkota Rumah Sakit Santosa Kopo,"2HWP+3HR, Cirangrang",-6.9546906,107.5864213,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cirangrang
+Gedung D,"2HWP+CM5, Gang Cirangrang Timur, Cirangrang",-6.9537816,107.586635,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cirangrang
+Stroke Center Santosa Hospital,"2HWP+PHJ, Bandung, Cirangrang",-6.953156600000001,107.5863756,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cirangrang
+Gedung Komprehensice Cancer Centre,"Santosa Hospital Bandung Kopo, Jalan RS Santosa, Cirangrang",-6.953163900000001,107.5866755,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,3,Cirangrang
+Santosa Hospital Bandung Kopo,"Jalan Raya Kopo No.461-463, Cirangrang",-6.9524003,107.5863315,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,5257,Cirangrang
+Apotik Jamika,"3HFM+3GV, Sukahaji",-6.927271999999999,107.5838021,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukahaji
+Bandung Eye Center Buah Batu,"Jalan Buah Batu No.147, Turangga",-6.9377109,107.623819,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,429,Turangga
+Graha Kerindo Utama. PT,"Jalan Karawitan No.44, Turangga",-6.9390914,107.629325,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1,Turangga
+Klinik Ambalat Sesko TNI,"Jalan Martanegara No.3, Lingkar Selatan",-6.933974999999999,107.6310802,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,25,Turangga
+Muhammadiyah Hospital Bandung,"Jalan K.H. Ahmad Dahlan No.53, Turangga",-6.9335792,107.6231599,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,2482,Turangga
+Baraya Batim Bikers selter RS Muhammadiyah (BBB MUHOL),"Jalan Banteng No.55, Turangga",-6.9337747,107.6233195,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Turangga
+Komite Nakes Lain RSMB Kota,Jalan K.H. Ahmad Dahlan No.53,-6.9334567,107.6232398,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Turangga
+Indomedis,"Jalan Gatot Subroto No.# 289, Cibangkong",-6.925348999999999,107.636701,"hospital, health, point_of_interest, establishment",CLOSED_TEMPORARILY,Unknown,Unknown,Cibangkong
+Bio Fit Health Centre,"Jalan Supratman No.69, Cihapit",-6.901918299999998,107.6264759,"hospital, pharmacy, store, health, point_of_interest, establishment",OPERATIONAL,4.4,952,Cihapit
+Klinik Pratama Akupuntur,"3JXG+6H9, Jalan Supratman, Cihapit",-6.901962699999999,107.6264799,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.0,4,Cihapit
+Rumah Sakit Umum Pindad Bandung,"Jalan Gatot Subroto No.517, Sukapura",-6.940032,107.6462231,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,913,Sukapura
+Imell melia,"3M63+F6W, Jalan Komplek KPAD Pindad Timur, Sukapura",-6.9387574,107.6530884,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapura
+Poliklinik Umum,"3J6W+2JM, Sukapura",-6.9399078,107.6465548,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapura
+Paru,"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapura
+Bedah Tulang (Ortopedi),"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapura
+Saraf (Neurologi),"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Sukapura
+Kebidanan dan Kandungan,"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapura
+"Anak, Kulit & Kelamin","3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapura
+Bedah Syaraf,"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,4,Sukapura
+Bedah Mulut,"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapura
+Rumah Sakit Umum KUDUNGGA,Jalan Soekarno-Hatta,-6.942603399999999,107.6499655,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukapura
+Klinik Bedah Mulut Dan Gigi,"3J4X+QJJ, Jalan Soekarno-Hatta, Sukapura",-6.9430403,107.6490083,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,1,Sukapura
+VCO LEZAT AMPUH PERTAMA DI INDONESIA,"botol Spray ion 1, Depot kesehatan KOMPLEK PASIR POGOR INDAH, Jl.Pasir Suci Barat Ion 1 botol Vco 1, Jalan Ciwastra No.P.8, Mekarjaya",-6.961895999999999,107.672301,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Mekarjaya
+Dede,"Jalan Cibogo Indah No.1, Mekarjaya",-6.965666299999999,107.672353,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Mekarjaya
+Ell's Akupuntur,"jl.cibogo endah 1,no.9 bodogol, Mekarjaya",-6.965845799999999,107.6724354,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Mekarjaya
+Dr. H. A. Rotinsulu Lung Hospital,"Jalan Bukit Jarian No.40, Hegarmanah",-6.877633899999999,107.6065216,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.2,740,Hegarmanah
+Dr. Abdul Azis W,"JL. Cimbuluit No.90, Hegarmanah",-6.874550999999999,107.604931,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.0,2,Hegarmanah
+Pelayanan Rawat Inap,"4JC4+RHV, Hegarmanah",-6.877875499999999,107.6064117,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,4,Hegarmanah
+Doni Refleksi - Bandung,"Jl. Lengkong BesarNo. No.64 G, Paledang",-6.923423499999998,107.6119423,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.5,2,Paledang
+Teguh Djaja Santoso Drg,"Jalan Wangsareja No.37, Paledang",-6.927226,107.615922,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Paledang
+Praktek Prof Suganda Tanuwidjaja,"Jalan Terusan Ciliwung No.14, Cihaur Geulis",-6.903542,107.6295668,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,32,Cihaurgeulis
+JPKM Surya Sumirat - Borromeus Healthcare,"Jalan Ir. H. Juanda No.101, RW.02, Lebakgede",-6.894053,107.6127542,"hospital, local_government_office, health, point_of_interest, establishment",OPERATIONAL,4.9,33,Lebak Siliwangi
+Klinik Utama Jasmine MQ Medika,"Jalan Dayang Sumbi No.10, Lebak Siliwangi",-6.8868039,107.6118984,"dentist, hospital, doctor, spa, health, point_of_interest, establishment",OPERATIONAL,4.1,304,Lebak Siliwangi
+Klinik Utama Bumi Medika Ganesa ITB,"Jalan Gelap Nyawang No.2, Lebak Siliwangi",-6.8944909,107.6115109,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,47,Lebak Siliwangi
+Bandung Advent Hospital,"Jalan Cihampelas No.161, Cipaganti",-6.892076599999998,107.6032797,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,4.2,1466,Cipaganti
+IGD RS ADVENT,"4J53+783, Jalan Sampurna, Pasteur",-6.891857799999999,107.6033004,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,4,Cipaganti
+"Dr Achmad Suardi, SP.Og, K-Onk","RS ADVENT, Jalan Cihampelas No.161, Cipaganti",-6.891980999999999,107.6031991,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.7,3,Cipaganti
+Nurse Station,"Rs. Advent, Jalan Cihampelas No.161, Cipaganti",-6.891978799999999,107.6028996,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cipaganti
+Poli Gigi RS Siaga Raya,"Jalan Siaga Raya No.kav 4-8, Pejaten Barat",-6.894776999999999,107.605618,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cipaganti
+"Daniel Nazarudin, DRG","Jalan Bima No.155, Arjuna",-6.9079572,107.5911924,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Arjuna
+Sartika Asih Hospital,"Jalan Mochammad Toha No.369, Ciseureuh",-6.9565364,107.6125794,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.4,777,Ciseureuh
+Kantor,"2JV7+FGW, Ciseureuh",-6.9562594,107.6138364,"hospital, health, point_of_interest, establishment",OPERATIONAL,5.0,1,Ciseureuh
+Nandapty,"3MWV+6GH, Jatiendah",-6.904430399999999,107.6938608,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pasir Endah
+Acupuncture & Herbal Wellne,"Jalan Cijambe No.17 blok A, Pasir Endah",-6.909654199999999,107.6911364,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Pasir Endah
+Hara Medical Center BDG,Jalan Bojongawi Kaler,-6.908978599999998,107.6871284,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,7,Cisaranten Bina Harapan
+Borromeus Children Medical Center,"Jalan Ir. H. Juanda No.100, Lebakgede",-6.894095999999999,107.6133558,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.7,56,Lebak Gede
+Rumah Sakit Gigi dan Mulut Unpad,"Jalan Sekeloa Selatan No.1, Lebakgede",-6.8905118,107.6191411,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,845,Lebak Gede
+Saint Borromeus Hospital,"Jalan Ir. H. Juanda No.100, Lebakgede",-6.8939955,107.6136797,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,2104,Lebak Gede
+Pintumasuk,"Jalan Surya Kencana No.8, Lebakgede",-6.893317899999999,107.6144579,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Lobby Elisabeth RS Borromeus,"Jalan Surya Kencana No.1-7, Lebakgede",-6.8932815,107.6142844,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Gedung Carolus RS St. Borromeus,"Jalan Ir. H. Juanda No.104, Lebakgede",-6.8929964,107.6135309,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,6,Lebak Gede
+DRG. Nina Djustiana,"JL. Ir. H. Juanda, No. 1, Bandung, Lebak Gede",-6.892215999999999,107.613431,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,1,Lebak Gede
+Gedung yosef,"4J47+6FP, Lebak Gede",-6.894419399999999,107.6138462,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Klinik Santo Lukas,"RSU Santo Borromeus, Jalan Ir. H. Juanda No.100, Lebakgede",-6.894524400000001,107.6138306,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,2,Lebak Gede
+Medical Check Up RS Borromeus,"4J47+4HP, Jalan Ir. H. Juanda, Dago",-6.8946694,107.6139461,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Puskesmas Sekeloa,"Jalan Tubagus Ismail Bawah No.4, Lebakgede",-6.8896266,107.6168169,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.9,66,Lebak Gede
+Klub Sadar Stroke,"4J47+99F, Lebak Gede",-6.8940702,107.6134314,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Kamar Operasi,"4J47+997, Lebak Gede",-6.894087900000001,107.6134306,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Instalasi Gizi,"4J47+997, Lebak Gede",-6.894087900000001,107.6134306,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Gedung maria 1,"4J47+F83, Dago",-6.893866,107.6132911,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Shelter SDO & LLT,"Jalan Dago No.100, Lebak Siliwangi",-6.894224700000001,107.6134304,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Intensive Care Unit (ICU),"4J47+C8J, Lebak Gede",-6.893912900000001,107.6132744,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Cek eeg,"Jalan Dipati Ukur No.23, Lebakgede",-6.896031600000001,107.6162709,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Lebak Gede
+Apotek Cibolerang,"2HVH+9G7, Unnamed Road, Margasuka",-6.956599000000001,107.578809,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Margasuka
+Bidan Seni,"Unnamed Road, Margasuka",-6.954554799999999,107.5836241,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,24,Margasuka
+Pustu Desa Cikarang,Kp. Sindangpalay RT. 012/004 Desa Cikarang Kecamatan Cidolog,-6.9335684,107.6089435,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Ciateul
+Immanuel Skin & Aesthetic Clinic,"Jalan Raya Kopo No.161, Situsaeur",-6.9363438,107.5969974,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,6,Situsaeur
+Gedung Alkema RS Immanuel,"Jalan Raya Kopo No.161, Situsaeur",-6.935984899999999,107.596934,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,6,Situsaeur
+Immanuel Hospital Bandung,"Jalan Raya Kopo No.161, Situsaeur",-6.935559299999999,107.5960894,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,4,1980,Situsaeur
+Kamar Bedah RS.Immanuel,"Jalan Raya Kopo No.161, Situsaeur",-6.935939999999999,107.5970246,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,3,Situsaeur
+Gedung Dr.Johannes Leimena,"3H7W+QCC, Jalan Raya Kopo, Situsaeur",-6.9355696,107.5960173,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,5,Situsaeur
+Rumah Sakit Pendidikan Bandung Kiwari,Jalan Raya Kopo No.311,-6.9434439,107.5917681,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Situsaeur
+Rumah Sakit Umum Daerah Bandung Kiwari - Kota Bandung,"Jalan Raya Kopo No.311, RT.03/RW.05, Situsaeur",-6.9432643,107.5914246,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.8,1279,Situsaeur
+Special Hospital Maternal and Child,"Jalan Raya Kopo No.311, Kopo",-6.943295,107.5914109,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Situsaeur
+Mantul,"Jalan Raya Kopo No.321, Kopo",-6.944529200000001,107.5909784,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Situsaeur
+BP Luhur Medica Centre,"JL. Sudirman, No. 472/474, 40115, Karanganyar",-6.920569,107.60033,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Karang Anyar
+Art Denta Care,"Jalan Jend. Sudirman No.127, Karanganyar",-6.9204322,107.5999661,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Karang Anyar
+Damai,"Jalan Laswi No.1, Kacapiring",-6.917543199999999,107.631112,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Kacapiring
+Dr. Hizkia Suria Subrata,"Plaza IIBC, Jalan A. Yani No.296, Kacapiring",-6.9148294,107.6330848,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kacapiring
+M Agus Ahli Gigi,"Jalan Laswi No.82, Cibangkong",-6.918012999999999,107.63076,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kacapiring
+Poliklinik Kebon Waru,"Jalan Kebonwaru Utara No.17, Kacapiring",-6.913215200000001,107.6361629,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kacapiring
+Posyandu Jakapurwa,"2JPX+W88, Jalan Jaka Utama, Kujangsari",-6.962709199999999,107.6483161,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kujangsari
+dr. Adam Spec. Kulit,"2JVQ+5Q3, Jalan Terusan Buah Batu, Kujangsari",-6.9571051,107.6394249,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,8,Kujangsari
+Klinik Bidan Muslimah,Dungus Cariang,-6.915686699999998,107.5793504,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.6,49,Dungus Cariang
+Klinik Arjuna,"Jalan Jend. Sudirman No.849, Dungus Cariang",-6.917759999999999,107.582818,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Dungus Cariang
+Rumah Bersalin Ibu Lenny,"Jl. Andir, Gg. Syukur No. 10, Dungus Cariang, Andir, Dungus Cariang",-6.916616899999999,107.5849695,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.1,7,Dungus Cariang
+Yayasan Siti Aminah Zhuang Medical Center,"3HRH+6FH, Jalan Garuda, Dungus Cariang",-6.909445,107.578742,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Dungus Cariang
+Klinik Utama Iona Wellness Sanctuary,"Jalan Sukajadi No.199, Cipedes",-6.8800211,107.5961585,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,130,Cipedes
+DRUNKENSTEIN CAMP,"3JF6+F4J, Gang Sasak Gantung VII, Cikawao",-6.9262826,107.610263,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cikawao
+Klinik Universitas Pasundan Lengkong,"Jalan Lengkong Besar No.68, Cikawao",-6.9292442,107.6128898,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cikawao
+Yuniar,"Jalan Lengkong Besar No.8, Cikawao",-6.9238208,107.6113961,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cikawao
+Praktek Dokter Gigi,"Jalan Pasir Kaliki No.239, Sukabungah",-6.897103199999999,107.597208,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,1,Sukabungah
+Cardiac Center and Medical Center,"Jalan Pasir Kaliki No.225, Pasteur",-6.897864900000001,107.5971291,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.9,13,Sukabungah
+Rumah Teduh Bandung,"4H4W+PVJ, Pasteur",-6.893169999999999,107.5971351,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,26,Sukabungah
+RS Wulandari,"Jalan Jendral Gatot Subroto No. 31, Sukabungah, Sukajadi, Sukabungah",-6.899452800000001,107.5959488,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukabungah
+Robotik Alamanda,"RS Dr Hasan Sadikin Jalan Pasteur No.38, Pasir Kaliki",-6.899516799999999,107.5966007,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukabungah
+Klinik BP HIKMAH,"Jalan Lebak 2 No.43, Kebonwaru",-6.917834499999999,107.6435461,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Waru
+Klinik Gigi Shakti Taridi,"Jalan Parakan Saat No.9, Cisaranten Endah",-6.930980300000001,107.6685796,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cisaranten Endah
+Klinik Sunatan.com Bandung,Puteraco Gading Regency No.A1-7,-6.937680200000001,107.6711633,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,130,Cisaranten Endah
+Rumah Bersalin Pangestu,"Jalan Haji Mahfud Jalan Kiara Condong No.10, Binong",-6.937654299999999,107.6416727,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.2,15,Binong
+Klinik utama Melati Bunda,"Jalan Kiara Condong No.304, Binong",-6.933412199999999,107.6417352,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.9,19,Binong
+Bunda Maternity Hospital Bed,"Komp. Dolog Jalan Kiara Condong No.304, Binong",-6.933546199999999,107.642608,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.0,22,Binong
+RSJP Paramarta  Rumah Sakit Khusus Jantung & Pembuluh Darah Paramarta Bandung,Jalan Soekarno-Hatta No.581,-6.945653099999999,107.6405235,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,575,Binong
+Apotek Griya Farma Ciwastra,"Jalan Margasari No.94, Mekarjaya",-6.959375499999999,107.6607971,"pharmacy, hospital, store, health, point_of_interest, establishment",OPERATIONAL,4.8,261,Margasari
+RSIA Harapan Bunda Bandung,Jalan Pluto Raya Blok C,-6.955923299999998,107.661776,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4,617,Margasari
+Dr. Ade Haydae Amir Rajab,"Jalan Pluto Raya B No.4, Margasari",-6.958898199999999,107.6617112,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Margasari
+Pusat Pengobatan Alternatif,"JL. Setiabudi, No. VIII 156-B, Isola, Sukasari, Ledeng",-6.8507617,107.5969828,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,2,Ledeng
+Bulantrisna Djelantik Dr Dr SPTHT,"Jalan Sersan Surip No.25/169A, Ledeng",-6.8602358,107.5950977,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.0,1,Ledeng
+Seura seuri sorangan,"Jalan Papanggungan No.14, RW.09, Kebon Kangkung",-6.935011100000001,107.6456573,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Kangkung
+PMB Bidan Rina Hernawati,"Jalan Bumi Kiara 2 No.33a, Kebon Kangkung",-6.9342127,107.6440755,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kebon Kangkung
+YAYASAN DANA PRIANGAN,"3HHH+G4X, Warung Muncang",-6.9211408,107.5778688,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Warung Muncang
+Klinik Taufik Medika I,"JL. Holis K BPKP Blok 5, Bandung, 40211, Warung Muncang",-6.9275344,107.5744767,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Warung Muncang
+Balai Pengobatan Advent,"Jalan Kiara Condong No.269, Babakan Sari",-6.923832099999999,107.6483763,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Babakan Sari
+Bidan Adelia,"Jalan Babakan Sari No.155, Babakan Sari",-6.9235594,107.6533319,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.9,50,Babakan Sari
+Tugala Oyo,"3MG3+8PX, Jalan Kantor, Babakan Sari",-6.924133899999999,107.6543445,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Babakan Sari
+Umah yowyow,"07, Jalan Babakan Surabaya No.21c, Babakan Sari",-6.919277300000001,107.6473578,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Sari
+Klinik Mandala,"Jalan Babakan Sari No.11, Babakan Sari",-6.9221798,107.6451965,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Babakan Sari
+Klinik Anugrah Sejahtera,"Jalan Kiara Condong No.331, Babakan Sari",-6.921603500000001,107.6445842,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1,Babakan Sari
+Rumah Sakit Rajawali,"Jalan Rajawali Barat No.38, Maleber",-6.912396499999999,107.5734226,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.6,516,Maleber
+Bidan Murni,"3HWC+2PG, Jalan Pinguin, Maleber",-6.9049292,107.571819,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Maleber
+Bidokes Polda,"Gang Karyamas I No.7678, Pelindung Hewan",-6.937505000000001,107.60464,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3,Pelindung Hewan
+Klinik bersalin,"3J43+G4M, Jalan Inhoftank, Kebon Lega",-6.9436694,107.60281,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pelindung Hewan
+Pak Jayana Pijat Refleksi Kesehatan,"Jalan Nyengseret No.39, Nyengseret",-6.935128699999999,107.5999809,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Pelindung Hewan
+Balai Pengobatan Swasta Bd. Hj Tini,"Jalan Citarip Tengah I No.18-20, Kopo",-6.939635999999999,107.587569,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kopo
+Upt Puskes,"3H6Q+Q92, Kopo",-6.9381234,107.5883768,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Kopo
+BPM Bidan Citra Mahardika,"Jalan Sukamulya No.36, Kopo",-6.937705599999999,107.5892424,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Kopo
+RUQYAH RSI,"Gang Cetarip Timur I No.111 Rt.04/05, Situsaeur",-6.9442298,107.5905084,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Kopo
+Kki,"Jalan Cetarip Barat No.20, Kopo",-6.941508199999999,107.5918919,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Kopo
+Terapi Pijat dan Urut Anti Toksin,"3H83+7F2, Jalan Kalpataru 2, Gempolsari",-6.934354000000001,107.5536557,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Gempol Sari
+Sahabat Optik,"3HC4+9GQ, Gempolsari",-6.929039399999999,107.556346,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Gempol Sari
+Rumah Sakit Ibu dan Anak Al Islam,"Jalan Awi Bitung No.29 - 31, Cicadas",-6.909387399999999,107.6390224,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,448,Cicadas
+Yandu post Mawar Melati,"Jalan Asep Berlian No.4, Cicadas",-6.909119699999999,107.6413875,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cicadas
+Sutjipto A.R. DRH,"Jalan Simpang No.26, Balonggede",-6.9241781,107.605646,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,1,Balong Gede
+Dinas Kesehatan,"Jalan Dadali No.6, RT.01/RW.01, Garuda",-6.9114494,107.5773611,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.4,5,Garuda
+Klinik Pratama Mitra Medika,"Jl. Penguin Raya. 2, Kompleks Jalan Dadali No.40184, Garuda",-6.9086396,107.5738316,"dentist, doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,29,Garuda
+gurah tenggorokan bandung,"Jalan Pungkur No.92, Pungkur",-6.928511699999999,107.6093886,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,2,Pungkur
+Klinik Dekat Kota Bandung,"Jalan Pungkur seberang pegadaian No.92, kebun kelapa",-6.928496,107.6093788,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Pungkur
+Dental Hospital Maranatha,"Jalan Surya Sumantri No.65, Sukawarna",-6.8868119,107.5809667,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.7,826,Sukawarna
+Terapi Pengobatan Ceragem Master,"4H9G+3M6, Jalan Sariwangi, Sukawarna",-6.8823377,107.5766542,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukawarna
+Gugum house,"Jalan Sukasari Raya No.2-11, Sukawarna",-6.8900896,107.5805477,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukawarna
+Aryani DRG,"Jalan Burangrang No.30, Burangrang",-6.926513199999999,107.6193007,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,2,Burangrang
+Bidan Abuk,"Jalan Sukamantri II No.88, Sukaluyu",-6.8982254,107.6267035,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,5,Sukaluyu
+Sewa Peralatan Camping,"Jalan Gagak No.55, Sadang Serang",-6.895722900000001,107.6258324,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukaluyu
+cibeureum,"4J2G+8CH, Jalan Surapati, Cihaur Geulis",-6.899186500000001,107.6260974,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.5,2,Sukaluyu
+Rumah Beresalin Cuma Cuma,"gedung wakaf 99, Jalan Sidomukti No.99 H, Sukaluyu",-6.892843000000001,107.6349718,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukaluyu
+"BPM Bd. Hj. Lilis Rinthowatie, S.ST","Jalan Borobudur No.20, Cibaduyut Kidul",-6.9589022,107.5916024,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,5,Cibaduyut Kidul
+Apotek Marikun Farma,"Jalan Cisaranten Wetan No.167A, Cisaranten Wetan",-6.9248426,107.6871057,"pharmacy, hospital, doctor, health, store, point_of_interest, establishment",OPERATIONAL,4.7,3,Cisaranten Wetan
+Puskesmas kec. Lengkong,"Jalan Malabar No.125 B, Malabar",-6.928226299999999,107.6225686,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,7,Malabar
+Gebyar Bekam,"Jalan Malabar No.61, Malabar",-6.923179800000001,107.6242631,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Malabar
+"Yeni Udaya, DRG","Jalan A. Yani No.172, Kebon Pisang",-6.919858100000001,107.6227204,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Malabar
+Dokter Setiawan,"3JJF+2GJ, Malabar",-6.919920299999999,107.6237551,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.8,65,Malabar
+Evo Dental Care (VDC) / Dokter Gigi Spesialis Prosto,"Jalan Gajah No.20A, Malabar",-6.9339073,107.620797,"hospital, dentist, health, point_of_interest, establishment",OPERATIONAL,5,269,Malabar
+Agen Propolis Bandung Agit,"Jalan A. Yani No.752, Cicaheum",-6.903855600000002,107.6526281,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Cicaheum
+"Klinik Pratama Sahabat Ibu Dan Anak (Klinik Bersalin Bidan Hj Imas Rostilah, S. ST., MH. Kes.)","Jalan Siti Munigar No.35, Nyengseret",-6.929468099999999,107.6028813,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,260,Nyengseret
+"Deddy Firman, DRG","Jalan Cikutra Baru III No.7, Neglasari",-6.895304300000001,107.6391922,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Neglasari
+Poliklinik Derma Husada,"4J4R+F6G, Jalan Cikutra, Neglasari",-6.893811400000001,107.6405835,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Neglasari
+legalrsy,Jalan Cikutra No.7,-6.8925252,107.6397404,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Neglasari
+Puskesmas Cikutra,"4J4R+XCJ, Jalan Cikutra, Neglasari",-6.892537300000001,107.6410083,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,4,Neglasari
+TNI,jl,-6.8985452,107.6415545,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.7,34,Neglasari
+Ruang Fatimah - RS Santo Yusup Bandung,"3JWV+6JC, Jalan Cikutra, Cikutra",-6.904439599999999,107.6440062,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,2,Padasuka
+Klinik amanah suci,"Jalan Khp Hasan Mustopa No.124, Padasuka",-6.900612299999999,107.6454022,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Padasuka
+Klinik Bersalin Cikultra,"3JXV+WVR, Gang Sukapada I, Padasuka",-6.900145699999999,107.6446295,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Padasuka
+Halmahera Medika Klinik Utama,"Jalan Halmahera No.2, Citarum",-6.907484299999999,107.6159514,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,11,Citarum
+Klinik Utama Jiwa Grha Atma,"Jalan L. L. R.E. Martadinata, Citarum",-6.906888899999999,107.6116691,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.5,227,Citarum
+Halmahera Siaga Hospital,"Jalan L. L. R.E. Martadinata No.28, Citarum",-6.9067338,107.6155973,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,282,Citarum
+Rumah Sakit Ibu dan Anak Limijati,"Jalan Jalan L. L. R.E. Martadinata No.39, Citarum",-6.9061276,107.613634,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,3.4,727,Citarum
+Rumah Ceragem,"Jalan Bahureksa No.16, Citarum",-6.905399899999999,107.6147513,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Citarum
+Rehabilitasi medik,"3JV8+87V, Citarum",-6.9066353,107.6156595,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Citarum
+Unit Gawat Darurat Rumah Sakit Bedah Halmahera Siaga,"3JV8+87V, Citarum",-6.9066353,107.6156595,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,6,Citarum
+Bedah,"3JV8+38M, Citarum",-6.907284999999999,107.6157877,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Citarum
+"dr. Edwin Kurniawan, Sp.OG, M.Kes, MBA, FMIGS, FICS, FEGRF, FI, Int.Aff.RANZCOG @RSIA Limijati",Jalan L. L. R.E. Martadinata No.39,-6.906218399999998,107.6136497,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,5,42,Citarum
+Kesehatan Daerah Militer (Kesdam) III/Siliwangi,"Jalan Ambon No.7, Citarum",-6.907690899999999,107.6154523,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,80,Citarum
+Hedy S. Handaru Drg Sp. Ort,"Jalan Madura No.2, Citarum",-6.906805799999999,107.619485,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,2,Citarum
+Loby halmahera,"3JR7+HMF, Citarum",-6.908573199999999,107.6141653,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Citarum
+Perempatan Bermuda,"Jalan Diponegoro No.15, Citarum",-6.900378700000001,107.6135622,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Citarum
+Unit Dialisis Sariningsih,"Jalan L. L. R.E. Martadinata No.9, Citarum",-6.9065061,107.6111742,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1,Citarum
+RS Sariningsih Martadinata,"Jalan L. L. R.E. Martadinata No.9, Citarum",-6.907011999999999,107.611362,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.5,374,Citarum
+Medstar,"Jalan Suryalaya Tengah No.14 A, Cijagra",-6.9441031,107.62304,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,1,Cijagra
+Poliklinik ISBI,"No.212, GOS.Patanjala,, Jalan Buah Batu, Cijagra",-6.942609699999999,107.6275183,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Cijagra
+Dr. Riyana Meliza,"Jalan Trs. Citamiang No.66, Sukamaju",-6.907165900000001,107.634877,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukamaju
+Cahaya Bandung,"JL Jenderal Ahmad Yani, No. 825, Kacapiring, Batununggal, Sukamaju",-6.9123848,107.635918,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sukamaju
+Diabetes Tanpa Amputasi & Operasi - GR SETRA POLIKLINIK,"Jalan Tubagus Ismail VI No.27, Sekeloa",-6.8828513,107.6184931,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.3,12,Sekeloa
+IGD FARMASI,"Jalan Tubagus Ismail No.46, Sekeloa",-6.8855706,107.620525,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2,Sekeloa
+Rumah Sakit Ginjal Indonesia,"Jl. Tubagus Angke VII No.21, Sekeloa",-6.8851814,107.6205396,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.9,8,Sekeloa
+RS Khusus Ginjal Ny. R.A. Habibie,"Jalan Tubagus Ismail No.46, Sekeloa",-6.885246,107.6203275,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.4,459,Sekeloa
+Tambal Ban Mang JaJa,"4J7F+7C5, Jalan Tubagus Ismail, Sekeloa",-6.8868543,107.6235955,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sekeloa
+Grabnow Klinik Cmi,"Jalan Tubagus Ismail VII No.16 A, Sekeloa",-6.882901599999999,107.6194685,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Sekeloa
+KANKER TANPA OPERASI - GR SETRA POLIKLINIK,"Jl. Tubagus Ismail VII No. 21 Kecamatan :, Kelurahan : Sekeloa, RT.: 05/RW.:, 11",-6.882943699999999,107.6191799,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.9,62,Sekeloa
+RSCMI,"Jalan Tubagus Ismail VII, Sekeloa",-6.8828002,107.6192138,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.1,374,Sekeloa
+Rumah Sakit Jantung,Jalan Tubagus Ismail VII No.21,-6.8827803,107.6191738,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,34,Sekeloa
+CMI HOSPITAL BANDUNG,Jalan Tubagus Ismail VII No.21,-6.8827803,107.6191738,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.6,186,Sekeloa
+Poliklinik GR SETRA  Laboratorium Klinik Avicenna,"Jalan Tubagus Ismail VII No.21 Dago, Bandung, RW.01, Sekeloa",-6.8827803,107.6191738,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,51,Sekeloa
+Puskesmas Ledeng,"Jalan Sersan Bajuri Dalam No.2, Isola",-6.8581752,107.5946309,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.6,83,Isola
+Kost Cilimus Bahagia,"Jalan Cilimus No.20, Isola",-6.858381899999999,107.5911154,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown,Isola
+Poliklinik UPI,"4HQV+666, Jalan Doktor Setiabudi, Isola",-6.861959399999999,107.5930227,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.3,110,Isola
