@@ -1,0 +1,17 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Gedung F Fakultas Tarbiyah dan Keguruan,"3P34+RCF, Jalan Cimincrang, Cimenerang",-6.945425499999999,107.7060594,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Saung Lahan Praktikum Agroteknologi,3P43+CQ7,-6.9439563,107.7044349,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Kampus 2 uin bandung,"3P43+266, Jalan Cilameta, Cimenerang",-6.944942999999999,107.7030092,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Gedung Tarbiyah,"3P43+XGC, Cimenerang",-6.943064999999999,107.7034217,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+UIN BANDUNG,"3P43+XGC, Cimenerang",-6.9425561,107.7037544,OPERATIONAL,4.7,23,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Ekonomi dan Bisnis Islam,"Jalan Cimincrang No.27, Cimenerang",-6.942772799999999,107.7024383,OPERATIONAL,5,9,"university, point_of_interest, establishment",,Unknown,Unknown
+Rektorat UIN Sunan Gunung Djati Bandung,"3P53+78Q, Jalan Cimincrang, Cimenerang",-6.9417968,107.70335,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+KOPERTAIS Wilayah II Jawa Barat,"Jalan Soekarno-Hatta, Cimenerang",-6.939632,107.7045791,OPERATIONAL,4.9,18,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung Pendidikan Kampus II UIN Sunan Gunung Djati,"3P63+5V2, Cimenerang",-6.939622699999999,107.7046535,OPERATIONAL,4.5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung Pusat Riset Sejarah Peradaban Islam UIN SGD Bandung,Cimenerang,-6.939691199999999,107.7037489,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+PIAUD UIN BANDUNG,"3P63+7WW, Cimenerang",-6.9392677,107.7048241,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+"UIN Campus 2, Building B","3P63+8QG, Cimenerang",-6.9392,107.704443,OPERATIONAL,4.8,66,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung Kuliah dan Laboratorium Madrasah UIN Bandung,"3P64+J3X, Cimenerang",-6.938399299999999,107.7052279,OPERATIONAL,5,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Lab Integrasi MIPA - Pusat Kajian Halal - Lembaga Pemeriksa Halal UIN Sunan Gunung Djati Bandung,"Kampus 2 UIN Sunan Gunung Djati, Jalan Soekarno-Hatta, Cimenerang",-6.937805699999999,107.7049553,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+UIN Sunan Gunung Djati Bandung Kampus II,"Jalan Soekarno-Hatta, Cimenerang",-6.937805699999999,107.7049553,OPERATIONAL,4.7,419,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah,"3P63+VXG, Panyileukan, Jalan Cimincrang, Cimenerang",-6.937802899999999,107.7049464,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

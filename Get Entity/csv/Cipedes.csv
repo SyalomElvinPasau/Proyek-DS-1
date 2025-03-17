@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Rumah AL,"Jalan Karang Tineung Indah Dalam No.113, Cipedes",-6.883798199999999,107.5918419,OPERATIONAL,3,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Mg andi,"Jalan Karang Layung No.4, Cipedes",-6.882597700000001,107.5935116,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Melan Academy || LKP LPK MELAN,"Jalan Sukajadi No.128, Pasteur",-6.8905189,107.5969534,OPERATIONAL,5,7,"university, point_of_interest, establishment",,{'open_now': False},Unknown

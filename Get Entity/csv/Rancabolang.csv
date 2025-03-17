@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Umpi cibiru,"2MQW+43F, Jalan Cynthia III, Rancabolang",-6.9621828,107.6951864,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+LKP PUSPA INDAH BANDUNG,"Jalan Cibiru Indah 7 No.7, Cibiru Wetan",-6.9624076,107.6959579,OPERATIONAL,3,4,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Dapur Vani : Coklat Dubai | Katering Sekolah | Cold Thai Milkbun | Ai Nama Chocolate Jepang | Kursus Online Bisnis Kuliner,"Komplek Bumi Adipura Cluster Cempaka Jalan Cempaka 5 A Nomor 1, Rancabolang",-6.96422,107.697105,OPERATIONAL,4.9,63,"bakery, university, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+PT COACH ADDIE GROUP,"Jalan Palem VI Perum Bumi Adipura No.2, Rancabolang",-6.967043199999999,107.7003051,OPERATIONAL,5,1,"university, health, point_of_interest, establishment",,{'open_now': True},Unknown

@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+STIA Bagasasi,"Jalan Cukang Jati No.5, Samoja",-6.924019400000001,107.629004,OPERATIONAL,4.1,125,"university, point_of_interest, establishment",,{'open_now': False},Unknown

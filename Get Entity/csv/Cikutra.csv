@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Bandung National Institute of Technology (ITENAS),"Jalan Khp Hasan Mustopa No.23, Neglasari",-6.898149999999999,107.63581,OPERATIONAL,4.7,967,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung Fakultas Universitas Sangga Buana,"Jalan Khp Hasan Mustopa No.68, Cikutra",-6.899890399999999,107.6406692,OPERATIONAL,3.7,3,"university, point_of_interest, establishment",,Unknown,Unknown
+STIKOM Bandung,"Jalan Khp Hasan Mustopa No.72, Cikutra",-6.899807,107.641582,OPERATIONAL,3.4,5,"university, point_of_interest, establishment",,Unknown,Unknown
+Universitas Sangga Buana YPKP,"Jalan Khp Hasan Mustopa No.68, Cikutra",-6.899335000000001,107.640543,OPERATIONAL,4.5,720,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Nc Rich n Glowing,"3JWR+8H6, Gang Sukamulya, Cikutra",-6.904204,107.6413782,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Komplek Perindustrian B4T,"3JXQ+83J, Jalan Lapang Tembak, Cikutra",-6.9016573,107.6376314,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Pasca Sarjana STIE EKUITAS,Jalan Bekatonik No.08,-6.9005292,107.6423739,OPERATIONAL,5,5,"university, point_of_interest, establishment",,{'open_now': False},Unknown

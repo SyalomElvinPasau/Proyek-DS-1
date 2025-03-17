@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Universitas Bandung,"Jalan Muararajeun No.51, Cihaur Geulis",-6.901230600000001,107.627312,OPERATIONAL,4.3,121,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Apikes Bandung,"Jalan Muararajeun No.69, Cihaur Geulis",-6.9011716,107.6271968,OPERATIONAL,4.4,63,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Medical Record Academy,"Jalan Muararajeun No.69, Cihaur Geulis",-6.9011716,107.6271968,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Kaya Itu Mulia,"3JWH+FF5, Jalan Supratman, Cihaur Geulis",-6.903860099999999,107.6287276,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Politeknik Pajajaran ICB,"masuk ke, Jalan Pahlawan Jalan Sukaluyu I Gang I",-6.9007885,107.633014,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown

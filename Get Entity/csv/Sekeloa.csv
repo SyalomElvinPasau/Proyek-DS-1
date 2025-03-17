@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sekolah Tinggi Teknologi Nasional Bandung,"Jalan Tubagus Ismail No.57, Sekeloa",-6.884825900000001,107.6214933,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Tinggi Ilmu Administrasi Bandung,"Jalan Terusan Tubagus Ismail Raya No.51, Sekeloa",-6.886385600000001,107.623202,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kostan 1 bandung,"Gang Kubang Sari VII No.22, Sekeloa",-6.8880933,107.618599,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+UNIVERSITAS GREENTEA,"Gang III No.42B, RT.05/RW.07, Sekeloa",-6.8871901,107.6168387,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Tugas Akhir Itu Asyik,"Jalan Tubagus Ismail XV No.4, Sekeloa",-6.8825286,107.6173242,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

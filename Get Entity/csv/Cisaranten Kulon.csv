@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Al-Islam Polytechnic Bandung,"Jalan Cisaranten Kulon No.120, Cisaranten Kulon",-6.9296096,107.6799366,OPERATIONAL,4.6,51,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+AKFAR & SMK YPF BANDUNG,"Jalan Cisaranten Kulon No.105, Cisaranten Kulon",-6.9206718,107.6845316,OPERATIONAL,4.5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Al-Ghifari University,"Jalan Cisaranten Kulon No.140, Cisaranten Kulon",-6.933424,107.6794406,OPERATIONAL,4.4,210,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+SEKRETARIAT MATA ALAM,"Jalan Cisaranten Kulon IV No.1, Cisaranten Kulon",-6.927403399999999,107.6821723,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Sekolah Tinggi Manajemen Informatika Dan Komputer (Stmik) Jabar,"JL. Cisaranten Kulon, No. 135 B, Soekarno-Hatta, Bandung, Cisaranten Kulon",-6.928066999999999,107.680775,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+TK ISLAM TERPADU ALHAMBRA,"Rusunawa Cingised, BLOK 5 LT DASAR",-6.927427199999999,107.6769937,OPERATIONAL,Unknown,Unknown,"school, university, store, point_of_interest, establishment",,{'open_now': False},Unknown
+D Casa Grande no.53,"Komplek D Casa Grande no.53, Jalan Cisaranten Kulon RT.04/RW.07, Cisaranten Kulon",-6.930697,107.6804107,OPERATIONAL,4.9,7,"university, point_of_interest, establishment",,Unknown,Unknown
+Akademi Farmasi YPF,"Jalan Cisaranten Kulon No.105, Cisaranten Kulon",-6.9206926,107.684654,OPERATIONAL,4.6,42,"university, point_of_interest, establishment",,Unknown,Unknown
+sekolah,"Jalan Cisaranten Kulon No.140, Cisaranten Kulon",-6.9334793,107.6793272,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown

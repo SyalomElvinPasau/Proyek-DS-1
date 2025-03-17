@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Ma'had Al Imarat (Putri) Bandung,"Gang Muncang Jalan Pungkur No.31, Pungkur",-6.9290414,107.6045776,OPERATIONAL,4.7,64,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Yayasan Badan Pendidikan Rehoboth,"Jalan Dewi Sartika No.36-38, Balonggede",-6.9282305,107.6056584,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

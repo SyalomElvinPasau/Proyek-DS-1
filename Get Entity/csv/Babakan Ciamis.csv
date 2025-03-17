@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Pascasarjana Universitas Pasundan Bandung (UNPAS),"Jalan Sumatera No.41, Babakan Ciamis",-6.911357700000001,107.6121559,OPERATIONAL,4.9,179,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Akademi Akuntansi Bandung,"Jalan Merdeka No.33, Babakan Ciamis",-6.908869800000001,107.6104222,OPERATIONAL,4.9,7,"university, accounting, finance, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung 11 UNPAR,"Jalan Aceh No.53, Babakan Ciamis",-6.9096289,107.6102166,OPERATIONAL,5,11,"university, point_of_interest, establishment",,Unknown,Unknown
+Perpustakaan Universitas Katolik Parahyangan Fakultas Filsafat,"Jalan Nias No.2, Babakan Ciamis",-6.9115587,107.6111005,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Universitas Pasundan (UNPAS) - Jl. Sumatra,"Jalan Sumatera No.41, Braga",-6.9113514,107.6123926,OPERATIONAL,4,8,"university, point_of_interest, establishment",,Unknown,Unknown
+"Sekolah Pascasarjana, Universitas Katolik Parahyangan","Jalan Merdeka No.30, Babakan Ciamis",-6.9115837,107.6109126,OPERATIONAL,4.6,46,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Akademi Sekretaris dan Manajemen (ASM) Kencana Bandung,"Jalan Wastukencana No.5c, Babakan Ciamis",-6.9125838,107.6087743,OPERATIONAL,4.7,116,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Pascasarjana Fakultas Ekonomi dan Bisnis UNWIM,"Jalan Wastukencana No.5, Babakan Ciamis",-6.912614899999999,107.6088493,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+SLTP Negeri 2 Ngamprah,"Jalan Wastukencana No.5, Babakan Ciamis",-6.9126504,107.6087655,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

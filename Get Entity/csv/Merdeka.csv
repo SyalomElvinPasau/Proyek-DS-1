@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sekolah Tinggi Seni Rupa Dan Desain Indonesia,"Jl. Belitung No. 7 Padakasih Cibebes Cimahi Jawa Barat, Merdeka",-6.911601099999999,107.6169956,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Perguruan Tinggi Indonesia Mandiri,"Jalan Belitung No.7, Merdeka",-6.9111954,107.6178252,OPERATIONAL,4.7,122,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Merpati Putih,"Bengrah III/Bandung, Jalan Gudang Utara, Merdeka",-6.916072400000001,107.6242184,OPERATIONAL,3.4,5,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Tinggi Ilmu Ekonomi STAN IM,"Jalan Belitung No.7, Merdeka",-6.9113902,107.6177982,OPERATIONAL,5,6,"university, point_of_interest, establishment",,{'open_now': False},Unknown

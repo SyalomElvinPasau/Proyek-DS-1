@@ -1,0 +1,13 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Universitas Pasundan,"Jalan Doktor Setiabudi No.193, Gegerkalong",-6.866501999999999,107.593245,OPERATIONAL,4.6,385,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Menengah Pertama (SMP) Bina Darma 2,"Jalan Gegerkalong Hilir No.18, Gegerkalong",-6.869346299999999,107.5882517,OPERATIONAL,4.5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+kosan,"Jalan Gegerkalong Tengah No.4 No.24F, Gegerkalong",-6.8674034,107.5918963,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Daerah Istimewa Team 7,"4HMR+9VW, Gegerkalong",-6.8665066,107.5921982,OPERATIONAL,5,7,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Fakultas Teknik Unpas,"Jalan Doktor Setiabudi No.193, Gegerkalong",-6.8661903,107.5925276,OPERATIONAL,4.7,98,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Tinggi Agama Islam Daarut Tauhiid,"Jalan Gegerkalong Girang No.67, Gegerkalong",-6.8644119,107.5899622,OPERATIONAL,4.9,46,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Studio Harry Roesli,"Jalan Doktor Setiabudi No.193, Gegerkalong",-6.866155999999998,107.5925702,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Teknik Industri Unpas,"Jalan Doktor Setiabudi No.193, Gegerkalong",-6.8658965,107.5924718,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+sakola,"4HMV+F4V, Jalan Unpas Setyabudi, Gegerkalong",-6.8662728,107.5927985,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Program Studi Seni Musik Unpas,"Jalan Doktor Setiabudi No.193, Gegerkalong",-6.8665247,107.5937283,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Pangkalan Gojek UNPAS,"Jalan Doktor Setiabudi No.193, Gegerkalong",-6.866525399999999,107.5937632,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+E-bitmark,"Kotak Pos 1234, Gedung Adminitrasi Niaga, Jalan Gegerkalong Hilir, Ciwaruga",-6.865601700000001,107.5834383,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown

@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Pusdiklat STIKes DHB,"3M9G+VJJ, Cisaranten Endah",-6.930296100000001,107.6765224,OPERATIONAL,5,6,"university, point_of_interest, establishment",,Unknown,Unknown
+Jawa barat,"Jalan Parakan Saat No.70, Cisaranten Endah",-6.932796199999999,107.6681845,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Tinggi Ilmu Kesehatan Bhakti Kencana,"Jalan Soekarno-Hatta No.754, Palasari",-6.938341100000001,107.6726921,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+STMIK JABAR,"Jalan Soekarno-Hatta No.777, Cisaranten Endah",-6.937741,107.67713,OPERATIONAL,4.5,93,"university, point_of_interest, establishment",,{'open_now': False},Unknown

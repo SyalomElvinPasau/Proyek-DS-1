@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Politeknik Energi dan Pertambangan (PEP) Bandung,"Gedung PEP Bandung, Jalan Jend. Sudirman No.623",-6.919431100000001,107.5800961,OPERATIONAL,4.8,62,"university, point_of_interest, establishment",,{'open_now': False},Unknown

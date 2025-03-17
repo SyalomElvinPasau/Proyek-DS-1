@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Universitas Jenderal Achmad Yani,"3J8W+8RP, Jl. Terusan Jenderal Gatot Subroto, Sukapura, Kiaracondong, Sukapura",-6.934163700000001,107.6470897,OPERATIONAL,4.6,110,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kebon Jati Nursing Academy,"Jalan Kawaluyaan No.70, Sukapura",-6.935824900000002,107.65684,OPERATIONAL,4.3,18,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Universitas Informatika Dan Bisnis Indonesia (UNIBI),"Jalan Soekarno-Hatta No.643, Sukapura",-6.9422621,107.650718,OPERATIONAL,4.5,308,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lab. Perancangan & Konstruksi Mesin UNJANI BANDUNG,"3J8W+7W3, Jalan Gatot Subroto, Sukapura",-6.9343672,107.647282,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Fadel malik,"3M63+F9X, Jalan Cidurian Utara RT.05 rw10, Sukapura",-6.9387714,107.6534851,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Laboratorium Fisika UNJANI Bandung,"3J8W+7RV, Kebon Kangkung",-6.9342607,107.6470352,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Pusat Makanan Sereal,Jalan Terusan PSM Gang Sukabakti V No.62,-6.9319299,107.6551584,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+HMM UNJANI Bandung,"3J8W+7J6, Sukapura",-6.934348000000001,107.6465091,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+UIN sunan gunung Djati,"3J4X+XX4, Jalan Soekarno-Hatta",-6.942603399999999,107.6499655,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kampus 2 UNIBI,"3J4X+XQ3, Bandung, Sukapura",-6.942619,107.6494217,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Yayasan Pendidikan Ilmu Administrasi Dan Akutansi ( YPIA ),"Jalan Soekarno-Hatta No.639, Sukapura",-6.942819699999999,107.6492478,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Universitas Teknologi Bandung (UTB),"Jalan Soekarno-Hatta No.378, Kebon Lega",-6.948222000000001,107.6011221,OPERATIONAL,4.9,2436,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+EAC Indonesia. PT,"Jalan Soekarno-Hatta No.503-A, Kebon Lega",-6.9474852,107.5978579,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+STMIK Mardira Indonesia,"Jalan Cibaduyut Raya No 21 Kelurahan Cibaduyut, Kebon Lega",-6.948366799999999,107.5946411,OPERATIONAL,5,5,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Akademi Pariwisata Tadikapuri,Jalan Soekarno-Hatta No.729,-6.9474852,107.5978579,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kelas Karyawan Universitas Teknologi Bandung (UTB),Kebon Lega,-6.948057299999999,107.6009232,OPERATIONAL,5,30,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Rumah Rafly,"Gang Bapa Sarhawi No.12, RT.07/RW.06, Kebon Lega",-6.948700400000002,107.5920299,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': True},Unknown

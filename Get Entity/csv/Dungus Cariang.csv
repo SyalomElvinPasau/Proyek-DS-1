@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Midwifery Academy,"Jalan Garuda No.79-83, Dungus Cariang",-6.911192,107.578405,OPERATIONAL,4.4,30,"university, point_of_interest, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Akademi Pariwisata Bandung,"Jalan Situ No.16, Sukahaji",-6.9209038,107.5821426,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+MTsS Daarur Rahmah,"Jalan Jend. Sudirman No.545, Sukahaji",-6.9190808,107.5857071,OPERATIONAL,4,2,"university, point_of_interest, establishment",,Unknown,Unknown

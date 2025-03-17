@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Academy of Pharmacy Bumi Siliwangi,"Jl. Rancabolang no 104 (Samping Terminal Margahayu Ledeng), Kompleks Margahayu Raya, Sekejati",-6.946754599999999,107.6625902,OPERATIONAL,4.9,46,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Teguh S.,Sekejati,-6.9451874,107.6570974,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Mandiri University Bandung,"No Jalan Soekarno-Hatta No.574, Sekejati",-6.9423418,107.6538474,OPERATIONAL,4.7,107,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lembaga Pendidikan Salemba - Bandung,"Ruko Metro Trade Center (MTC) Blok A-21, JL. Soekarno Hatta No. 590, Bandung, West Java, Sekejati",-6.9419127,107.6578621,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+les gambar gia's art gallery MTC METRO INDAH MALL bandung,"Mtc blok H, Jalan MTC II No.590 no.8",-6.9425142,107.6596727,OPERATIONAL,5,14,"museum, university, art_gallery, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Nusa Private Bandung,"depan rumah tahfidz, Jalan Cijawura Girang III, Sekejati",-6.9465789,107.6494219,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Tutor Calistung dan english,"Ruko metro trade center, Blok B No.31, Sekejati",-6.941325100000001,107.6591272,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+MetrixFlasher Kursus Teknisi HP Bandung,"Jl. Jupiter Timur II No.4 blok C2, RT.02/RW.02, Sekejati",-6.9458334,107.6622379,OPERATIONAL,4.8,91,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+MTs Swasta Miftahul Falah,"Jalan Rancabolang No.50, Sekejati",-6.9490338,107.6621314,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

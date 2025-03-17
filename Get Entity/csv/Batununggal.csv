@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+CK Education,"2JWG+2QM, Jalan Batununggal Indah Raya, Batununggal",-6.954924600000001,107.6269197,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+TKA-TPA Baiturrahman,"Jalan Batu Indah Raya No.37, Batununggal",-6.953165500000001,107.6336919,OPERATIONAL,3.3,3,"university, point_of_interest, establishment",,Unknown,Unknown
+South Asia Course Center,"2JWH+5M9, Jalan Batununggal Indah Raya, Batununggal",-6.9545849,107.6292424,OPERATIONAL,5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Tinggi Farmasi Indonesia,"Jalan Soekarno-Hatta No.354, Batununggal",-6.949570599999999,107.6297478,OPERATIONAL,4.7,146,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Pascasarjana Polinema,"SOEKARNO HATTA, Jalan Soekarno-Hatta, Batununggal",-6.9486072,107.6332313,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kelas Karyawan Univ. Faletehan Bandung,"Jalan Parakan Resik No.2, Batununggal",-6.9495872,107.6294264,OPERATIONAL,4,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Institut Digital Ekonomi LPKIA Bandung,"Jalan Soekarno-Hatta No.456, Batununggal",-6.9497258,107.6246344,OPERATIONAL,4.4,245,"university, point_of_interest, establishment",,{'open_now': False},Unknown

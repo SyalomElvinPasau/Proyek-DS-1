@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Bimbingan Belajar Simply Fast,"3PQ3+M79, Jalan Cigending, Cigending",-6.910843,107.703228,OPERATIONAL,4,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown

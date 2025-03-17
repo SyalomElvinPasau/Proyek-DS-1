@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Akademi Sekretaris & Manajemen Taruna Bakti,"Jalan L. L. R.E. Martadinata No.93-95, Citarum",-6.9056804,107.619704,OPERATIONAL,4.2,77,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Program Studi Magister Kenotariatan Universitas Padjadjaran,"Jalan Hayam Wuruk No.2, Citarum",-6.903937599999999,107.6172827,OPERATIONAL,4.8,14,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Menengah Pertama (SMP) Yahya,"JL Laks. RE. Martadinata, No. 71 – 73, Citarum",-6.9061892,107.6171344,OPERATIONAL,3.7,6,"university, point_of_interest, establishment",,Unknown,Unknown
+STIA LAN Bandung,"Jalan Hayam Wuruk No.34-38, Citarum",-6.9032192,107.6208386,OPERATIONAL,4.7,237,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Unpad Lembaga Pengabdian & Pengembangan Kepada Masyarakat,"Jalan Cisangkuy No.62, Citarum",-6.902197600000001,107.6215167,OPERATIONAL,5,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Speak Up! The Public Speaking School,"Bandung Wetan,Kota Bandung, 40115, Jalan Cisangkuy No.62, Citarum",-6.9021857,107.6216243,OPERATIONAL,5,1,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+DJ Arie Public Speaking & Broadcasting School,"Jalan Cisangkuy No.66 Lantai 2, Citarum",-6.901659699999999,107.6213704,OPERATIONAL,4.4,23,"school, university, point_of_interest, establishment",,{'open_now': False},Unknown

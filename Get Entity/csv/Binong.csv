@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Pendopo Colok Begog,"Gang Kurnia 2 No.3, Binong",-6.933859500000001,107.6395794,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+BRBN TEAM,Jalan Ibrahim Adjie,-6.9327841,107.6418755,OPERATIONAL,Unknown,Unknown,"school, university, point_of_interest, establishment",,{'open_now': False},Unknown

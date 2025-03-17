@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+MK Record Studio,"Jalan Golf Selatan IⅤ No.3, Cisaranten Bina Harapan",-6.9164622,107.6862559,OPERATIONAL,4.4,89,"school, university, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Bumi Berbakti College,"Jalan AH. Nasution No.51, RT.04/RW.01, Pasir Endah",-6.9102614,107.6896057,OPERATIONAL,4.9,11,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Lie Tulip,"Jl.Jendral Jl. A.H. Nasution No.198, Seberang Perumahan Taman Sari, Bukit Bandung",-6.905427500000001,107.6817387,OPERATIONAL,5,284,"beauty_salon, hair_care, university, health, point_of_interest, establishment",,{'open_now': False},Unknown

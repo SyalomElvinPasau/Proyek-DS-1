@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Mako Kompi BS Piksi Ganesha Polytechnic,"Jalan Gatot Subroto No.259, Cibangkong",-6.926441499999999,107.6343664,OPERATIONAL,3.7,6,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+loteng univ oxprot di negara lucu,"3JGJ+4R8, Jalan 17 Agustus II, Cibangkong",-6.924709299999999,107.6320645,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+MTs Swasta Hidayah,"Jalan 17 Agustus II No.19, Cibangkong",-6.924206799999999,107.6316591,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Politeknik PTKSI Ganesha Kampus IX,"3JFM+9V7, Jalan Gatot Subroto, Cibangkong",-6.926597000000001,107.634684,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

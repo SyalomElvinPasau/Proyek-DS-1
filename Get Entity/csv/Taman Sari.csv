@@ -1,0 +1,18 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Bandung Institute of Technology Rectorate,"Jalan Tamansari No.64, Tamansari",-6.8988318,107.6100192,OPERATIONAL,4.5,119,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Akpari,"Jalan Hariangbanga No.5, Tamansari",-6.9023642,107.6089387,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Prodi Teknik Pertambangan Unisba,"Jalan Tamansari No.1, Tamansari",-6.9033757,107.6076923,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Fakultas Dakwah Unisba,"Jalan Tamansari No.1, Tamansari",-6.9034035,107.6076528,OPERATIONAL,4.8,6,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Bandung Islamic University,"Jalan Tamansari No.1, Tamansari",-6.903590299999999,107.6078372,OPERATIONAL,4.7,716,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Faculty Of Medicine Bandung Islamic University,"Jalan Tamansari No.20, Tamansari",-6.903312499999999,107.6087914,OPERATIONAL,4.4,303,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kantor Jurnal MIMBAR (Sosial dan Pembangunan),"Jalan Tamansari No.20, Tamansari",-6.9035339,107.6086157,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Rektorat Universitas Islam Bandung,"Jalan Tamansari No.20, Tamansari",-6.903564299999998,107.6086509,OPERATIONAL,4.8,6,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekretariat Pascasarjana UNISBA,"Jalan Purnawarman No.59, Tamansari",-6.9032111,107.6092819,OPERATIONAL,4.9,47,"university, point_of_interest, establishment",,Unknown,Unknown
+UPT Promosi FE Unpas,"Jalan Tamansari No.6-8, Tamansari",-6.904634199999999,107.608258,OPERATIONAL,4.4,49,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Pasundan University,Jalan Tamansari No.6-8,-6.905365999999998,107.6081044,OPERATIONAL,4.6,439,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+CCAR Building ITB,"Jalan Tamansari No.64, Tamansari",-6.8987932,107.6101937,OPERATIONAL,4.5,12,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Sekolah Tinggi Desain Indonesia,"3JW3+9R5, Jalan Wastukencana No.52, Tamansari",-6.903943700000001,107.604651,OPERATIONAL,4.6,68,"university, point_of_interest, establishment",,Unknown,Unknown
+Kost Luna,"Jalan Tamansari Bawah No.83/59, RT.08/RW.20, Tamansari",-6.901746599999999,107.607351,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kost-an Asterina,"Jalan Tamansari Bawah Gang Aster No.99/59, RT.06/RW.20, Tamansari",-6.9024457,107.6066363,OPERATIONAL,Unknown,Unknown,"university, lodging, point_of_interest, establishment",,Unknown,Unknown
+Rumah Kos Puteri Bumi Atikan I,"Jalan Tamansari Atas, Gang Karya Laksana No.21, RT.01/RW.14, Tamansari",-6.9027496,107.6070998,OPERATIONAL,5,6,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Hukum Unisba,"Jalan Tamansari No.24, Tamansari",-6.902327699999999,107.6083537,OPERATIONAL,5,4,"university, point_of_interest, establishment",,Unknown,Unknown

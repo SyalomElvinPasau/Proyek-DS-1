@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_11419ac798bae6e349687712cce08c05 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_11419ac798bae6e349687712cce08c05" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_11419ac798bae6e349687712cce08c05 = L.map(
+                "map_11419ac798bae6e349687712cce08c05",
+                {
+                    center: [-6.91632706454132, 107.64126294331174],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c1f40f330606dae8b5883630418e05ae = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_c1f40f330606dae8b5883630418e05ae.addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var polygon_288172c8812ba815f789716d29e20ef9 = L.polygon(
+                [[-6.922687530999951, 107.64012908900014], [-6.922612189999938, 107.64015960800009], [-6.921733856999936, 107.64055633400005], [-6.921548842999869, 107.64064788800016], [-6.921434879999936, 107.6405334480001], [-6.921293735999825, 107.64061737000014], [-6.921152591999942, 107.64067840500013], [-6.921034335999934, 107.64068603500004], [-6.920879363999973, 107.6406555170002], [-6.920040129999904, 107.63986206100009], [-6.919615744999874, 107.63944244400011], [-6.919529913999895, 107.63934326200007], [-6.919209480999939, 107.63905334400005], [-6.919098375999965, 107.63892364500003], [-6.918950080999878, 107.63867950400004], [-6.91884994399993, 107.63843536500013], [-6.918705939999938, 107.63799285900012], [-6.918619155999863, 107.6376647940001], [-6.918527125999958, 107.6373825080002], [-6.91844272499992, 107.637397766], [-6.91836881699993, 107.63737487800006], [-6.918267248999939, 107.63740539600013], [-6.918176649999907, 107.63742828300013], [-6.917803287999959, 107.63750457800018], [-6.917634009999972, 107.63755035400004], [-6.917319774999896, 107.63762664700005], [-6.917071342999975, 107.63768768200003], [-6.916871070999889, 107.63773345900017], [-6.91655778899991, 107.63780212500018], [-6.916421889999981, 107.6378173830002], [-6.915031432999911, 107.63762664700005], [-6.914556025999957, 107.63756561200006], [-6.914449690999959, 107.63755035400004], [-6.914160728999832, 107.63750457800018], [-6.914009094999869, 107.6374740600001], [-6.913774966999881, 107.63746643000019], [-6.913595675999886, 107.63745117100007], [-6.913367746999938, 107.63750457800018], [-6.91300868999997, 107.63763427700013], [-6.912753105999968, 107.63773345900017], [-6.912629127999935, 107.63776397600014], [-6.912526129999947, 107.6377944950001], [-6.91239023199995, 107.63784027200006], [-6.912264822999816, 107.63783264200009], [-6.912107942999967, 107.63776397600014], [-6.91197442999993, 107.63769531300005], [-6.911734102999958, 107.6376037610001], [-6.911634920999916, 107.63778686500012], [-6.911377428999913, 107.638259887], [-6.911276339999915, 107.63845062299998], [-6.911191462999909, 107.63861084000001], [-6.911062716999936, 107.63885498000013], [-6.910981654999944, 107.63901519700016], [-6.910851478999916, 107.63925933800004], [-6.910703181999907, 107.63954925500013], [-6.910582541999872, 107.63977050700015], [-6.910543917999973, 107.63983917300015], [-6.910435676999896, 107.64003753700001], [-6.910315036999975, 107.64028167700013], [-6.910130500999969, 107.64061737000014], [-6.910027980999928, 107.64080810600012], [-6.909810542999935, 107.6412124630001], [-6.909603595999954, 107.64160919100004], [-6.909548282999936, 107.64172363400019], [-6.9092860209999, 107.64225769100005], [-6.909136771999897, 107.64252471900011], [-6.909048556999949, 107.64267730600005], [-6.908951282999908, 107.64285278400018], [-6.908788679999873, 107.64314270000017], [-6.908722399999874, 107.64326477100008], [-6.910116671999958, 107.64339447000003], [-6.910424708999869, 107.6434249880001], [-6.910556792999955, 107.643440247], [-6.911584375999894, 107.64354705700015], [-6.911789415999976, 107.64356231699998], [-6.911967753999932, 107.64358520600001], [-6.912858485999891, 107.64367675800014], [-6.913635254999974, 107.64376068200016], [-6.913734436999903, 107.64377594000018], [-6.914388179999889, 107.64382934500009], [-6.915750978999938, 107.64398193500006], [-6.915923594999924, 107.64399719300008], [-6.916653155999882, 107.64405822800006], [-6.917501925999943, 107.64410400300005], [-6.917728900999919, 107.64411926300005], [-6.917916297999966, 107.64412689200009], [-6.918066501999874, 107.6441421500001], [-6.918277262999879, 107.64414978000019], [-6.918547629999978, 107.64417266900006], [-6.919008731999952, 107.6442031850001], [-6.919242857999961, 107.64421081500018], [-6.919650553999929, 107.64423370400004], [-6.9205832479999, 107.64427948100018], [-6.921548842999869, 107.64432525600017], [-6.92171192099994, 107.64434051400019], [-6.922276496999871, 107.644363403], [-6.922867297999971, 107.64440155000005], [-6.923187254999903, 107.64441681000011], [-6.924262047999946, 107.64447784300006], [-6.924019335999901, 107.64382171700015], [-6.92383289299994, 107.643295288], [-6.923523425999917, 107.64246368400012], [-6.923404216999927, 107.64213562100008], [-6.923261642999933, 107.64172363400019], [-6.923111915999868, 107.64133453300008], [-6.923063753999884, 107.64120483400006], [-6.922760962999973, 107.64035034200009], [-6.922687530999951, 107.64012908900014]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var marker_d35a74c52cc206b81ec5eb73a1c7536a = L.marker(
+                [-6.913585299999999, 107.639876],
+                {
+}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var icon_6c3c470c7aa1e8eab5dc6225388b53c2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_89b73ee8d99cc626804502318a73aa4c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_92222f4c17b0a3f4f9a992565579856a = $(`<div id="html_92222f4c17b0a3f4f9a992565579856a" style="width: 100.0%; height: 100.0%;">Hall Building Of Politeknik STT Tekstil</div>`)[0];
+                popup_89b73ee8d99cc626804502318a73aa4c.setContent(html_92222f4c17b0a3f4f9a992565579856a);
+            
+        
+
+        marker_d35a74c52cc206b81ec5eb73a1c7536a.bindPopup(popup_89b73ee8d99cc626804502318a73aa4c)
+        ;
+
+        
+    
+    
+                marker_d35a74c52cc206b81ec5eb73a1c7536a.setIcon(icon_6c3c470c7aa1e8eab5dc6225388b53c2);
+            
+    
+            var marker_6ab863b98f89a0f3dd1be385c5401f7e = L.marker(
+                [-6.916558800000001, 107.6408612],
+                {
+}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var icon_db965a04a6eec3762cd181a325088f6f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7b209e9417e8274872bb6c836d187932 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2e8c79c4099f44f283504e65bf15c793 = $(`<div id="html_2e8c79c4099f44f283504e65bf15c793" style="width: 100.0%; height: 100.0%;">Kampus STEBI</div>`)[0];
+                popup_7b209e9417e8274872bb6c836d187932.setContent(html_2e8c79c4099f44f283504e65bf15c793);
+            
+        
+
+        marker_6ab863b98f89a0f3dd1be385c5401f7e.bindPopup(popup_7b209e9417e8274872bb6c836d187932)
+        ;
+
+        
+    
+    
+                marker_6ab863b98f89a0f3dd1be385c5401f7e.setIcon(icon_db965a04a6eec3762cd181a325088f6f);
+            
+    
+            var marker_59b73f9ce887319cceb5b4017e291dbe = L.marker(
+                [-6.9135139, 107.6399829],
+                {
+}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var icon_cb874d7b648a7fdb93fb84b5708af323 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2401d1142d47c901bad23bc93a61d421 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7fa31f59b5287c5c5568e46584433356 = $(`<div id="html_7fa31f59b5287c5c5568e46584433356" style="width: 100.0%; height: 100.0%;">Program Studi Kimia Tekstil</div>`)[0];
+                popup_2401d1142d47c901bad23bc93a61d421.setContent(html_7fa31f59b5287c5c5568e46584433356);
+            
+        
+
+        marker_59b73f9ce887319cceb5b4017e291dbe.bindPopup(popup_2401d1142d47c901bad23bc93a61d421)
+        ;
+
+        
+    
+    
+                marker_59b73f9ce887319cceb5b4017e291dbe.setIcon(icon_cb874d7b648a7fdb93fb84b5708af323);
+            
+    
+            var marker_b0761c9d43352f7e994bf0dc1c1f934f = L.marker(
+                [-6.9136235, 107.6429194],
+                {
+}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var icon_3184c415fe822b1fd469f587ae9d6ae0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_422f913522fd2432d7fe811810bbab5f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c99c33872a730a3c329bab9ac7f29b69 = $(`<div id="html_c99c33872a730a3c329bab9ac7f29b69" style="width: 100.0%; height: 100.0%;">Kampus 2 Stikom Bandung</div>`)[0];
+                popup_422f913522fd2432d7fe811810bbab5f.setContent(html_c99c33872a730a3c329bab9ac7f29b69);
+            
+        
+
+        marker_b0761c9d43352f7e994bf0dc1c1f934f.bindPopup(popup_422f913522fd2432d7fe811810bbab5f)
+        ;
+
+        
+    
+    
+                marker_b0761c9d43352f7e994bf0dc1c1f934f.setIcon(icon_3184c415fe822b1fd469f587ae9d6ae0);
+            
+    
+            var marker_0be24fdcdabfa67bdeb40f15990de526 = L.marker(
+                [-6.914691599999999, 107.6382977],
+                {
+}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var icon_34d17ba04b28d610623249ba8f1b506d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c41413bdb827cdb01f902cee24a6e2b4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6d240b76c56ae9d360e2767645d89f4e = $(`<div id="html_6d240b76c56ae9d360e2767645d89f4e" style="width: 100.0%; height: 100.0%;">STMIK AMIK Bandung</div>`)[0];
+                popup_c41413bdb827cdb01f902cee24a6e2b4.setContent(html_6d240b76c56ae9d360e2767645d89f4e);
+            
+        
+
+        marker_0be24fdcdabfa67bdeb40f15990de526.bindPopup(popup_c41413bdb827cdb01f902cee24a6e2b4)
+        ;
+
+        
+    
+    
+                marker_0be24fdcdabfa67bdeb40f15990de526.setIcon(icon_34d17ba04b28d610623249ba8f1b506d);
+            
+    
+            var marker_e5696f6d4de9d974cd956e656ec6a451 = L.marker(
+                [-6.9131594, 107.639842],
+                {
+}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var icon_6fa6915c9be70600858b0237b3ac2870 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c300cc9e0f148c944d629e8501df3f39 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6e16629c6259bb8bb520aa6b088baf57 = $(`<div id="html_6e16629c6259bb8bb520aa6b088baf57" style="width: 100.0%; height: 100.0%;">ITT bandung</div>`)[0];
+                popup_c300cc9e0f148c944d629e8501df3f39.setContent(html_6e16629c6259bb8bb520aa6b088baf57);
+            
+        
+
+        marker_e5696f6d4de9d974cd956e656ec6a451.bindPopup(popup_c300cc9e0f148c944d629e8501df3f39)
+        ;
+
+        
+    
+    
+                marker_e5696f6d4de9d974cd956e656ec6a451.setIcon(icon_6fa6915c9be70600858b0237b3ac2870);
+            
+    
+            var marker_69292fc6425ec4b6ff4766b8a17b3428 = L.marker(
+                [-6.9130768, 107.6398441],
+                {
+}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var icon_9139feb83a8bab5677a5007161e17fdd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d9daed40521b3a36fb60da5be417e807 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5cf37521dca9dade8655f09d205c906c = $(`<div id="html_5cf37521dca9dade8655f09d205c906c" style="width: 100.0%; height: 100.0%;">Gedung Magister Rekayasa Tekstil dan Apparel STTT Bandung</div>`)[0];
+                popup_d9daed40521b3a36fb60da5be417e807.setContent(html_5cf37521dca9dade8655f09d205c906c);
+            
+        
+
+        marker_69292fc6425ec4b6ff4766b8a17b3428.bindPopup(popup_d9daed40521b3a36fb60da5be417e807)
+        ;
+
+        
+    
+    
+                marker_69292fc6425ec4b6ff4766b8a17b3428.setIcon(icon_9139feb83a8bab5677a5007161e17fdd);
+            
+    
+            var marker_a89d155b9739dfdfb850b6133ed683dc = L.marker(
+                [-6.9096589, 107.6422584],
+                {
+}
+            ).addTo(map_11419ac798bae6e349687712cce08c05);
+        
+    
+            var icon_bf03be47c0ff8cf63a984e0d0a50fba9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9e7fada6496a3771146ddaf0cc55f1db = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8f7dc3e8499f89254c3009e0e92b870f = $(`<div id="html_8f7dc3e8499f89254c3009e0e92b870f" style="width: 100.0%; height: 100.0%;">MTs Swasta Al Ikhlash</div>`)[0];
+                popup_9e7fada6496a3771146ddaf0cc55f1db.setContent(html_8f7dc3e8499f89254c3009e0e92b870f);
+            
+        
+
+        marker_a89d155b9739dfdfb850b6133ed683dc.bindPopup(popup_9e7fada6496a3771146ddaf0cc55f1db)
+        ;
+
+        
+    
+    
+                marker_a89d155b9739dfdfb850b6133ed683dc.setIcon(icon_bf03be47c0ff8cf63a984e0d0a50fba9);
+            
+</script>
+</html>

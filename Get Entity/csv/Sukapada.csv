@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Universitas Widyatama,"Jalan Cikutra No.204A, Sukapada",-6.8979971,107.6454013,OPERATIONAL,4.5,1055,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Tinggi Manajemen Informatika dan Teknik Komputer (STIKOM),"Jalan Penghulu Haji Hasan Mustopa No.72, Sukapada",-6.9002076,107.6452224,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+"Kost Puri Asri No.A1, Univ. Widyatama, Bandung","Jalan Puri Asri No.A1, Sukapada",-6.896264,107.645781,OPERATIONAL,3.2,5,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Universitas padjajaran,"4J3W+4M8, Sukapada",-6.897215999999999,107.6466883,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Hendar udan,"bumi asri, Jalan Villa Asri Jalan Cimuncang No.3, Sukapada",-6.8977071,107.6480086,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kost Putra Murah Widyatama (Pondok Cikutra),"Gang Aster Jalan Babakan Baru No.19, Sukapada",-6.896038600000001,107.6448467,OPERATIONAL,4.7,3,"lodging, university, point_of_interest, establishment",,{'open_now': True},Unknown
+"Electrical Engineering Laboratory, Widyatama University","Jalan Cikutra No.204a, Cikutra",-6.8980237,107.6458357,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Teknik UTama,"4J2W+X2W, Sukapada",-6.897520699999999,107.6450753,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Teknik Mesin Widyatama,"Jalan Babakan Baru No.200, Sukapada",-6.8982836,107.646066,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+univ impian,"Universitas Widyatama, Sukapada",-6.897877899999999,107.6452775,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Ruang Dosen FBM Widyatama Lt.3,"4J2W+M2J, Sukapada",-6.8982796,107.6450243,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

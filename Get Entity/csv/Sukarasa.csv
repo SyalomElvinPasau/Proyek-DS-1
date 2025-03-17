@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Telkom University Gegerkalong,Jalan Picung No.35/176-A,-6.870159399999999,107.5885418,OPERATIONAL,4.7,85,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+MTs Daarus Salam,"Jalan Sukahaji No.69, RW.01, Sukarasa",-6.874534399999999,107.5842226,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+STIEPAR Yapari,"Jalan Professor Doktor Sutami No.81-83, Sukarasa",-6.8779507,107.5887184,OPERATIONAL,4.6,162,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Tinggi Managemnet,"Jalan Gegerkalong Hilir No.47, Gegerkalong",-6.8700177,107.5893272,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

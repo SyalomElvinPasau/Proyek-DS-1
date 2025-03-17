@@ -1,0 +1,17 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Gedung Serba Guna Universitas Kristen Maranatha,"Jalan Surya Sumantri No.57, Sukawarna",-6.885551299999999,107.5805678,OPERATIONAL,4.6,7,"university, point_of_interest, establishment",,Unknown,Unknown
+Gedung Administrasi Pusat Maranatha,"Jalan Surya Sumantri No.63 A, Sukawarna",-6.8856061,107.5810899,OPERATIONAL,4.7,6,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Universitas Kristen Maranatha,"Jalan Surya Sumantri No.65, Sukawarna",-6.8858221,107.5810506,OPERATIONAL,4.6,1062,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Bisnis,"4H7J+942, Jalan Surya Sumantri, Sukawarna",-6.8866221,107.5802654,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Fakultas Bahasa dan Budaya,"4H7J+G56, Jalan Surya Sumantri, Sukawarna",-6.886207399999999,107.5803888,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+FSRD Maranatha,"4H7J+M6V, Sukawarna",-6.885764699999999,107.5805578,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Seni Rupa dan Desain,"4H7J+P6V, Jalan Surya Sumantri, Sukawarna",-6.885642199999999,107.5805373,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas teknik,"4H7J+W5G, Jalan Surya Sumantri, Sukawarna",-6.8851885,107.5804525,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Sastra,"4H7J+C8C, Sukawarna",-6.886442,107.5807506,OPERATIONAL,4,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Teknologi Informasi,"4H7J+C8C, Sukawarna",-6.886442,107.5807506,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+GSG PA Suryadi Maranatha,"No., Jalan Surya Sumantri No.53, Sukawarna",-6.885645599999999,107.5811291,OPERATIONAL,4.9,7,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Kedokteran,"4H7J+8F6, Jalan Surya Sumantri, Sukawarna",-6.8867151,107.5811473,OPERATIONAL,4,5,"university, health, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Ekonomi Universitas Kristen Maranatha,"Jl. Prof. drg. Soeria Jalan Surya Sumantri No.51A, Sarijadi",-6.8873919,107.5811037,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Gedung DKA Universitas Kristen Maranatha,"4H6J+P8C, Sukawarna",-6.8881972,107.5807613,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Yayasan Sanusi Pusaka Sunda,Jalan Surya Sumantri No.59,-6.884871899999998,107.5812371,OPERATIONAL,1.8,5,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Tjung Jaya Motor,"4H9H+3R4, Jalan Lemahnendeut, Sukawarna",-6.882362499999999,107.5795782,OPERATIONAL,4.2,5,"university, point_of_interest, establishment",,Unknown,Unknown

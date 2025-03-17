@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+PMB Akademi Teknologi Bandung & Universitas Bandung Raya,"Jl. Padasuka, Suci Residence A1-2, Pasirlayung, Cibeunying Kidul, Pasirlayung",-6.898519099999999,107.6542634,OPERATIONAL,4.8,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+PGSD UNBAR,"4M23+GMF, Jalan Padasuka, Pasirlayung",-6.898676999999999,107.65418,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Universitas Bandung Raya,"Jalan Padasuka No.49, Pasirlayung",-6.8994445,107.6539536,OPERATIONAL,4,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Kursus Bahasa Inggris - English Corpo - Bahasa Inggris Korporat,"Komplek De kangen valley Nomor 5, Padasuka",-6.896922399999999,107.6511747,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Universitas Faletehan,"4M23+395, Jalan Anggrek Boulevard, Pasirlayung",-6.899868099999999,107.6534749,OPERATIONAL,5,15,"university, point_of_interest, establishment",,Unknown,Unknown
+Politeknik Pajajaran,"Jalan Khp Hasan Mustopa No.155, Pasirlayung",-6.9011325,107.6526988,OPERATIONAL,4.7,84,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+LPK/LKP SeaBar Cruiseship College Workshop,"Surapati Core, Jalan Khp Hasan Mustopa No.F10",-6.900718599999999,107.6528476,OPERATIONAL,5,46,"travel_agency, university, school, point_of_interest, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Anggi_paytren5.17,"Jalan Terusan Sukup Baru I, Pasir Endah",-6.910507600000001,107.6914338,OPERATIONAL,4.7,46,"primary_school, school, university, real_estate_agency, point_of_interest, establishment",,{'open_now': True},Unknown
+LPK Sakura Mandiri Indonesia,"Jalan Kosar Kel No.47, Pasir Endah",-6.902524800000001,107.6912669,OPERATIONAL,4.6,14,"school, university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kursus Jahit WANODYA,"Gang Madhari No.138A, Pasir Endah",-6.9072749,107.6903704,OPERATIONAL,4.9,20,"university, point_of_interest, establishment",,{'open_now': False},Unknown

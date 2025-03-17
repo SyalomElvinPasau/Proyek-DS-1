@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Kelurahan Antapani Kulon,"Jalan Antapani Lama No.1, Antapani Kulon",-6.9102092,107.6578517,OPERATIONAL,4.8,5,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Mahasiswa Yalimo Kota Bandung,"Jalan Sindang Barang No.19, Antapani Kulon",-6.910549,107.6552519,OPERATIONAL,5,5,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+OneOnOneTutoring,"Jalan Jakarta 6 No.3, Antapani Kulon",-6.9118555,107.6551073,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown

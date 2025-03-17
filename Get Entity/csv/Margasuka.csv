@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+STTAI Bandung Haggai Seminary,"Kopo Mas Regency, Ruko no 19F",-6.9589814,107.5783711,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+College of Logistics Management Indonesia,"Jalan Sariasih No.54, Sarijadi",-6.873386499999999,107.5759218,OPERATIONAL,4.7,138,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Diny,"Jalan Sariasih Blok 8 No.10, Sarijadi",-6.875584,107.576972,OPERATIONAL,4,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Universitas Logistik dan Bisnis Internasional (ULBI),"Jalan Sariasih No.54, Sarijadi",-6.874549999999999,107.5756998,OPERATIONAL,4.8,1005,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Praktek Fakultas Vokasi ULBI,"4HGG+HPR, Jalan Sariasih, Sarijadi",-6.873626499999999,107.5765147,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Rektorat Universitas Logistik dan Bisnis Internasional,"Jalan Sariasih No.54, Sarijadi",-6.8738739,107.5756963,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Program Studi Logistik Bisnis,"Gedung Pendidikan Poltekpos, Sarijadi",-6.873345899999999,107.5756758,OPERATIONAL,1,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Bandung,"4HGG+VG3, Jalan Sariasih, Sarijadi",-6.8728703,107.5762991,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Transportasi ULBI,"4HGG+VG3, Jalan Sariasih, Sarijadi",-6.872754,107.5764274,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Anggrek Politeknik Pos Indonesia,"Jalan Sariasih, Sarijadi",-6.872778,107.576001,OPERATIONAL,4.7,6,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Raflesia Politeknik Pos Indonesia,"Jalan Sariasih No.54, Sarijadi",-6.872507699999999,107.576801,OPERATIONAL,4.6,26,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+LPK Indonesia Japan Musubi,"Jalan Sarimanah 2 No.151 blok 14, Sarijadi",-6.880607899999999,107.5767648,OPERATIONAL,5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown

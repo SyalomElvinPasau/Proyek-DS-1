@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Epica,"Jalan Arjuna No.63, Arjuna",-6.9099326,107.5905064,OPERATIONAL,3.7,3,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+yayasan Pedidikan Ariyanti,"Jalan Teluk Buyung No.46-2, Arjuna",-6.907634699999999,107.5935564,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+SLTPN 3 Cianjur,"Jalan Pasir Gede No.Raya, Arjuna",-6.9106023,107.5971601,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Menengah Pertama ( SMP ) Muhammadiyah 2,"Jalan Semar No.5, Arjuna",-6.908049900000001,107.5969365,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown

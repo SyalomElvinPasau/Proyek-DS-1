@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Arzanka Edu Centre,Jalan Mirabilis VII Ujung No.31,-6.931858099999999,107.5531241,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Mesjid Roudhotul Hasanah,"Jalan Rengas, Gempolsari",-6.928875499999999,107.5494012,OPERATIONAL,4.7,21,"university, point_of_interest, establishment",,{'open_now': True},Unknown

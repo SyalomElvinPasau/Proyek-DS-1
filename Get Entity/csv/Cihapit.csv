@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Mitra Buana Akademika Pratama. PT (MBA Pratama),"Jalan Salam No.38, Cihapit",-6.9088607,107.6291474,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Atikan,"Jalan Ciliwung No.12, Cihapit",-6.905878199999999,107.6258333,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Les gambar gia's art gallery martadinata BANDUNG,Taman Pramuka,-6.909731599999999,107.6264506,OPERATIONAL,5,4,"school, university, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Mahasiswa Papua Kamasan II Bandung,"Jalan Cilaki No.53, Cihapit",-6.9043356,107.6247636,OPERATIONAL,4,23,"university, point_of_interest, establishment",,Unknown,Unknown
+LPK Yayasan Alpha Omega,"Jalan Cihapit No.34 Lt. 2, Cihapit",-6.908177999999999,107.622436,OPERATIONAL,3,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+pondok miftaulhuda,"3JQJ+63G, Jalan Belimbing, Cihapit",-6.911930499999999,107.6301926,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Basecamp Kampus Keadilan Kota Bandung,"Jalan Sabang No.27, Cihapit",-6.907643799999999,107.6208127,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown

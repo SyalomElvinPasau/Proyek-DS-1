@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Cibadak,"3HHW+3GQ, Cibadak",-6.922289599999999,107.5963654,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Free Night School Chinese Language,"3HHX+F7R, Jalan Cibadak, Cibadak",-6.9212682,107.5981255,OPERATIONAL,3.5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+STT Kalam Mulia,"Gang Nyi Empok No.3, Cibadak",-6.921318899999999,107.5934078,OPERATIONAL,3.5,2,"university, point_of_interest, establishment",,Unknown,Unknown

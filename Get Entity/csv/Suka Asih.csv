@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Universitas Persatuan Islam (UNIPI),"Jalan Peta No.154, Suka Asih",-6.9348261,107.5920039,OPERATIONAL,4.8,26,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+GFS Bimbel Cab. Kopo,"Jalan Payung Kencana E4 no 97, Suka Asih",-6.936453200000001,107.5875674,OPERATIONAL,4,21,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+SG Abadi. PT,"Ichi Autocare, Jalan Babakan Tarogong No.87, Suka Asih",-6.934777,107.59228,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Menengah Pertama (SMP) Jendral Sudirman LPPM-RI,"JL Babakan Tarogong, No. 119 E, 40233, Suka Asih",-6.9353906,107.5936758,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

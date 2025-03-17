@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+MTs Al Burhan,Indonesia,-6.881024999999999,107.627059,OPERATIONAL,4.6,24,"university, point_of_interest, establishment",,Unknown,Unknown
+Kost Residence 99 Bandung,"Jalan Terusan Cigadung Timur No.99, Sekeloa",-6.8853179,107.6252591,OPERATIONAL,4.9,11,"university, point_of_interest, establishment",,{'open_now': True},Unknown

@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+RUMAH BELAJAR JARI,"Jl. Mekarsari Abadi (blk. no.60) , Cijawura Hilir, RT.03/RW.08, Cijaura",-6.9571629,107.6539808,OPERATIONAL,5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown

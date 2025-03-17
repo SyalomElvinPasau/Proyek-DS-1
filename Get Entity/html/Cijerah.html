@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_06232a4decbebb386308dbe08a203de7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_06232a4decbebb386308dbe08a203de7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_06232a4decbebb386308dbe08a203de7 = L.map(
+                "map_06232a4decbebb386308dbe08a203de7",
+                {
+                    center: [-6.918944111650853, 107.56724175069522],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ef6f098ecb01eb02c0bf65827ee9517d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_ef6f098ecb01eb02c0bf65827ee9517d.addTo(map_06232a4decbebb386308dbe08a203de7);
+        
+    
+            var polygon_7155383c30b497c5b2fdbca587b9f8a1 = L.polygon(
+                [[-6.932335122999973, 107.56453477600007], [-6.932128055999897, 107.56449902400016], [-6.932075891999943, 107.56449688500004], [-6.932038163999948, 107.5644954230001], [-6.931932460999974, 107.56449132900013], [-6.932122998999944, 107.564575], [-6.932171954999887, 107.56459373500007], [-6.932203769999944, 107.564605713], [-6.932304974999965, 107.564557616], [-6.932347913999877, 107.56453699100018], [-6.932335122999973, 107.56453477600007]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_06232a4decbebb386308dbe08a203de7);
+        
+    
+            var marker_3abbf7c1db844f7ae972c368b6cc306e = L.marker(
+                [-6.919468200000001, 107.5692411],
+                {
+}
+            ).addTo(map_06232a4decbebb386308dbe08a203de7);
+        
+    
+            var icon_254adf9b229e69c63eed041195e3cf1f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_88e43d6e5bdc0b17c7347abbfa9a82c4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_65208a91626a499f2be4ae3be3bd5dd8 = $(`<div id="html_65208a91626a499f2be4ae3be3bd5dd8" style="width: 100.0%; height: 100.0%;">cadangan</div>`)[0];
+                popup_88e43d6e5bdc0b17c7347abbfa9a82c4.setContent(html_65208a91626a499f2be4ae3be3bd5dd8);
+            
+        
+
+        marker_3abbf7c1db844f7ae972c368b6cc306e.bindPopup(popup_88e43d6e5bdc0b17c7347abbfa9a82c4)
+        ;
+
+        
+    
+    
+                marker_3abbf7c1db844f7ae972c368b6cc306e.setIcon(icon_254adf9b229e69c63eed041195e3cf1f);
+            
+    
+            var marker_451d481afaddc770c3ddf0a7e15da81b = L.marker(
+                [-6.915222, 107.57098],
+                {
+}
+            ).addTo(map_06232a4decbebb386308dbe08a203de7);
+        
+    
+            var icon_416ef90b031f512e5a65acc13e7fddfc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cbc58a1187676a32c5067a5efd498815 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4da35c3b2f80f81f11bb98f3cfb7dbff = $(`<div id="html_4da35c3b2f80f81f11bb98f3cfb7dbff" style="width: 100.0%; height: 100.0%;">SLTP Negeri 4 Cimahi</div>`)[0];
+                popup_cbc58a1187676a32c5067a5efd498815.setContent(html_4da35c3b2f80f81f11bb98f3cfb7dbff);
+            
+        
+
+        marker_451d481afaddc770c3ddf0a7e15da81b.bindPopup(popup_cbc58a1187676a32c5067a5efd498815)
+        ;
+
+        
+    
+    
+                marker_451d481afaddc770c3ddf0a7e15da81b.setIcon(icon_416ef90b031f512e5a65acc13e7fddfc);
+            
+    
+            var marker_cc730c783ca8a6a0b11530d4c7ca727c = L.marker(
+                [-6.9136742, 107.5658181],
+                {
+}
+            ).addTo(map_06232a4decbebb386308dbe08a203de7);
+        
+    
+            var icon_faf62c247e0827c1aee2861b406b8fa6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_87ac62e9c07f451b96fed8a97606b6ea = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ef04f1a20dc56361bc9761a9dc57d532 = $(`<div id="html_ef04f1a20dc56361bc9761a9dc57d532" style="width: 100.0%; height: 100.0%;">SMA Gehenna</div>`)[0];
+                popup_87ac62e9c07f451b96fed8a97606b6ea.setContent(html_ef04f1a20dc56361bc9761a9dc57d532);
+            
+        
+
+        marker_cc730c783ca8a6a0b11530d4c7ca727c.bindPopup(popup_87ac62e9c07f451b96fed8a97606b6ea)
+        ;
+
+        
+    
+    
+                marker_cc730c783ca8a6a0b11530d4c7ca727c.setIcon(icon_faf62c247e0827c1aee2861b406b8fa6);
+            
+    
+            var marker_755e332fada8a6c792a55ab484ddbdeb = L.marker(
+                [-6.9266946, 107.5643793],
+                {
+}
+            ).addTo(map_06232a4decbebb386308dbe08a203de7);
+        
+    
+            var icon_48c37b0c5517924c2d10fb9ecd8decae = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_15f7acdd31e6a461081b0f0100e61579 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a2e4639e967d1faea93851b2398c5cb = $(`<div id="html_9a2e4639e967d1faea93851b2398c5cb" style="width: 100.0%; height: 100.0%;">Rumah belajar dinda</div>`)[0];
+                popup_15f7acdd31e6a461081b0f0100e61579.setContent(html_9a2e4639e967d1faea93851b2398c5cb);
+            
+        
+
+        marker_755e332fada8a6c792a55ab484ddbdeb.bindPopup(popup_15f7acdd31e6a461081b0f0100e61579)
+        ;
+
+        
+    
+    
+                marker_755e332fada8a6c792a55ab484ddbdeb.setIcon(icon_48c37b0c5517924c2d10fb9ecd8decae);
+            
+</script>
+</html>

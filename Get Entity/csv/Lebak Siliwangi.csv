@@ -1,0 +1,15 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Institut Teknologi Bandung,Jalan Ganesa No.10,-6.890361700000001,107.6101912,OPERATIONAL,4.7,5340,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lembaga Bimbingan Belajar Neutron Yogyakarta - Bandung 1,"Jalan Tamansari No.61, Lebak Siliwangi",-6.895672599999999,107.6090304,OPERATIONAL,4.8,70,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+TVST Building ITB,"Jl. Ganesha No.10 Bandung Jawa Barat 40116, Lebak Siliwangi",-6.8895043,107.6100594,OPERATIONAL,4.7,13,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Architecture ITB,"Bandung Institute of Technology, Labtek IX-B, Lebak Siliwangi",-6.8919023,107.6118844,OPERATIONAL,4.6,54,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+UPT Language Bandung Institute of Technology,"Institut Teknologi Bandung Gedung CADL, Jalan Ganesa No.10 Lantai 1, Lebak Siliwangi",-6.888126100000001,107.6094405,OPERATIONAL,4.2,45,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Boulevard ITB,"4J56+84R, Lebak Siliwangi",-6.8919022,107.6103863,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Laboratorium Fisika Bangunan,"4J55+WVW, Lebak Siliwangi",-6.8899107,107.609707,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Laboratorium Pirometalurgi ITB,"4J56+MF7, Lebak Siliwangi",-6.890841699999999,107.6111743,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+West Lecture Hall Building ITB,"Jalan Ganeca No.10, Lebak Siliwangi, Coblong, Lebak Siliwangi",-6.8904163,107.6088172,OPERATIONAL,4.7,60,"university, point_of_interest, establishment",,Unknown,Unknown
+Gedung CIBE,"4J55+CCR, Lebak Siliwangi",-6.8913826,107.6085302,OPERATIONAL,4.8,41,"university, point_of_interest, establishment",,Unknown,Unknown
+Teras FTMD,"Jalan E ITB Jalan Ganesa No.10, Lebak Siliwangi",-6.8897157,107.6088303,OPERATIONAL,5,5,"university, point_of_interest, establishment",,Unknown,Unknown
+HMM ITB,"4J65+283, Jalan D ITB, Lebak Siliwangi",-6.889999599999999,107.6082932,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Laboratorium Kualitas Udara FTSL ITB,"5th Floor | Labtek IX-C Building (Teknik Lingkungan, Lebak Siliwangi",-6.891490500000001,107.611884,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+KMPN,"4J65+383, Kampus ITB Ganesha Jalan D, Gedung FTMD, Lebak Siliwangi",-6.8898628,107.6082978,OPERATIONAL,5,19,"university, point_of_interest, establishment",,Unknown,Unknown

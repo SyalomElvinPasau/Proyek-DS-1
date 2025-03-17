@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sekolah Tinggi Teologi Bandung,"Jalan Dr. Djundjunan No.105, Pajajaran",-6.898276999999999,107.5884176,OPERATIONAL,4.8,46,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Sanggar Gambar Lukis Manga Anime Talent Art,"BTC Fashion Mall, Pasteur, Jalan Dr. Djundjunan No.143-149 Lantai P1",-6.8935884,107.5851245,OPERATIONAL,4,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Akademi Teknologi Aeronautika Siliwangi,"Jalan Pajajaran No.120, Pajajaran",-6.906683999999998,107.5889825,OPERATIONAL,4.9,14,"university, point_of_interest, establishment",,Unknown,Unknown

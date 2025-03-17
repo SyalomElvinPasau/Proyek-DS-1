@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Institut Kesehatan Rajawali,"Jalan Rajawali Barat No.38, Maleber",-6.912757999999998,107.572716,OPERATIONAL,4.3,212,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung B Stikes Rajawali,"3HPF+V4J, Jalan Rajawali Barat, Maleber",-6.912785,107.5727683,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Keperawatan Institut Kesehatan Rajawali,"3HPF+V46, Maleber",-6.912845599999999,107.5727522,OPERATIONAL,5,5,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Menengah Pertama (SMP) Nopember 1945,"Jalan Maleber Inpres Selatan No.3, Maleber",-6.904074799999999,107.5720469,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown

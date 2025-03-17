@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Kumon PLN Ciateul,"Jalan PLN II No.8, Ciateul",-6.933439199999999,107.6105161,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+MTsS Persis Leles,"JL. Mokh. Ramdlan, RT. 06/12, Leles, Mekarsari, Ciparay, Ciateul",-6.934097700000001,107.6131874,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Kosan,"Jalan Sawah Kurung I No.37, Ciateul",-6.933010399999999,107.6132079,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

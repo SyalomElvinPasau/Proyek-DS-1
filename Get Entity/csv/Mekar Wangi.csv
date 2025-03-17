@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sekolah Tinggi Teologi Kharisma,"Jalan Mekar Laksana No.8, Mekarwangi",-6.9533972,107.6043654,OPERATIONAL,4.9,27,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Kursus Sanggar Les Gambar Anak Talent Art,"Sebrang Toko Roti Garmelia, Sebelah Rumah Makan Wongkie, Jalan Mekar Utama 121 Bandung, diatas Pempek Rama Putra, Lantai 2",-6.9536012,107.6059033,OPERATIONAL,5,6,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+LKP MELAN CABANG jalan Mekar Utama no 2 muhamad Toha Bandung,"Jalan Mekar Utama No.2, Mekarwangi",-6.954635499999999,107.6094452,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+kampus 3 sttbandung,"Jalan Mekar Puspita No.100, Kebon Lega",-6.950518400000001,107.5987854,OPERATIONAL,5,5,"university, point_of_interest, establishment",,Unknown,Unknown

@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Kampus Pendidikan BRC (Bekam Ruqyah Center),"Jalan Kautamaan Istri No.199, Balonggede",-6.925821099999999,107.6050678,OPERATIONAL,4.9,33,"university, lodging, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Barbershop Indonesia,Jalan Dewi Sartika No.69,-6.926156499999998,107.6062961,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lafrere kpop store Bandung ( kings bandung lt3),"kings bandung, Balonggede",-6.923114399999999,107.6050039,OPERATIONAL,4,2,"university, point_of_interest, establishment",,Unknown,Unknown
+SALUT MITRA PRIANGAN,Jalan Pungkur No.151,-6.929268799999999,107.6105958,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Tatang,"Jalan Jembatan Baru No.42, Balonggede",-6.9291915,107.6120891,OPERATIONAL,3,2,"university, point_of_interest, establishment",,Unknown,Unknown

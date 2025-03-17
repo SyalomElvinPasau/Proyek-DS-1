@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+PESANTREN (PESMA) UNISA,"Jalan Terusan Rancagoong II No.1, Gumuruh",-6.931365599999999,107.6367638,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Gedung Siti Walidah (Kampus 3 Unisa Bandung),"3J9P+JP9, Jalan Terusan Rancagoong II, Gumuruh",-6.9309553,107.6368734,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+"Piksi Ganesha Polytechnic, Campus B","Jalan Gatot Subroto No.335, Gumuruh",-6.9299412,107.6393628,OPERATIONAL,3.7,35,"university, point_of_interest, establishment",,Unknown,Unknown

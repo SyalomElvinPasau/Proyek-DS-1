@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Graha Maranata,"4J53+VHG, Jalan Cihampelas, Cipaganti",-6.890316200000001,107.6039582,OPERATIONAL,4.6,5,"university, point_of_interest, establishment",,Unknown,Unknown
+LPK Pauline,"Jalan Cihampelas No.248, Cipaganti",-6.8885127,107.6044637,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Tinggi Bahasa Asing Yapari,"Jalan Cihampelas No.194, Cipaganti",-6.8921565,107.6044248,OPERATIONAL,4.6,172,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+The Center Bandung,"17, Jalan Cihampelas No.186, Cipaganti",-6.892862199999999,107.6044429,OPERATIONAL,4.9,17,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Yayasan Bakti Karya Anugrah,"4J43+RVJ, Jalan Cihampelas, Cipaganti",-6.892909799999999,107.6046258,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown

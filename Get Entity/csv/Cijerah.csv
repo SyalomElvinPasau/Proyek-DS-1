@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+cadangan,"3G5Q+FRJ, Nanjung",-6.919468200000001,107.5692411,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+SLTP Negeri 4 Cimahi,"Jalan Cijerah Melong Raya No.6, Cijerah",-6.915222,107.57098,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+SMA Gehenna,"Gang Manunggal IIC No.88-67, Cijerah",-6.9136742,107.5658181,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Rumah belajar dinda,"Perumnas Cijerah 1 Blok 6 No 74/5 Bandung, RT.6",-6.9266946,107.5643793,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

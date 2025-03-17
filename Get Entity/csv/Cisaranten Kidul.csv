@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+ITB Innovation Park Project,"2MWW+G9, Cisaranten Kidul",-6.953679900000001,107.6958561,OPERATIONAL,5,7,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Rumah,"3M2P+M4X, Jalan Riung Damai I, Cisaranten Kidul",-6.948252199999999,107.6853693,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

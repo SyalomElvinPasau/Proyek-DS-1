@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Stkip Persatuan Islam,"Jalan Pajagalan No.31, Karanganyar",-6.923034299999999,107.6007518,OPERATIONAL,4,9,"university, point_of_interest, establishment",,Unknown,Unknown
+MTs Swasta Persis Banjaran,"Jalan Pajagalan No.115, Karanganyar",-6.925659000000001,107.6004995,OPERATIONAL,3,2,"university, point_of_interest, establishment",,Unknown,Unknown
+MTs Swasta At-Taqwa,"Jalan Pajagalan No.54, Karanganyar",-6.926193,107.600502,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

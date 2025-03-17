@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Faculty of Law,"Jalan Lengkong Besar No.68, Cikawao",-6.9288371,107.6128825,OPERATIONAL,5,51,"library, university, point_of_interest, establishment",,{'open_now': False},Unknown
+Pasundan University,"Jalan Lengkong Besar No.68, Cikawao",-6.9289876,107.612756,OPERATIONAL,4.6,417,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Langlangbuana University,"Jalan Karapitan No.116, Cikawao",-6.931065,107.615777,OPERATIONAL,4.5,545,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Pasundan University of Bandung,"3JF7+G25, Jalan Lengkong Besar, Balonggede",-6.9262253,107.612596,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Fisip Unpas Lengkong Besar,"Jalan Lengkong Besar No.60, Cikawao",-6.9278603,107.61286,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Hukum Unpas Lengkong Besar,"3JC7+M67, Jalan Idawasar, Cikawao",-6.9283419,107.6130534,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Lobby unpas lengkong besar,"Jalan Lengkong Besar No.64g, Cikawao",-6.928414099999999,107.6128966,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+LAB DESAIN GRAFIS,"3JC6+HPW, Jalan Lengkong Dalam, Cikawao",-6.928506800000001,107.6118228,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

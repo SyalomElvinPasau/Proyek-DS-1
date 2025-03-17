@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Asrama Solihin Poltekes TNI AU,"Jalan Rereongan Sarupi No.212, Ciumbuleuit",-6.862164,107.6048448,OPERATIONAL,5,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Akper TNI AU Dr Salamun,"Jalan Ciumbuleuit No.203, Ciumbuleuit",-6.8653887,107.6054168,OPERATIONAL,4.6,95,"university, point_of_interest, establishment",,Unknown,Unknown
+Warung CiJi II (sebelah Asrama Arimbi),"Sebelah asrama Arimbi Jalan Bukit Raya Atas, Ciumbuleuit",-6.858314699999999,107.6087437,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Arimbi,"4JQ4+395, Ciumbuleuit",-6.862353499999998,107.605987,OPERATIONAL,4.6,22,"university, point_of_interest, establishment",,Unknown,Unknown
+Televisinet,"Jalan Rereongan Sarupi No.73C, Ciumbuleuit",-6.859999800000001,107.6056457,OPERATIONAL,5,28,"university, point_of_interest, establishment",,{'open_now': True},Unknown

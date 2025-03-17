@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Bandung,"Akumah Bandung, Jalan Kuningan Raya No.28",-6.915284000000001,107.6605854,OPERATIONAL,1,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Salon Online Bandung / Salon Panggilan bandung,Jalan Depok VII No.16,-6.9138419,107.6567759,OPERATIONAL,4.7,12,"beauty_salon, university, hair_care, point_of_interest, establishment",,{'open_now': True},Unknown

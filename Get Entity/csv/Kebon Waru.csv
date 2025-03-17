@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Hall Building Of Politeknik STT Tekstil,"Jalan Jakarta No.31, Kebonwaru",-6.913585299999999,107.639876,OPERATIONAL,4.7,64,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kampus STEBI,"Jalan Banten No.11, Kebonwaru",-6.916558800000001,107.6408612,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Program Studi Kimia Tekstil,"3JPQ+HXX, Kebonwaru",-6.9135139,107.6399829,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kampus 2 Stikom Bandung,"Jalan Jakarta No.79, Kebonwaru",-6.9136235,107.6429194,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+STMIK AMIK Bandung,"Jalan Jakarta No.28, Kebonwaru",-6.914691599999999,107.6382977,OPERATIONAL,4.8,400,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+ITT bandung,"Politeknik Stt Tekstil, Kebonwaru",-6.9131594,107.639842,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Gedung Magister Rekayasa Tekstil dan Apparel STTT Bandung,"Jalan Jakarta No.31, Kebonwaru",-6.9130768,107.6398441,OPERATIONAL,5,5,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+MTs Swasta Al Ikhlash,"Jalan Raya Timur No.521, Cicadas",-6.9096589,107.6422584,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

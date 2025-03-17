@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sekolah tinggi bhakti asih cimenyan,"4H57+27M, Jalan Gunung Batu No.203, Sukaraja",-6.892395100000001,107.5631129,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Asrama,"4H5C+V3G, Jalan Mentor, Sukaraja",-6.8903175,107.5702148,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Universitas Nasional PASIM Bandung,"Jalan Dakota No.8A, Sukaraja",-6.894630999999999,107.5714667,OPERATIONAL,4.5,185,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+MTsS Al Hasan,"Jalan Sukaraja No.42 E, Sukaraja",-6.8926563,107.5726028,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Amanah Jadid Cendekia,"Gang Bunisugih Jalan Raya Cibabat No.254, RT.07/RW.15, Sukaraja",-6.8886645,107.5581755,OPERATIONAL,5,13,"university, point_of_interest, establishment",,{'open_now': False},Unknown

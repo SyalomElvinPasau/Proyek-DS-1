@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Athena KPI,"Jalan Panineungan No.15, Cipadung Kulon",-6.9215124,107.7033935,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Akper Sindangsari,"3PJ3+M5X, Cipadung Kulon",-6.9182523,107.7029783,OPERATIONAL,3,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Fakultas keperawatan Bhakti kencana bandung,"Akper Sindangsari, Cipadung Kulon",-6.917931599999999,107.7028415,OPERATIONAL,4.7,3,"university, point_of_interest, establishment",,Unknown,Unknown
+MTsS Al Misbah,"Jalan Raya Cipadung No.2, Cipadung Kulon",-6.9244383,107.7102566,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

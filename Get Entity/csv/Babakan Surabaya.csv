@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+STIKOM BANDUNG,"Jalan Ibrahim Adjie No.57, Babakan Surabaya",-6.912432799999999,107.6439461,OPERATIONAL,4.7,132,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Politeknik Pajajaran Insan Cinta Bangsa Bandung,"Jalan Atlas Tengah No.2, Babakan Surabaya",-6.914240299999999,107.6458618,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Stie Pasundan,"Gang Selamet II No.27/ 137 D, Babakan Surabaya",-6.908667399999999,107.6461927,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

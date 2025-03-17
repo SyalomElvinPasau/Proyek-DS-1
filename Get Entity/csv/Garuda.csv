@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Akper Parahiangan,"Jalan Garuda No.74, Garuda",-6.9112824,107.5779736,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+LP3I,"Jalan Garuda No.89, Dungus Cariang",-6.9109726,107.5781891,OPERATIONAL,4.3,3,"university, point_of_interest, establishment",,{'open_now': True},Unknown

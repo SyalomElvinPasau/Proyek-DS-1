@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_f3826d250c6c97916a72a8bcd00d63b9 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_f3826d250c6c97916a72a8bcd00d63b9" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_f3826d250c6c97916a72a8bcd00d63b9 = L.map(
+                "map_f3826d250c6c97916a72a8bcd00d63b9",
+                {
+                    center: [-6.911445728549344, 107.60862418309075],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f9a7b7bb6de594481abbac491d77cd09 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_f9a7b7bb6de594481abbac491d77cd09.addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var polygon_bb4901b240aede49bde0450c8f356e86 = L.polygon(
+                [[-6.906946658999971, 107.61062622200006], [-6.907045363999941, 107.61063385000017], [-6.908505438999953, 107.61066436800019], [-6.909120558999973, 107.61067962700014], [-6.90969562499987, 107.61068725700005], [-6.909762382999872, 107.61074066200013], [-6.909775256999978, 107.610816956], [-6.909778118999952, 107.61109924400012], [-6.909762858999898, 107.61162567100007], [-6.909761905999915, 107.61172485300011], [-6.90975999799997, 107.6119613640002], [-6.909757612999954, 107.61221313400006], [-6.909753322999848, 107.61233520400003], [-6.909853457999873, 107.61245727500011], [-6.909930705999955, 107.61249542200017], [-6.910079477999943, 107.61251068000018], [-6.910227774999953, 107.6125183100001], [-6.910421848999931, 107.61253356900005], [-6.910772800999894, 107.61254119900013], [-6.910974502999977, 107.61254882900005], [-6.911085127999968, 107.61254882900005], [-6.911178111999959, 107.61255645700015], [-6.911341189999973, 107.61259460400004], [-6.911483286999896, 107.61263275100009], [-6.911591051999949, 107.6126556390002], [-6.911847113999954, 107.6127243050002], [-6.912033556999972, 107.61279296800006], [-6.912247656999966, 107.61289978100012], [-6.91244268399987, 107.61312103300014], [-6.912683487999971, 107.61318969700017], [-6.913098334999859, 107.61316680800013], [-6.913188933999891, 107.61317443900015], [-6.913236617999928, 107.613304137], [-6.913500308999971, 107.61348724300007], [-6.914176939999948, 107.61392974900008], [-6.914383887999975, 107.61405944800009], [-6.914513587999977, 107.61410522500006], [-6.914649486999963, 107.61408996600011], [-6.914919852999958, 107.61403655900006], [-6.915236471999947, 107.61397552400007], [-6.915789602999951, 107.6138763420002], [-6.915746688999945, 107.6136474610002], [-6.915654181999855, 107.61309051500012], [-6.915419100999941, 107.61130523600008], [-6.915354727999954, 107.61076355000006], [-6.915293692999967, 107.61026764000002], [-6.915279864999945, 107.61016845800003], [-6.915273188999947, 107.61008453400018], [-6.915246009999919, 107.60991668600013], [-6.915239334999967, 107.60980987599999], [-6.915218828999969, 107.609680175], [-6.915157793999981, 107.60916900600012], [-6.915140152999868, 107.6090240470001], [-6.915066241999966, 107.60842895600013], [-6.91497754999989, 107.607772828], [-6.914953708999974, 107.60757446400015], [-6.914945125999964, 107.607475281], [-6.914902208999877, 107.6072616570001], [-6.914888858999859, 107.60711670000012], [-6.914868354999953, 107.60696411000009], [-6.914856433999944, 107.60688018900015], [-6.914623260999974, 107.60514831500006], [-6.914556502999972, 107.60462951599999], [-6.914478778999921, 107.60462951599999], [-6.914281844999891, 107.60464477600004], [-6.914012907999961, 107.60466766300004], [-6.913400173999946, 107.60471344000001], [-6.913012502999948, 107.60474395800009], [-6.912888526999893, 107.60475921699998], [-6.912771223999869, 107.60471344000001], [-6.912735937999969, 107.60464477600004], [-6.912721156999908, 107.6045532220001], [-6.912700652999888, 107.60443878200005], [-6.912628649999874, 107.60404205300017], [-6.91207408899993, 107.60406494200004], [-6.911930559999973, 107.60406494200004], [-6.911180019999961, 107.60413360500013], [-6.910897253999906, 107.60415649400011], [-6.910702227999934, 107.60416412400008], [-6.910616397999945, 107.60416412400008], [-6.910438059999933, 107.6041793820001], [-6.910325526999941, 107.60418701200018], [-6.910191058999828, 107.60420227100008], [-6.909927843999981, 107.60425567599998], [-6.909848689999933, 107.60427856400008], [-6.909657000999971, 107.60433196899999], [-6.909488200999931, 107.60440063500016], [-6.909364699999912, 107.60443878200005], [-6.909247873999959, 107.6044769290001], [-6.909021853999889, 107.60454559400017], [-6.908745765999981, 107.604568481], [-6.908637045999967, 107.60457611100014], [-6.907648086999927, 107.60453796400009], [-6.907479285999898, 107.60453796400009], [-6.907226561999948, 107.60452270600007], [-6.907129286999975, 107.60452270600007], [-6.907125471999905, 107.60466766300004], [-6.907127379999906, 107.60482025200014], [-6.907129286999975, 107.60494232300005], [-6.907131194999977, 107.60506439100004], [-6.907132624999974, 107.60515594500015], [-6.907134054999915, 107.60524749700005], [-6.907130239999958, 107.60536193800004], [-6.907126426999923, 107.60547638000008], [-6.907122134999895, 107.6055526740002], [-6.907127856999864, 107.60564422600015], [-6.907135009999934, 107.60575103800011], [-6.907139300999916, 107.60591888400012], [-6.90714073099997, 107.60601043800006], [-6.907143115999872, 107.60617065500008], [-6.907192229999964, 107.60643768300014], [-6.907262325999966, 107.60672759900012], [-6.907403467999927, 107.60706329300001], [-6.907441138999957, 107.60713958800005], [-6.907540321999875, 107.607330322], [-6.907576560999928, 107.6074066160001], [-6.907699583999829, 107.60762786900005], [-6.907562254999903, 107.60769653400013], [-6.907330036999895, 107.60773468100018], [-6.907135962999973, 107.60775756800018], [-6.906964779999953, 107.607772828], [-6.906846523999945, 107.60778808600003], [-6.906612395999957, 107.60781860300017], [-6.906475543999875, 107.60782623300008], [-6.906494617999954, 107.6079101570001], [-6.906537054999831, 107.60811614900013], [-6.906560420999881, 107.60820770300006], [-6.9065756789999, 107.60829162500005], [-6.906603812999947, 107.60841369600013], [-6.90662431599992, 107.60850525000006], [-6.906642436999846, 107.60858917200005], [-6.906675815999961, 107.60874176099998], [-6.906703947999972, 107.60888671800018], [-6.906737326999973, 107.60904693500004], [-6.906769752999878, 107.60929870700005], [-6.906808374999969, 107.60951232900015], [-6.906817912999884, 107.60961914], [-6.906831740999962, 107.6097335820001], [-6.906859396999948, 107.6098861700001], [-6.906876562999855, 107.61000061000016], [-6.906900881999888, 107.61016845800003], [-6.906920432999925, 107.61029052800018], [-6.906945705999874, 107.61045837400019], [-6.906946658999971, 107.61062622200006]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var marker_f649a8689d2bc83a14d3c774518fc40b = L.marker(
+                [-6.911357700000001, 107.6121559],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_7d39d0f2565ec84fd916e42da15bf6af = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a8ebe7122180b1188a4dcf740e41ceec = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2cfe1aaaa56ad0f437b1e8aeb0509b16 = $(`<div id="html_2cfe1aaaa56ad0f437b1e8aeb0509b16" style="width: 100.0%; height: 100.0%;">Pascasarjana Universitas Pasundan Bandung (UNPAS)</div>`)[0];
+                popup_a8ebe7122180b1188a4dcf740e41ceec.setContent(html_2cfe1aaaa56ad0f437b1e8aeb0509b16);
+            
+        
+
+        marker_f649a8689d2bc83a14d3c774518fc40b.bindPopup(popup_a8ebe7122180b1188a4dcf740e41ceec)
+        ;
+
+        
+    
+    
+                marker_f649a8689d2bc83a14d3c774518fc40b.setIcon(icon_7d39d0f2565ec84fd916e42da15bf6af);
+            
+    
+            var marker_a1fc30c99491944d5b2d0f109f007d4a = L.marker(
+                [-6.908869800000001, 107.6104222],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_dc02654d9c5d8912aefa984b59f447fb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_77c8b09687ae11180f45ee4d40342136 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_66b9f4db14abb2bd3a9924a89b7aec36 = $(`<div id="html_66b9f4db14abb2bd3a9924a89b7aec36" style="width: 100.0%; height: 100.0%;">Akademi Akuntansi Bandung</div>`)[0];
+                popup_77c8b09687ae11180f45ee4d40342136.setContent(html_66b9f4db14abb2bd3a9924a89b7aec36);
+            
+        
+
+        marker_a1fc30c99491944d5b2d0f109f007d4a.bindPopup(popup_77c8b09687ae11180f45ee4d40342136)
+        ;
+
+        
+    
+    
+                marker_a1fc30c99491944d5b2d0f109f007d4a.setIcon(icon_dc02654d9c5d8912aefa984b59f447fb);
+            
+    
+            var marker_449e7dfd3c935c6642aea07dfeeef823 = L.marker(
+                [-6.9096289, 107.6102166],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_57c5b463c1c5f666f89fd4f26f5c1fac = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_944226a254c7db46df48133dd2d67747 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_438fe2134bf144c6ef64ab8d8cc3999d = $(`<div id="html_438fe2134bf144c6ef64ab8d8cc3999d" style="width: 100.0%; height: 100.0%;">Gedung 11 UNPAR</div>`)[0];
+                popup_944226a254c7db46df48133dd2d67747.setContent(html_438fe2134bf144c6ef64ab8d8cc3999d);
+            
+        
+
+        marker_449e7dfd3c935c6642aea07dfeeef823.bindPopup(popup_944226a254c7db46df48133dd2d67747)
+        ;
+
+        
+    
+    
+                marker_449e7dfd3c935c6642aea07dfeeef823.setIcon(icon_57c5b463c1c5f666f89fd4f26f5c1fac);
+            
+    
+            var marker_dab3b1fa091d4ea59214dc79be739e48 = L.marker(
+                [-6.9115587, 107.6111005],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_fdb14f5e83230e574a7e2a89e5c8332d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c3c8f0d323d4973570bfec832c949d95 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_393ff55e764dffedffae2f76837ff718 = $(`<div id="html_393ff55e764dffedffae2f76837ff718" style="width: 100.0%; height: 100.0%;">Perpustakaan Universitas Katolik Parahyangan Fakultas Filsafat</div>`)[0];
+                popup_c3c8f0d323d4973570bfec832c949d95.setContent(html_393ff55e764dffedffae2f76837ff718);
+            
+        
+
+        marker_dab3b1fa091d4ea59214dc79be739e48.bindPopup(popup_c3c8f0d323d4973570bfec832c949d95)
+        ;
+
+        
+    
+    
+                marker_dab3b1fa091d4ea59214dc79be739e48.setIcon(icon_fdb14f5e83230e574a7e2a89e5c8332d);
+            
+    
+            var marker_c6555770b7c38a5c643bf3f5f1a81887 = L.marker(
+                [-6.9113514, 107.6123926],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_01b0b25c2c38b2a214ce8e4c63509b41 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7354d48fa24bd02acd0e8411e5ca903a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bcc224fe257a6a5967fd551231e8ee66 = $(`<div id="html_bcc224fe257a6a5967fd551231e8ee66" style="width: 100.0%; height: 100.0%;">Universitas Pasundan (UNPAS) - Jl. Sumatra</div>`)[0];
+                popup_7354d48fa24bd02acd0e8411e5ca903a.setContent(html_bcc224fe257a6a5967fd551231e8ee66);
+            
+        
+
+        marker_c6555770b7c38a5c643bf3f5f1a81887.bindPopup(popup_7354d48fa24bd02acd0e8411e5ca903a)
+        ;
+
+        
+    
+    
+                marker_c6555770b7c38a5c643bf3f5f1a81887.setIcon(icon_01b0b25c2c38b2a214ce8e4c63509b41);
+            
+    
+            var marker_045ee6f1dc28766f052be3aa618e49f3 = L.marker(
+                [-6.9115837, 107.6109126],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_cfc7a96218a45513dd3c6ce367b8b722 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b6895b233d4aff4e48030bc89e11b822 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6845354f26e1595e53482415e02ef374 = $(`<div id="html_6845354f26e1595e53482415e02ef374" style="width: 100.0%; height: 100.0%;">Sekolah Pascasarjana, Universitas Katolik Parahyangan</div>`)[0];
+                popup_b6895b233d4aff4e48030bc89e11b822.setContent(html_6845354f26e1595e53482415e02ef374);
+            
+        
+
+        marker_045ee6f1dc28766f052be3aa618e49f3.bindPopup(popup_b6895b233d4aff4e48030bc89e11b822)
+        ;
+
+        
+    
+    
+                marker_045ee6f1dc28766f052be3aa618e49f3.setIcon(icon_cfc7a96218a45513dd3c6ce367b8b722);
+            
+    
+            var marker_04d83a8709ce511ef4d80a7e3fabdab0 = L.marker(
+                [-6.9125838, 107.6087743],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_ac6d4371219e5b2f79412b36450ca24d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_30701c31620f7a6b94dad463e1d2b6b6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_95015d783692ac9a1b738f147f8331b5 = $(`<div id="html_95015d783692ac9a1b738f147f8331b5" style="width: 100.0%; height: 100.0%;">Akademi Sekretaris dan Manajemen (ASM) Kencana Bandung</div>`)[0];
+                popup_30701c31620f7a6b94dad463e1d2b6b6.setContent(html_95015d783692ac9a1b738f147f8331b5);
+            
+        
+
+        marker_04d83a8709ce511ef4d80a7e3fabdab0.bindPopup(popup_30701c31620f7a6b94dad463e1d2b6b6)
+        ;
+
+        
+    
+    
+                marker_04d83a8709ce511ef4d80a7e3fabdab0.setIcon(icon_ac6d4371219e5b2f79412b36450ca24d);
+            
+    
+            var marker_4a44b18051f7c5988430d716debaf8fe = L.marker(
+                [-6.912614899999999, 107.6088493],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_d18e57134fcacc6a6083da0ddcb59712 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_08f806b03bf566649d159bbd062a6a8c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_95d54667bd81d114766d5d8fb8537a7b = $(`<div id="html_95d54667bd81d114766d5d8fb8537a7b" style="width: 100.0%; height: 100.0%;">Pascasarjana Fakultas Ekonomi dan Bisnis UNWIM</div>`)[0];
+                popup_08f806b03bf566649d159bbd062a6a8c.setContent(html_95d54667bd81d114766d5d8fb8537a7b);
+            
+        
+
+        marker_4a44b18051f7c5988430d716debaf8fe.bindPopup(popup_08f806b03bf566649d159bbd062a6a8c)
+        ;
+
+        
+    
+    
+                marker_4a44b18051f7c5988430d716debaf8fe.setIcon(icon_d18e57134fcacc6a6083da0ddcb59712);
+            
+    
+            var marker_d0d50adeb9ebcbbcd79c92f9c2cb5422 = L.marker(
+                [-6.9126504, 107.6087655],
+                {
+}
+            ).addTo(map_f3826d250c6c97916a72a8bcd00d63b9);
+        
+    
+            var icon_d35eeb2d86c9bc9f2b4225a701a375c6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_03784e12bfa53f63505f410ec9860b9e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_046ba48075e47709b7b4525d6f0d2f69 = $(`<div id="html_046ba48075e47709b7b4525d6f0d2f69" style="width: 100.0%; height: 100.0%;">SLTP Negeri 2 Ngamprah</div>`)[0];
+                popup_03784e12bfa53f63505f410ec9860b9e.setContent(html_046ba48075e47709b7b4525d6f0d2f69);
+            
+        
+
+        marker_d0d50adeb9ebcbbcd79c92f9c2cb5422.bindPopup(popup_03784e12bfa53f63505f410ec9860b9e)
+        ;
+
+        
+    
+    
+                marker_d0d50adeb9ebcbbcd79c92f9c2cb5422.setIcon(icon_d35eeb2d86c9bc9f2b4225a701a375c6);
+            
+</script>
+</html>

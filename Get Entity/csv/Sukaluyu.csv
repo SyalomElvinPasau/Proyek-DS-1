@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Winaya Mukti University,"Jalan Pahlawan No.69, Sukaluyu",-6.8957595,107.6342641,OPERATIONAL,4.3,49,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Universitas Sangga Buana,"Jalan Khp Hasan Mustopa No.68, Sukaluyu",-6.898105099999999,107.6320104,OPERATIONAL,4.3,41,"university, point_of_interest, establishment",,Unknown,Unknown
+LP3I Polytechnic Bandung,"Jalan Pahlawan No.59, Sukaluyu",-6.896771999999999,107.634258,OPERATIONAL,4.6,245,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Politeknik Lp3i Bandung,"Jalan Rereng Adumanis No.33, Cikutra",-6.894821899999999,107.6310096,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+KAMPUNG INGGRIS BANDUNG - KEC,"4J2J+H8M, Gang Perumnas Sukaluyu I, Sukaluyu",-6.898536200000001,107.6307961,OPERATIONAL,4.3,24,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+OTC BALI YPKP BANDUNG,"Jalan Surapati No.189, Sukaluyu",-6.898140700000001,107.631844,OPERATIONAL,5,9,"university, travel_agency, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung Ad Dawah,"Jalan Batik Halus No.25, Sukaluyu",-6.8933232,107.6287249,OPERATIONAL,4.7,62,"university, point_of_interest, establishment",,Unknown,Unknown
+PENANGKARAN BARUDAK,"Jalan Pahlawan No.67, RW.12, Sukaluyu",-6.895731699999999,107.6340688,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Fakultas Kehutanan,"4J3M+PM9, Sukaluyu",-6.895717599999999,107.6342487,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Teknik Unwim,"Jalan Pahlawan No.69, Sukaluyu",-6.8957451,107.6343171,OPERATIONAL,4.6,9,"university, point_of_interest, establishment",,Unknown,Unknown

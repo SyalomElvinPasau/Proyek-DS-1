@@ -1,0 +1,13 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+PURI CIPADUNG (Asrama Putri & Rumah Qur'an Saintek),"Jalan M.A. Winata RT.002/RW.008, Cipadung",-6.927791099999999,107.7186402,OPERATIONAL,5,12,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+LKP Ganesha Tama,"JL. kusuma lestari Komplek Vijaya Kusuma, No. A-97 Rt. 03 Rw. 16 cibiru, Cipadung",-6.9202612,107.719442,OPERATIONAL,5,5,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sanggar Kebudayaan,"3PC9+PXR, Gang Bakti VII, Pasir Biru",-6.928136299999999,107.7198814,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Asrama Nur Raya,"komplek cipadung, Jalan Permai V No.113, Cipadung",-6.928844,107.7182931,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Kost Ibu Rosyad,"Jalan Permai V No.92, Cipadung",-6.928961999999999,107.7180924,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung Aisyah,"3PC9+79J, Cipadung",-6.9292827,107.7184009,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kosan Rumah Kaka,Jln. Manisi gg Bakti V no 34 Rt 004/09,-6.929341599999999,107.7202065,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+HIMATIF UIN BANDUNG,"Universitas Islam Negeri, Cipadung",-6.929549799999999,107.7184387,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Secretariat HMJ Ilmu Al-Qur'an dan Tafsir Fak. Ushuluddin UIN SGD Bandung,"Universitas Islam Negeri, Cipadung",-6.929589399999999,107.7181564,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Markas KSR PMI Unit UIN BANDUNG,"3PC9+567, Cipadung",-6.9295832,107.7180407,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Gedung V Universitas Islam Negeri Bandung,"3PC9+37V, Cipadung",-6.929766799999999,107.7181822,OPERATIONAL,4.3,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung Kuliah Ushuluddin,"3P99+W7M, Cipadung",-6.9301578,107.7181618,OPERATIONAL,5,7,"university, point_of_interest, establishment",,{'open_now': False},Unknown

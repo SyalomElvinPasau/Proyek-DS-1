@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+BBC Bandung,"Jalan Indramayu Jalan Puri Sari No.22, Antapani Kidul",-6.9186529,107.6573839,OPERATIONAL,5,5,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+"EDUDI ( Bimbingan Belajar, SMK Solutions, Pelatihan)","Jalan Randusari Timur, Antapani Kidul",-6.9282032,107.6608551,OPERATIONAL,5,28,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Chiya,Perum Bina Karya II Blok A No.76,-6.9288001,107.6617921,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Bimba Rainbow Kids-Antapani Kidul Bandung,"komplek Antapani mas, Blok A No.69, RT.03/RW.19, Antapani Kidul",-6.9293461,107.6626763,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Antapani,"Jalan Cicalengka 3 No.3, Antapani Kidul",-6.918220199999999,107.6550578,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

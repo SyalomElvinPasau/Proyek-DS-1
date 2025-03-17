@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Faculty of Sport and Health Education UPI,"Jalan Khp Hasan Mustopa No.200, Padasuka",-6.9021914,107.6516909,OPERATIONAL,4.6,54,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Les Privat Gitar ( Basic ),"Jalan Bbk. H. Tamim No.7 Rt01, RW.06, Padasuka",-6.905929899999999,107.6473624,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kelas Karyawan S1 S2 Universitas Sanggabuana Bandung,"3JXV+WVR, Jalan Khp Hasan Mustopa, Padasuka",-6.900145699999999,107.6446295,OPERATIONAL,4.8,8,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Laboratorium Hidrolik & Pneumatik Teknik Mesin Itenas,"Gedung 11 Teknik Mesin Itenas, Jalan Khp Hasan Mustopa, Padasuka",-6.900145699999999,107.6446295,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown

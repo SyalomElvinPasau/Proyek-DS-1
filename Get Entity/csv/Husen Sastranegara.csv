@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Universitas Nurtanio Bandung,"Jalan Pajajaran No..219, Husen Sastranegara",-6.906252100000001,107.5807953,OPERATIONAL,4.6,264,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+BEM FT UNNUR,"3HVJ+X39, Husen Sastranegara",-6.9050875,107.5802344,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lab HIMA Tek. Industri,"3HWJ+2HV, Husen Sastranegara",-6.904914300000001,107.5814452,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+HIMAPALA SAWATARA,"Jalan Pajajaran No.219, Husen Sastranegara",-6.9059095,107.5799824,OPERATIONAL,5,8,"university, point_of_interest, establishment",,Unknown,Unknown
+Rektorat Universitas Nurtanio Bandung,"3HVJ+G7V, Husen Sastranegara",-6.906141,107.5806842,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Mess Mahasiswa Universitas Nurtanio,"Jalan Pajajaran No.219, Husen Sastranegara",-6.9063621,107.5818897,OPERATIONAL,4.2,5,"university, point_of_interest, establishment",,Unknown,Unknown
+Apsi,"Jalan Pajajaran No.219, Husen Sastranegara",-6.9063091,107.5828579,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Praktek dan magang,"3HWF+H7W, Bandara, Husen Sastranegara",-6.903517099999999,107.5731914,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

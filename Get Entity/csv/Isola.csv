@@ -1,0 +1,17 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Faculty of Economics and Business Education,"4HQR+XXC, Isola",-6.860068699999999,107.5923903,OPERATIONAL,4.9,132,"university, point_of_interest, establishment",,Unknown,Unknown
+School of Postgraduates UPI,"Jl. Dr. Setiabudhi No.229, Cidadap, Isola, Sukasari, Isola",-6.862527000000001,107.5929667,OPERATIONAL,4.8,236,"university, point_of_interest, establishment",,Unknown,Unknown
+Prodi Film dan Televisi UPI,"4HWV+R9M, Isola",-6.852923499999998,107.593419,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+PT. Fruits Mulia Nusantara,"Jalan Negla Tengah No.29a, Isola",-6.8549408,107.59275,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung B - FPTK UPI,"4HXW+6JF, Jalan Doktor Setiabudi, Isola",-6.851946299999999,107.5965615,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+LIGA HOBI,"4HRV+Q5V, Isola",-6.858011400000001,107.5929317,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+SLTP Santika II,"Jalan Pada Rapih No.305, Isola",-6.850581,107.5964691,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kosan Putera dan Puteri H.Asep,"Kp Jalan Cilimus No.58, RT.07/RW.06, Isola",-6.857990300000001,107.5906364,OPERATIONAL,5,1,"university, lodging, point_of_interest, establishment",,Unknown,Unknown
+Museum upi,"Jalan Doktor Setiabudi No.239, Isola",-6.858922899999999,107.5946334,OPERATIONAL,4.8,4,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Lokasi FTV Bandung 8,"Universitas Pendidikan Indonesia, Isola",-6.8592101,107.5934884,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Asrama Mahasiswa Putra Bumi Siliwangi UPI,"4HRR+6G5, Isola",-6.859491499999999,107.5913729,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+FPEB Digital Space EX,"Universitas Pendidikan Indonesia, Bumi Siliwangi Jalan Doktor Setiabudi No.229, Isola",-6.859643999999999,107.5920478,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sundial Park (Jam Matahari) - UPI,"Jalan Doktor Setiabudi No.281, Isola",-6.8599668,107.5943695,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+KITCHEN MIK,"4HQV+R7F, Jalan Roeslan Abdulgani, Isola",-6.860439899999999,107.5931872,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+University Center,"Jalan Doktor Setiabudi No.229, Isola",-6.860677199999999,107.5924115,OPERATIONAL,4.6,64,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Studio 229 UPI,"Jalan Doktor Setiabudi No.229, Isola",-6.859082999999999,107.5883952,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown

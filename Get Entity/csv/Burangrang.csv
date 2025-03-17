@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Amik Hass Bandung,"Jalan Buah Batu No.26, Malabar",-6.931399299999999,107.6171072,OPERATIONAL,4.7,15,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Mabes Kelana Digitech,"Kampus Universitas Teknologi Digital, Jalan Buah Batu No.26 Lantai 5, Burangrang",-6.931308700000001,107.6172207,OPERATIONAL,5,4,"university, point_of_interest, establishment",,Unknown,Unknown
+Universitas Teknologi Digital - Digitech University,"Jalan Buah Batu No.26, Burangrang",-6.9313178,107.6171728,OPERATIONAL,4.6,155,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Slembi,"Jalan Buah Batu No.21, Burangrang",-6.9309172,107.6175219,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+PMB STEMBI BANDUNG,"Jalan Buah Batu No.26, Burangrang",-6.9313623,107.617181,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown

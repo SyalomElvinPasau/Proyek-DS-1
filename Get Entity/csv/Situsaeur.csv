@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sekolah Tinggi Ilmu Kesehatan Immanuel Bandung,"Jalan Raya Kopo No.161, Situsaeur",-6.937022699999999,107.5962781,OPERATIONAL,4.8,225,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+STMIK Mardira Indonesia,"Jalan Soekarno-Hatta Jalan Leuwi Panjang No.211, Situsaeur",-6.9467364,107.5938228,OPERATIONAL,4.5,125,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+STIKI2,"Jalan Raya Kopo No.163-167, Babakan Asih",-6.9363353,107.5955108,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

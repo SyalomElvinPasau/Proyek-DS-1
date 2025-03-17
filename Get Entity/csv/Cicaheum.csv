@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sekretariat SATRIAPELA,"Jalan Sekolah Internasional No.1-6, Antapani, Cicaheum",-6.9096443,107.6497564,OPERATIONAL,5,4,"university, point_of_interest, establishment",,Unknown,Unknown
+ARS University,"Antapani, Jalan Terusan Sekolah No.1-2, Cicaheum",-6.910496199999999,107.6499176,OPERATIONAL,4.6,394,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+STIKES Dharma Husada,"Jalan Terusan Jakarta No.75, Cicaheum",-6.9125077,107.6509061,OPERATIONAL,4.5,150,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+alhikmah,Jalan Sulaksana,-6.9092863,107.6498487,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+EDUEMDE ALHIKMAH AKADEMI,Jl. Sekolah Internasional No.1 2,-6.909703100000001,107.6497929,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lembaga Penelitian dan Pengabdian Kepada Masyarakat Universitas ARS,"ARS, Jl. Sekolah Internasional 1-2 Gd. Rektorat Universitas, Cicaheum",-6.9105627,107.6500497,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+AKPAR BSI Bandung,"Jalan Sulaksana No.1-6, Cicaheum",-6.9110248,107.6500031,OPERATIONAL,4.5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung F STIKes Dharma Husada,"Jalan Terusan Jakarta Utara No.16, Cicaheum",-6.911792500000001,107.6513617,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Win Academy,"3JQX+PQ2, Jalan Sulaksana, Cicaheum",-6.910734,107.649399,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown

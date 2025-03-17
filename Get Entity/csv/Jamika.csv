@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+YPU Budidaya,"Jalan Jamika No.37, Jamika",-6.921085199999999,107.5874614,OPERATIONAL,4.3,20,"university, point_of_interest, establishment",,{'open_now': False},Unknown

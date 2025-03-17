@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+BINUS @Bandung - Paskal Campus,"Paskal Hyper Square, Jalan Pasir Kaliki No.25-27",-6.9153653,107.593561,OPERATIONAL,4.9,666,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Bandung,"3HMX+96F, Bandung, Ciroyom",-6.916559699999999,107.5980427,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+MTs Swasta Al-Bisriyyah,"JL Kampung Sumur, Rt. 01/10, Karamat Mulya, Soreang, Kebon Jeruk",-6.915859699999999,107.6023927,OPERATIONAL,1,1,"university, point_of_interest, establishment",,Unknown,Unknown
+SEMPOA IMA SUKAMANAH,"Jalan Sukamanah Jalan Jend. Sudirman No.24, Kebon Jeruk",-6.918584399999999,107.5941184,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+SMP Sukamanah,"Jalan Vihara No.11, Kebon Jeruk",-6.918141,107.593485,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
