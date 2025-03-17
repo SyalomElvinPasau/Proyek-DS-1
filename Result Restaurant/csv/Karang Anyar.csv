@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+King Crab Bandung,"Jalan Jend. Sudirman No.107, Karanganyar",-6.9209506,107.6004106,OPERATIONAL,4.5,208,"restaurant, point_of_interest, food, establishment",2
+Hongkong Restaurant,"Jalan Jend. Sudirman No.151-153, Karanganyar",-6.9203533,107.5991788,OPERATIONAL,4.5,757,"restaurant, point_of_interest, food, establishment",2
+Min Yen Bakpaw & Siomay,"Jalan Jend. Sudirman No.171, Karanganyar",-6.920249999999999,107.598476,OPERATIONAL,4.4,215,"store, restaurant, point_of_interest, food, establishment",2

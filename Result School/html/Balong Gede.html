@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9d315897e77ad2a6cdf9c935d85241a8 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9d315897e77ad2a6cdf9c935d85241a8" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9d315897e77ad2a6cdf9c935d85241a8 = L.map(
+                "map_9d315897e77ad2a6cdf9c935d85241a8",
+                {
+                    center: [-6.925680383520972, 107.60790527506414],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c4926481a1f38a7857c980a7ff7414cd = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_c4926481a1f38a7857c980a7ff7414cd.addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var polygon_3f241aa4274915b9a7ac2aac0ac19663 = L.polygon(
+                [[-6.927164076999873, 107.60372924800015], [-6.925899504999961, 107.60384368900009], [-6.925533771999881, 107.60386657700002], [-6.925301551999951, 107.60388946600006], [-6.925026415999923, 107.60390472400007], [-6.92479276499995, 107.60391235399999], [-6.924454211999944, 107.60395050100004], [-6.924292086999912, 107.60395812900015], [-6.923981666999907, 107.60396576000016], [-6.923903940999878, 107.6039733880001], [-6.923808573999963, 107.6039733880001], [-6.923672674999921, 107.60398101800018], [-6.923395633999917, 107.60399627600003], [-6.923166273999925, 107.60401153700013], [-6.923075199999971, 107.60401153700013], [-6.922644136999907, 107.60404205300017], [-6.922204970999815, 107.60408020000006], [-6.92208766899995, 107.60408783000014], [-6.921987533999925, 107.60409545800007], [-6.921457766999879, 107.60414123500004], [-6.921312331999957, 107.60414886600006], [-6.920882224999957, 107.60417175200013], [-6.920771598999977, 107.60418701200018], [-6.920787334999943, 107.60428619400005], [-6.920801162999908, 107.60437011600004], [-6.920846937999954, 107.60462951599999], [-6.920869825999944, 107.60476684500009], [-6.92092084899997, 107.60508728000008], [-6.920931338999935, 107.60518646200006], [-6.920961379999937, 107.60546875000017], [-6.921022415999914, 107.6060409540001], [-6.921042918999945, 107.60623931900005], [-6.921062469999981, 107.60638427800006], [-6.921078680999869, 107.60650634800004], [-6.92109727899998, 107.60665893600009], [-6.921108722999975, 107.60675048799999], [-6.921119689999898, 107.6068496700002], [-6.921219347999966, 107.60748291000004], [-6.921229362999895, 107.60759735200008], [-6.921240328999943, 107.60772705100004], [-6.921252249999952, 107.60785675000005], [-6.921259401999976, 107.60794830400016], [-6.921280382999953, 107.60816955600018], [-6.921302318999892, 107.60833740200002], [-6.921329974999878, 107.60863494800014], [-6.921337127999948, 107.60873413100006], [-6.921497820999946, 107.60870361400015], [-6.9216113089999, 107.6086883540001], [-6.921695709999938, 107.60868072500011], [-6.921773433999874, 107.6086730950002], [-6.921877860999928, 107.60865783700018], [-6.92195653999994, 107.60865020700004], [-6.922072409999942, 107.60863494800014], [-6.922149658999956, 107.60862732000004], [-6.922243595999873, 107.60861969000013], [-6.92232847199989, 107.60861969000013], [-6.922423838999975, 107.60864257900016], [-6.92253732699993, 107.6086654670001], [-6.922632693999958, 107.6086883540001], [-6.922707079999952, 107.60870361400015], [-6.922788143999924, 107.60872650200008], [-6.922903060999943, 107.60877990800003], [-6.922971724999911, 107.60881042400007], [-6.923045157999979, 107.60884857100012], [-6.923145292999891, 107.60888671800018], [-6.923233508999829, 107.60894012500006], [-6.923337936999928, 107.60899353000013], [-6.923450469999921, 107.60905456600005], [-6.923543928999948, 107.6091003430002], [-6.923635005999927, 107.60914611800013], [-6.923723219999943, 107.60919952500007], [-6.923810481999965, 107.60925293000008], [-6.923913955999978, 107.609321593], [-6.924012183999935, 107.6093826290001], [-6.924141406999979, 107.60946655200019], [-6.924468994999927, 107.60958099300018], [-6.924543380999921, 107.60958862300009], [-6.924656390999871, 107.60960388100011], [-6.924753187999954, 107.60961151200013], [-6.924873828999921, 107.60963440000006], [-6.924969195999893, 107.6096572890001], [-6.925079820999827, 107.60981750400009], [-6.925145626999949, 107.60990905800003], [-6.925220012999944, 107.61003875700004], [-6.925315379999972, 107.61023712100007], [-6.925369739999894, 107.61033630300011], [-6.92540454899995, 107.61040496900011], [-6.925484179999955, 107.61051177900009], [-6.925803184999893, 107.6104507440001], [-6.925967214999957, 107.61038971], [-6.926060676999953, 107.61035156200006], [-6.926185607999912, 107.61029815600006], [-6.926429271999837, 107.61019134600014], [-6.926693916999966, 107.61006927500006], [-6.926883220999912, 107.60997772200005], [-6.926953791999892, 107.60994720500008], [-6.92721891399998, 107.60986328100006], [-6.927301406999959, 107.60987853900008], [-6.927404879999926, 107.60993194700006], [-6.927488326999878, 107.61000061000016], [-6.927568912999959, 107.61006164500014], [-6.927662849999933, 107.61013793900008], [-6.927721499999905, 107.61020660400015], [-6.92778921099989, 107.61028289800004], [-6.927970408999897, 107.61053466800013], [-6.928122043999906, 107.61074066200013], [-6.928338050999912, 107.61099243100006], [-6.928492068999958, 107.6113891600001], [-6.928530214999853, 107.61148834200014], [-6.928637027999969, 107.61172485300011], [-6.928725718999942, 107.61183929400005], [-6.928775786999893, 107.61190032900004], [-6.9290933609999, 107.61232757600015], [-6.929305076999924, 107.61262512300016], [-6.929354666999927, 107.61269378600008], [-6.929544924999959, 107.61296081600011], [-6.929705142999978, 107.61309814500004], [-6.929764747999968, 107.61315155000011], [-6.929981230999829, 107.61333465600012], [-6.93025875099994, 107.61354827900016], [-6.930404662999933, 107.61366271900005], [-6.930487154999923, 107.613731385], [-6.930655954999963, 107.6138534550002], [-6.930790900999853, 107.61400604300019], [-6.930899618999945, 107.61412048300008], [-6.931033134999893, 107.61434173600014], [-6.931169033999936, 107.61450958300009], [-6.931355474999918, 107.61475372300004], [-6.93147182499996, 107.61483764700006], [-6.931577682999944, 107.61491394000006], [-6.931665896999959, 107.61496734500014], [-6.931770324999889, 107.61505126900016], [-6.931837082999891, 107.61511993500017], [-6.931901455999878, 107.61523437500006], [-6.931973933999927, 107.61534881600016], [-6.932050227999866, 107.6152801520002], [-6.932149886999923, 107.61519622800017], [-6.932469844999957, 107.6150054920002], [-6.932429312999943, 107.61480713000014], [-6.932374477999872, 107.61460113500004], [-6.932298659999901, 107.614356994], [-6.932260034999899, 107.61402130100004], [-6.932199001999891, 107.61383056700004], [-6.932158947999881, 107.61370849600019], [-6.932031631999905, 107.61344909700011], [-6.931887626999981, 107.6132125850001], [-6.931757926999921, 107.6130065910001], [-6.931502818999945, 107.61267089800009], [-6.931324480999933, 107.612449647], [-6.931260585999894, 107.61238861200002], [-6.930567262999887, 107.61165619000019], [-6.930363653999962, 107.61144256500017], [-6.930138587999977, 107.61121368400018], [-6.929850101999875, 107.61094665400009], [-6.929773805999957, 107.61087036100008], [-6.929670333999923, 107.61074829], [-6.929605007999953, 107.61066436800019], [-6.929525374999969, 107.61058807500018], [-6.929373739999903, 107.61041259700005], [-6.9293241499999, 107.61035919200015], [-6.92915916499993, 107.61019897400007], [-6.929082870999935, 107.61013031100015], [-6.929007052999964, 107.61004638700012], [-6.928835391999939, 107.6098938], [-6.928759573999912, 107.60981750400009], [-6.928217887999949, 107.60926056000005], [-6.928062915999931, 107.60913085900006], [-6.928003310999941, 107.60906219600014], [-6.927930354999944, 107.60898590000005], [-6.927795410999977, 107.6088333130001], [-6.927742957999897, 107.60876464900014], [-6.927676677999841, 107.6086730950002], [-6.927632807999942, 107.608398437], [-6.92761993299996, 107.608322144], [-6.927549838999937, 107.6078414910001], [-6.927519797999935, 107.60762023900008], [-6.927510261999942, 107.60745239300007], [-6.927498339999829, 107.607330322], [-6.927500724999959, 107.60719299300013], [-6.927498339999829, 107.60710144100017], [-6.927480697999954, 107.60687255800013], [-6.927441596999927, 107.60650634800004], [-6.927420615999949, 107.60629272400013], [-6.927398681999932, 107.60601806600016], [-6.927392004999888, 107.60593414200014], [-6.927354334999904, 107.6054000850001], [-6.92734670699997, 107.60529327400002], [-6.92733192399993, 107.60513305700005], [-6.927314757999909, 107.60494995100015], [-6.927309035999883, 107.60479736400004], [-6.927303312999925, 107.60472107000015], [-6.927252292999981, 107.6043624880001], [-6.927237986999955, 107.60414123500004], [-6.927227496999876, 107.60399627600003], [-6.927226066999935, 107.6038589470001], [-6.927238939999938, 107.603721618], [-6.927164076999873, 107.60372924800015]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var marker_6ce71aa2de5e11a9e304f88852032119 = L.marker(
+                [-6.925699, 107.607614],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_503729f996a2414d9e639be5f8f306e5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2972c35ed503d83425328a72eaf7c9f0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_089bd00cac8182f3c00dd6470c6c49a0 = $(`<div id="html_089bd00cac8182f3c00dd6470c6c49a0" style="width: 100.0%; height: 100.0%;">Elementary School Assalaam</div>`)[0];
+                popup_2972c35ed503d83425328a72eaf7c9f0.setContent(html_089bd00cac8182f3c00dd6470c6c49a0);
+            
+        
+
+        marker_6ce71aa2de5e11a9e304f88852032119.bindPopup(popup_2972c35ed503d83425328a72eaf7c9f0)
+        ;
+
+        
+    
+    
+                marker_6ce71aa2de5e11a9e304f88852032119.setIcon(icon_503729f996a2414d9e639be5f8f306e5);
+            
+    
+            var marker_1e51f0961c6a5e86a926242c07bb12d8 = L.marker(
+                [-6.923596700000001, 107.6076382],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_ddca77f3953043dc2c78fa9be517e65b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b1ffd5263be379caf0c905ab02c83c3c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7b80d93e9d00657af8cf5aef1dcebd89 = $(`<div id="html_7b80d93e9d00657af8cf5aef1dcebd89" style="width: 100.0%; height: 100.0%;">Senior High School Pasundan 1</div>`)[0];
+                popup_b1ffd5263be379caf0c905ab02c83c3c.setContent(html_7b80d93e9d00657af8cf5aef1dcebd89);
+            
+        
+
+        marker_1e51f0961c6a5e86a926242c07bb12d8.bindPopup(popup_b1ffd5263be379caf0c905ab02c83c3c)
+        ;
+
+        
+    
+    
+                marker_1e51f0961c6a5e86a926242c07bb12d8.setIcon(icon_ddca77f3953043dc2c78fa9be517e65b);
+            
+    
+            var marker_cbf941753862963b5fdccbcb93f74045 = L.marker(
+                [-6.926038099999999, 107.6079401],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_b203e09721d705122796ba84b9878b66 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9b050be8623f428389419ecdd9c4ae50 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d8cb3746f6efb449743d1658739dcd34 = $(`<div id="html_d8cb3746f6efb449743d1658739dcd34" style="width: 100.0%; height: 100.0%;">Junior High School Assalaam</div>`)[0];
+                popup_9b050be8623f428389419ecdd9c4ae50.setContent(html_d8cb3746f6efb449743d1658739dcd34);
+            
+        
+
+        marker_cbf941753862963b5fdccbcb93f74045.bindPopup(popup_9b050be8623f428389419ecdd9c4ae50)
+        ;
+
+        
+    
+    
+                marker_cbf941753862963b5fdccbcb93f74045.setIcon(icon_b203e09721d705122796ba84b9878b66);
+            
+    
+            var marker_dbb59539e9c9d0abc85ab293dec4e8a2 = L.marker(
+                [-6.925792100000001, 107.6082948],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_118bba3e8f328fb7bb2710143efa8f7e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2bd65884f9d75a1b565a89a217531002 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8ca1ab389455b0cce8a5dabea42024a7 = $(`<div id="html_8ca1ab389455b0cce8a5dabea42024a7" style="width: 100.0%; height: 100.0%;">TK Assalaam</div>`)[0];
+                popup_2bd65884f9d75a1b565a89a217531002.setContent(html_8ca1ab389455b0cce8a5dabea42024a7);
+            
+        
+
+        marker_dbb59539e9c9d0abc85ab293dec4e8a2.bindPopup(popup_2bd65884f9d75a1b565a89a217531002)
+        ;
+
+        
+    
+    
+                marker_dbb59539e9c9d0abc85ab293dec4e8a2.setIcon(icon_118bba3e8f328fb7bb2710143efa8f7e);
+            
+    
+            var marker_955143b63ffdaa92100a1498ccef57b1 = L.marker(
+                [-6.924896200000001, 107.6078713],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_752fd743c2a439d3d03425120cbecd3b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d6b4e448956ac1109731114334959854 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_44bc9598c310520c07d3d514accdde11 = $(`<div id="html_44bc9598c310520c07d3d514accdde11" style="width: 100.0%; height: 100.0%;">Taman Pendidikan Quran (TPQ) Assalaam</div>`)[0];
+                popup_d6b4e448956ac1109731114334959854.setContent(html_44bc9598c310520c07d3d514accdde11);
+            
+        
+
+        marker_955143b63ffdaa92100a1498ccef57b1.bindPopup(popup_d6b4e448956ac1109731114334959854)
+        ;
+
+        
+    
+    
+                marker_955143b63ffdaa92100a1498ccef57b1.setIcon(icon_752fd743c2a439d3d03425120cbecd3b);
+            
+    
+            var marker_ae7acd5a579cc45cb7637e95b27de508 = L.marker(
+                [-6.9242743, 107.6080385],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_91e0b053d2ab61226f14db570808f842 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_474f55bb5a4183ba9a59786cf37fb4c7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_79d1e09af678ee1948552e18321e2a86 = $(`<div id="html_79d1e09af678ee1948552e18321e2a86" style="width: 100.0%; height: 100.0%;">Pasundan Junior High School 1 Bandung</div>`)[0];
+                popup_474f55bb5a4183ba9a59786cf37fb4c7.setContent(html_79d1e09af678ee1948552e18321e2a86);
+            
+        
+
+        marker_ae7acd5a579cc45cb7637e95b27de508.bindPopup(popup_474f55bb5a4183ba9a59786cf37fb4c7)
+        ;
+
+        
+    
+    
+                marker_ae7acd5a579cc45cb7637e95b27de508.setIcon(icon_91e0b053d2ab61226f14db570808f842);
+            
+    
+            var marker_813b9f6e3f78efafcc49110c5ae5fc44 = L.marker(
+                [-6.924222999999999, 107.6078673],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_d0c942f19b77d9c1ee382b9e8bf966b1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_62429fca2702ca6081d0e8e6840f82a7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2b40065b447f8880fb092f5b0d036f11 = $(`<div id="html_2b40065b447f8880fb092f5b0d036f11" style="width: 100.0%; height: 100.0%;">SMP Pasundan 2 Bandung</div>`)[0];
+                popup_62429fca2702ca6081d0e8e6840f82a7.setContent(html_2b40065b447f8880fb092f5b0d036f11);
+            
+        
+
+        marker_813b9f6e3f78efafcc49110c5ae5fc44.bindPopup(popup_62429fca2702ca6081d0e8e6840f82a7)
+        ;
+
+        
+    
+    
+                marker_813b9f6e3f78efafcc49110c5ae5fc44.setIcon(icon_d0c942f19b77d9c1ee382b9e8bf966b1);
+            
+    
+            var marker_8a18f5bc7e9142f36738458576de7104 = L.marker(
+                [-6.925136099999999, 107.6059459],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_fa5455700fae009cda75ec16535f9efa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_863dfbf984cc133bd383a0411786ed08 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cd34f78c42529cc594022ac2cfb982ca = $(`<div id="html_cd34f78c42529cc594022ac2cfb982ca" style="width: 100.0%; height: 100.0%;">Gereja Rehoboth</div>`)[0];
+                popup_863dfbf984cc133bd383a0411786ed08.setContent(html_cd34f78c42529cc594022ac2cfb982ca);
+            
+        
+
+        marker_8a18f5bc7e9142f36738458576de7104.bindPopup(popup_863dfbf984cc133bd383a0411786ed08)
+        ;
+
+        
+    
+    
+                marker_8a18f5bc7e9142f36738458576de7104.setIcon(icon_fa5455700fae009cda75ec16535f9efa);
+            
+    
+            var marker_d70b9cf9d9183ac6195de92a35035aee = L.marker(
+                [-6.9256767, 107.6069018],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_7793fcb5b3c024cada34d9cfc802279c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_51b9c71ba94e1d67bde9c87ba4180fc3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c00ddd2b514c7361e30846413c8ff696 = $(`<div id="html_c00ddd2b514c7361e30846413c8ff696" style="width: 100.0%; height: 100.0%;">Junior High School 43 Bandung</div>`)[0];
+                popup_51b9c71ba94e1d67bde9c87ba4180fc3.setContent(html_c00ddd2b514c7361e30846413c8ff696);
+            
+        
+
+        marker_d70b9cf9d9183ac6195de92a35035aee.bindPopup(popup_51b9c71ba94e1d67bde9c87ba4180fc3)
+        ;
+
+        
+    
+    
+                marker_d70b9cf9d9183ac6195de92a35035aee.setIcon(icon_7793fcb5b3c024cada34d9cfc802279c);
+            
+    
+            var marker_f74f102fdd2bec3afc6222581af72142 = L.marker(
+                [-6.924554199999998, 107.6075487],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_11785ce781d856542594c9b6ff2064ac = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6793d8ec0ffc138a39d3af7ebb5fb333 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4892e12b966ef37d7f399e507c589b88 = $(`<div id="html_4892e12b966ef37d7f399e507c589b88" style="width: 100.0%; height: 100.0%;">Elementary School Balonggede</div>`)[0];
+                popup_6793d8ec0ffc138a39d3af7ebb5fb333.setContent(html_4892e12b966ef37d7f399e507c589b88);
+            
+        
+
+        marker_f74f102fdd2bec3afc6222581af72142.bindPopup(popup_6793d8ec0ffc138a39d3af7ebb5fb333)
+        ;
+
+        
+    
+    
+                marker_f74f102fdd2bec3afc6222581af72142.setIcon(icon_11785ce781d856542594c9b6ff2064ac);
+            
+    
+            var marker_76a9da114fec4615ed62a1aaabc5f17a = L.marker(
+                [-6.927091900000002, 107.6075299],
+                {
+}
+            ).addTo(map_9d315897e77ad2a6cdf9c935d85241a8);
+        
+    
+            var icon_54cce5fae8a70526e4253fb042effe15 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0078f29c9700e3d4ce465e9658c32c7c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d775b9771903f145ba2bfc733269d81f = $(`<div id="html_d775b9771903f145ba2bfc733269d81f" style="width: 100.0%; height: 100.0%;">Yayasan Assalaam Bandung</div>`)[0];
+                popup_0078f29c9700e3d4ce465e9658c32c7c.setContent(html_d775b9771903f145ba2bfc733269d81f);
+            
+        
+
+        marker_76a9da114fec4615ed62a1aaabc5f17a.bindPopup(popup_0078f29c9700e3d4ce465e9658c32c7c)
+        ;
+
+        
+    
+    
+                marker_76a9da114fec4615ed62a1aaabc5f17a.setIcon(icon_54cce5fae8a70526e4253fb042effe15);
+            
+</script>
+</html>

@@ -1,0 +1,18 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Warung Haji Gendut,"Jalan Dunguscariang Gang Bapak Ukid 51c/77, RT.01/RW.05, Dungus Cariang",-6.9164973,107.5800017,OPERATIONAL,4.3,25,"restaurant, food, point_of_interest, establishment",Unknown
+Gerobak Ma'icis,"Jl. Dunguscariang Gang. Bapak Ukid 51c/77, Jalan Dunguscariang Gang Bapak Ukid No.51 c/77, Dungus Cariang",-6.916501099999999,107.5798883,OPERATIONAL,3.6,10,"restaurant, food, point_of_interest, establishment",Unknown
+SPLASH KITCHEN,"Jalan Garuda No.39, Garuda",-6.9147984,107.5775647,OPERATIONAL,4.3,53,"restaurant, cafe, food, point_of_interest, establishment",2
+Domino's Pizza,"Jalan Jend. Sudirman No.588, RT.006/RW.004, Dungus Cariang",-6.917935300000001,107.5812759,OPERATIONAL,4.3,1768,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",2
+TERAS UMMI,"Gang Sastra No.211/78, RT.05/RW.07, Ciroyom",-6.914480999999999,107.5807223,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Ren Dim Sum,"3HPJ+5CF, Jalan Rajawali Timur, Dungus Cariang",-6.91457,107.5810513,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Selera,"3HPJ+6G3, Jalan Rajawali Timur, Dungus Cariang",-6.9145084,107.5812642,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai Ha-Nay,"3HPJ+GFP, Gang RA Barnas I, Dungus Cariang",-6.913662899999999,107.5812077,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Emak MIMIN,"Jalan Halteu Utara No.Selatan, Dungus Cariang",-6.914433,107.5801914,OPERATIONAL,4,1,"restaurant, food, point_of_interest, establishment",Unknown
+BaseCamp ORB,"Jalan Rajawali Timur No.221, Dungus Cariang",-6.9143623,107.5801105,OPERATIONAL,5,40,"restaurant, food, point_of_interest, establishment",Unknown
+Seblak mamah neng // gang barnas 2,"Jalan Rajawali Timur No.213, Dungus Cariang",-6.914965599999999,107.5806302,OPERATIONAL,4.9,7,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Goreng Cilacap Si Manis,"Jalan Rajawali Timur No.225, Dungus Cariang",-6.9143044,107.5798576,OPERATIONAL,5,1,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Dimsum Mamazylla,Jalan Rajawali Timur Jalan Halteu Utara No.163,-6.913714499999999,107.5798083,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+"Nasgor ""DJ"" Jambal Roti","Jalan Halteu Selatan No.73B, Dungus Cariang",-6.9147697,107.5795332,CLOSED_TEMPORARILY,5,3,"restaurant, food, point_of_interest, establishment",Unknown
+AYAM BAONG DC || SUDIRMAN,"Jalan Rajawali Timur Jalan Halteu Selatan No.357, RT.1/RW.06, Dungus Cariang",-6.9151009,107.5797541,OPERATIONAL,4.7,18,"restaurant, food, point_of_interest, establishment",Unknown
+Takoyaki Hilhil,"Jalan Rajawali Timur Gg.barnas 2 RT.07/RW.05, Dungus Cariang",-6.9155705,107.5810922,OPERATIONAL,4.9,32,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Nasi Goreng Mas Nono,"Jalan Rajawali Timur No.183, Dungus Cariang",-6.9147574,107.582158,OPERATIONAL,5,4,"restaurant, food, point_of_interest, establishment",Unknown

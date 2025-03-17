@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Mandarin Restaurant,"Jalan Kebon Kawung No.45-47, Pasir Kaliki",-6.9125,107.5983333,OPERATIONAL,4.2,643,"restaurant, point_of_interest, food, establishment",2
+ANGKRINGAN KOJO,"Jalan Moch. Yunus No.8, Pasir Kaliki",-6.907727899999998,107.5994153,OPERATIONAL,4.5,11,"restaurant, point_of_interest, food, establishment",Unknown
+Kehidupan Tidak Pernah Berakhir,"Jalan Pajajaran No.63, Pasir Kaliki",-6.9068789,107.5983584,OPERATIONAL,4.5,6668,"restaurant, point_of_interest, food, establishment",1
+Warung Nasi Kabita,"3HWX+CR5, Jalan Doktor Rajiman, Pasir Kaliki",-6.9039883,107.5996196,OPERATIONAL,4,8,"restaurant, point_of_interest, food, establishment",Unknown
+Holland Bakery Abdul Rivai,"Jalan Doktor Abdul Rivai No.7, Pasir Kaliki",-6.9045878,107.603545,OPERATIONAL,4.6,643,"bakery, store, restaurant, point_of_interest, food, establishment",2
+The Square Restaurant Bandung,"No 25, Jalan Cihampelas No.23, Tamansari",-6.9048164,107.6041337,OPERATIONAL,4.5,62,"restaurant, point_of_interest, food, establishment",Unknown
+Fung's Kitchen Bandung,"Jalan Marjuk No.3, Pasir Kaliki",-6.9121859,107.6022623,OPERATIONAL,4.9,33,"restaurant, point_of_interest, food, establishment",Unknown
+Warung Nasi Ampera - Kebon Kawung,"Jalan Kebon Kawung No.28, Pasir Kaliki",-6.9123946,107.6012345,OPERATIONAL,4,1609,"restaurant, point_of_interest, food, establishment",2

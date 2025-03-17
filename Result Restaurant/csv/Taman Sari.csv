@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Melbourne Kitchen,"Jalan Cipaganti No.14, Tamansari",-6.902737600000001,107.6030524,OPERATIONAL,4.2,167,"restaurant, cafe, food, point_of_interest, establishment",2
+Aussy Burger,"3JX5+357, Jalan Tamansari, Tamansari",-6.9023452,107.6079182,OPERATIONAL,4.5,2,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Kantin Tamansari 21,"Jalan Tamansari No.21, Tamansari",-6.9005633,107.6090376,OPERATIONAL,4.5,1134,"restaurant, food, point_of_interest, establishment",1
+Chingu Cafe,"Jalan Sawunggaling No.10, Tamansari",-6.901323000000001,107.609731,OPERATIONAL,4.4,8037,"cafe, restaurant, food, point_of_interest, establishment",2
+"BSA - BAKSO SEMAR ASLI, CIHAMPELAS","Jalan Cihampelas No.68, Tamansari",-6.9016234,107.6045178,OPERATIONAL,4.3,7701,"restaurant, food, point_of_interest, establishment",2
+Monster Iceblend BALTOS,"4J25+G6P, Tamansari",-6.898670999999998,107.6080744,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+HokBen - Baltos,"Balubur Town Square, Jalan Tamansari No.1 Lt.1, Tamansari",-6.8988089,107.6091196,OPERATIONAL,4,288,"restaurant, food, point_of_interest, establishment",2
+Mie Tulang Pak Anan,"3JV4+VWG, Jalan Wastukencana Jalan Nangkasuni, Tamansari",-6.9053203,107.6073141,OPERATIONAL,4.4,705,"restaurant, food, point_of_interest, establishment",1

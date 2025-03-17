@@ -1,0 +1,14 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Raja Cau,"Jalan Jati Indah IV No.10A, Gumuruh",-6.9443907,107.6357272,OPERATIONAL,4.6,356,"restaurant, food, point_of_interest, establishment",1
+Mie Tek Tek Cah Pekalongan,"Jalan Gatot Subroto No.190, Gumuruh",-6.930102600000001,107.6392962,OPERATIONAL,4.4,64,"restaurant, food, point_of_interest, establishment",Unknown
+Nasi Goreng Kambing Kampuyuh,"Jalan Libra V No.9a, Gumuruh",-6.938428399999999,107.6363331,OPERATIONAL,4.5,8,"restaurant, food, point_of_interest, establishment",Unknown
+Gurame Crispy Pa'De,"Jalan Gumuruh No.161, Gumuruh",-6.937450399999999,107.6384019,OPERATIONAL,4.9,26,"restaurant, food, point_of_interest, establishment",Unknown
+PECEL MADIUN,Jalan Turangga,-6.936891600000001,107.6383264,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Rendang Andung,"Jalan Scorpio No.20, Gumuruh",-6.9366778,107.636437,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Pomper Bandung,"Jalan Setiakawan Utara Gg. Pertama RT.5/RW.7. Kel. Gumuruh, Batununggal Kontrakan Pa Budi No 4 (Pagar Hitam Ujung",-6.939694200000001,107.6377436,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Dapur Yuraa,"Gang Gumuruh VI No.13, Gumuruh",-6.9364139,107.6383372,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Bakso sigit,Gumuruh,-6.936122,107.6378018,CLOSED_TEMPORARILY,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Seblak Gemes Teh Dini,"3J7Q+C99, Gang Gumuruh VI, Gumuruh",-6.936450600000001,107.6384727,OPERATIONAL,5,8,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Simple Isti,"Jalan Gumuruh No.189, Gumuruh",-6.940083,107.6373649,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Tiny Osaka Batununggal,"Jalan Libra No.32, Gumuruh",-6.9372412,107.6353354,OPERATIONAL,5,11,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Mie Bakso AL BERKAH & Teh Oishii 美味しい,"Jl. Gumuruh kelurahan No.108bRT.03, RW.06, GumuruhKec",-6.9359628,107.637796,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown

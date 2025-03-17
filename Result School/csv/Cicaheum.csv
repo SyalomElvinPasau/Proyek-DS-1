@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+"2nd Private Santa Maria Catholic High School, Cicaheum","Jalan Sulaksana Baru I No.18, Cicaheum",-6.908019899999999,107.6512778,OPERATIONAL,4.9,91,"school, point_of_interest, establishment",
+Madrasah Al Ikhlas,"Gang Maja II, Cicaheum",-6.9074372,107.6525073,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+St. Joseph Junior High School,"Jalan Sulaksana Baru I No.18, Cicaheum",-6.907799700000001,107.6513233,OPERATIONAL,4.8,82,"school, point_of_interest, establishment",
+RA Ummul Fikri,"3MV2+77W, Gang Arkat I, Cicaheum",-6.906753599999999,107.6507046,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+RA AL IHSAN,"3MW3+62H, Jalan A. Yani Gang Sukaresmi RT.06/RW.05, Cicaheum",-6.904448299999999,107.6526239,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Madrasah Tsanawiyah / Sekolah Menengah Pertama Plus Al-Mursyid,"Jalan Sulaksana Baru VI No.7, Cicaheum",-6.9095465,107.6507348,OPERATIONAL,4,8,"school, point_of_interest, establishment",
+Madrasah Ibtidaiyah / Sekolah Dasar Plus Al-Mursyid,"Jalan Sulaksana Baru VI No.7, Cicaheum",-6.9095384,107.6506735,OPERATIONAL,5,4,"primary_school, school, point_of_interest, establishment",

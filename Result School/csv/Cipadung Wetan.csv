@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+RA/BA/TA Al Misbah,"Jalan Raya Cipadung No.276, Cipadung Wetan",-6.9312434,107.7126451,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Komplek Pertamina,"Jalan AH. Nasution No.282 blk d, Cipadung Wetan",-6.9319861,107.7135094,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+Basecamp O.N.B.T - Owner Nouvo Bandung Timur,"Jalan Raya Cipadung No.128, Cipadung Wetan",-6.931963499999999,107.7139293,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Pondok Pesantren As-Salafi Ar-Raaid (SMP SMA Unggulan Putri Ar Raaid Berbasis Salafi),"Bumi Patra Asri, Komplek Jalan Pertamina blok L32, Cipadung Wetan",-6.933385099999999,107.7143499,OPERATIONAL,5,17,"school, point_of_interest, establishment",

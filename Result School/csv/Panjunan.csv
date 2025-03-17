@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Studio Aerobic IR_ROBIC,"Jalan Raya Kopo No.65, Panjunan",-6.930473200000001,107.5972828,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Yayasan Al-Mu'awanah,"Gang Salam No.12, Panjunan",-6.928329400000001,107.5990091,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Padepokan JUGALA,"Jalan Raya Kopo No.15, Panjunan",-6.927542499999999,107.5982213,OPERATIONAL,4.8,13,"school, point_of_interest, establishment",
+SD Negeri Pabaki 3,"Jalan Pabaki No.33, Panjunan",-6.9274651,107.595961,OPERATIONAL,4.4,25,"primary_school, school, point_of_interest, establishment",

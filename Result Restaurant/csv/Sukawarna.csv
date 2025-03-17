@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+KFC,"Jalan Surya Sumantri No.62, RT.001/RW.05, Sukawarna",-6.8872481,107.581148,OPERATIONAL,4.4,1973,"restaurant, point_of_interest, food, establishment",2
+Pak Gombloh cibogo,"4H6H+WMX, Jalan Cibogo, Sukawarna",-6.887639699999998,107.579221,OPERATIONAL,4.3,390,"restaurant, point_of_interest, food, establishment",1
+Sushi Teiyo,"Sarijadi blok 24 no 41, Sukawarna",-6.884388700000001,107.574534,OPERATIONAL,4.5,367,"restaurant, point_of_interest, food, establishment",1
+Warung Sate Durin,"Blk, Sukawarna, Sukajadi, Jalan Sarimanah No.33, Sarijadi",-6.882269399999999,107.5766065,OPERATIONAL,4.6,182,"restaurant, point_of_interest, food, establishment",Unknown
+Sekoteng Eyang Subur,"Jalan Sariwangi No.37, Sukawarna",-6.882279599999999,107.5763484,OPERATIONAL,4.5,54,"restaurant, point_of_interest, food, establishment",Unknown
+Nasi Goreng Mas Jimin,"4H8F+RP2, Jalan Sariwangi Dalam, Sarijadi",-6.882998,107.574276,OPERATIONAL,4.9,8,"restaurant, point_of_interest, food, establishment",Unknown
+Dcrepes Surya Sumantri,"Jalan Lemahnendeut No.1E, Sukawarna",-6.8826175,107.5810855,OPERATIONAL,4.1,236,"store, restaurant, point_of_interest, food, establishment",2
+Pizza Hut Delivery - PHD Indonesia,"Jalan Lemahnendeut No.1, Sukawarna",-6.882638099999999,107.5812037,OPERATIONAL,4.6,392,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",2
+Domino's Pizza,"Jalan Surya Sumantri No.97, Sukawarna",-6.8823235,107.5813579,OPERATIONAL,4.3,1925,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",2
+Pecel Lele Nasi Uduk Cinta Rasa,"Jalan Surya Sumantri No.8 E, Sukawarna",-6.8819842,107.581318,OPERATIONAL,4.3,11,"restaurant, point_of_interest, food, establishment",Unknown

@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Warung Nasi Cinta Asih,"Jalan Khp Hasan Mustopa Gang Pelita III No.83, Sukapada",-6.900158500000001,107.6452082,OPERATIONAL,4.3,7,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Goreng Mulya Rasa,"Jln. Phh. Mustofa Gg. Sukaharja I Rt.03 Rw.03, Kel, Sukapada",-6.9006561,107.6459429,OPERATIONAL,4.6,48,"meal_takeaway, restaurant, food, point_of_interest, establishment",1
+Pempek Yumee,"Jalan Villa Asri Selatan IV No.blok f16, Sukapada",-6.8959776,107.6464509,OPERATIONAL,4,1,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam mercon suryati,"Jalan Obby No.170, Sukapada",-6.895618199999999,107.6477454,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Enjum batagor,"Jalan Babakan Baru, Sukapada",-6.896818799999999,107.646529,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+GORÉNGAN KAMPUNG,"Jalan Babakan Baru No.47, RT.06/RW.08, Sukapada",-6.895947599999999,107.6479392,OPERATIONAL,5,5,"store, health, restaurant, food, point_of_interest, establishment",Unknown
+Nasi Kuning Bu Sum,"Jalan Babakan Baru No.47, RT.06/RW.08, Sukapada",-6.8959936,107.6479459,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Bakso Pak Jumardi,"Jalan Babakan Baru RT.1/RW.16, Sukapada",-6.896892699999999,107.64641,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Ayam Mas Nano,"Jalan Babakan Baru No.44, Sukapada",-6.8965182,107.6478782,OPERATIONAL,4.7,12,"restaurant, food, point_of_interest, establishment",Unknown
+Rawon dan Garang Asem Dapoer Mami Eonie,"4J3W+M88, Jalan Puri Asri, Sukapada",-6.8958414,107.6458577,OPERATIONAL,5,3,"restaurant, food, point_of_interest, establishment",Unknown

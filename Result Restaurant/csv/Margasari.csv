@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Pizza Rakyat,"2MR6+78H, Jalan Ciwastra, Margasari",-6.959307099999999,107.6608604,OPERATIONAL,5,1,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Cafe N Resto Dapur Bahari,"Jl. Ciwastra RT. 06 No. 77 Kec. Margacinta, Margasari",-6.955143,107.650426,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+ROEMAH KOENING,Komplek DPRD 1 No.36A,-6.955290199999999,107.6568582,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+KLOD KITCHEN,"Komplek De green grande residence C37, Jalan Margacinta, Margasari",-6.9532813,107.6582007,OPERATIONAL,5,17,"store, restaurant, food, point_of_interest, establishment",Unknown
+Mommy Q Kitchen,"Komplek Megabrata no 93, Margasari",-6.9564919,107.6582848,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Steak teras,"Komplek Megabrata no. 93, Margasari",-6.9564987,107.6582821,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai teh mae,"Jl. Ciganitri Mukti I No.39, Cipagalo",-6.9544299,107.655035,OPERATIONAL,2.3,3,"restaurant, food, point_of_interest, establishment",Unknown
+Pempek sasa,Jalan Kompleks Mega Brata No.kav 179 A,-6.955874799999999,107.6591274,OPERATIONAL,Unknown,Unknown,"store, restaurant, food, point_of_interest, establishment",Unknown
+Iit kitchen,Margasari,-6.956543300000001,107.6585544,OPERATIONAL,5,4,"restaurant, food, point_of_interest, establishment",Unknown
+ShopAA Shop,"2MW4+P5R, komplek graha alam raya, Margasari",-6.953125999999998,107.6554033,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown

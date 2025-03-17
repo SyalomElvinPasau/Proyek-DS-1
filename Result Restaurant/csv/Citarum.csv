@@ -1,0 +1,20 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Hotel Gandasari,"Jalan Seram No.3, Citarum",-6.9080239,107.6129776,OPERATIONAL,4.1,801,"cafe, lodging, restaurant, food, point_of_interest, establishment",Unknown
+Baso Malang BoM,"Yusuf, Jalan Maulana Yusuf No.4, Citarum",-6.902031000000001,107.6136198,OPERATIONAL,4.6,140,"restaurant, food, point_of_interest, establishment",1
+Clique Lounge & Resto,"Jalan Cisangkuy No.64, Citarum",-6.9021496,107.6214177,OPERATIONAL,4.2,6,"cafe, restaurant, food, point_of_interest, establishment",Unknown
+Bubur Ayam Mang H Oyo Pusat (ASLI),"Jalan Sultan Tirtayasa No.49b, Citarum",-6.904858900000001,107.6161104,OPERATIONAL,4.3,3199,"restaurant, food, point_of_interest, establishment",2
+"Belah Doeren, Progo, Bandung","Jalan Progo No.3, Citarum",-6.9045006,107.6175033,OPERATIONAL,4.7,4582,"bakery, store, restaurant, food, point_of_interest, establishment",2
+Rumah Makan MASUNDA,"Jalan Pasar Gempol No.4, Citarum",-6.903147199999999,107.6155665,OPERATIONAL,4.6,61,"restaurant, food, point_of_interest, establishment",Unknown
+Hummingbird Eatery & Space,"Jalan Progo No.16, Citarum",-6.904853800000001,107.6181167,OPERATIONAL,4.7,9640,"restaurant, cafe, food, point_of_interest, establishment",3
+Ayam Gudeg Bengawan Solo,"Jalan L. L. R.E. Martadinata No.69, Citarum",-6.905922899999999,107.6178132,OPERATIONAL,4.6,407,"restaurant, food, point_of_interest, establishment",2
+Mom's Artisan Bakery,"Jalan Progo No.18, Citarum",-6.904675999999999,107.618506,OPERATIONAL,4.6,1306,"bakery, cafe, store, restaurant, food, point_of_interest, establishment",2
+"Sejiwa Coffee, Progo","Jalan Progo No.15, Citarum",-6.9044117,107.6185538,OPERATIONAL,4.4,6386,"cafe, store, restaurant, food, point_of_interest, establishment",2
+heavenly kitchen,"Jalan L. L. R.E. Martadinata No.51, Citarum",-6.906206099999999,107.6151388,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Baker Street,"Jalan Cimandiri No.18, Citarum",-6.903956,107.6187731,OPERATIONAL,4.4,1439,"bakery, store, restaurant, food, point_of_interest, establishment",2
+ETC Steak,"Jalan Trunojoyo No.40, Citarum",-6.9024955,107.6143449,OPERATIONAL,4.6,1769,"cafe, restaurant, food, point_of_interest, establishment",2
+Soto Sedaap Boyolali,"Jalan Trunojoyo No.25, Citarum",-6.9024423,107.6137366,OPERATIONAL,4.5,9185,"restaurant, food, point_of_interest, establishment",1
+Warung nasi sunda ternate,"Jalan Ternate No.2, Citarum",-6.9070583,107.6141237,OPERATIONAL,4.1,7,"restaurant, food, point_of_interest, establishment",Unknown
+My Kopi-O! Trunojoyo,"Jalan Trunojoyo No.19, Citarum",-6.9033634,107.6131133,OPERATIONAL,4.4,2964,"cafe, store, restaurant, food, point_of_interest, establishment",2
+Warung Utem GOR SAPARUA,"GOR SAPARUA, Jalan Ambon, Citarum",-6.907918,107.6158672,OPERATIONAL,4.8,188,"restaurant, food, point_of_interest, establishment",Unknown
+Bobowl,Jalan Ambon Depan SMPN 7 No.16,-6.9074798,107.6188077,OPERATIONAL,4.3,135,"restaurant, food, point_of_interest, establishment",Unknown
+Paviliun Sunda,"Jalan L. L. R.E. Martadinata No.97, Citarum",-6.905651499999999,107.62014,OPERATIONAL,4.4,5000,"restaurant, food, point_of_interest, establishment",2

@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Cerdas Mandiri Playschool,"Jalan PSM No.37, Kebun Jayanti",-6.9285823,107.6461565,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+TKQ Al Hasanah,"Jl. Ciparay No.128, RT.01/RW.04, Kelurahan Kujangsari",-6.926902500000001,107.6472438,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+TAAM Ash-Shobariyyah,"Jalan Kebon Jayanti No.20, Kebun Jayanti",-6.926890999999999,107.646239,OPERATIONAL,5,2,"school, point_of_interest, establishment",
+KB YAA SALAM,"Jalan Kebon Jayanti No.61, Kebun Jayanti",-6.9278521,107.6477449,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+SD Muhammadiyah 2 Bandung,"Jalan Kebon Jayanti Gang Pensiun No.125, Kebun Jayanti",-6.9278448,107.6478756,OPERATIONAL,4.5,11,"point_of_interest, school, establishment",
+KOBER AR-ROYAN,"Jl. Kebonjayanti No. 3/134A, RT.01/04, Kel, Kebun Jayanti",-6.9266434,107.6479829,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+Tk Harapan Bangsa 1,"3JCW+FG2, Jalan PSM, Kebun Jayanti",-6.928850799999999,107.6462758,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+TK Aisyiah 8,"JL Kebon Jayanti, No. 148 134-B, 40284, Kebun Jayanti",-6.928025400000001,107.6485073,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+Sd Negeri Sekejati 2,"Jalan Terusan PSM No.18, Kebun Jayanti",-6.9278745,107.6450518,OPERATIONAL,Unknown,Unknown,"primary_school, point_of_interest, school, establishment",
+PTM SUKASARI,"Jalan PSM GG Cendana No.51, RT.004/RW.013, Kebun Jayanti",-6.928539399999999,107.6451144,OPERATIONAL,5,2,"point_of_interest, school, establishment",

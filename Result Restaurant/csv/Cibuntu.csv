@@ -1,0 +1,16 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Kantin Mansaba,"Gang Madrasah No.1, Cibuntu",-6.922076399999999,107.5719013,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Dapur Ella,"Jln. Terusan HJ Alfi RT 008 RW 008 NO 410, Cibuntu",-6.9215738,107.5723432,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Andalucious,"Jalan Haji Alpi No.70, RT.07/RW.08, Cibuntu",-6.921054300000001,107.5721301,OPERATIONAL,5,5,"store, restaurant, food, point_of_interest, establishment",Unknown
+Mie Ayam Baso Maitra,"Jalan Terusan H Alpi No.20, Cibuntu",-6.921780499999999,107.5726969,OPERATIONAL,4.3,12,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Cola Teh Lia,Jalan Terusan H Alpi No.3,-6.9209998,107.5725594,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Bakar & Ayam Goreng Si Madu,"3HHF+63X, Jalan Terusan H Alpi, Cibuntu",-6.921884199999999,107.572748,OPERATIONAL,5,3,"restaurant, meal_takeaway, food, point_of_interest, establishment",Unknown
+TTC @ terastehcha,"Jalan Terusan H Alpi, Gg. H.Marjuki, Jl. Cibuntu Sel RW No.149, RT.03/RW.08, Cibuntu",-6.920612900000001,107.5718988,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Seblak ceker bolotot,"Jalan Haji Alpi No.62, Cibuntu",-6.9206936,107.5723362,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Chacha store,"Jalan Haji Alpi Gang H. Marzuki No.149, Cibuntu",-6.9208032,107.5725794,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Macren,"Jalan Haji Alpi No.59, RW.004/001, Cibuntu",-6.9206799,107.572498,OPERATIONAL,Unknown,Unknown,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Warteg Ibu Iis,Indonesia,-6.920696899999999,107.5709535,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai mang ujang,"Jalan Haji Anwar No.30, Cibuntu",-6.920057,107.5718822,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Bakmie Elvano,"Jalan Haji Alpi No.48, Cibuntu",-6.920096199999999,107.5726151,OPERATIONAL,5,12,"restaurant, food, point_of_interest, establishment",Unknown
+Seblak & Goreng goreng ceu Titin,"3HJC+3GQ, Jalan Raya Cijerah Jalan Haji Anwar RT.04/RW.08",-6.91979,107.5713603,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Nasi Kuning dan Gorengan Toko Pa Beni,Cibuntu,-6.923362600000001,107.5728341,OPERATIONAL,3.7,3,"clothing_store, store, restaurant, food, point_of_interest, establishment",Unknown

@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Pabrik Pempek Hamer,"Jalan Sukasari II No.279A, Sekeloa",-6.893292799999999,107.6211279,OPERATIONAL,4.5,305,"restaurant, food, point_of_interest, establishment",1
+Warung Nasi Bu'Nur,"4J3H+W4M, Jalan Gagak, Sadang Serang",-6.895168300000001,107.6277898,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Penyet Bu Erte,"Sadang Serang, Coblong, Jalan Haur Pancuh No.1, Lebakgede",-6.8940522,107.619048,OPERATIONAL,4.3,386,"restaurant, food, point_of_interest, establishment",Unknown
+Sindang Reret Bandung,"Jalan Surapati No.53, Sadang Serang",-6.898975999999999,107.6198211,OPERATIONAL,4.4,5049,"restaurant, food, point_of_interest, establishment",2
+Windy's Risoles,"Jalan Cibeunying Kolot No.33, Sadang Serang",-6.886964499999999,107.6265081,OPERATIONAL,4.4,36,"restaurant, food, point_of_interest, establishment",Unknown

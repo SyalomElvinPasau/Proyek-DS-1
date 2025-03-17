@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_32c1614180ef3f2c8a8820d80174e347 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_32c1614180ef3f2c8a8820d80174e347" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_32c1614180ef3f2c8a8820d80174e347 = L.map(
+                "map_32c1614180ef3f2c8a8820d80174e347",
+                {
+                    center: [-6.879773989693639, 107.62748899147039],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c9c645e906a95b9d899e5ad73562bdc7 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_c9c645e906a95b9d899e5ad73562bdc7.addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var polygon_f9927998975133fda869088aed9fa402 = L.polygon(
+                [[-6.888176, 107.635468], [-6.887919000999887, 107.63548300100013], [-6.887802121999925, 107.63549492600015], [-6.887772082999902, 107.63549804700011], [-6.887681997999948, 107.63549042100004], [-6.887693881999951, 107.63562774600013], [-6.887497424999935, 107.63566589300018], [-6.887342466999883, 107.635688856], [-6.887367126999891, 107.63582038000004], [-6.887376784999901, 107.63587188700018], [-6.887206553999931, 107.63589477599999], [-6.887085854999896, 107.63589756100015], [-6.886876105999931, 107.63590240400009], [-6.886710672999925, 107.63598359900016], [-6.886642998999946, 107.636017], [-6.886540695999884, 107.63608695200008], [-6.886409281999875, 107.6361770640001], [-6.886247637999929, 107.63630522800003], [-6.886034209999934, 107.63647483400001], [-6.886078277999843, 107.63652448700014], [-6.88613557899987, 107.63658905100016], [-6.886283872999968, 107.63678741500007], [-6.886432647999925, 107.63694000200013], [-6.886482496999975, 107.63703935300009], [-6.88657045399998, 107.63721466000015], [-6.886626265999951, 107.63730178200007], [-6.886658628999896, 107.63735215200018], [-6.88688898099997, 107.63771057100007], [-6.886940875999869, 107.63779269100007], [-6.886975871999937, 107.63784779800011], [-6.887085912999964, 107.63774109000019], [-6.887235639999858, 107.63767242400019], [-6.887319644999877, 107.63776332600008], [-6.887334252999949, 107.63777913400014], [-6.887464000999898, 107.63784800000013], [-6.887593, 107.63794700000017], [-6.887695890999908, 107.63798496400011], [-6.887710685999878, 107.63784502800007], [-6.887728213999935, 107.6376800540001], [-6.887781901999915, 107.63754102600012], [-6.887811, 107.63746599900009], [-6.887820800999975, 107.63744171000008], [-6.88785743699998, 107.63735198900002], [-6.887904771999956, 107.63728818200019], [-6.887988, 107.63717700100011], [-6.888024028999894, 107.63714038000006], [-6.888049, 107.63711500100015], [-6.88812172199988, 107.63701625100015], [-6.888144, 107.63698599900016], [-6.888163546999976, 107.63696525000012], [-6.888208998999914, 107.636917], [-6.888211399999932, 107.63683297400019], [-6.888213998999959, 107.63674199900004], [-6.888228714999968, 107.63670003600004], [-6.888241289999939, 107.63666534400016], [-6.888267472999871, 107.63660175900014], [-6.888295, 107.63653599900005], [-6.888239998999893, 107.63626900100013], [-6.888232270999879, 107.63623582800017], [-6.888192176999951, 107.63606262100012], [-6.888147352999965, 107.63589477599999], [-6.888171195999973, 107.63571167000015], [-6.888187407999908, 107.63558197100014], [-6.888257565999936, 107.63551519100014], [-6.888355633999879, 107.63542209500008], [-6.888176, 107.635468]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var marker_5681f9f87c0c916bf9c3e9aba9627b28 = L.marker(
+                [-6.880777799999999, 107.6271021],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_43c8e488e0d070ae93d227d61951c1c1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_658945fab499ffe4c92a1b8b8aea86f6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a3fe563cf1b271cc8366f69144820c5 = $(`<div id="html_9a3fe563cf1b271cc8366f69144820c5" style="width: 100.0%; height: 100.0%;">Madrasah Modern Insan Madani</div>`)[0];
+                popup_658945fab499ffe4c92a1b8b8aea86f6.setContent(html_9a3fe563cf1b271cc8366f69144820c5);
+            
+        
+
+        marker_5681f9f87c0c916bf9c3e9aba9627b28.bindPopup(popup_658945fab499ffe4c92a1b8b8aea86f6)
+        ;
+
+        
+    
+    
+                marker_5681f9f87c0c916bf9c3e9aba9627b28.setIcon(icon_43c8e488e0d070ae93d227d61951c1c1);
+            
+    
+            var marker_e17e511be6d442e46196d54b6b274101 = L.marker(
+                [-6.880879200000001, 107.6270645],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_0d5cdafb76c9cf0617c4f5fe06c2a2da = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7622bf718720cbb5392d1187de70446d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_046165c52fb8b9541db29bec051de44c = $(`<div id="html_046165c52fb8b9541db29bec051de44c" style="width: 100.0%; height: 100.0%;">RA AL Burhan</div>`)[0];
+                popup_7622bf718720cbb5392d1187de70446d.setContent(html_046165c52fb8b9541db29bec051de44c);
+            
+        
+
+        marker_e17e511be6d442e46196d54b6b274101.bindPopup(popup_7622bf718720cbb5392d1187de70446d)
+        ;
+
+        
+    
+    
+                marker_e17e511be6d442e46196d54b6b274101.setIcon(icon_0d5cdafb76c9cf0617c4f5fe06c2a2da);
+            
+    
+            var marker_f8610270f7f41e4371dbf8f2182df70c = L.marker(
+                [-6.882648499999998, 107.6273823],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_a36d12cf4531d142741da98bd6add77a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_94b91c6ad2929c73427f8d538c1c06c2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a94baa5c5b0649add4e8b9e745c4f8bc = $(`<div id="html_a94baa5c5b0649add4e8b9e745c4f8bc" style="width: 100.0%; height: 100.0%;">Kursus Menjahit YANI 41</div>`)[0];
+                popup_94b91c6ad2929c73427f8d538c1c06c2.setContent(html_a94baa5c5b0649add4e8b9e745c4f8bc);
+            
+        
+
+        marker_f8610270f7f41e4371dbf8f2182df70c.bindPopup(popup_94b91c6ad2929c73427f8d538c1c06c2)
+        ;
+
+        
+    
+    
+                marker_f8610270f7f41e4371dbf8f2182df70c.setIcon(icon_a36d12cf4531d142741da98bd6add77a);
+            
+    
+            var marker_e48bde1541e526f5f606eb92c8626234 = L.marker(
+                [-6.880272499999999, 107.621591],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_4a62e20cb9c3f3fb87802179452cef19 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_87abd325c59db0c2e775239cfc701a4b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5ea7880ee96bddf5569d5ebffdad62c2 = $(`<div id="html_5ea7880ee96bddf5569d5ebffdad62c2" style="width: 100.0%; height: 100.0%;">Pondok Pesantren Miftahul Khoir</div>`)[0];
+                popup_87abd325c59db0c2e775239cfc701a4b.setContent(html_5ea7880ee96bddf5569d5ebffdad62c2);
+            
+        
+
+        marker_e48bde1541e526f5f606eb92c8626234.bindPopup(popup_87abd325c59db0c2e775239cfc701a4b)
+        ;
+
+        
+    
+    
+                marker_e48bde1541e526f5f606eb92c8626234.setIcon(icon_4a62e20cb9c3f3fb87802179452cef19);
+            
+    
+            var marker_ed8105b1fb85cd00efe107b2ca0c4bee = L.marker(
+                [-6.883486, 107.6327235],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_006946dac3416f5ee9c0792654a36305 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cbf061aa7af54ad878750997590783d3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_aa028f00322e40f2a4af777741a8c91e = $(`<div id="html_aa028f00322e40f2a4af777741a8c91e" style="width: 100.0%; height: 100.0%;">TK Islam Lathifiyah</div>`)[0];
+                popup_cbf061aa7af54ad878750997590783d3.setContent(html_aa028f00322e40f2a4af777741a8c91e);
+            
+        
+
+        marker_ed8105b1fb85cd00efe107b2ca0c4bee.bindPopup(popup_cbf061aa7af54ad878750997590783d3)
+        ;
+
+        
+    
+    
+                marker_ed8105b1fb85cd00efe107b2ca0c4bee.setIcon(icon_006946dac3416f5ee9c0792654a36305);
+            
+    
+            var marker_9af665fcaeb3e2af5af6da48e2d7d0a7 = L.marker(
+                [-6.8854912, 107.6305737],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_add155dc1a3ebab83c7f0c3707e2105b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ec4908d8d8f6d7f102da8d156ebe1e37 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_89f335c12bf94f56a329fcef52d69942 = $(`<div id="html_89f335c12bf94f56a329fcef52d69942" style="width: 100.0%; height: 100.0%;">Padi Playhouse</div>`)[0];
+                popup_ec4908d8d8f6d7f102da8d156ebe1e37.setContent(html_89f335c12bf94f56a329fcef52d69942);
+            
+        
+
+        marker_9af665fcaeb3e2af5af6da48e2d7d0a7.bindPopup(popup_ec4908d8d8f6d7f102da8d156ebe1e37)
+        ;
+
+        
+    
+    
+                marker_9af665fcaeb3e2af5af6da48e2d7d0a7.setIcon(icon_add155dc1a3ebab83c7f0c3707e2105b);
+            
+    
+            var marker_69f1a8c3f85b0dde0cf5bde33ac0c33f = L.marker(
+                [-6.887662, 107.628385],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_b61eb6074e714f9293727e4dc16af4b4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a1c762214fba90614e6d73420ba2635d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3f0a451682082656aaa6197631334960 = $(`<div id="html_3f0a451682082656aaa6197631334960" style="width: 100.0%; height: 100.0%;">TKIT / RA Al-Muslim Bandung</div>`)[0];
+                popup_a1c762214fba90614e6d73420ba2635d.setContent(html_3f0a451682082656aaa6197631334960);
+            
+        
+
+        marker_69f1a8c3f85b0dde0cf5bde33ac0c33f.bindPopup(popup_a1c762214fba90614e6d73420ba2635d)
+        ;
+
+        
+    
+    
+                marker_69f1a8c3f85b0dde0cf5bde33ac0c33f.setIcon(icon_b61eb6074e714f9293727e4dc16af4b4);
+            
+    
+            var marker_281316ce36962bedb0e35a15e9b0e14c = L.marker(
+                [-6.8796411, 107.6271453],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_69670d00dd61b7d19db59edf350d73b0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8979e3bae19bc9630454b3c185178972 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c8a4bfe63030d2c3e45e56ea6a8ae356 = $(`<div id="html_c8a4bfe63030d2c3e45e56ea6a8ae356" style="width: 100.0%; height: 100.0%;">Rumah Quran Tar-Q Cigadung</div>`)[0];
+                popup_8979e3bae19bc9630454b3c185178972.setContent(html_c8a4bfe63030d2c3e45e56ea6a8ae356);
+            
+        
+
+        marker_281316ce36962bedb0e35a15e9b0e14c.bindPopup(popup_8979e3bae19bc9630454b3c185178972)
+        ;
+
+        
+    
+    
+                marker_281316ce36962bedb0e35a15e9b0e14c.setIcon(icon_69670d00dd61b7d19db59edf350d73b0);
+            
+    
+            var marker_fb60587ada89c8b64d19a6955746d7cd = L.marker(
+                [-6.8794463, 107.6281103],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_c390a6f03007cb54698cf6bc28486568 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c5b19f517f874a60b4036491da6290df = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_25ba77de5c1478a0c477e5aa10847a8a = $(`<div id="html_25ba77de5c1478a0c477e5aa10847a8a" style="width: 100.0%; height: 100.0%;">PAUD/TK Ajwa</div>`)[0];
+                popup_c5b19f517f874a60b4036491da6290df.setContent(html_25ba77de5c1478a0c477e5aa10847a8a);
+            
+        
+
+        marker_fb60587ada89c8b64d19a6955746d7cd.bindPopup(popup_c5b19f517f874a60b4036491da6290df)
+        ;
+
+        
+    
+    
+                marker_fb60587ada89c8b64d19a6955746d7cd.setIcon(icon_c390a6f03007cb54698cf6bc28486568);
+            
+    
+            var marker_b282a84ecca59c7da39a56893f3b8ec6 = L.marker(
+                [-6.8807398, 107.6277551],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_8ed4f1c5f9002fe44ac5dbc828eb4cfb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bd8c5d39f67045a9e5b318c1d3671527 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3ce7557ada4e25b5f1a5d10294fcb459 = $(`<div id="html_3ce7557ada4e25b5f1a5d10294fcb459" style="width: 100.0%; height: 100.0%;">Bimba Bintang Junior Cigadung Bandung</div>`)[0];
+                popup_bd8c5d39f67045a9e5b318c1d3671527.setContent(html_3ce7557ada4e25b5f1a5d10294fcb459);
+            
+        
+
+        marker_b282a84ecca59c7da39a56893f3b8ec6.bindPopup(popup_bd8c5d39f67045a9e5b318c1d3671527)
+        ;
+
+        
+    
+    
+                marker_b282a84ecca59c7da39a56893f3b8ec6.setIcon(icon_8ed4f1c5f9002fe44ac5dbc828eb4cfb);
+            
+    
+            var marker_47191956cdad1b18e9386cb45688f84a = L.marker(
+                [-6.879570600000001, 107.6284619],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_d9433f87d6060b23b03c5ca5a2876dcc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_adf670239dec0dbaca76fbdf7fa9f8a9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_040273b0bd01bc54f192e06d50e128e3 = $(`<div id="html_040273b0bd01bc54f192e06d50e128e3" style="width: 100.0%; height: 100.0%;">tk al battani</div>`)[0];
+                popup_adf670239dec0dbaca76fbdf7fa9f8a9.setContent(html_040273b0bd01bc54f192e06d50e128e3);
+            
+        
+
+        marker_47191956cdad1b18e9386cb45688f84a.bindPopup(popup_adf670239dec0dbaca76fbdf7fa9f8a9)
+        ;
+
+        
+    
+    
+                marker_47191956cdad1b18e9386cb45688f84a.setIcon(icon_d9433f87d6060b23b03c5ca5a2876dcc);
+            
+    
+            var marker_dd51c8338eaa18632f4911ac4a6d1e81 = L.marker(
+                [-6.881035199999999, 107.6266559],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_e21fb4a6b5610af93a4cf6bab5495590 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3984ac5cd079678421e5e01eb48503b5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1d34fafa8e07b8869a8d4505214e9c96 = $(`<div id="html_1d34fafa8e07b8869a8d4505214e9c96" style="width: 100.0%; height: 100.0%;">MA INSAN MANDIRI</div>`)[0];
+                popup_3984ac5cd079678421e5e01eb48503b5.setContent(html_1d34fafa8e07b8869a8d4505214e9c96);
+            
+        
+
+        marker_dd51c8338eaa18632f4911ac4a6d1e81.bindPopup(popup_3984ac5cd079678421e5e01eb48503b5)
+        ;
+
+        
+    
+    
+                marker_dd51c8338eaa18632f4911ac4a6d1e81.setIcon(icon_e21fb4a6b5610af93a4cf6bab5495590);
+            
+    
+            var marker_7ee45272543938a92a2cfc22a46f5fab = L.marker(
+                [-6.881388200000001, 107.6282904],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_571197c86de01a297564266c22b06aba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_96693a4d4b4d30c74f2d3327f1b7c435 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c13a9260583f1cb3f023ae3e8599d36e = $(`<div id="html_c13a9260583f1cb3f023ae3e8599d36e" style="width: 100.0%; height: 100.0%;">Pondok Pesantren Abi Jalal</div>`)[0];
+                popup_96693a4d4b4d30c74f2d3327f1b7c435.setContent(html_c13a9260583f1cb3f023ae3e8599d36e);
+            
+        
+
+        marker_7ee45272543938a92a2cfc22a46f5fab.bindPopup(popup_96693a4d4b4d30c74f2d3327f1b7c435)
+        ;
+
+        
+    
+    
+                marker_7ee45272543938a92a2cfc22a46f5fab.setIcon(icon_571197c86de01a297564266c22b06aba);
+            
+    
+            var marker_73b149c68cd78ea3d486587fe28244bb = L.marker(
+                [-6.878626400000001, 107.6254858],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_4790b23a54d8d5e589327e3bc3a6b0f5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_68e209db9ee0bc35909f07af1aab9c03 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1b9b0b86b823b1fb50ee9c449226f644 = $(`<div id="html_1b9b0b86b823b1fb50ee9c449226f644" style="width: 100.0%; height: 100.0%;">SDN 149 CIGADUNG</div>`)[0];
+                popup_68e209db9ee0bc35909f07af1aab9c03.setContent(html_1b9b0b86b823b1fb50ee9c449226f644);
+            
+        
+
+        marker_73b149c68cd78ea3d486587fe28244bb.bindPopup(popup_68e209db9ee0bc35909f07af1aab9c03)
+        ;
+
+        
+    
+    
+                marker_73b149c68cd78ea3d486587fe28244bb.setIcon(icon_4790b23a54d8d5e589327e3bc3a6b0f5);
+            
+    
+            var marker_842182f1780cc54fd2974d5b5d5f923e = L.marker(
+                [-6.880394, 107.6249902],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_1051df596e4f28b6128fd6c7d7f25e38 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1d02e0a2fe7194b5f688314f8a8495ff = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bd7685dfa6821ce492cd152719ebc0bc = $(`<div id="html_bd7685dfa6821ce492cd152719ebc0bc" style="width: 100.0%; height: 100.0%;">Al yahya</div>`)[0];
+                popup_1d02e0a2fe7194b5f688314f8a8495ff.setContent(html_bd7685dfa6821ce492cd152719ebc0bc);
+            
+        
+
+        marker_842182f1780cc54fd2974d5b5d5f923e.bindPopup(popup_1d02e0a2fe7194b5f688314f8a8495ff)
+        ;
+
+        
+    
+    
+                marker_842182f1780cc54fd2974d5b5d5f923e.setIcon(icon_1051df596e4f28b6128fd6c7d7f25e38);
+            
+    
+            var marker_cf9c4c8d88485e3e9d264aac0492b7b1 = L.marker(
+                [-6.879208299999999, 107.6244106],
+                {
+}
+            ).addTo(map_32c1614180ef3f2c8a8820d80174e347);
+        
+    
+            var icon_eae7ac5a744f0918268afb7421405546 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e34b0cdd54db17f312886834ce847946 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d8811e21af091f97dc5cb4ce9ef8d0c3 = $(`<div id="html_d8811e21af091f97dc5cb4ce9ef8d0c3" style="width: 100.0%; height: 100.0%;">Rumah Alam User Aldous</div>`)[0];
+                popup_e34b0cdd54db17f312886834ce847946.setContent(html_d8811e21af091f97dc5cb4ce9ef8d0c3);
+            
+        
+
+        marker_cf9c4c8d88485e3e9d264aac0492b7b1.bindPopup(popup_e34b0cdd54db17f312886834ce847946)
+        ;
+
+        
+    
+    
+                marker_cf9c4c8d88485e3e9d264aac0492b7b1.setIcon(icon_eae7ac5a744f0918268afb7421405546);
+            
+</script>
+</html>

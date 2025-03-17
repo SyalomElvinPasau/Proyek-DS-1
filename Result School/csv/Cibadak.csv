@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Sekolah Kristen Gamaliel,"Jalan Jend. Sudirman No.205-207, Cibadak",-6.9202306,107.597062,OPERATIONAL,4.2,45,"school, point_of_interest, establishment",
+Kumon Cibadak,"Jalan Cibadak No.225 H, Cibadak",-6.921527600000001,107.5952814,OPERATIONAL,4.3,4,"school, point_of_interest, establishment",
+TK Ikhlasul Ilmi,"Yahya No.53/89, Jalan Pak Gatot 1, Gegerkalong",-6.924006599999998,107.5956805,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",

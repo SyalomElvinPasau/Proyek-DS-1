@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Mr Iga (Steak Booth and Resto),"3HRR+P65, Jalan Rama, Arjuna",-6.908229899999999,107.5906202,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Bakmi Afang,"Jalan Pasir Kaliki No.71B, Arjuna",-6.9094384,107.5976087,OPERATIONAL,4.5,265,"restaurant, food, point_of_interest, establishment",Unknown
+Rumah Soerabi,"Jalan Kesatriaan No.45N, Arjuna",-6.9118617,107.5976413,CLOSED_TEMPORARILY,4.7,56,"restaurant, food, point_of_interest, establishment",Unknown
+Purnawarman Restaurant,"Lobby Level, Jalan HOS. Cokroaminoto No.41-43, Arjuna",-6.912866799999999,107.597428,OPERATIONAL,4.5,436,"restaurant, food, point_of_interest, establishment",2
+Fresco Bandung,"Fresco Bandung, Jalan HOS. Cokroaminoto No.41-43, Arjuna",-6.912866799999999,107.597428,OPERATIONAL,4.6,107,"restaurant, food, point_of_interest, establishment",Unknown

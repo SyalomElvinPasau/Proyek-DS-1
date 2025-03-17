@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+TK Aisyiyah 4 Bustanul Athfal,"Jl. Wijaya Kusuma Raya 268 Depok Jaya Pancoran Mas Depok Jawa Barat, Tamansari",-6.899160999999999,107.606277,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+Sekolah Radiance,"Jalan Hariangbanga No.5, Tamansari",-6.902382999999999,107.6089337,OPERATIONAL,5,1,"primary_school, point_of_interest, school, establishment",
+Bandung Islamic University,"Jalan Tamansari No.1, Tamansari",-6.903590299999999,107.6078372,OPERATIONAL,4.7,716,"university, point_of_interest, school, establishment",
+Teknik Pertambangan Unisba,"Jalan Tamansari, Tamansari",-6.903451400000001,107.6083002,OPERATIONAL,5,2,"school, point_of_interest, establishment",
+Bandung Islamic University Graduate Program,"Jalan Purnawarman No.59, Tamansari",-6.90346,107.6092605,OPERATIONAL,5,2,"school, point_of_interest, establishment",
+Junior High School 40 Bandung,"Jalan Wastukencana No.75 Blok a, Tamansari",-6.9055322,107.6065504,OPERATIONAL,4.6,91,"point_of_interest, school, establishment",
+Bandung Institute of Technology Graduate School,"Gedung CCAR, Jalan Tamansari No.64 Lantai 4, Tamansari",-6.8990525,107.6096156,OPERATIONAL,4.6,19,"point_of_interest, school, establishment",
+SD Linggawastu,"Jalan Linggawastu, Tamansari",-6.901673999999999,107.6060042,OPERATIONAL,3.5,12,"point_of_interest, school, establishment",
+UNISBA PRESCHOOL AND DAYCARE,"Jalan Tamansari No.30, Tamansari",-6.9023147,107.6082774,OPERATIONAL,4.9,14,"point_of_interest, school, establishment",

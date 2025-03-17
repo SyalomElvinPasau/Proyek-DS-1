@@ -1,0 +1,20 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+KFC - Metro Indah Mall,"Metro Trade Center, Jalan Soekarno-Hatta No.590",-6.9421265,107.6589741,OPERATIONAL,4.5,1690,"restaurant, food, point_of_interest, establishment",2
+Ayam Penyet & Ayam Bakar Pak Hasan,"Jalan Jupiter Barat XXVII No.94, Sekejati",-6.944863900000001,107.6583548,CLOSED_TEMPORARILY,4.4,15,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+CV. Arcie Ars,"Jl. Setia Graha No. 57, Ciwastra, Sekejati",-6.941785,107.654781,OPERATIONAL,Unknown,Unknown,"health, general_contractor, restaurant, food, store, point_of_interest, establishment",Unknown
+HokBen MTC,"Metro Indah Mall, Jalan Soekarno-Hatta No.590, Sekejati",-6.942011300000001,107.6585014,OPERATIONAL,4.3,932,"restaurant, food, point_of_interest, establishment",2
+Rock Star Music Cafe,"Kawasan Niaga Metro Trade Center, Jalan Soekarno-Hatta No. G. 25, Sekejati",-6.9429099,107.6595515,OPERATIONAL,4.4,517,"cafe, restaurant, food, point_of_interest, establishment",2
+GF Culinary,"Gereja Kristen Indonesia Taman Cibunut, Kavling G8 h, Sekejati",-6.942491500000001,107.6599306,OPERATIONAL,3,1,"restaurant, food, point_of_interest, establishment",Unknown
+RM Permata,"No Jalan Soekarno-Hatta No.538, Sekejati",-6.9436782,107.6479383,OPERATIONAL,4.4,21,"restaurant, food, point_of_interest, establishment",Unknown
+Aqiqah Bandung Nurul Hayat,Jalan Jupiter Utama Blok D2 No 12A,-6.943008199999998,107.6626102,OPERATIONAL,4.9,406,"meal_delivery, cafe, restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Bu Ani,"Jalan Rancabolang No.246, Manjahlega",-6.943670399999999,107.663554,OPERATIONAL,4.4,10,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Seblak Prasmanan Ibu Rini,"3M34+G6C, Jalan Rancabolang Barat RT.05/RW.11, Sekejati",-6.946179799999999,107.6555017,OPERATIONAL,5,8,"restaurant, food, point_of_interest, establishment",Unknown
+Rumah Pa iing Bu Ida,"3M34+P22, Jalan Sekejati, Sekejati",-6.945702900000001,107.655098,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+NIE CATERING,"3M34+C37, Jalan Neptunus Barat VIII, Sekejati",-6.9464694,107.6551664,CLOSED_TEMPORARILY,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+BATAGOR FIKRI,Ranca Bolang Kulon RT./RW/RW.003/011,-6.946200900000001,107.6559725,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Sigasuki & Dimsum Mini 'Calysta Food',"Jalan Rancabolang Barat RT.05/RW.11, Sekejati",-6.9459542,107.6561282,CLOSED_TEMPORARILY,4,1,"restaurant, food, point_of_interest, establishment",Unknown
+Gud Dimsum,Jalan Neptunus Barat VII No.10 blok a8,-6.946815099999999,107.6554277,OPERATIONAL,5,3,"restaurant, food, point_of_interest, establishment",Unknown
+Ramafood,"Jalan Rancabolang Barat No.55, Sekejati",-6.9462294,107.6562222,OPERATIONAL,4.7,12,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Mantul,Indonesia,-6.946176899999999,107.6542938,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Gudeg Bu Eko - Margahayu Raya,Margahayu Raya Jalan Jupiter Selatan 15 No.95,-6.945125999999998,107.6560639,OPERATIONAL,4.7,79,"restaurant, food, point_of_interest, establishment",Unknown
+kuliner,jln neptunus barat VII A6.no 19,-6.9462749,107.6542289,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown

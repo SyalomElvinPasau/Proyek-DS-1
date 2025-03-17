@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ab957b01c7dd26118a4f601d1530dc35 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_ab957b01c7dd26118a4f601d1530dc35" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_ab957b01c7dd26118a4f601d1530dc35 = L.map(
+                "map_ab957b01c7dd26118a4f601d1530dc35",
+                {
+                    center: [-6.918944111650853, 107.56724175069522],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ddc165a13474e1134f3e08e6d0a81ad6 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_ddc165a13474e1134f3e08e6d0a81ad6.addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var polygon_c3a1bcf0325e70118adc93fa77d16b83 = L.polygon(
+                [[-6.932335122999973, 107.56453477600007], [-6.932128055999897, 107.56449902400016], [-6.932075891999943, 107.56449688500004], [-6.932038163999948, 107.5644954230001], [-6.931932460999974, 107.56449132900013], [-6.932122998999944, 107.564575], [-6.932171954999887, 107.56459373500007], [-6.932203769999944, 107.564605713], [-6.932304974999965, 107.564557616], [-6.932347913999877, 107.56453699100018], [-6.932335122999973, 107.56453477600007]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var marker_bc291bb3edd06a533574966d69f9aed8 = L.marker(
+                [-6.922469, 107.568383],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_cd5a2e0f9da32abc9ffc51ece898e5c4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f18e56dd7702f31e5da50df1cabee1cd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e5d8f5b582b6d31cf88e60565f4df512 = $(`<div id="html_e5d8f5b582b6d31cf88e60565f4df512" style="width: 100.0%; height: 100.0%;">Pondok Pesantren Al - Istiqomah Wanasari</div>`)[0];
+                popup_f18e56dd7702f31e5da50df1cabee1cd.setContent(html_e5d8f5b582b6d31cf88e60565f4df512);
+            
+        
+
+        marker_bc291bb3edd06a533574966d69f9aed8.bindPopup(popup_f18e56dd7702f31e5da50df1cabee1cd)
+        ;
+
+        
+    
+    
+                marker_bc291bb3edd06a533574966d69f9aed8.setIcon(icon_cd5a2e0f9da32abc9ffc51ece898e5c4);
+            
+    
+            var marker_f7215c2948072841709c34aad686bfa2 = L.marker(
+                [-6.919637799999999, 107.5665105],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_0891bbf94d7ae8c67badf7950e864e4a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_17d2a679b8c70dba6de590f0a403339d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ccd971666f31c26ed80914f004354972 = $(`<div id="html_ccd971666f31c26ed80914f004354972" style="width: 100.0%; height: 100.0%;">Rumah belajar Melong</div>`)[0];
+                popup_17d2a679b8c70dba6de590f0a403339d.setContent(html_ccd971666f31c26ed80914f004354972);
+            
+        
+
+        marker_f7215c2948072841709c34aad686bfa2.bindPopup(popup_17d2a679b8c70dba6de590f0a403339d)
+        ;
+
+        
+    
+    
+                marker_f7215c2948072841709c34aad686bfa2.setIcon(icon_0891bbf94d7ae8c67badf7950e864e4a);
+            
+    
+            var marker_01f337bd0bfc5a811b07004e3e939865 = L.marker(
+                [-6.917697, 107.5661104],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_3a040e91276083d2f4cba7f22718d4a6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cf52d8296823b0b0ee4d37e54a8f2198 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7cd666f5121c0f32a489c3599e24c211 = $(`<div id="html_7cd666f5121c0f32a489c3599e24c211" style="width: 100.0%; height: 100.0%;">PAUD SPS TUNAS CENDIKIA</div>`)[0];
+                popup_cf52d8296823b0b0ee4d37e54a8f2198.setContent(html_7cd666f5121c0f32a489c3599e24c211);
+            
+        
+
+        marker_01f337bd0bfc5a811b07004e3e939865.bindPopup(popup_cf52d8296823b0b0ee4d37e54a8f2198)
+        ;
+
+        
+    
+    
+                marker_01f337bd0bfc5a811b07004e3e939865.setIcon(icon_3a040e91276083d2f4cba7f22718d4a6);
+            
+    
+            var marker_7d8f0c238f25a33a574e2e56e2087470 = L.marker(
+                [-6.9183826, 107.5692244],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_e6f87f64bd1b62be2dd4b64cca8e8d2c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4c554c6721bec24c25f126a453c273ae = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fc3e1cbfefd7a5ddff216a3048993de6 = $(`<div id="html_fc3e1cbfefd7a5ddff216a3048993de6" style="width: 100.0%; height: 100.0%;">Melong</div>`)[0];
+                popup_4c554c6721bec24c25f126a453c273ae.setContent(html_fc3e1cbfefd7a5ddff216a3048993de6);
+            
+        
+
+        marker_7d8f0c238f25a33a574e2e56e2087470.bindPopup(popup_4c554c6721bec24c25f126a453c273ae)
+        ;
+
+        
+    
+    
+                marker_7d8f0c238f25a33a574e2e56e2087470.setIcon(icon_e6f87f64bd1b62be2dd4b64cca8e8d2c);
+            
+    
+            var marker_a3880f3167c1003d8b37c90b5c9c0e76 = L.marker(
+                [-6.917506200000001, 107.5655885],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_cd9a2a711d34ba6e0409fbc2b5e0583b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_af27a6eb8753869b3ff4d99c62e4656e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0c50eb993e4b835df287bb3c7079b092 = $(`<div id="html_0c50eb993e4b835df287bb3c7079b092" style="width: 100.0%; height: 100.0%;">SDN Sayuran 2, 3</div>`)[0];
+                popup_af27a6eb8753869b3ff4d99c62e4656e.setContent(html_0c50eb993e4b835df287bb3c7079b092);
+            
+        
+
+        marker_a3880f3167c1003d8b37c90b5c9c0e76.bindPopup(popup_af27a6eb8753869b3ff4d99c62e4656e)
+        ;
+
+        
+    
+    
+                marker_a3880f3167c1003d8b37c90b5c9c0e76.setIcon(icon_cd9a2a711d34ba6e0409fbc2b5e0583b);
+            
+    
+            var marker_d7a480ddebdd1eda9defda36d81f90cc = L.marker(
+                [-6.920667000000001, 107.5686803],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_084ba058e861004e9def665168f75f68 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_02d399ce3780682d4e736c0de1a9516f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b335ca8fab055161184fcffa25a3d9cd = $(`<div id="html_b335ca8fab055161184fcffa25a3d9cd" style="width: 100.0%; height: 100.0%;">TK PERMATA KASIH</div>`)[0];
+                popup_02d399ce3780682d4e736c0de1a9516f.setContent(html_b335ca8fab055161184fcffa25a3d9cd);
+            
+        
+
+        marker_d7a480ddebdd1eda9defda36d81f90cc.bindPopup(popup_02d399ce3780682d4e736c0de1a9516f)
+        ;
+
+        
+    
+    
+                marker_d7a480ddebdd1eda9defda36d81f90cc.setIcon(icon_084ba058e861004e9def665168f75f68);
+            
+    
+            var marker_99998a8234a10952b09d0da9935d764c = L.marker(
+                [-6.920199599999999, 107.5652296],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_c0601243fcf58b42ca9c0f23da5b1614 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_43d17d9051e0202fc68d2ea9dc87cf25 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5fd95c4f167ea9b59e29b6fb0d28bad2 = $(`<div id="html_5fd95c4f167ea9b59e29b6fb0d28bad2" style="width: 100.0%; height: 100.0%;">Jln.mekar Mulya.1 Mesjid Ghoniyyul Hikmah</div>`)[0];
+                popup_43d17d9051e0202fc68d2ea9dc87cf25.setContent(html_5fd95c4f167ea9b59e29b6fb0d28bad2);
+            
+        
+
+        marker_99998a8234a10952b09d0da9935d764c.bindPopup(popup_43d17d9051e0202fc68d2ea9dc87cf25)
+        ;
+
+        
+    
+    
+                marker_99998a8234a10952b09d0da9935d764c.setIcon(icon_c0601243fcf58b42ca9c0f23da5b1614);
+            
+    
+            var marker_0efbb5e8ba5d4a731735c40bf84602ec = L.marker(
+                [-6.920928, 107.568521],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_c63c360bc192a2fde56625b025f52533 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7430d924cd8007f338899f46405f690b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_657d15b35df234c938bf025579a9f274 = $(`<div id="html_657d15b35df234c938bf025579a9f274" style="width: 100.0%; height: 100.0%;">TK Santa Regina</div>`)[0];
+                popup_7430d924cd8007f338899f46405f690b.setContent(html_657d15b35df234c938bf025579a9f274);
+            
+        
+
+        marker_0efbb5e8ba5d4a731735c40bf84602ec.bindPopup(popup_7430d924cd8007f338899f46405f690b)
+        ;
+
+        
+    
+    
+                marker_0efbb5e8ba5d4a731735c40bf84602ec.setIcon(icon_c63c360bc192a2fde56625b025f52533);
+            
+    
+            var marker_c0da1c3aef77e737de5092285c3d6712 = L.marker(
+                [-6.9168071, 107.5652239],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_74365fa1b1de7853705dc54992f351a1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_293a1ca0595a2306c43a53bc19d33483 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_becb49f11b2839ff63c5d6ed4f1036f8 = $(`<div id="html_becb49f11b2839ff63c5d6ed4f1036f8" style="width: 100.0%; height: 100.0%;">SAYURAN 199 Elementary School</div>`)[0];
+                popup_293a1ca0595a2306c43a53bc19d33483.setContent(html_becb49f11b2839ff63c5d6ed4f1036f8);
+            
+        
+
+        marker_c0da1c3aef77e737de5092285c3d6712.bindPopup(popup_293a1ca0595a2306c43a53bc19d33483)
+        ;
+
+        
+    
+    
+                marker_c0da1c3aef77e737de5092285c3d6712.setIcon(icon_74365fa1b1de7853705dc54992f351a1);
+            
+    
+            var marker_fec950e0e7958fd9baca61107b810f1f = L.marker(
+                [-6.9217942, 107.5685098],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_51dd1036b16114767bf111a9e9a2559b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7fdc9a07a42c9027f5b8f57af5242369 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6ab004eab867394634a6b6646a76a9f9 = $(`<div id="html_6ab004eab867394634a6b6646a76a9f9" style="width: 100.0%; height: 100.0%;">SDM IKM Industri TPT</div>`)[0];
+                popup_7fdc9a07a42c9027f5b8f57af5242369.setContent(html_6ab004eab867394634a6b6646a76a9f9);
+            
+        
+
+        marker_fec950e0e7958fd9baca61107b810f1f.bindPopup(popup_7fdc9a07a42c9027f5b8f57af5242369)
+        ;
+
+        
+    
+    
+                marker_fec950e0e7958fd9baca61107b810f1f.setIcon(icon_51dd1036b16114767bf111a9e9a2559b);
+            
+    
+            var marker_a01526bbe474357f856fc761be289600 = L.marker(
+                [-6.9213039, 107.5694132],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_b04f0af63406dcfacff241df8132794c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_34a8c12499f5f14a72a2ad3e9a1181c1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_80e5a668bab99578ce8b8f91ead3d7e2 = $(`<div id="html_80e5a668bab99578ce8b8f91ead3d7e2" style="width: 100.0%; height: 100.0%;">Sekolah Dasar Negeri Cijerah III</div>`)[0];
+                popup_34a8c12499f5f14a72a2ad3e9a1181c1.setContent(html_80e5a668bab99578ce8b8f91ead3d7e2);
+            
+        
+
+        marker_a01526bbe474357f856fc761be289600.bindPopup(popup_34a8c12499f5f14a72a2ad3e9a1181c1)
+        ;
+
+        
+    
+    
+                marker_a01526bbe474357f856fc761be289600.setIcon(icon_b04f0af63406dcfacff241df8132794c);
+            
+    
+            var marker_1f928151577f2b8b0dc0b05fbc56ac53 = L.marker(
+                [-6.921267599999999, 107.5650013],
+                {
+}
+            ).addTo(map_ab957b01c7dd26118a4f601d1530dc35);
+        
+    
+            var icon_58c6d76a63471dc9a9343ca8eaff36d9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f192dcaa5ec26869125a4f2a90f3e2db = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_96f631676854ceed5414c11d1e504ab9 = $(`<div id="html_96f631676854ceed5414c11d1e504ab9" style="width: 100.0%; height: 100.0%;">SDI Baitul Hikmah</div>`)[0];
+                popup_f192dcaa5ec26869125a4f2a90f3e2db.setContent(html_96f631676854ceed5414c11d1e504ab9);
+            
+        
+
+        marker_1f928151577f2b8b0dc0b05fbc56ac53.bindPopup(popup_f192dcaa5ec26869125a4f2a90f3e2db)
+        ;
+
+        
+    
+    
+                marker_1f928151577f2b8b0dc0b05fbc56ac53.setIcon(icon_58c6d76a63471dc9a9343ca8eaff36d9);
+            
+</script>
+</html>

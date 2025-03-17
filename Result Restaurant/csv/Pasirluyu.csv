@@ -1,0 +1,14 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Cosmodog,"Jalan Pasirwangi Raya No.23, Pasirluyu",-6.9482798,107.6195783,OPERATIONAL,5,11,"restaurant, food, point_of_interest, establishment",Unknown
+Kantin Fajar sederhana,"Jalan Pasirwangi Raya No.23, Pasirluyu",-6.9483621,107.6197218,OPERATIONAL,5,4,"restaurant, food, point_of_interest, establishment",Unknown
+Warnas Ibu Reni,"3J29+FP6, Jalan Soekarno-Hatta, Pasirluyu",-6.948829,107.619264,OPERATIONAL,Unknown,Unknown,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Warnas Bu Euis,"Jalan Soekarno-Hatta No.461, Pasirluyu",-6.9489106,107.6196179,OPERATIONAL,4.3,3,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Pak Edda,Indonesia,-6.9488877,107.6185355,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warmindo warnas padaringan,"3J29+978, Pasirluyu",-6.949084699999999,107.6182089,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Surabi Abah Deden,"3J3C+8GJ, Jalan Pasirluyu Selatan, Pasirluyu",-6.946665599999999,107.6212555,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai Panineungan,"Jalan Pasirluyu Selatan No.26, Pasirluyu",-6.945911300000001,107.6209858,OPERATIONAL,5,4,"restaurant, food, point_of_interest, establishment",Unknown
+Zuppa Qilla's 3,"3J3C+MG7, Jalan Pasirluyu Selatan, Pasirluyu, alun alun",-6.945834399999999,107.6212871,CLOSED_TEMPORARILY,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Alena dimsum,"3J2C+427, Jalan Pasirluyu RT.03/RW.3",-6.949713699999999,107.6200524,OPERATIONAL,5,10,"restaurant, food, point_of_interest, establishment",Unknown
+WARUNG NASI AROKAH,"3J2C+HJ6, Jalan Pasirluyu Selatan, Pasirluyu",-6.9485975,107.6215279,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Jln. soekarno hatta,"Jalan Soekarno-Hatta No.477, Pasirluyu",-6.949003500000001,107.621265,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Citra,"3J2C+CH6, Jalan Soekarno-Hatta, Pasirluyu",-6.9489724,107.6213793,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown

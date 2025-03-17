@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+State Junior High School 4 Bandung,"3JHG+JCQ, Jalan No.5, Samoja",-6.921009699999999,107.6260274,OPERATIONAL,4.5,136,"school, point_of_interest, establishment",
+SD Alfa Centauri,"Jalan Terate No.10, Samoja",-6.9199229,107.6250142,OPERATIONAL,4.8,25,"primary_school, school, point_of_interest, establishment",
+TK/Madrasah Al-Futuh,"3JHG+8VC, Samoja",-6.9216757,107.6271558,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+Kampung Jepang_PapaCaca,"Jalan Samoja, Samoja",-6.921882500000001,107.6275023,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+les privat fluffy,"Jalan Pacar No.21, Samoja",-6.920957599999999,107.6270924,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Tk Kemala Bhayangkari 39,"Jalan Samoja No.11, Samoja",-6.92125,107.6281153,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+Koprasi Sarimukti,"Jalan Pacar No.6, Samoja",-6.9205268,107.6265495,OPERATIONAL,4,1,"school, point_of_interest, establishment",

@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Bungtagor Lecker,"Jalan Srimahi II No.29, Ancol",-6.9369904,107.6155835,OPERATIONAL,4.4,18,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Jogja Oven,"Jalan Pasirluyu Timur No.31b, Ancol",-6.940397700000001,107.6163274,OPERATIONAL,4.5,10,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Roemah,"Jalan Pasir Luyu V No.4, Ancol",-6.9407984,107.6168409,OPERATIONAL,4.6,784,"restaurant, food, point_of_interest, establishment",Unknown
+Ganbei22,"Jalan Pasirluyu Barat No.22, Ancol",-6.940252600000001,107.6159454,OPERATIONAL,4.9,10,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai Ayam Cep Deden,"3J58+HCJ, Jalan Pasirluyu Barat, Ancol",-6.941048799999999,107.6160065,OPERATIONAL,5,5,"restaurant, food, point_of_interest, establishment",Unknown
+warung welcome *tanteu,"Jalan Srisuci No.14, Ancol",-6.940499,107.615486,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Waroeng Tengah Poe,Jalan Srisuci No.14,-6.940474999999998,107.615418,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Garsela -Mie Baso Kuah,"Jalan Pasirluyu Barat No.40, Ancol",-6.941521099999999,107.6158654,OPERATIONAL,4.6,229,"restaurant, food, point_of_interest, establishment",1

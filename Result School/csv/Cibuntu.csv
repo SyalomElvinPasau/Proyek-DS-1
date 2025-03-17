@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+MAN 1 Kota Bandung,"Jalan Terusan H Alpi, Cibuntu",-6.9225008,107.5714104,OPERATIONAL,4.6,207,"school, point_of_interest, establishment",
+Madrasah Aliyah Al-Istiqomah,"Jalan Raya Cijerah No.151, Cibuntu",-6.922036799999999,107.5687689,OPERATIONAL,4.4,54,"secondary_school, school, point_of_interest, establishment",
+Paket C Bandung,"Jalan Soekarno-Hatta No.18, RT.06/RW.03, Cibuntu",-6.9188449,107.5742087,OPERATIONAL,5,92,"secondary_school, school, point_of_interest, establishment",
+PAUD Sabiq,"Jalan Terusan H Alpi No.439, Cibuntu",-6.921741,107.5720795,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Madrasah Aliyah Negeri 1 Kota Bandung ( MANSABA),"3HHC+4R5, Cibuntu",-6.9222284,107.5720988,OPERATIONAL,5,3,"school, point_of_interest, establishment",
+Ruang UKM PMR,"3HHC+4W3, Jl. H Alpi Cijerah, Cibuntu",-6.922227899999999,107.572309,OPERATIONAL,5,1,"secondary_school, school, point_of_interest, establishment",
+XII MIPA CLEVER,Jalan Haji Alpi,-6.9226223,107.5724568,OPERATIONAL,5,2,"school, point_of_interest, establishment",
+XII MIPA A,"Jalan Terusan H Alpi No.103, Cibuntu",-6.922784699999999,107.5724635,OPERATIONAL,5,6,"school, point_of_interest, establishment",
+X ips b,"3HGC+RPW, Cibuntu",-6.922987199999999,107.5718342,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Masjid ta'lim al hidayah,"3HGF+W5M, Cibuntu",-6.922661399999999,107.5729334,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+MTs Assu'ada Cijerah,"Gang Pasantren No.260, Cibuntu",-6.920540099999998,107.5705521,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",

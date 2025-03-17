@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Madrasah Al-Ishlah,"Jalan Sukamantri I, Sukaluyu",-6.897552,107.627745,OPERATIONAL,4.8,12,"school, point_of_interest, establishment",
+KB - TK Al Biruni Cerdas Mulia,"4J4J+J53, Jalan Sidomukti No.57, Sukaluyu",-6.8934753,107.6304616,OPERATIONAL,3.9,9,"school, point_of_interest, establishment",
+Kober Mustika Kania,"Jalan Gambir Anom Buntu Bawah No.10, Sukaluyu",-6.8962498,107.6296763,OPERATIONAL,4.8,4,"school, point_of_interest, establishment",
+Pos Paud Sukaluyu,"Jalan Rereng Wulung No.16, Sukaluyu",-6.896882000000001,107.630392,OPERATIONAL,5,2,"school, point_of_interest, establishment",
+Tk Siti Khadijah,"Jalan Rereng Adumanis No.11, Sukaluyu",-6.895404999999999,107.6313138,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+"telor gulung,ELsamping SDN sukaluyu jln.rereng adumanis","Jalan Rereng Adumanis No.2a, RW.12, Sukaluyu",-6.895464899999999,107.6314717,CLOSED_TEMPORARILY,4.5,2,"primary_school, school, point_of_interest, establishment",
+SDN 201 Sukaluyu,"Jalan Rereng Adumanis No.2a, RW.07, Sukaluyu",-6.895509999999999,107.631495,OPERATIONAL,4.6,57,"school, point_of_interest, establishment",
+Yayasan Atsari Sujud Bandung,"Jalan Sapujagat No.2, Sukaluyu",-6.897291200000001,107.6309192,OPERATIONAL,5,1,"school, point_of_interest, establishment",

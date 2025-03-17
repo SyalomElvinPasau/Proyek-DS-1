@@ -1,0 +1,16 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+WARMABOYS,"RW03, Jalan Mochammad Toha Gang Rahayu Raya, murdasan",-6.9596653,107.6155943,OPERATIONAL,5,2,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Iceu Babat,"2JR7+MW4, Gang Salpian RT.05/RW.01, Wates",-6.9583504,107.6148351,OPERATIONAL,4.6,41,"restaurant, food, point_of_interest, establishment",Unknown
+Lumpia Beef Om Panda,"Gang Salpian No.132, RT.05/RW.01, Wates",-6.9584373,107.6147901,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Seblak Mba Wiwin,"Jalan Mochammad Toha Gang Salpian No.119, RT.05/RW.01, Wates",-6.958259699999999,107.6146857,OPERATIONAL,4.9,7,"restaurant, food, point_of_interest, establishment",Unknown
+Gehu mamah kekey,Jalan Mochammad Toha Gang Salpian No.129,-6.9583903,107.6145419,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Pondok Pak Ondo,"Jalan Murdasan, Wates",-6.959954400000001,107.6152738,OPERATIONAL,5,4,"jewelry_store, store, restaurant, food, point_of_interest, establishment",Unknown
+Jajanan teh vera,"Jln Moch Toha GG salpian rt05 RW 01, Gang Babakan No.126, Ciseureuh",-6.958000699999999,107.6143417,OPERATIONAL,5,1,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+SiAyam Geprek Ngemil Santuy,"Masuk gang samping pos kamling, Jalan Mochammad Toha Gg. Murdasan, Wates",-6.9603689,107.6156352,OPERATIONAL,5,10,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Geprek Habeuk,"Jalan Mochammad Toha Gg. Murdasan RT.04/RW.03, Wates",-6.9604325,107.6157065,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai membara,"2JR7+QMV, Gang Salpian, Wates",-6.958012899999999,107.6141615,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Masakan Tiara Alami,"Jalan Mochammad Toha No.463, Wates",-6.9598721,107.6145161,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Nek Opal,"2JV7+2G9, Gang Ijan, Wates",-6.9574533,107.6138651,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Seblak Nina,"2JR7+XF7, Jalan Mochammad Toha gg H.HANAFIAH, Wates",-6.9575996,107.6136811,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+WARUNG MAKAN SINDANG HEULA,"Jalan Mochammad Toha gg murdasan No.8 2, RW.3, Wates",-6.9604129,107.6143068,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai Ayam PL,"jalan Moch Toha gg BBK Ciseureuh timur RT 04 RW 07 no 10, Bandung, Wates, Bandung Kidul, Wates",-6.957340800000001,107.6134645,OPERATIONAL,4.3,13,"restaurant, food, point_of_interest, establishment",Unknown

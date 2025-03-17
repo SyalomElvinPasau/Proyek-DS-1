@@ -1,0 +1,13 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Sekolah Kristen Trimulia,"Jalan Dr. Djundjunan No.105, Pajajaran",-6.897762200000001,107.5888977,OPERATIONAL,3.1,145,"school, point_of_interest, establishment",
+Sekolah Tinggi Teologi Bandung,"Jalan Dr. Djundjunan No.105, Pajajaran",-6.898276999999999,107.5884176,OPERATIONAL,4.8,46,"university, school, point_of_interest, establishment",
+SMPK Trimulia,"Jalan Doktor Djunjunan Dalam No.105, Pajajaran",-6.897865200000001,107.5887942,OPERATIONAL,4.4,9,"school, point_of_interest, establishment",
+Japanese Mathematics Center (Sakamoto Method),"Bandung Trade Center, LG C-6 No. 1-8, JL. Dr. Djundjunan, No. 143-145, Bandung, Pajajaran",-6.893156,107.585415,OPERATIONAL,1,1,"school, point_of_interest, establishment",
+SD Angkasa 1 Lanud Husein Sastranegara Bandung,"Jalan Pajajaran No.150, Pajajaran",-6.9057654,107.5861993,OPERATIONAL,4.7,36,"primary_school, school, point_of_interest, establishment",
+Senior High School 9 Bandung,"Jalan Suparmin No.1A, Pajajaran",-6.9011182,107.5858151,OPERATIONAL,4.6,196,"school, point_of_interest, establishment",
+Sekolah Dasar Negeri 187 Lanuma Husein,"Jalan Suparmin No.1, Pajajaran",-6.899095,107.586397,OPERATIONAL,4.8,15,"primary_school, school, point_of_interest, establishment",
+PAUD Kartini,"Jalan Citepus III No.24/15, Pajajaran",-6.8999101,107.5884773,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+SMPN 9,"4H2Q+7F9, Jalan Citepus III, Pajajaran",-6.899337399999999,107.5887204,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Rumah Tahfidz Simaryam,"Jalan Dokter Djunjunan Dalam II No.27, Pasteur Bandung",-6.897603799999999,107.58721,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Fermentum Major Seminary,"3HXQ+W84, Jalan Citepus III RT.11/RW10/RW.10",-6.9002364,107.5883414,OPERATIONAL,5,15,"school, point_of_interest, establishment",
+Pos PAUD Mutiara Insani,"Jalan Citepus III No.1, RT.11/RW.10, Pajajaran",-6.9000194,107.5885554,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",

@@ -1,0 +1,14 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+McDonald's - Kopo Mas,"Kompleks Kopo Mas Regency, Komplek Ruko, Jalan Kopo Mas Jalan Raya Kopo No.618, Margasuka",-6.959496,107.5800176,OPERATIONAL,4.2,4409,"restaurant, food, point_of_interest, establishment",2
+Warung H Tata,"Jln cibolerang kawasan industri 145, Margasuka",-6.9518194,107.5751242,OPERATIONAL,4.9,16,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Ayam Baso Mbak Jamu,"Jalan Cibolerang No.115, Margasuka",-6.9518783,107.5765552,CLOSED_TEMPORARILY,4.2,5,"restaurant, food, point_of_interest, establishment",Unknown
+Dapoer Ng Demplon,"2HWF+Q6C, Margasuka",-6.9530654,107.5730288,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+WARUNG AZZAM,"Jalan Cibolerang RT.04/RW.06, Margasuka",-6.9515495,107.5747332,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Alby dessert,"Jalan MH.ABD.Rochman No.73, Margasuka",-6.9522986,107.5734404,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+ayam geprek den dillan,"2HWF+M4C, Margasuka",-6.953321700000002,107.5727671,OPERATIONAL,4.7,10,"restaurant, food, point_of_interest, establishment",Unknown
+Bakmi Tiga Marga Bandung pickup point,"Kopo Mas Regency, Blok E No.32",-6.955883799999999,107.5780822,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Nasi Goreng Jidun,"Jalan Cibolerang Kel No.93, Margahayu Utara",-6.9522816,107.5777022,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Rumah Ayam Bakar pi,"Jalan MH.ABD.Rochman, Margasuka",-6.9525752,107.573121,OPERATIONAL,5,19,"restaurant, food, point_of_interest, establishment",Unknown
+WARNAS 91,Indonesia,-6.952080899999999,107.5776526,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Pojok Dimsum,"Jalan Cibolerang No.30, Margasuka",-6.9513409,107.5764264,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Fedro Minang Masakan Padang,"Jalan Cibolerang No.98, Margasuka",-6.9520161,107.5777278,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown

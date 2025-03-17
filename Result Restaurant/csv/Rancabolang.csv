@@ -1,0 +1,21 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Garage seafood,"Cluster bumi adipura, Jalan Cemara A Jalan Cemara B No.15, Rancabolang",-6.962793399999999,107.6926263,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Saung Ma U'ah,"Jalan Cemara F No.18, Rancabolang",-6.9621883,107.6919832,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Indri,"Jalan Cemara G No.53 Blok G, Rancabolang",-6.962135,107.6911579,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Gorengan Katineung Rasa,"Jalan Adi Flora Raya No.22, Rancabolang",-6.9642507,107.6935995,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+MASAKAN PADANG EMBUN RAYA,"Jalan Raya Adi Mulya No.12, RT.01/RW.08",-6.963946099999999,107.6943729,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+"Sate Padang Meylan, Adipura","Jalan Adi Flora Raya No.17, Rancabolang",-6.964150100000001,107.6921344,OPERATIONAL,4.7,25,"restaurant, food, point_of_interest, establishment",Unknown
+Pusat jajanan umkm Adipura,"Jalan Adi Flora Raya No.17, Rancabolang",-6.964188999999999,107.6921769,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Omahan Mbak Wid,"Perum Bumi Adipura Cluster Cempaka Blok 1B No 119, Rancabolang",-6.9645132,107.6938094,OPERATIONAL,Unknown,Unknown,"store, health, restaurant, food, point_of_interest, establishment",Unknown
+Charada Summarecon,"Summarecon Bandung ruko Ruby commercial no.6, Rancabolang",-6.9602128,107.6948273,CLOSED_TEMPORARILY,4.3,21,"restaurant, food, point_of_interest, establishment",Unknown
+DAPOER AMBU,"Ruko ruby commercial No.16, Summarecon",-6.960134099999999,107.6948212,OPERATIONAL,4.1,28,"restaurant, food, point_of_interest, establishment",Unknown
+warung idoy,"Jalan Adi Seruni No.9, Rancabolang",-6.9623401,107.6903136,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Batagor Siamy,"bumi adipura cluster cempaka vb no 80, Rancabolang",-6.9649171,107.6941757,OPERATIONAL,5,3,"restaurant, food, point_of_interest, establishment",Unknown
+Bakmie Goreng 2 Saudara ( Owie ) Bandung,"Jalan Adi Flora Raya No.15, Rancabolang",-6.9635094,107.6905331,OPERATIONAL,4.8,8,"restaurant, food, point_of_interest, establishment",Unknown
+"Hu Noodle, Porridge & Dimsum","Ruko Ruby No.56, Rancabolang",-6.959562399999999,107.6947096,OPERATIONAL,4.4,23,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Bakar Adipura,Jalan Adi Flora Raya No.11-15,-6.963524199999999,107.6903955,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Pempek Rama Summarecon,"2MRV+6V8, Rancabolang",-6.9594533,107.6946945,OPERATIONAL,4.4,124,"restaurant, food, point_of_interest, establishment",Unknown
+Cheezey Garlix,"komp. Bumi Adipura, Jalan Adi Azalea No.26, Rancabolang",-6.965050499999999,107.6917479,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Kwetiau & Baso 28 cabang Summarecon Bandung,"Ruby Commercial Blok RC No.62, Summarecon, Rancabolang",-6.959378799999999,107.6946754,OPERATIONAL,4.6,159,"restaurant, food, point_of_interest, establishment",Unknown
+CesKick,"Cluster cempaka VI B no 71 komplek bumi adipura, Rancabolang",-6.965447,107.6938601,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Innovation Tour and Travel,"Maminias, Jalan Adi Bromelia No.2, Rancabolang",-6.964895500000001,107.6911698,OPERATIONAL,5,1,"travel_agency, lodging, restaurant, food, point_of_interest, establishment",Unknown

@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Nasi Goreng Pak Pono,"No., Jalan Tubagus Ismail No.34, Sekeloa",-6.885247499999998,107.6204606,OPERATIONAL,4.3,3,"restaurant, food, point_of_interest, establishment",Unknown
+Maduraos,"Jalan Tubagus Ismail No.86, Sekeloa",-6.8858447,107.62262,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Waroeng Bebek Ngarasan,"Jalan Tubagus Ismail No.21, Sekeloa",-6.8849771,107.6175253,OPERATIONAL,4.4,934,"restaurant, food, point_of_interest, establishment",1
+Manglayang Tour,"Jalan Tubagus Ismail XIV No.17 RT.001 / 010, Sekeloa",-6.8816068,107.6191061,OPERATIONAL,4.4,39,"travel_agency, book_store, cafe, meal_takeaway, restaurant, food, store, point_of_interest, establishment",Unknown
+Surabi Sweigear,"Jalan Sukasari II No.141, Sekeloa",-6.892519999999999,107.621069,OPERATIONAL,4.4,33,"cafe, restaurant, food, point_of_interest, establishment",1
+Ayamayaman,"Jalan Tubagus Ismail No.5c, Sekeloa",-6.8840122,107.6150151,OPERATIONAL,4.5,1799,"meal_delivery, cafe, restaurant, food, point_of_interest, establishment",2
+Rumah Makan Pagi Sero (Padang Food Specialty),Jalan Tubagus Ismail No.1,-6.883699,107.6148448,OPERATIONAL,4.3,899,"restaurant, food, point_of_interest, establishment",2

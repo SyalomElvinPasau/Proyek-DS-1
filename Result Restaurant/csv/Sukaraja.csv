@@ -1,0 +1,15 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Gudeg Yu Nap - Gunung Batu,"Jalan Cipta Graha Raya No.1, Sukaraja",-6.890261399999999,107.5635249,OPERATIONAL,4.4,922,"restaurant, food, point_of_interest, establishment",2
+Baso Moroseneng,"Jalan Gunung Batu No.33 A, Sukaraja",-6.893575999999998,107.5616777,OPERATIONAL,4.5,336,"restaurant, food, point_of_interest, establishment",Unknown
+COCO CORNER (Ayam Penyet),"Jl. Raden Ganda 2 Rt 05 Rw 10 No 156 Kel Sukaraja Kec Cicendo Bandung, Sukaraja",-6.891489999999999,107.5603996,OPERATIONAL,4.5,13,"restaurant, food, point_of_interest, establishment",Unknown
+California Fried Chicken,"Borma Toserba, Jalan Sukaraja No.42, Sukaraja",-6.8909419,107.5721712,OPERATIONAL,3.6,65,"restaurant, food, point_of_interest, establishment",2
+Chicken Horror Jurig Hayam,"Jalan Budhi No.27/29, Cilember, Sukareja, Cicendo, Budi House 2728, Sukaraja",-6.890320699999999,107.5595245,OPERATIONAL,3,2,"restaurant, food, point_of_interest, establishment",Unknown
+Baso Tahu Gama,"02, Jawa Barat, Jalan Budi No.29 02, Sukaraja",-6.890768799999999,107.5588778,OPERATIONAL,3.4,7,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai Teras Sehati,"Jalan Budi No.4, Sukaraja",-6.892099399999999,107.5583131,OPERATIONAL,4.5,24,"restaurant, food, point_of_interest, establishment",Unknown
+Iko Suki,"Komplek Mega Asri 3, Jalan Megaraya 3 No.2 Blok E1, Sukaraja",-6.891425700000001,107.5668184,OPERATIONAL,4.3,3,"restaurant, food, point_of_interest, establishment",Unknown
+RM PASUNDAN,"Jalan Mega Asri 3 No.3, Sukaraja",-6.8913074,107.5671343,CLOSED_TEMPORARILY,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Dapur KEYYO,"Komplek Mega Asri Residence, Jalan Komplek Mega Asri II No.18",-6.8921378,107.5676462,OPERATIONAL,5,10,"restaurant, food, point_of_interest, establishment",Unknown
+Warung M@2h @gisy@hl@,"4H57+FV9, Jalan Babakan Radio, Sukaraja",-6.8913478,107.5647367,OPERATIONAL,Unknown,Unknown,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Dapur KPK,Apartemen Gateway Pasteur,-6.890656999999999,107.5655719,OPERATIONAL,5,6,"restaurant, food, point_of_interest, establishment",Unknown
+Putri fried Chicken,"Jalan Babakan Cianjur No.81, Sukaraja",-6.893119699999999,107.5646662,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Es Duren Lumer Toko HS,"Komplek Armala Pasteur, Jalan Bio Farma I, Sukaraja",-6.8929776,107.5676014,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown

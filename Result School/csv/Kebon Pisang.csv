@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+HomeSchooling Bina Ekamulia,"Jalan Buton No.1, Kebon Pisang",-6.9181421,107.6150493,OPERATIONAL,3.7,3,"school, point_of_interest, establishment",
+Secondary School Vocational Education Council of Women,"Jalan Van Deventer No.14, Kebon Pisang",-6.917161,107.615809,OPERATIONAL,4.6,113,"point_of_interest, school, establishment",
+IBEC Bandung,"Graha Bumiputera #08-01 No.141-144,, Jalan Asia Afrika, Braga",-6.922150199999999,107.6166053,OPERATIONAL,5,13,"school, point_of_interest, establishment",
+Smp 3 l pakam,Jalan Sunda,-6.9197412,107.6178296,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",

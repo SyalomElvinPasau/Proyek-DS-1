@@ -1,0 +1,13 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+High School Daarul Qur'an Bandung,"Jalan Nagrog No.85, RT.3/RW.12, Pasanggrahan",-6.9026901,107.715878,OPERATIONAL,4.5,69,"secondary_school, school, point_of_interest, establishment",
+Elementary School Mekargalih,"Jalan Sekemala No.73, Pasanggrahan",-6.9080673,107.7148422,OPERATIONAL,4.4,8,"primary_school, school, point_of_interest, establishment",
+Mihrab Quran Alfatih,"Jl. Puri Asih Jalan Cilengkrang 1 No.3/5, Pasanggrahan",-6.9138784,107.7143185,OPERATIONAL,5,34,"school, point_of_interest, establishment",
+PAUD Qurrotu A'yun,"3PR8+R4H, Pasanggrahan",-6.9079358,107.7153445,OPERATIONAL,5,2,"school, point_of_interest, establishment",
+Rencana Pembangunan SDU Al-Izzah,"3PR7+W24, Jalan Nagrog, Pasirwangi",-6.907728499999999,107.7125922,OPERATIONAL,4.3,3,"school, point_of_interest, establishment",
+Al-Islamiyah,"3PR6+25Q, Jalan Nagrog, Pasanggrahan",-6.9099217,107.7104994,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+TKQ NUUR RAZAAQ,"3PQ6+X5X, Jalan Paledang RT.01/RW.15, Pasanggrahan",-6.910019399999999,107.7104729,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+TK / Kuber-Deviana,"JL Telok-Dengklok, No. A-16 RT 01 RW 12, Pesanggrahan, Ujung Berung, Pasanggrahan",-6.907241699999999,107.7128417,OPERATIONAL,4.5,2,"school, point_of_interest, establishment",
+TK PUSPA ENDAH,"Jl.Nagrog Kp, RT01/RW12, Jalan Nagrog Telok Dengklok No.A16",-6.907125700000001,107.7129382,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+Rdwansani,"3PQ9+72X, Pasanggrahan",-6.9117731,107.7176133,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+SMP Gema Pancasila,"3PV8+488, Pasanggrahan",-6.9072089,107.7158207,OPERATIONAL,4.8,5,"school, point_of_interest, establishment",
+Sanggar Senam Cantik,"Jalan Kav. Paledang I No.3, Pasanggrahan",-6.906577,107.7126379,OPERATIONAL,5,3,"school, point_of_interest, establishment",

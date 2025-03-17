@@ -1,0 +1,15 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Dunkin Donuts,"Jalan AH. Nasution No.117, Cigending",-6.913860499999999,107.6975732,OPERATIONAL,4.6,532,"cafe, bakery, store, restaurant, food, point_of_interest, establishment",2
+Mayasari Bakery - Ujungberung,"Depan Yon Zipur, Jalan AH. Nasution No.51, Cigending",-6.9128808,107.6941224,OPERATIONAL,4.4,129,"bakery, store, restaurant, food, point_of_interest, establishment",2
+Warung Bakso Mas Wahid,"3MQW+PR2, Cigending",-6.9107406,107.6970078,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+DAPOER BU'LE,"Jalan Ujung Berung Indah Permai IX No.20, Cigending",-6.9109577,107.6988311,OPERATIONAL,5,4,"restaurant, food, point_of_interest, establishment",Unknown
+Lotek Ubi Tanjakan,"Jalan Ujung Berung Indah Permai IX No.5, Cigending",-6.9111365,107.6987454,OPERATIONAL,4.8,12,"restaurant, food, point_of_interest, establishment",Unknown
+Muh riyanto,"Andirkaler rt04 rw03, Cigending",-6.910342300000001,107.6991294,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Kantin Rawon Bu Tri,"Komp ujung berung indah Blok XV no 19, Cigending",-6.910241000000001,107.6966951,OPERATIONAL,1,1,"restaurant, food, point_of_interest, establishment",Unknown
+Batagor Mang Jejen,"3MRW+5Q2, Jalan Ujungberung Indah Raya, Cigending",-6.909609,107.6968882,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+UBI foodcourt,"Jalan Ujungberung Indah Raya No.21, Cigending",-6.9104671,107.6963695,OPERATIONAL,5,10,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Mamah Ai,"PKBM bina cipta, Gang Masjid Nurul Falah RT.06/RW.03",-6.912138599999999,107.6981803,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Warung kembar barokah,Haruman sari RT.05/RW.07,-6.910448499999999,107.6996234,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Bakso Tahu Barokah,"Jalan Ujungberung Indah Raya No.17, Cigending",-6.910715400000001,107.6962636,OPERATIONAL,5,4,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Bakso Restu Raya,"Komplek ujung berung indah blok 14 No 2, RT.04/RW.11, Cigending",-6.9107064,107.6962405,OPERATIONAL,4.6,343,"restaurant, food, point_of_interest, establishment",2
+Pojok abah,Haruman sari No.40,-6.911299,107.6996577,OPERATIONAL,5,7,"restaurant, food, point_of_interest, establishment",Unknown

@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Besok Jajan,"keluar, Gerbang Tol Pasir Koja",-6.931452299999999,107.5706368,OPERATIONAL,Unknown,Unknown,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Mom's Recipe,"3HCC+46P, Caringin",-6.929658899999999,107.5705628,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Delisioco Food,"Jalan Cibuntu Barat No.87, Caringin",-6.932219699999998,107.5710289,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Bakso Khan Setia,"Jalan Holis No.272-260, Caringin",-6.9300069,107.5730333,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Geprek Kekinian,"Komplek Bumi asri, Blok A kelurahan No.17, Gempolsari",-6.928510999999999,107.5720406,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Geprek Barokah,"Jalan Bojong Raya No.33A, Caringin",-6.9278647,107.5707493,OPERATIONAL,5,4,"restaurant, food, point_of_interest, establishment",Unknown
+KUY STEAK (Jalan Bojong),"Jalan Bojong Raya No.23, Caringin",-6.9279907,107.5715562,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Mr Kriuk Fried Chicken - Bojong Raya Caringin Bandung,"Jalan Bojong Raya No.23, Caringin",-6.9279907,107.5715562,OPERATIONAL,Unknown,Unknown,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown

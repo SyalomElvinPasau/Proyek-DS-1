@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+MTs. Nurul Iman,"Jalan Cibaduyut Gang TVRI 3 No.Blok, Cibaduyut Wetan",-6.961723200000001,107.59496,OPERATIONAL,4.6,130,"point_of_interest, school, establishment",
+Pacific swimming club,Jalan Galuh Pakuan Barat No.7,-6.961006900000001,107.5973644,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Komplek singgasana,"2HVX+73P, Jalan Singgasana Raya, utama",-6.9567932,107.5977081,OPERATIONAL,5,2,"primary_school, point_of_interest, school, establishment",
+Borobudur,Jalan Cibaduyut Jalan Ciparay Tengah,-6.959102199999999,107.5949773,OPERATIONAL,Unknown,Unknown,"primary_school, point_of_interest, school, establishment",
+Jln Cibaduyut,"2HRV+9XH, Cibaduyut Wetan",-6.959102199999999,107.5949773,OPERATIONAL,5,1,"primary_school, point_of_interest, school, establishment",
+MA Nurul Iman Kota Bandung,Cibaduyut Wetan,-6.961371299999999,107.5955969,OPERATIONAL,5,12,"point_of_interest, school, establishment",
+MDTA AR-RODIYAH,"Jalan Cibaduyut Gang Ibu Ipong No.87 rt. 04/02, Cibaduyut Wetan",-6.956730299999999,107.5948043,OPERATIONAL,4.5,2,"school, point_of_interest, establishment",
+MIS Nurul Iman Cibaduyut,"2HQV+7V4, Cibaduyut Wetan",-6.961777,107.595049,OPERATIONAL,Unknown,Unknown,"primary_school, point_of_interest, school, establishment",
+YPI Pondok Pesantren Nurul Iman AlIslamy,"2HQV+7R6, Cibaduyut Wetan",-6.961842300000001,107.5945261,OPERATIONAL,4.8,9,"school, point_of_interest, establishment",

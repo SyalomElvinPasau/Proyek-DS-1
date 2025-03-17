@@ -1,0 +1,17 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Feast Restaurant,"Sheraton Bandung Hotel & Towers, Jalan Ir. H. Juanda No.390, Dago",-6.8746904,107.6196057,OPERATIONAL,4.5,195,"restaurant, food, point_of_interest, establishment",Unknown
+VFC Fried Chicken,"Jalan Ir. H. Juanda No.301, Dago",-6.877647,107.616931,OPERATIONAL,3.7,29,"meal_takeaway, restaurant, food, point_of_interest, establishment",1
+Bakso Rusuk Samanhudi Dago,"Jalan Ir. H. Juanda No.342b, Dago",-6.877535000000001,107.6174529,OPERATIONAL,4.5,2035,"restaurant, food, point_of_interest, establishment",Unknown
+Pizza Hut Delivery - PHD Indonesia,"No.342 C, Jalan Ir. H. Juanda, Dago",-6.8775588,107.61751,OPERATIONAL,4.5,828,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",2
+North Dago Cafe,"The Jayakarta Hotel, Jalan Ir. H. Juanda No.381A Lantai Basement, Dago",-6.870750999999999,107.6193453,OPERATIONAL,4.3,50,"cafe, restaurant, food, point_of_interest, establishment",Unknown
+Domino's Pizza,"Jalan Ir. H. Juanda No.269 A, RT.03/RW.09, Kel",-6.880408200000001,107.6160216,OPERATIONAL,4.4,2320,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",2
+Tumpeng Nyonya Roberni,"Villa Istana Bunga, Dago",-6.8698904,107.6201069,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Cobek Aneka,"Jalan Cisitu Lama No.54A, Dago",-6.879780999999999,107.6121223,OPERATIONAL,4.4,297,"cafe, restaurant, food, point_of_interest, establishment",1
+Bayu Rica Rica,"Bayu rica rica, Jalan Ir. H. Juanda, Sekeloa",-6.881793599999999,107.6151947,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Chicken Little Party,Jalan Ir. H. Juanda No.450A,-6.868130900000001,107.6207898,OPERATIONAL,4.7,137,"restaurant, food, point_of_interest, establishment",Unknown
+Gobek Goyang,"Jalan Ir. H. Juanda No.342, Dago",-6.877657699999999,107.6172829,OPERATIONAL,5,2,"cafe, restaurant, food, store, point_of_interest, establishment",Unknown
+Warung Nasi Mbak,"Gang Haji Rusmana No.55, Dago",-6.874434900000001,107.6158963,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+kedai azka,"Jalan Dago Biru No.23, Dago",-6.8744058,107.6156759,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Seblak IBU,"4JG8+668, Unnamed Road, Dago",-6.874468199999999,107.6155711,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+warung jangk arasy,"kp biru, RT.05/RW.04, Dago",-6.874339699999998,107.6156253,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Seblak Oces Dago barat ujung,"Jalan Dago Barat Ujung No.3, RT.002/RW.005, Dago",-6.874179000000001,107.615941,OPERATIONAL,5,8,"restaurant, food, point_of_interest, establishment",Unknown

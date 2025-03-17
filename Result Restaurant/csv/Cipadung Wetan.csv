@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Mie Ayam Pribumi,"Jalan Soekarno-Hatta No.853, RT./4/RW./6, Cipadung Wetan",-6.9358346,107.706829,OPERATIONAL,4.5,44,"restaurant, food, point_of_interest, establishment",Unknown
+SUSHI JANDA,"Jalan AH. Nasution No.115, Cipadung",-6.932566099999999,107.7157382,OPERATIONAL,4.5,107,"restaurant, food, point_of_interest, establishment",Unknown
+Batagor Abah Andri,"Jalan AH. Nasution No.92, Cipadung Wetan",-6.9291263,107.7114518,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Fast Food Restaurant,Indonesia,-6.9315417,107.7131666,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Sate Taichan Mas Alih,"Jalan AH. Nasution, Cipadung Kulon",-6.9316247,107.7132118,CLOSED_TEMPORARILY,5,5,"restaurant, food, point_of_interest, establishment",Unknown

@@ -1,0 +1,17 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Mie Binong 319,"Jalan Kiara Condong No.319, Kebon Kangkung",-6.9311833,107.6438673,OPERATIONAL,4.3,521,"restaurant, food, point_of_interest, establishment",2
+Warpink,"3J6V+XRF, Kebon Kangkung",-6.9375626,107.6445329,OPERATIONAL,4.9,13,"restaurant, food, point_of_interest, establishment",Unknown
+Dapoer Heppi,"Kangkung XI Jalan Kangkung Kidul No.77, RT.06/RW.08",-6.938220799999999,107.6444812,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Pisang Geprek Kahayang,Kebon Kangkung,-6.937400800000001,107.6446988,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Baso mang atang uninus,"Jalan Kebon Kangkung 11 kelurahan RT.05/RW.08, Kebon Kangkung",-6.937272399999999,107.6445966,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+War'dams,"3J7V+6JW, Kebon Kangkung",-6.9368887,107.6440924,OPERATIONAL,5,4,"restaurant, food, point_of_interest, establishment",Unknown
+Sosis Telor,Indonesia,-6.9372468,107.6432548,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Ayam Geprek C3K PPG,"Jl.Papanggungan XII No.104 RT.07 RW.09 No.104/127D Kiaracondong Jl.Jl.Papanggungan XI NO.104, RT.07/RW.09, Kebon Kangkung",-6.937725200000001,107.6452115,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Dapur Kang Bor,Gang Kebon Kangkung IX No.11A,-6.936743,107.6435765,OPERATIONAL,4.6,9,"restaurant, food, point_of_interest, establishment",Unknown
+"""KEDAI MIE BAROKAH""","Gang Kebon Kangkung IX No.13, Kebon Kangkung",-6.936708,107.6435742,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Dimsum Inmons Kebonkangkung,"Gang Kebon Kangkung IX No.6 A, Kebon Kangkung",-6.936902900000001,107.6431832,OPERATIONAL,4.7,3,"restaurant, food, point_of_interest, establishment",Unknown
+RM Permata,"Jalan Papanggungan No.14, Kebon Kangkung",-6.938198899999999,107.6454012,OPERATIONAL,4.6,17,"restaurant, food, point_of_interest, establishment",Unknown
+Pondok Citra Kantin,"3J7V+76W, Kebon Kangkung",-6.9367565,107.6430824,OPERATIONAL,4.3,43,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Barokah,"3J7V+232, Gang Sukamaju 2, Binong",-6.937487,107.6426268,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Bakso Putra Putri Solo,"Jalan Ibrahim Adjie No.419, Kebon Kangkung",-6.9372424,107.6426882,OPERATIONAL,5,5,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Elok di Cubo,"Jalan Ibrahim Adjie Jalan Terusan Kiaracondong No.423, Kebon Kangkung",-6.937773899999999,107.6425567,OPERATIONAL,4.6,230,"restaurant, food, point_of_interest, establishment",2

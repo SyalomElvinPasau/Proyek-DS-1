@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+RM Legoh,"Jalan Lengkong Kecil No.24 A, Paledang",-6.923325999999999,107.6131613,OPERATIONAL,4.4,1593,"restaurant, point_of_interest, food, establishment",2
+Ikan Bakar Sambal Pesisir Restaurant,"Jalan Lengkong Kecil No.44B, Paledang",-6.9235213,107.6146109,OPERATIONAL,4.5,644,"restaurant, point_of_interest, food, establishment",2
+Mie Baso Boing,"Jalan Jati No.8, Paledang",-6.926035899999999,107.6130287,OPERATIONAL,4.7,151,"restaurant, point_of_interest, food, establishment",Unknown
+Mie Merapi,"Jalan Lengkong Kecil No.82B, Paledang",-6.9237955,107.6167349,OPERATIONAL,4.3,1856,"restaurant, point_of_interest, food, establishment",1
+Dapur Thailand,"Jalan Lengkong Kecil No.73E, Paledang",-6.923562799999998,107.6166901,OPERATIONAL,4.4,578,"restaurant, point_of_interest, food, establishment",2
+Atmosphere Resort Café,"Jalan Lengkong Besar No.97, Paledang",-6.926710099999999,107.6133915,OPERATIONAL,4.5,7819,"restaurant, point_of_interest, food, establishment",3
+Mamchick Fried Chicken,"Yomart, Jalan Karapitan, Paledang",-6.926746,107.6167734,OPERATIONAL,Unknown,Unknown,"meal_takeaway, restaurant, point_of_interest, food, establishment",Unknown
+D'Sosis Sosis Bakar,"Jalan Cikawao No.37, Paledang",-6.927860199999999,107.6148391,OPERATIONAL,Unknown,Unknown,"restaurant, point_of_interest, food, establishment",Unknown
+KEDAI HEMAT,"Jalan Lengkong Kecil No.1A, Paledang",-6.9229241,107.6122219,OPERATIONAL,4.5,402,"cafe, restaurant, point_of_interest, food, establishment",1

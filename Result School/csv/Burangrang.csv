@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+PKBM Minda Utama - Sekolah Paket C Bandung,"JL. Karapitan, No. 13B RT. 002/01, Burangrang, Paledang",-6.9244824,107.617495,OPERATIONAL,5,386,"school, point_of_interest, establishment",
+BPI 1 Bandung High School,"Yayasan Badan Perguruan Indonesia (BPI, Jalan Burangrang No.8, Burangrang",-6.923941,107.6194105,OPERATIONAL,4.5,261,"point_of_interest, school, establishment",
+Yayasan BPI Bandung,"Jalan Burangrang No.8, Burangrang",-6.923920099999997,107.6195762,OPERATIONAL,4.9,8,"point_of_interest, school, establishment",
+SMA BPI 2 Bandung,"Jalan Burangrang Dalam No.8, Burangrang",-6.923518899999999,107.6193241,OPERATIONAL,4.9,45,"point_of_interest, school, establishment",

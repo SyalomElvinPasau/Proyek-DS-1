@@ -1,0 +1,13 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+LAPAK DIMSUL,"Jalan A. Yani No.752, Cicaheum",-6.9039118,107.6525806,OPERATIONAL,4.4,36,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Katineung,"Jalan A. Yani No.812, Cicaheum",-6.902571999999999,107.6551632,OPERATIONAL,3.7,10,"restaurant, food, point_of_interest, establishment",Unknown
+Pizza Hut Restoran,"Jalan Terusan Jakarta No.71, Cicaheum",-6.912514399999999,107.6506985,OPERATIONAL,4.6,3871,"restaurant, food, point_of_interest, establishment",2
+Dunkin Donuts (Antapani),"Borma Pasar Swalayan, Jalan Terusan Jakarta No.53, Cicaheum",-6.9128039,107.6490346,OPERATIONAL,4.6,500,"bakery, store, restaurant, food, point_of_interest, establishment",2
+HokBen,"Jalan Terusan Jakarta No.53 E, Antapani Kulon",-6.912834399999999,107.6489557,OPERATIONAL,4.4,1527,"restaurant, food, point_of_interest, establishment",2
+Lotek Rujak Bu Sari Legend,"Jalan Sukanegla No.53, RT.04/RW.01, Antapani Kulon",-6.9071684,107.6527036,CLOSED_TEMPORARILY,4.1,10,"restaurant, food, point_of_interest, establishment",Unknown
+SUSHI WAR,"GOR Pandawa Lima, Jalan Sukanegla No.53, sebelah kiri",-6.9071684,107.6527036,OPERATIONAL,Unknown,Unknown,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Baso Akbar,"3MV3+73P, Jalan Sukanegla, Cicaheum",-6.906797,107.6526997,OPERATIONAL,3,3,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Goreng Sehati,"Jalan Sukanegla No.53, Antapani Kidul",-6.907122800000001,107.6526475,OPERATIONAL,1.7,9,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Pak Otang,"Jalan Sukanegla B No.4, Antapani Kulon",-6.907338699999999,107.6527608,OPERATIONAL,4.8,34,"restaurant, food, point_of_interest, establishment",Unknown
+Estu cheese blade gg maja,"Gang Maja 3 No.168, Cicaheum",-6.9075891,107.6527054,OPERATIONAL,4.7,3,"restaurant, food, point_of_interest, establishment",Unknown
+Lingling Kitchen,Gang Maja 3 No.168,-6.907589199999999,107.6527054,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown

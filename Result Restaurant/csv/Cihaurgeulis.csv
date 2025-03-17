@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+"Ayam Goreng Hanoman ""Bude Wati""","No, Jalan Muararajeun Kulon No.7, Cihaur Geulis",-6.9021406,107.6283304,OPERATIONAL,3.8,9,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Morning Glory At Rooftop Mitra Hotel Bandung,"Jalan Supratman No.98, Cihaur Geulis",-6.9018965,107.6272481,OPERATIONAL,4.5,1170,"restaurant, food, point_of_interest, establishment",2
+Seafood Kiloan Bang Bopak ( Pusat Katamso ),"Jalan Brigadir Jendral Katamso No.33, Cihaur Geulis",-6.904100700000001,107.631778,OPERATIONAL,4.2,2635,"restaurant, food, point_of_interest, establishment",2
+Sambel Hejo Natuna,"Jalan Brigadir Jendral Katamso No.49, Cihaur Geulis",-6.903311600000001,107.6324075,OPERATIONAL,4.4,1509,"restaurant, food, point_of_interest, establishment",2

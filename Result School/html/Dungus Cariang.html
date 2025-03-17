@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d2885cfef43fbcffd6a383e437fc2cb4 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_d2885cfef43fbcffd6a383e437fc2cb4" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_d2885cfef43fbcffd6a383e437fc2cb4 = L.map(
+                "map_d2885cfef43fbcffd6a383e437fc2cb4",
+                {
+                    center: [-6.914119387423415, 107.58080581108051],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b47eeb81ac2b809ab63eab9910db63c4 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_b47eeb81ac2b809ab63eab9910db63c4.addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var polygon_528554d41168432ede8d1acb21a1ec17 = L.polygon(
+                [[-6.910875319999946, 107.58352661200013], [-6.911065101999952, 107.58345794600012], [-6.911336421999977, 107.58333587600015], [-6.911792755999898, 107.58313751100013], [-6.912336825999887, 107.5829391470001], [-6.912597655999889, 107.58284759500015], [-6.912688732999868, 107.58280944800009], [-6.913165569999933, 107.582672119], [-6.913303851999899, 107.58263397200017], [-6.913599490999957, 107.58255004900002], [-6.913678646999927, 107.58252716000004], [-6.913793086999874, 107.5829544070001], [-6.913823603999901, 107.5831069950001], [-6.913880348999896, 107.58338165300012], [-6.913892746999863, 107.58351898199999], [-6.913946628999952, 107.58364105200019], [-6.914143560999833, 107.58360290500013], [-6.914995670999815, 107.58340454100005], [-6.915028571999869, 107.58348846500007], [-6.915136337999968, 107.58385467500017], [-6.915217875999815, 107.58409881600005], [-6.915253637999911, 107.58419799800004], [-6.915314673999831, 107.58439636300005], [-6.915440558999933, 107.58475494400011], [-6.915574072999959, 107.5850982660001], [-6.91561937299997, 107.585235597], [-6.916083334999939, 107.58522033600008], [-6.916394708999917, 107.58520507800006], [-6.91677522699996, 107.58518219000013], [-6.916859625999962, 107.58517456100014], [-6.916999816999976, 107.58517456100014], [-6.917311666999922, 107.58517456100014], [-6.917635916999927, 107.585166931], [-6.917802809999898, 107.58515930100009], [-6.918123244999947, 107.58512878400018], [-6.918495654999958, 107.585090638], [-6.918457030999946, 107.58477020300006], [-6.918424606999906, 107.58448028600014], [-6.918377398999951, 107.58409881600005], [-6.918363570999929, 107.58396148700012], [-6.918343067999956, 107.58375549300013], [-6.918307303999882, 107.58345794600012], [-6.918292522999934, 107.58326721200012], [-6.918272971999897, 107.58302307100013], [-6.918242930999895, 107.58278656000016], [-6.918141840999965, 107.58197784400005], [-6.918128012999887, 107.58187866200018], [-6.91811561499992, 107.58177948000014], [-6.918035505999967, 107.58116149900007], [-6.917963027999917, 107.58090209900013], [-6.917941568999936, 107.58081054700017], [-6.917891501999975, 107.58036041300005], [-6.917728900999919, 107.57888030900017], [-6.917640684999981, 107.57807159400011], [-6.917607783999927, 107.5779113760002], [-6.917541502999939, 107.57757568300002], [-6.917502402999901, 107.57738494900008], [-6.91749763599995, 107.57725524800009], [-6.917492865999918, 107.57714080800002], [-6.917478559999893, 107.57683563300009], [-6.917189120999922, 107.57688140800008], [-6.916968820999898, 107.57691955500013], [-6.916820048999966, 107.57694244300006], [-6.916495798999961, 107.57700347900015], [-6.916152477999958, 107.57709503300009], [-6.916006565999965, 107.57712554900013], [-6.914263248999873, 107.57751464800003], [-6.914011477999907, 107.57756805500014], [-6.913774966999881, 107.57762145999999], [-6.913614748999976, 107.57765960700004], [-6.913223742999946, 107.57774353100007], [-6.912910460999967, 107.57781219400016], [-6.912565231999963, 107.5778884880001], [-6.912184238999885, 107.57798004200004], [-6.911926746999882, 107.57803344700011], [-6.911740302999931, 107.57808685200013], [-6.910766600999921, 107.57830047700014], [-6.910099983999942, 107.57845306400009], [-6.910027502999981, 107.5784683220001], [-6.909545420999962, 107.57856750500002], [-6.909138678999966, 107.57865142800017], [-6.909056662999944, 107.57867431699998], [-6.908709048999924, 107.57878112700013], [-6.908588885999961, 107.578834534], [-6.908512114999894, 107.57888030900017], [-6.908248899999876, 107.57898712200006], [-6.907913683999936, 107.57911682000008], [-6.90798568699995, 107.57922363300014], [-6.908038139999974, 107.57930755700016], [-6.908262252999918, 107.57963562000003], [-6.908359527999892, 107.57978057900004], [-6.90853500299994, 107.58008575500008], [-6.908681392999881, 107.58027649000013], [-6.908852100999979, 107.58049774200015], [-6.908898829999941, 107.58056640600012], [-6.908946036999907, 107.58063507100007], [-6.909000872999911, 107.58071136500013], [-6.909080503999974, 107.58083343600003], [-6.909275054999966, 107.58113098200016], [-6.909492492999959, 107.58146667500012], [-6.909534454999857, 107.58152771100004], [-6.90957784699998, 107.5815887460002], [-6.909731863999923, 107.58180999700011], [-6.909842491999939, 107.58197784400005], [-6.909974575999968, 107.5821838390001], [-6.910014152999906, 107.5822448720001], [-6.91008090899993, 107.58234405400015], [-6.910130500999969, 107.58241272000015], [-6.910360335999883, 107.58278656000016], [-6.910432337999964, 107.5828857420002], [-6.910493372999952, 107.58296966600005], [-6.910589216999881, 107.5831069950001], [-6.910711764999917, 107.5832977290001], [-6.910778045999962, 107.5833892830002], [-6.910875319999946, 107.58352661200013]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var marker_2255ec93e6522e0aac86fb04b7c911be = L.marker(
+                [-6.9175033, 107.578318],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_54433620c13cba11fdb83f3ebe614f8e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8b99cd047e873686592d94d6e11e5090 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b90d45bf79e3100ffad60fddb6ef0d9b = $(`<div id="html_b90d45bf79e3100ffad60fddb6ef0d9b" style="width: 100.0%; height: 100.0%;">Kumon Indonesia - Sudirman 634</div>`)[0];
+                popup_8b99cd047e873686592d94d6e11e5090.setContent(html_b90d45bf79e3100ffad60fddb6ef0d9b);
+            
+        
+
+        marker_2255ec93e6522e0aac86fb04b7c911be.bindPopup(popup_8b99cd047e873686592d94d6e11e5090)
+        ;
+
+        
+    
+    
+                marker_2255ec93e6522e0aac86fb04b7c911be.setIcon(icon_54433620c13cba11fdb83f3ebe614f8e);
+            
+    
+            var marker_d46c0438945818c840f9e468529063c4 = L.marker(
+                [-6.917482499999998, 107.5780311],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_4179682913b20fdaf882e7bc2bc3b31f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5b2fe314f94a10748fe6486d42792951 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8b427626408a89e319575c9e29fbcd7a = $(`<div id="html_8b427626408a89e319575c9e29fbcd7a" style="width: 100.0%; height: 100.0%;">SDK 6 BPK Penabur</div>`)[0];
+                popup_5b2fe314f94a10748fe6486d42792951.setContent(html_8b427626408a89e319575c9e29fbcd7a);
+            
+        
+
+        marker_d46c0438945818c840f9e468529063c4.bindPopup(popup_5b2fe314f94a10748fe6486d42792951)
+        ;
+
+        
+    
+    
+                marker_d46c0438945818c840f9e468529063c4.setIcon(icon_4179682913b20fdaf882e7bc2bc3b31f);
+            
+    
+            var marker_8dc5a2ad1551a72ec06d8243574df207 = L.marker(
+                [-6.917227499999999, 107.5777121],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_de62830dadcec54cc019d8aa644fdea0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3c939302bb951d2256b749b2ba528085 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_21d59044b5911b4112c53fea847bbef3 = $(`<div id="html_21d59044b5911b4112c53fea847bbef3" style="width: 100.0%; height: 100.0%;">TKK 638 BPK PENABUR BANDUNG</div>`)[0];
+                popup_3c939302bb951d2256b749b2ba528085.setContent(html_21d59044b5911b4112c53fea847bbef3);
+            
+        
+
+        marker_8dc5a2ad1551a72ec06d8243574df207.bindPopup(popup_3c939302bb951d2256b749b2ba528085)
+        ;
+
+        
+    
+    
+                marker_8dc5a2ad1551a72ec06d8243574df207.setIcon(icon_de62830dadcec54cc019d8aa644fdea0);
+            
+    
+            var marker_0d8cc8d040338265f17d9947339414ea = L.marker(
+                [-6.914025700000001, 107.5801079],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_525e63951b4f41565cc20be6ae56177d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d8e4a74f97a3db7235c3eb20e3346560 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0f15145ace821c5410258fe3bafe80fd = $(`<div id="html_0f15145ace821c5410258fe3bafe80fd" style="width: 100.0%; height: 100.0%;">Madrasah Diniyah An - Najaah</div>`)[0];
+                popup_d8e4a74f97a3db7235c3eb20e3346560.setContent(html_0f15145ace821c5410258fe3bafe80fd);
+            
+        
+
+        marker_0d8cc8d040338265f17d9947339414ea.bindPopup(popup_d8e4a74f97a3db7235c3eb20e3346560)
+        ;
+
+        
+    
+    
+                marker_0d8cc8d040338265f17d9947339414ea.setIcon(icon_525e63951b4f41565cc20be6ae56177d);
+            
+    
+            var marker_9919e381c6d2433b86b7cb8811310759 = L.marker(
+                [-6.913009, 107.5808005],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_d2e4bd9c72c088bdbd7314e3db023af8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6629b397813fb878b52b0adf5c11d203 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d841efb0c65f927cc3d02412cba529b3 = $(`<div id="html_d841efb0c65f927cc3d02412cba529b3" style="width: 100.0%; height: 100.0%;">Rumah Pendidikan Ibu Yanah</div>`)[0];
+                popup_6629b397813fb878b52b0adf5c11d203.setContent(html_d841efb0c65f927cc3d02412cba529b3);
+            
+        
+
+        marker_9919e381c6d2433b86b7cb8811310759.bindPopup(popup_6629b397813fb878b52b0adf5c11d203)
+        ;
+
+        
+    
+    
+                marker_9919e381c6d2433b86b7cb8811310759.setIcon(icon_d2e4bd9c72c088bdbd7314e3db023af8);
+            
+    
+            var marker_7932d943ec6a48674f593b36cee622e9 = L.marker(
+                [-6.912545999999999, 107.5803724],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_c7ad98d31f600ed8210c6aa4f14f08a7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d9ed7b24df4cda7ec48c05ba95d32d4e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_576f79d4742d81c8d0a21f4fcb09b8c2 = $(`<div id="html_576f79d4742d81c8d0a21f4fcb09b8c2" style="width: 100.0%; height: 100.0%;">SDN 002 Karang Mulya</div>`)[0];
+                popup_d9ed7b24df4cda7ec48c05ba95d32d4e.setContent(html_576f79d4742d81c8d0a21f4fcb09b8c2);
+            
+        
+
+        marker_7932d943ec6a48674f593b36cee622e9.bindPopup(popup_d9ed7b24df4cda7ec48c05ba95d32d4e)
+        ;
+
+        
+    
+    
+                marker_7932d943ec6a48674f593b36cee622e9.setIcon(icon_c7ad98d31f600ed8210c6aa4f14f08a7);
+            
+    
+            var marker_dd000d0bca35584bb0b84e6d1e178e77 = L.marker(
+                [-6.912517599999999, 107.5797294],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_f91d804212642e7e394809fe13213e27 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_702bddd7253fb2021d588c8517e4f45d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2e9c7aef6a22f339bbaf1c4b13d98746 = $(`<div id="html_2e9c7aef6a22f339bbaf1c4b13d98746" style="width: 100.0%; height: 100.0%;">SD Negeri Karang Taruna 1</div>`)[0];
+                popup_702bddd7253fb2021d588c8517e4f45d.setContent(html_2e9c7aef6a22f339bbaf1c4b13d98746);
+            
+        
+
+        marker_dd000d0bca35584bb0b84e6d1e178e77.bindPopup(popup_702bddd7253fb2021d588c8517e4f45d)
+        ;
+
+        
+    
+    
+                marker_dd000d0bca35584bb0b84e6d1e178e77.setIcon(icon_f91d804212642e7e394809fe13213e27);
+            
+    
+            var marker_bdff20f09b54c93ceac2da45e7a3fbf4 = L.marker(
+                [-6.9122325, 107.5803291],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_b8040fa9a5c0b925ef160df0a84551e8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3dbdf415957c24d90de02af286d47b6b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6dad737fa59a24e38873410f2a18ea51 = $(`<div id="html_6dad737fa59a24e38873410f2a18ea51" style="width: 100.0%; height: 100.0%;">Rumah Pak Ishak</div>`)[0];
+                popup_3dbdf415957c24d90de02af286d47b6b.setContent(html_6dad737fa59a24e38873410f2a18ea51);
+            
+        
+
+        marker_bdff20f09b54c93ceac2da45e7a3fbf4.bindPopup(popup_3dbdf415957c24d90de02af286d47b6b)
+        ;
+
+        
+    
+    
+                marker_bdff20f09b54c93ceac2da45e7a3fbf4.setIcon(icon_b8040fa9a5c0b925ef160df0a84551e8);
+            
+    
+            var marker_3dfe305379b01862ded8decffe22f34d = L.marker(
+                [-6.913038599999999, 107.5790667],
+                {
+}
+            ).addTo(map_d2885cfef43fbcffd6a383e437fc2cb4);
+        
+    
+            var icon_4caced86410dbf4e667a604f8b1d07eb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9e74bb1a856233f18b4da2ca4d846072 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e32e16b713009c24d015c703ef2e51b9 = $(`<div id="html_e32e16b713009c24d015c703ef2e51b9" style="width: 100.0%; height: 100.0%;">SMK 11 BANDUNG</div>`)[0];
+                popup_9e74bb1a856233f18b4da2ca4d846072.setContent(html_e32e16b713009c24d015c703ef2e51b9);
+            
+        
+
+        marker_3dfe305379b01862ded8decffe22f34d.bindPopup(popup_9e74bb1a856233f18b4da2ca4d846072)
+        ;
+
+        
+    
+    
+                marker_3dfe305379b01862ded8decffe22f34d.setIcon(icon_4caced86410dbf4e667a604f8b1d07eb);
+            
+</script>
+</html>

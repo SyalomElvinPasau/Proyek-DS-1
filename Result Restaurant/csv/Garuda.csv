@@ -1,0 +1,14 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Lumpiah Abah Elim,"3HQG+FHX, Garuda",-6.911251599999999,107.5764882,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+BATAGOR OTAZ,"Jalan Dadali 3, Garuda",-6.911238500000001,107.5765031,OPERATIONAL,4.5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Seblak Teh Anggi,Indonesia,-6.9111678,107.5765846,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Nasi Kapau,"Jalan Rajawali 3 No.50, Garuda",-6.9113837,107.5767202,OPERATIONAL,4.5,52,"restaurant, food, point_of_interest, establishment",Unknown
+Sate Soto H.Taprani,"Jalan Dadali 3, Garuda",-6.9110805,107.5767211,OPERATIONAL,3.9,7,"restaurant, food, point_of_interest, establishment",Unknown
+Panji Katsurupan Chicken,"3HQG+GMJ, Jalan Dadali 3 No.2, Garuda",-6.911243499999999,107.5768174,CLOSED_TEMPORARILY,4.5,261,"meal_takeaway, restaurant, food, point_of_interest, establishment",1
+Cuankie Rumahan,Jalan Rajawali 3 No.15a,-6.9123908,107.5760001,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Kedai Bakso Mas Bams,"3HQG+MP2, Jalan Dadali 3, Garuda",-6.9108663,107.5767573,OPERATIONAL,4.3,11,"restaurant, food, point_of_interest, establishment",Unknown
+Nasi Goreng Ibnu Sabil,"Pengkolan kiri, Jalan Dadali 3 No.144, RT.04/RW.05",-6.910826999999999,107.5767368,OPERATIONAL,3,2,"restaurant, food, point_of_interest, establishment",Unknown
+Bakso Demplon,"Jalan Dadali 3 No.5, Garuda",-6.9115343,107.5770642,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Goreng SAMPOERNA,"Jalan Dadali 3 No.5, Garuda",-6.911561499999999,107.5770699,OPERATIONAL,5,1,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+MIE BAKSO TUSUK DAN KUAH BANG RICKY,"Jalan Rajawali II No.47, Garuda",-6.911426999999999,107.5770841,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Onde ajippp,"3HQG+CVC, Kp, Jalan Kulalet, Andir",-6.9114323,107.5771444,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
