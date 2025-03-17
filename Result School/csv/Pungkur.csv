@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+SMPN 10,"Jalan Raden Dewi Sartika No.115, Pungkur",-6.9292592,107.6057192,OPERATIONAL,4.4,81,"school, point_of_interest, establishment",
+Junior High School 3,"Jalan Raden Dewi Sartika No.96, Pungkur",-6.929194,107.605623,OPERATIONAL,4.6,139,"school, point_of_interest, establishment",
+SMP Yos Sudarso Bandung,"Jalan Mochammad Toha No.19, Pungkur",-6.9297445,107.6070784,OPERATIONAL,4.5,50,"school, point_of_interest, establishment",
+SD Negeri 033 Asmi Bandung,"Jalan Asmi No.2, Pungkur",-6.929503299999999,107.6079541,OPERATIONAL,4.3,54,"primary_school, school, point_of_interest, establishment",
+SDN 008 Mohamad Toha,"sd, Jalan Mochammad Toha No.22, Pungkur",-6.930077199999999,107.6066,OPERATIONAL,4.6,16,"school, point_of_interest, establishment",

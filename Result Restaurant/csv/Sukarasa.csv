@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Hara Cafe,"Jalan Professor Doktor Sutami No.62, Sukarasa",-6.8780919,107.586791,OPERATIONAL,4.5,2280,"cafe, store, restaurant, food, point_of_interest, establishment",2
+Raja Rasa,"Jalan Setraria No.1, Sukarasa",-6.8798293,107.5839423,OPERATIONAL,4.5,5674,"restaurant, food, point_of_interest, establishment",2
+QiddoStudio,"Jalan Setrasari Kulon VII No.22, Sukarasa",-6.874565,107.58509,OPERATIONAL,4.8,13,"restaurant, food, point_of_interest, establishment",Unknown
+Surabi Udin,"Jalan Setrasari Kulon VII No.24, Sukarasa",-6.874735399999999,107.5850438,OPERATIONAL,4.5,30,"restaurant, food, point_of_interest, establishment",Unknown
+Omun kitchen,Sukarasa,-6.8735482,107.5856059,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Mabohay,"Jalan Sukahaji, Sukarasa",-6.8744132,107.5845766,OPERATIONAL,3.9,17,"restaurant, food, point_of_interest, establishment",Unknown
+Sate ayam Qianzi,"Jln raya sukarasa No.161, ciwidey",-6.873835799999998,107.5845418,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Galink's Crib,"Jalan Setrasari V No.2B/23, Sukarasa",-6.8749713,107.5860349,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown

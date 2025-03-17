@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+La Baraga Cafe,Jalan Braga No.54,-6.917610900000001,107.6094452,OPERATIONAL,4.6,643,"bar, night_club, cafe, restaurant, food, point_of_interest, establishment",2
+Wendy's - Braga,"Jalan Braga No.99-101, Braga",-6.916959499999999,107.6091119,OPERATIONAL,4.2,1257,"restaurant, food, point_of_interest, establishment",2
+Ayam Djogja Kejaksaan,Jalan Kejaksaan No.5,-6.918461199999999,107.610049,OPERATIONAL,4.4,58,"restaurant, food, point_of_interest, establishment",Unknown
+Dr. Ribs Barbeque,"GF Braga City Walk, JL. Braga, No. 99-101, Braga, Sumur Bandung, 40111 Bandung, Indonesia, Braga",-6.917082999999999,107.608856,OPERATIONAL,3,1,"restaurant, food, point_of_interest, establishment",Unknown
+Braga Permai,Jalan Braga No.58,-6.917352800000001,107.60951,OPERATIONAL,4.5,7033,"restaurant, food, point_of_interest, establishment",2
+Braga Art Cafe,Jalan Braga Indonesia No.68,-6.9170905,107.6093533,OPERATIONAL,4.5,1010,"cafe, restaurant, food, store, point_of_interest, establishment",2
+Mie Jogja Pak Karso,"Jalan ABC No.103C, Braga",-6.919087600000001,107.607807,OPERATIONAL,4.4,304,"restaurant, food, point_of_interest, establishment",Unknown
+Imperial Chinese Restaurant,"Landmark, Jalan Braga No.129, Braga",-6.915718,107.6087235,OPERATIONAL,4.5,956,"restaurant, food, point_of_interest, establishment",3
+Outfitbyhanna,"Jalan Otto Iskandar Dinata No.99, Braga",-6.9180923,107.6044357,OPERATIONAL,4.2,23,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Ampera Otista 61,"Jalan Otto Iskandar Dinata No.61, Braga",-6.916944299999999,107.6045353,OPERATIONAL,4.3,1051,"restaurant, food, point_of_interest, establishment",2

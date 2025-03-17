@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+SMK Widya Dirgantara,"Jalan Bojong Raya No.114 A, Cibuntu",-6.927080499999999,107.5673435,OPERATIONAL,4.3,42,"school, point_of_interest, establishment",
+TK - SD Kristen Pelita,"Jalan Holis No.300, Caringin",-6.932765,107.571771,OPERATIONAL,4.9,80,"primary_school, point_of_interest, school, establishment",
+SD Atta'zhimiyah,"3H8C+QPX, Jalan Holis, Caringin",-6.9330072,107.5718714,OPERATIONAL,1,1,"school, point_of_interest, establishment",
+Raudhatul Athfal Al Firdaus,"Jalan Bojong Raya No.58, Caringin",-6.927565200000001,107.5704687,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+Smp pasundan 2 Cimahi,"Jalan Bojong Raya No.62, Caringin",-6.927567799999999,107.5701558,OPERATIONAL,4,1,"point_of_interest, school, establishment",
+Smp Bppi Bojong,"Jalan Bojong Raya No.10, Cibuntu",-6.9276629,107.573388,OPERATIONAL,5,2,"school, point_of_interest, establishment",

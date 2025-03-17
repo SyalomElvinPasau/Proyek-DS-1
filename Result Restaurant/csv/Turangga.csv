@@ -1,0 +1,19 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Nasi Pedas Maicih,"Jalan Reog No.3, Turangga",-6.9370781,107.6321684,OPERATIONAL,4.6,5,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Pizza Hut Delivery - PHD Indonesia,"Jalan Karawitan No.59, Turangga",-6.9387176,107.6291254,OPERATIONAL,4.6,1565,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",2
+PT Eka Bogainti,"Pasar Swalayan TOPS, JL Buah Batu, No. 237, Turangga",-6.939796699999998,107.6257071,OPERATIONAL,4.5,6,"restaurant, food, point_of_interest, establishment",Unknown
+Gerobak Ramen,"Jalan Buah Batu No 205 (Hook Kliningan), Buah Batu, Turangga",-6.9423262,107.6281039,OPERATIONAL,4.1,102,"restaurant, food, point_of_interest, establishment",1
+Waroenk Joe,"No. 201 G, Jalan Buah Batu Jalan Kliningan, Turangga",-6.9423902,107.628105,OPERATIONAL,5,1,"cafe, restaurant, food, point_of_interest, establishment",Unknown
+Sate Taichan Buah Batu,"Jalan Buah Batu No.161, Turangga",-6.938862800000001,107.6252441,OPERATIONAL,4.2,504,"restaurant, food, point_of_interest, establishment",2
+McDonald's - Buah Batu,"Jalan Buah Batu No.161, Turangga",-6.938906100000001,107.6252367,OPERATIONAL,4.5,9732,"restaurant, food, point_of_interest, establishment",2
+Domino's Pizza,"Buah Batu No 163, RT./rw/RW.07/06, Turangga",-6.939243299999999,107.6251964,OPERATIONAL,4.3,1581,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment",2
+Don John Official,"Jalan Maskumambang No.31, Turangga",-6.9359716,107.626041,CLOSED_TEMPORARILY,4.8,36,"restaurant, food, point_of_interest, establishment",1
+Sukitime Village,"3J6F+9XW, Turangga",-6.939003,107.6249527,OPERATIONAL,4.5,882,"restaurant, food, point_of_interest, establishment",2
+HokBen - Buah Batu,"Jalan Buah Batu No.229, Turangga",-6.9435159,107.6293608,OPERATIONAL,4.4,3447,"restaurant, food, point_of_interest, establishment",2
+Gepuk Ny Ong,"Jalan Buah Batu No.151A, Turangga",-6.9382794,107.6243335,OPERATIONAL,4.6,85,"restaurant, food, point_of_interest, establishment",Unknown
+Gokana Ramen & Teppan,"Jalan Pelajar Pejuang 45 No.119, Turangga",-6.934543000000001,107.6255293,OPERATIONAL,4.4,844,"restaurant, food, point_of_interest, establishment",2
+Bakso Malang Langgeng,"Jalan Lodaya No.42, Turangga",-6.9321807,107.62473,OPERATIONAL,4.2,1128,"restaurant, food, point_of_interest, establishment",2
+Ketan Ambu,Jalan Kerang No.43,-6.935377099999999,107.622091,OPERATIONAL,4.7,7,"restaurant, food, point_of_interest, establishment",Unknown
+KFC • Buah Batu,"Jalan Buah Batu Raya No.180 AB, Turangga",-6.941178,107.62712,OPERATIONAL,4.4,4244,"restaurant, food, point_of_interest, establishment",2
+Bubur Ayam A.Parid,"Jalan Karawitan No.67, Turangga",-6.938727000000001,107.6292787,OPERATIONAL,5,8,"restaurant, food, point_of_interest, establishment",Unknown
+Gorengan Karawitan,"Jalan Karawitan No.69, Turangga",-6.9388006,107.6294363,OPERATIONAL,3.7,6,"restaurant, food, point_of_interest, establishment",Unknown

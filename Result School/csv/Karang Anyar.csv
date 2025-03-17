@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+TK Kuncup Harapan,"Jalan Karang Anyar No.37, Karanganyar",-6.922932599999999,107.6016758,OPERATIONAL,5,7,"school, point_of_interest, establishment",
+Masjid Pesantren Persatuan Islam 1-2 Bandung,"Jalan Pajagalan No.14-16, Karanganyar",-6.923114900000001,107.600386,OPERATIONAL,4.7,135,"mosque, place_of_worship, point_of_interest, school, establishment",
+Pesantren Persatuan Islam 1 - 2 Bandung,"3JG2+M3X, Jalan Pajagalan, Karanganyar",-6.9232614,107.6002441,OPERATIONAL,4.5,40,"point_of_interest, school, establishment",
+SMP Negeri 25 Bandung,"Jalan Pajagalan No.67, Karanganyar",-6.9255848,107.60092,OPERATIONAL,4.3,109,"point_of_interest, school, establishment",

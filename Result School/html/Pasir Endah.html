@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_acf354aaf0c8c5d5186b5f1aa9f9bf49 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_acf354aaf0c8c5d5186b5f1aa9f9bf49" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_acf354aaf0c8c5d5186b5f1aa9f9bf49 = L.map(
+                "map_acf354aaf0c8c5d5186b5f1aa9f9bf49",
+                {
+                    center: [-6.904375189755367, 107.69021322255908],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_88f7b94767d9dc1b1103512f9f923e8d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_88f7b94767d9dc1b1103512f9f923e8d.addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var polygon_fa59abbe1ca3ab5a7d391e82439e9492 = L.polygon(
+                [[-6.897091864999936, 107.68904113800016], [-6.89730358199995, 107.68903350800008], [-6.897429942999906, 107.68901062000015], [-6.897556780999935, 107.68898010300018], [-6.897768020999933, 107.6889114380001], [-6.897862910999947, 107.68886566100014], [-6.898009299999899, 107.6888580330002], [-6.898052214999893, 107.68896484300018], [-6.898055551999903, 107.68904876700014], [-6.898030280999933, 107.68916320700004], [-6.898050306999892, 107.68927765000018], [-6.898109911999939, 107.68933868500017], [-6.89819097599991, 107.68938446000016], [-6.898200988999861, 107.6894836420002], [-6.898255823999932, 107.68962097100007], [-6.898297785999944, 107.68969726500018], [-6.898420333999979, 107.68977356], [-6.898567675999914, 107.68980407700013], [-6.898718832999975, 107.68980407700013], [-6.899000166999883, 107.68972015300011], [-6.899116038999978, 107.68973541300016], [-6.899182319999966, 107.68982696500007], [-6.899244784999894, 107.68996429400016], [-6.899310588999981, 107.69010925400005], [-6.899391174999948, 107.6902160640002], [-6.899454117999881, 107.69026184100017], [-6.89955568299996, 107.69026947100008], [-6.899785517999931, 107.69036865300012], [-6.899946212999907, 107.69046020500008], [-6.90008783299993, 107.69062042299998], [-6.900429248999842, 107.69117736900006], [-6.900645255999962, 107.69145965500019], [-6.900795459999927, 107.691619872], [-6.900853155999926, 107.6916732790001], [-6.90097522699989, 107.69178009000012], [-6.901079176999872, 107.69182586700009], [-6.901144981999892, 107.69193267900005], [-6.901183603999925, 107.69199371400003], [-6.901270389999979, 107.692138671], [-6.901322840999967, 107.69222259500003], [-6.901406286999929, 107.69235229400005], [-6.901433944999837, 107.69242859000013], [-6.901405333999946, 107.69253540000011], [-6.901425837999966, 107.69262695400005], [-6.901424884999869, 107.69283294600018], [-6.901486395999825, 107.69306945800002], [-6.901496885999961, 107.69317626999998], [-6.901503085999934, 107.69325256400009], [-6.901494978999892, 107.69342803900014], [-6.901473044999875, 107.69356536800007], [-6.901476382999874, 107.69366455000005], [-6.90147876799989, 107.69380951000016], [-6.901517391999903, 107.69387054500015], [-6.901692867999941, 107.69391632000014], [-6.901702402999945, 107.69400024400016], [-6.901996611999948, 107.69422149600013], [-6.902122497999869, 107.69433593700012], [-6.902328967999892, 107.69446563800011], [-6.90239858599989, 107.69456482000015], [-6.902558802999977, 107.69474029600008], [-6.902681350999842, 107.69487762500017], [-6.902751444999979, 107.69490814100004], [-6.903003215999888, 107.69506835900012], [-6.903264998999816, 107.69512176600006], [-6.903633593999928, 107.69506073100007], [-6.904032229999871, 107.6949615480001], [-6.904214857999875, 107.69485473600014], [-6.904344081999909, 107.69480133100006], [-6.904479980999952, 107.69446563800011], [-6.904474734999894, 107.69416046100014], [-6.90446328999991, 107.69387054500015], [-6.90443897199998, 107.69373321600006], [-6.904413222999949, 107.69340515100004], [-6.904519557999947, 107.69333648700001], [-6.90466880699995, 107.69326782200011], [-6.904936789999851, 107.69314575100003], [-6.905136108999898, 107.69304656899999], [-6.905250071999944, 107.69299316400014], [-6.905419826999946, 107.69290161200018], [-6.905463694999924, 107.6929702750001], [-6.905481814999916, 107.69307708800017], [-6.905492782999943, 107.69322967500005], [-6.905551910999918, 107.69372558600014], [-6.905572891999896, 107.69386291500007], [-6.905595777999906, 107.69400024400016], [-6.90562295899997, 107.69416809100011], [-6.905663965999963, 107.69434356700003], [-6.90573358499995, 107.6945266730001], [-6.905792236999844, 107.69464111400004], [-6.905840873999978, 107.69474792400018], [-6.905897139999979, 107.69481658900008], [-6.905962942999906, 107.69496917700013], [-6.906025408999938, 107.69505310000005], [-6.906100748999961, 107.69514465200012], [-6.906302450999931, 107.6949615480001], [-6.906532286999948, 107.69476318400001], [-6.906651972999896, 107.69473266600016], [-6.906744479999929, 107.694686891], [-6.906816482999943, 107.69464111400004], [-6.9069061269999, 107.69458770800009], [-6.907047270999954, 107.6945495600001], [-6.907283781999979, 107.6943969720001], [-6.907327651999935, 107.6943206790001], [-6.907475470999941, 107.69423675500008], [-6.907594203999963, 107.69418335], [-6.907713411999907, 107.69416809100011], [-6.907844065999882, 107.69409942599998], [-6.907917021999879, 107.6940917980001], [-6.908037184999955, 107.694038391], [-6.90812063199985, 107.69397735500013], [-6.908191679999959, 107.69395446900018], [-6.908277510999937, 107.69387054500015], [-6.908299444999898, 107.69375610399999], [-6.908322810999948, 107.69361877300008], [-6.908377170999927, 107.6935195910001], [-6.908454416999916, 107.69348907500006], [-6.908546446999821, 107.69344329800009], [-6.908635137999966, 107.69337463400007], [-6.908769129999939, 107.69327545200002], [-6.908920763999959, 107.69319915800014], [-6.909011840999938, 107.69322204700012], [-6.909135340999967, 107.69313049300001], [-6.909185885999875, 107.69307708800017], [-6.909305094999979, 107.69296264700017], [-6.90946340499994, 107.69281005800008], [-6.909753322999848, 107.69260406600006], [-6.909933088999878, 107.69251251200012], [-6.91008090899993, 107.69248199500004], [-6.910190580999938, 107.69236755400004], [-6.910430431999828, 107.69217681800006], [-6.910825252999871, 107.69195556600005], [-6.910836218999918, 107.69187927200016], [-6.910913944999947, 107.69180297800006], [-6.910988330999885, 107.69170379600001], [-6.911160945999939, 107.69157409700006], [-6.911261080999964, 107.69149780400005], [-6.911379813999929, 107.6914138800002], [-6.911522387999923, 107.69132995600017], [-6.911706446999972, 107.69122314400005], [-6.911816119999969, 107.69125366200007], [-6.912027834999947, 107.69135284400011], [-6.912328720999938, 107.69153595000017], [-6.912221430999978, 107.69130706700014], [-6.912123203999897, 107.69117736900006], [-6.912069320999876, 107.6911163330002], [-6.911990642999967, 107.69103241000005], [-6.911931037999977, 107.6909790040001], [-6.911736965999921, 107.69080352900005], [-6.911510944999975, 107.69060516400009], [-6.911425590999897, 107.69052886900005], [-6.911363125999969, 107.6904754640002], [-6.911263942999938, 107.69039917000009], [-6.911193847999925, 107.69033050600007], [-6.911102293999818, 107.69023895200013], [-6.910999298999911, 107.69015502900004], [-6.910923479999951, 107.69009399300012], [-6.910777567999958, 107.68997192500018], [-6.91061687399997, 107.68985748200004], [-6.910250663999875, 107.68962097100007], [-6.910128592999968, 107.68954467700019], [-6.910064219999981, 107.68949890000005], [-6.909949301999973, 107.68942260700004], [-6.909862517999898, 107.68936157100012], [-6.909290790999933, 107.68898773100011], [-6.909189223999874, 107.68891906800019], [-6.909041404999925, 107.68881988600015], [-6.908869265999954, 107.68869781500007], [-6.908706188999872, 107.68856811400008], [-6.908496856999875, 107.68840789900008], [-6.90835761999989, 107.68831634500015], [-6.908161640999936, 107.68811035200008], [-6.907960413999888, 107.68785095300018], [-6.907881736999968, 107.6877288820001], [-6.907828329999973, 107.68765258800005], [-6.907701491999887, 107.68738555900006], [-6.907628535999891, 107.68719482500006], [-6.907531260999917, 107.68693542500012], [-6.907469748999972, 107.68678283800017], [-6.907375335999973, 107.68655395500014], [-6.907311438999955, 107.68639373700006], [-6.907240867999974, 107.68621826100008], [-6.907150745999957, 107.686164856], [-6.906857013999911, 107.686088563], [-6.906695841999976, 107.68605041600017], [-6.90650176999992, 107.68601226900012], [-6.906405925999877, 107.68598938100018], [-6.906329154999924, 107.68597412000008], [-6.906254768999929, 107.686088563], [-6.906145095999818, 107.68618774500004], [-6.906063079999967, 107.68625640800013], [-6.905987261999883, 107.68630981300004], [-6.905908107999949, 107.68636322100019], [-6.90581750799987, 107.68637847900004], [-6.905700682999907, 107.68634033200016], [-6.905521869999916, 107.68637084900013], [-6.905313967999973, 107.68640899600018], [-6.905154704999916, 107.68650055000012], [-6.905049799999972, 107.6865615850001], [-6.904957292999939, 107.6865997320001], [-6.904863356999897, 107.6866226200001], [-6.904671191999967, 107.68672180200008], [-6.904528140999957, 107.68682098400012], [-6.904410361999965, 107.68691253600008], [-6.904332636999868, 107.68703460700016], [-6.904277800999921, 107.6871337890002], [-6.904129026999897, 107.68724823000014], [-6.903946398999949, 107.68728637700019], [-6.903729437999971, 107.68726348800016], [-6.903624057999934, 107.68725586000005], [-6.903463840999905, 107.68737030000011], [-6.903297900999974, 107.6874847410001], [-6.903190134999932, 107.68750762900004], [-6.903077124999925, 107.68746948300009], [-6.902935027999945, 107.6874313360002], [-6.902846336999971, 107.68741607700008], [-6.902733325999975, 107.68731689500004], [-6.902462005999894, 107.68719482500006], [-6.902379989999929, 107.6871337890002], [-6.902282237999941, 107.68704223700007], [-6.902167319999933, 107.6869277950002], [-6.902102469999818, 107.68688964800015], [-6.902037143999905, 107.68683624300007], [-6.901904104999915, 107.68668365600013], [-6.901821613999914, 107.6865997320001], [-6.901679514999898, 107.68645477300015], [-6.901609420999876, 107.68639373700006], [-6.901547907999941, 107.68634796200007], [-6.901411531999941, 107.68629455500019], [-6.90128898599994, 107.68627929700017], [-6.901286125999945, 107.68648529100017], [-6.901145934999874, 107.68647003100017], [-6.901075363999894, 107.6864929190001], [-6.900965213999939, 107.68648529100017], [-6.900794505999954, 107.6864929190001], [-6.900704383999937, 107.6864929190001], [-6.900586605999877, 107.68648529100017], [-6.900508879999961, 107.68647003100017], [-6.900373457999933, 107.68647003100017], [-6.900273323999897, 107.68647766100008], [-6.900192736999884, 107.68650055000012], [-6.900083064999876, 107.6864166260001], [-6.899968146999981, 107.68633270200007], [-6.899847505999958, 107.68638610900013], [-6.899716852999973, 107.68640136700014], [-6.899642943999879, 107.68646240300006], [-6.899500369999885, 107.6864929190001], [-6.899390696999887, 107.68655395500014], [-6.899288176999903, 107.68651580800014], [-6.899053573999879, 107.68645477300015], [-6.898978232999866, 107.68645477300015], [-6.898827552999933, 107.68650055000012], [-6.898737428999937, 107.6865615850001], [-6.898624896999934, 107.68657684300013], [-6.898528574999943, 107.68656921299998], [-6.898380754999891, 107.6865615850001], [-6.898248671999966, 107.68655395500014], [-6.897969245999946, 107.68667602500011], [-6.897897242999932, 107.68666076700009], [-6.897791861999849, 107.68670654200008], [-6.897665023999934, 107.68675994900013], [-6.897541045999958, 107.68686676000004], [-6.897472381999876, 107.6869277950002], [-6.897406101999877, 107.68697357200017], [-6.897322654999925, 107.6869964600001], [-6.897188663999941, 107.68697357200017], [-6.896945474999882, 107.68687439000013], [-6.896881579999956, 107.68683624300007], [-6.896790502999863, 107.68683624300007], [-6.896712301999969, 107.68684387300016], [-6.896606444999975, 107.68684387300016], [-6.89666461999991, 107.68703460700016], [-6.896712778999927, 107.68719482500006], [-6.896767138999962, 107.68755340600018], [-6.896798132999947, 107.68768310500013], [-6.896845817999974, 107.68775939900007], [-6.896871088999944, 107.6878433230001], [-6.896905420999929, 107.68794250500014], [-6.89692592699987, 107.68807220600013], [-6.896972178999874, 107.68824768100012], [-6.896980284999927, 107.68833160300017], [-6.896994589999963, 107.68845367400007], [-6.896999834999974, 107.68864441], [-6.897003172999973, 107.68874359200004], [-6.89703369199998, 107.68888092100013], [-6.897065162999922, 107.68896484300018], [-6.897091864999936, 107.68904113800016]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var marker_9c7beda713d8323bc621e0ea2262e22d = L.marker(
+                [-6.908395000000001, 107.6885919],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_49ac779fd305a2b0617fd637741cf252 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f75d161707915edc5a3b0d69b0a203d0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_69b2481f9100203ef25106e6ba05a8a5 = $(`<div id="html_69b2481f9100203ef25106e6ba05a8a5" style="width: 100.0%; height: 100.0%;">Senior High School 24 Bandung</div>`)[0];
+                popup_f75d161707915edc5a3b0d69b0a203d0.setContent(html_69b2481f9100203ef25106e6ba05a8a5);
+            
+        
+
+        marker_9c7beda713d8323bc621e0ea2262e22d.bindPopup(popup_f75d161707915edc5a3b0d69b0a203d0)
+        ;
+
+        
+    
+    
+                marker_9c7beda713d8323bc621e0ea2262e22d.setIcon(icon_49ac779fd305a2b0617fd637741cf252);
+            
+    
+            var marker_0d705d1a9c9f9fe304130dc387597f51 = L.marker(
+                [-6.910507600000001, 107.6914338],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_0654f5a25b318dff8ea8b64d038e9b7d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e5ee7e0b363c0ff1924c6459b8f9590f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0613b501dcd99e3437630ae7e40a1f28 = $(`<div id="html_0613b501dcd99e3437630ae7e40a1f28" style="width: 100.0%; height: 100.0%;">Anggi_paytren5.17</div>`)[0];
+                popup_e5ee7e0b363c0ff1924c6459b8f9590f.setContent(html_0613b501dcd99e3437630ae7e40a1f28);
+            
+        
+
+        marker_0d705d1a9c9f9fe304130dc387597f51.bindPopup(popup_e5ee7e0b363c0ff1924c6459b8f9590f)
+        ;
+
+        
+    
+    
+                marker_0d705d1a9c9f9fe304130dc387597f51.setIcon(icon_0654f5a25b318dff8ea8b64d038e9b7d);
+            
+    
+            var marker_e89aa72152dc54305aa1a2a2df696acf = L.marker(
+                [-6.9046959, 107.6905736],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_d84a7ebd397f470c75daf828cc0c7774 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7b49b4210beb3cc9bce2c661bada3280 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3ff59c32e3ef413d9057c6ccd58164fd = $(`<div id="html_3ff59c32e3ef413d9057c6ccd58164fd" style="width: 100.0%; height: 100.0%;">TK Mutiara</div>`)[0];
+                popup_7b49b4210beb3cc9bce2c661bada3280.setContent(html_3ff59c32e3ef413d9057c6ccd58164fd);
+            
+        
+
+        marker_e89aa72152dc54305aa1a2a2df696acf.bindPopup(popup_7b49b4210beb3cc9bce2c661bada3280)
+        ;
+
+        
+    
+    
+                marker_e89aa72152dc54305aa1a2a2df696acf.setIcon(icon_d84a7ebd397f470c75daf828cc0c7774);
+            
+    
+            var marker_ccefcd9ef0b0e1f9becba0c7d7c2ef8c = L.marker(
+                [-6.9050026, 107.6906595],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_b203d17d3fa565c8ac9c5b46d0f6f12d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9b28356a73db0d2bc71c33cf3bec7c29 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_438687f1edaaade17910c881fe0719a1 = $(`<div id="html_438687f1edaaade17910c881fe0719a1" style="width: 100.0%; height: 100.0%;">biMBA AIUEO unit Pasir Endah Cijambe</div>`)[0];
+                popup_9b28356a73db0d2bc71c33cf3bec7c29.setContent(html_438687f1edaaade17910c881fe0719a1);
+            
+        
+
+        marker_ccefcd9ef0b0e1f9becba0c7d7c2ef8c.bindPopup(popup_9b28356a73db0d2bc71c33cf3bec7c29)
+        ;
+
+        
+    
+    
+                marker_ccefcd9ef0b0e1f9becba0c7d7c2ef8c.setIcon(icon_b203d17d3fa565c8ac9c5b46d0f6f12d);
+            
+    
+            var marker_c23f0e4e63fdeaeb93cb4c92eaec909c = L.marker(
+                [-6.903408999999999, 107.6909268],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_83bd8155f864d8cac1ac6ebc8e5e4e18 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e04f41e1f3c6d2d5f4f41ab51adbfaca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1d2ba9106f33f495f9d095806f85820a = $(`<div id="html_1d2ba9106f33f495f9d095806f85820a" style="width: 100.0%; height: 100.0%;">Sekolahan Mutiara</div>`)[0];
+                popup_e04f41e1f3c6d2d5f4f41ab51adbfaca.setContent(html_1d2ba9106f33f495f9d095806f85820a);
+            
+        
+
+        marker_c23f0e4e63fdeaeb93cb4c92eaec909c.bindPopup(popup_e04f41e1f3c6d2d5f4f41ab51adbfaca)
+        ;
+
+        
+    
+    
+                marker_c23f0e4e63fdeaeb93cb4c92eaec909c.setIcon(icon_83bd8155f864d8cac1ac6ebc8e5e4e18);
+            
+    
+            var marker_40f9002342bc74dedf3984b9c5743287 = L.marker(
+                [-6.9056498, 107.690522],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_63801e924863f540f663a8b1f4cf5400 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e55bcaf4c2c2f224c744416c0443603c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_99ab00a43dc763a03dae7915e91cdd4c = $(`<div id="html_99ab00a43dc763a03dae7915e91cdd4c" style="width: 100.0%; height: 100.0%;">PKBM BADAMI</div>`)[0];
+                popup_e55bcaf4c2c2f224c744416c0443603c.setContent(html_99ab00a43dc763a03dae7915e91cdd4c);
+            
+        
+
+        marker_40f9002342bc74dedf3984b9c5743287.bindPopup(popup_e55bcaf4c2c2f224c744416c0443603c)
+        ;
+
+        
+    
+    
+                marker_40f9002342bc74dedf3984b9c5743287.setIcon(icon_63801e924863f540f663a8b1f4cf5400);
+            
+    
+            var marker_8af458de64cc18a96e50f06cb2e52865 = L.marker(
+                [-6.903264, 107.6909851],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_f75383da6f8f2881f98d54a11f397c43 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6c1689bf452fa7e3923c207cf13b4ac3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b2d170dcd46cf83441f6a3be0aae5550 = $(`<div id="html_b2d170dcd46cf83441f6a3be0aae5550" style="width: 100.0%; height: 100.0%;">SLB-YRBB</div>`)[0];
+                popup_6c1689bf452fa7e3923c207cf13b4ac3.setContent(html_b2d170dcd46cf83441f6a3be0aae5550);
+            
+        
+
+        marker_8af458de64cc18a96e50f06cb2e52865.bindPopup(popup_6c1689bf452fa7e3923c207cf13b4ac3)
+        ;
+
+        
+    
+    
+                marker_8af458de64cc18a96e50f06cb2e52865.setIcon(icon_f75383da6f8f2881f98d54a11f397c43);
+            
+    
+            var marker_0c01d56a9fdb7de09326a79edf5f37c4 = L.marker(
+                [-6.9042125, 107.6883159],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_f8ea1f666dfa4232a593321005606b9c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c133d25d398c280081712f6b4cd2cb74 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2c43d525c12e14740dcf81a7c98687db = $(`<div id="html_2c43d525c12e14740dcf81a7c98687db" style="width: 100.0%; height: 100.0%;">Kurvaprivat.com Tempat Les Privat Kursus Les SD , SMP , SMA BANDUNG</div>`)[0];
+                popup_c133d25d398c280081712f6b4cd2cb74.setContent(html_2c43d525c12e14740dcf81a7c98687db);
+            
+        
+
+        marker_0c01d56a9fdb7de09326a79edf5f37c4.bindPopup(popup_c133d25d398c280081712f6b4cd2cb74)
+        ;
+
+        
+    
+    
+                marker_0c01d56a9fdb7de09326a79edf5f37c4.setIcon(icon_f8ea1f666dfa4232a593321005606b9c);
+            
+    
+            var marker_3c41a1f7dc95ca97d4ae2ba08e61deba = L.marker(
+                [-6.9061499, 107.6911063],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_a1a3bb9843324703066831b7734979aa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b4281ee6aa6d2d034f86e44b1bc8da55 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_95805305f861e290c5c59f03ad5727d7 = $(`<div id="html_95805305f861e290c5c59f03ad5727d7" style="width: 100.0%; height: 100.0%;">Cigending kp sindang singkur</div>`)[0];
+                popup_b4281ee6aa6d2d034f86e44b1bc8da55.setContent(html_95805305f861e290c5c59f03ad5727d7);
+            
+        
+
+        marker_3c41a1f7dc95ca97d4ae2ba08e61deba.bindPopup(popup_b4281ee6aa6d2d034f86e44b1bc8da55)
+        ;
+
+        
+    
+    
+                marker_3c41a1f7dc95ca97d4ae2ba08e61deba.setIcon(icon_a1a3bb9843324703066831b7734979aa);
+            
+    
+            var marker_45523f53532ec3089f916848ac3ab93d = L.marker(
+                [-6.902524800000001, 107.6912669],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_59bd6738a46aa9d61cc06d40b799badb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cb3966bd38d1ae256dc3b9b2593648fb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5c259bf4f8c10401f21ce85abef65cba = $(`<div id="html_5c259bf4f8c10401f21ce85abef65cba" style="width: 100.0%; height: 100.0%;">LPK Sakura Mandiri Indonesia</div>`)[0];
+                popup_cb3966bd38d1ae256dc3b9b2593648fb.setContent(html_5c259bf4f8c10401f21ce85abef65cba);
+            
+        
+
+        marker_45523f53532ec3089f916848ac3ab93d.bindPopup(popup_cb3966bd38d1ae256dc3b9b2593648fb)
+        ;
+
+        
+    
+    
+                marker_45523f53532ec3089f916848ac3ab93d.setIcon(icon_59bd6738a46aa9d61cc06d40b799badb);
+            
+    
+            var marker_2460616b3408322165ffdee82ca1ac8a = L.marker(
+                [-6.9065255, 107.6908028],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_1103cc579ded5c50b02b588af1ae492d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e9279bf3a6de4a3aa6cb96ffd2c79589 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a60ffce81730aee23929acf7bb743936 = $(`<div id="html_a60ffce81730aee23929acf7bb743936" style="width: 100.0%; height: 100.0%;">Gemilang Islamic School</div>`)[0];
+                popup_e9279bf3a6de4a3aa6cb96ffd2c79589.setContent(html_a60ffce81730aee23929acf7bb743936);
+            
+        
+
+        marker_2460616b3408322165ffdee82ca1ac8a.bindPopup(popup_e9279bf3a6de4a3aa6cb96ffd2c79589)
+        ;
+
+        
+    
+    
+                marker_2460616b3408322165ffdee82ca1ac8a.setIcon(icon_1103cc579ded5c50b02b588af1ae492d);
+            
+    
+            var marker_b0ada838aed288aee1d62033498d6deb = L.marker(
+                [-6.9049599, 107.6930969],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_47292b8a067927bce890bd9c9373b62a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cbd557fcbc31dc6f1f32bb7e3f96cd3c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d9de9cb4d77b1eb6f7691dbb52c8d62f = $(`<div id="html_d9de9cb4d77b1eb6f7691dbb52c8d62f" style="width: 100.0%; height: 100.0%;">rainbow kids ujung berung</div>`)[0];
+                popup_cbd557fcbc31dc6f1f32bb7e3f96cd3c.setContent(html_d9de9cb4d77b1eb6f7691dbb52c8d62f);
+            
+        
+
+        marker_b0ada838aed288aee1d62033498d6deb.bindPopup(popup_cbd557fcbc31dc6f1f32bb7e3f96cd3c)
+        ;
+
+        
+    
+    
+                marker_b0ada838aed288aee1d62033498d6deb.setIcon(icon_47292b8a067927bce890bd9c9373b62a);
+            
+    
+            var marker_27c3aed3b9e6024b35a6d22247efa3e3 = L.marker(
+                [-6.905569499999999, 107.6875336],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_1605ca62172750c6a8d00c600c1ae188 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e0260002fe712f29b277326fb2c2c805 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_af3aff21e2bad2edc2060b37f7022028 = $(`<div id="html_af3aff21e2bad2edc2060b37f7022028" style="width: 100.0%; height: 100.0%;">Majelis Pangaosan & Silaturrahim “Khomsatun wa ‘Isyruun”</div>`)[0];
+                popup_e0260002fe712f29b277326fb2c2c805.setContent(html_af3aff21e2bad2edc2060b37f7022028);
+            
+        
+
+        marker_27c3aed3b9e6024b35a6d22247efa3e3.bindPopup(popup_e0260002fe712f29b277326fb2c2c805)
+        ;
+
+        
+    
+    
+                marker_27c3aed3b9e6024b35a6d22247efa3e3.setIcon(icon_1605ca62172750c6a8d00c600c1ae188);
+            
+    
+            var marker_d72e50fb11ec5e7d9bdab87cf4976963 = L.marker(
+                [-6.9068672, 107.691955],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_11ac3c37aa6ab5397f058cfbf7b2ac2f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2c9739b9887a8e985d1e4db0d533f6b4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_39bed1efdacaf50d69407d7cd632c85d = $(`<div id="html_39bed1efdacaf50d69407d7cd632c85d" style="width: 100.0%; height: 100.0%;">Kober Bintang</div>`)[0];
+                popup_2c9739b9887a8e985d1e4db0d533f6b4.setContent(html_39bed1efdacaf50d69407d7cd632c85d);
+            
+        
+
+        marker_d72e50fb11ec5e7d9bdab87cf4976963.bindPopup(popup_2c9739b9887a8e985d1e4db0d533f6b4)
+        ;
+
+        
+    
+    
+                marker_d72e50fb11ec5e7d9bdab87cf4976963.setIcon(icon_11ac3c37aa6ab5397f058cfbf7b2ac2f);
+            
+    
+            var marker_3d04a9ca38cfab2e008ee82489009cff = L.marker(
+                [-6.9074035, 107.6884057],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_dcb31796cb103ea44f940042c62ef3d8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_94020a182c235399a292512e75f02ce6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_289288db778f10ad38676b467c118ed9 = $(`<div id="html_289288db778f10ad38676b467c118ed9" style="width: 100.0%; height: 100.0%;">SMA Karya Pembangunan 2 Kota Bandung</div>`)[0];
+                popup_94020a182c235399a292512e75f02ce6.setContent(html_289288db778f10ad38676b467c118ed9);
+            
+        
+
+        marker_3d04a9ca38cfab2e008ee82489009cff.bindPopup(popup_94020a182c235399a292512e75f02ce6)
+        ;
+
+        
+    
+    
+                marker_3d04a9ca38cfab2e008ee82489009cff.setIcon(icon_dcb31796cb103ea44f940042c62ef3d8);
+            
+    
+            var marker_4ed34325fd83878dc928abf9bbd61b1d = L.marker(
+                [-6.905616299999999, 107.6867014],
+                {
+}
+            ).addTo(map_acf354aaf0c8c5d5186b5f1aa9f9bf49);
+        
+    
+            var icon_011f5cd984ae69c45ef6c4419e64cf8e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cb9cfe7d33f7ee8710dbf9e84b847394 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_796525fbb9bd774b27a94f9550a7cfc5 = $(`<div id="html_796525fbb9bd774b27a94f9550a7cfc5" style="width: 100.0%; height: 100.0%;">PKBM Aldyka Putra</div>`)[0];
+                popup_cb9cfe7d33f7ee8710dbf9e84b847394.setContent(html_796525fbb9bd774b27a94f9550a7cfc5);
+            
+        
+
+        marker_4ed34325fd83878dc928abf9bbd61b1d.bindPopup(popup_cb9cfe7d33f7ee8710dbf9e84b847394)
+        ;
+
+        
+    
+    
+                marker_4ed34325fd83878dc928abf9bbd61b1d.setIcon(icon_011f5cd984ae69c45ef6c4419e64cf8e);
+            
+</script>
+</html>

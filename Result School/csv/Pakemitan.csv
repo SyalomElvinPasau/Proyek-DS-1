@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+SDN 172 ANDIR Andir Kidul,"Jalan AH. Nasution No.38A, Pakemitan",-6.9138932,107.6955165,OPERATIONAL,4.5,77,"primary_school, school, point_of_interest, establishment",
+TK Amalina,"Jalan Rumah Sakit No.10, Pakemitan",-6.914891299999999,107.699223,OPERATIONAL,5,4,"school, point_of_interest, establishment",
+Tk Kartika IX-21,"3MJR+8QQ, Pakemitan",-6.9189754,107.6927462,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+DTA ZENI PARA,"3MMR+4MG, Pakemitan",-6.917179600000001,107.6917102,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+SMP Ibrahim Ulul Azmi,"Jalan Cinambo No.3, Cisaranten Wetan",-6.924668800000001,107.691673,OPERATIONAL,5,5,"school, point_of_interest, establishment",
+TK Ananda,"3MGR+3J6, Pakemitan",-6.924834100000001,107.6915057,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Roudhoh,"Jalan Rumah Sakit No.69, RW.01, Pakemitan",-6.919258500000001,107.6981619,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Garasi,"3MMX+42J, Gang Haji Wahab, Pakemitan",-6.917150299999999,107.6975091,OPERATIONAL,5,2,"school, point_of_interest, establishment",
+PAUD Flamboyan,"Jalan Cinambo Indah No.127, RT.3/RW.5, Pakemitan",-6.9256869,107.6909955,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+TK KOBER NOOR ILMI,"Gang Haji Wahab No.49, Pakemitan",-6.9175835,107.6985862,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Inteligensia,"3MMW+WGJ, Jalan Btr Raya, Pakemitan",-6.915166399999999,107.6962703,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",

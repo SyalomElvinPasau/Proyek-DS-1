@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+SMA TRINITAS,"Jalan Kebon Jati No.209, Ciroyom",-6.9168854,107.5916697,OPERATIONAL,4.8,92,"point_of_interest, school, establishment",
+Maria Bintang Laut Elementary School,"Jalan Kebon Jati No.209, RW.01, Ciroyom",-6.916909499999999,107.5924966,OPERATIONAL,4.6,32,"primary_school, point_of_interest, school, establishment",
+SMPN 23 Bandung,"Jalan Arjuna No.20-22, Ciroyom",-6.9148912,107.5893447,OPERATIONAL,4.6,96,"point_of_interest, school, establishment",
+Junior High School State 32 of Bandung City,"Pasar Andir, Jalan Arjuna No.18, Ciroyom",-6.9154667,107.5908688,OPERATIONAL,4.7,50,"point_of_interest, school, establishment",
+SD Negeri 3 Karang Mulya,"3HMQ+P4C, Ciroyom",-6.9156926,107.5877766,OPERATIONAL,4,8,"primary_school, point_of_interest, school, establishment",
+SD Negeri 098 Ciroyom,"Gang Sastra Jalan Taruna No.74, RW.04, Ciroyom",-6.9156939,107.5877706,OPERATIONAL,3.9,8,"primary_school, point_of_interest, school, establishment",
+Madrasah Nuurul Anwar 1,"Gang Kebon Jukut 2 No.34/26, RT.005/RW.005, Ciroyom",-6.917180799999999,107.5875992,OPERATIONAL,5,1,"point_of_interest, school, establishment",
+SMP Negeri 41 Bandung,"Jalan Arjuna No.18, Ciroyom",-6.915358800000001,107.5900917,OPERATIONAL,4.5,112,"point_of_interest, school, establishment",
+Kelompok Bermain An-Nuriyah,"3HPR+339, JL, Ciroyom",-6.9148253,107.5902319,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+Raja Army,"Jalan Arjuna Simpang, Ciroyom",-6.9143275,107.5899189,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",

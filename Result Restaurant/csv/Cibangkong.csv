@@ -1,0 +1,14 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Starbucks,"Jalan Gatot Subroto No.289, Cibangkong",-6.9263718,107.6361815,OPERATIONAL,4.5,1390,"cafe, store, restaurant, food, point_of_interest, establishment",2
+Bakso kraton,"Jalan Warta No.46, Cibangkong",-6.924461399999999,107.6325539,OPERATIONAL,4.3,63,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Goreng Fatmawati,"Jalan Cibangkong No.97, Cibangkong",-6.924349100000001,107.6353716,OPERATIONAL,3.7,10,"meal_takeaway, restaurant, food, point_of_interest, establishment",2
+Solaria TSM Bandung,"Trans Studio Mall, Jalan Gatot Subroto No.289 Lantai 2, Cibangkong",-6.924923300000001,107.6367009,OPERATIONAL,3.4,166,"restaurant, food, point_of_interest, establishment",2
+A&W Restoran - Trans Studio Mall Bandung,"Trans Studio Mall, Jalan Gatot Subroto No.289 Lantai 2, Cibangkong",-6.9256543,107.636431,OPERATIONAL,4.3,425,"restaurant, food, point_of_interest, establishment",2
+Pepper Lunch Trans Studio Mall Bandung,"Jalan Gatot Subroto No.289, Cibangkong",-6.9251574,107.636786,OPERATIONAL,4.4,631,"restaurant, food, point_of_interest, establishment",2
+The Restaurant at The Trans Luxury Hotel Bandung,"Trans Studio Bandung, Lantai 3, Jalan Gatot Subroto No.289, Cibangkong",-6.926114899999999,107.6364517,OPERATIONAL,4.6,323,"restaurant, food, point_of_interest, establishment",Unknown
+Sushi Tei,"Jalan Gatot Subroto No.289, Cibangkong",-6.9265206,107.6360519,OPERATIONAL,4.5,3355,"restaurant, food, point_of_interest, establishment",3
+Kafe Betawi - Trans Studio Bandung,"Jalan Gatot Subroto No.289, Cibangkong",-6.925669999999999,107.636855,OPERATIONAL,3.8,190,"restaurant, food, point_of_interest, establishment",2
+HokBen - TSM,"Jalan Gatot Subroto No.289, Cibangkong",-6.926286399999999,107.6367807,OPERATIONAL,4.2,126,"restaurant, food, point_of_interest, establishment",2
+Tunggal Rasa,"3JHJ+RF6, Jalan Laswi, Cibangkong",-6.920453999999999,107.631149,OPERATIONAL,4.5,11,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Popcorn,"3JGM+CCJ, Jalan Cibangkong, Cibangkong",-6.9239286,107.6335343,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Bubur Sumsum Shinta Kitchen,"Jalan Cibangkong No.150, RT.09/RW.07, Cibangkong",-6.924032800000002,107.6337473,OPERATIONAL,4.7,9,"restaurant, food, point_of_interest, establishment",Unknown

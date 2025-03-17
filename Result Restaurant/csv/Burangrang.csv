@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Mr Buyung Martabak,"Jalan Burangrang No.42, Burangrang",-6.927374700000001,107.619194,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Rumah Lezat Simplisio,"Jalan Karapitan No.45, Burangrang",-6.926139900000001,107.6173089,OPERATIONAL,4.4,2564,"restaurant, food, point_of_interest, establishment",2
+CLD VN,"Jalan Beunteur No.1, Burangrang",-6.934073799999998,107.6189933,OPERATIONAL,4.1,30,"restaurant, store, food, point_of_interest, establishment",Unknown
+dapur HAN,"Jalan Emong No.3, Burangrang",-6.924971399999999,107.617758,OPERATIONAL,4.1,20,"restaurant, food, point_of_interest, establishment",Unknown
+Rumah Makan Khas Sunda Berkah,"Jalan Emong No.44, Burangrang",-6.924763199999999,107.6196107,CLOSED_TEMPORARILY,4.5,13,"restaurant, food, point_of_interest, establishment",Unknown
+Buku Menu Resto,"Jalan Kancra Dalam I No.33, Lengkong",-6.934955599999999,107.6180691,OPERATIONAL,4.2,605,"restaurant, food, point_of_interest, establishment",2

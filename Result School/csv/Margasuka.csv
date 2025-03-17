@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+223 Margahayu Utara Elementary School,"Jalan Cibolerang No.185, Margasuka",-6.950816199999999,107.5729916,OPERATIONAL,4.4,24,"primary_school, school, point_of_interest, establishment",
+SD Negeri Cirangrang 1,"Jalan Raya Kopo No.7, Margasuka",-6.9548089,107.5827389,OPERATIONAL,4.3,33,"primary_school, school, point_of_interest, establishment",
+Yapusa Usp Yayasan Purwiro Samodra,"Jalan Cibolerang No.98, Margahayu Utara",-6.952016999999999,107.5777387,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Madrasah NUUR AL AFIFIYAH,"Gang Melati 1 No.58, Margasuka",-6.9568688,107.5797035,OPERATIONAL,5,9,"school, point_of_interest, establishment",

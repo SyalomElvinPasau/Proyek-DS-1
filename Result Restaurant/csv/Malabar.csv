@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+DOUBLESTEAK Talagabodas,"Jalan Talaga Bodas No.22, Malabar",-6.928300500000001,107.6209362,OPERATIONAL,4.1,1138,"restaurant, food, point_of_interest, establishment",2
+Pawon Pitoe Cafe Talaga Bodas,"Jalan Talaga Bodas No.48, Malabar",-6.928724799999999,107.622406,OPERATIONAL,4.4,1550,"restaurant, cafe, store, food, point_of_interest, establishment",2
+Mie Encek,"Jalan Guntur No.24, Malabar",-6.924820299999999,107.6212556,OPERATIONAL,4.5,2018,"restaurant, food, point_of_interest, establishment",2
+Champ Group - Gokana Ramen Sukajadi,"Jalan Gugunungan Cirateun, Malabar",-6.926487199999999,107.6201021,OPERATIONAL,3.5,2,"restaurant, food, point_of_interest, establishment",2
+Cantigi Fine Dining,"Hotel Papandayan , GF , JL. Jenderal Gatot Subroto 83, Malabar 40262 , Bandung , West Jawa, Malabar",-6.923334000000001,107.623595,OPERATIONAL,4.4,8,"restaurant, food, point_of_interest, establishment",Unknown
+Drink for Danz,"Jalan Palasari No.32, Malabar",-6.9305932,107.6223497,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Bubur Ayam Pelana,"Jalan Malabar No.22B, Malabar",-6.921708099999999,107.6246365,OPERATIONAL,4.4,34,"restaurant, food, point_of_interest, establishment",Unknown

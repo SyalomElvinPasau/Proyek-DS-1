@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Seafood 66,"Jalan Sukajadi No.50, Pasteur",-6.893469800000001,107.5971937,OPERATIONAL,4.2,34,"restaurant, point_of_interest, food, establishment",Unknown
+Kawan Setia,"Jalan Jurang No.68, Pasteur",-6.886556,107.600689,OPERATIONAL,Unknown,Unknown,"restaurant, point_of_interest, food, establishment",Unknown

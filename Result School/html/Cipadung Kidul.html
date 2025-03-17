@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1837112ea1041544e32d3a72ff51bdc3 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_1837112ea1041544e32d3a72ff51bdc3" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1837112ea1041544e32d3a72ff51bdc3 = L.map(
+                "map_1837112ea1041544e32d3a72ff51bdc3",
+                {
+                    center: [-6.941014271303242, 107.71240554230354],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_0648ab980e7cd239733b0bc29e2ee15b = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_0648ab980e7cd239733b0bc29e2ee15b.addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var polygon_e35934c4ae397511291f918ab424abd7 = L.polygon(
+                [[-6.934301852999909, 107.72172546300004], [-6.934426783999925, 107.72159576400009], [-6.934648036999931, 107.72146606500007], [-6.935387611999943, 107.72120666600006], [-6.936755655999889, 107.72080993700018], [-6.936983108999868, 107.72109985300017], [-6.937383174999979, 107.720909119], [-6.937647819999938, 107.7205429070001], [-6.937927722999973, 107.72038269000006], [-6.937952041999949, 107.72024536100014], [-6.938148975999979, 107.7201080320001], [-6.938115596999978, 107.72002410800008], [-6.938217638999902, 107.71997833300009], [-6.938282966999964, 107.71990204000008], [-6.9382243149999, 107.71983337400007], [-6.93809700099996, 107.71964264000013], [-6.93817567699989, 107.71959686300016], [-6.938285349999887, 107.71952819800009], [-6.938408374999938, 107.7194137570001], [-6.938426493999941, 107.71920013400012], [-6.938488006999876, 107.71894073500005], [-6.938469408999936, 107.71872711200007], [-6.93869495399997, 107.71853637600009], [-6.938810348999937, 107.71844482400013], [-6.938886642999933, 107.71833801200017], [-6.938814161999971, 107.71825409000019], [-6.938917636999975, 107.7181243890002], [-6.939052580999885, 107.71800994900013], [-6.939105032999976, 107.7179336550002], [-6.939160345999937, 107.717849731], [-6.939238546999889, 107.71782684300007], [-6.93932437899997, 107.717849731], [-6.939386843999898, 107.71790313600007], [-6.939462661999869, 107.71791076700009], [-6.939481257999887, 107.717773438], [-6.939607143999922, 107.71771240200013], [-6.939796922999903, 107.71775054900013], [-6.93986034399984, 107.71762847800011], [-6.939920901999869, 107.71755981500019], [-6.940012455999977, 107.71744537400002], [-6.940124510999908, 107.7174301140002], [-6.940200804999961, 107.71735382000008], [-6.940758227999879, 107.71698761100009], [-6.941163061999873, 107.71675872800006], [-6.941643714999941, 107.71648407000009], [-6.942025659999956, 107.71735382000008], [-6.943235873999981, 107.716781616], [-6.943799017999936, 107.7165069580002], [-6.944080351999958, 107.7163696290001], [-6.944652080999902, 107.71620941200007], [-6.945118426999954, 107.71609497100013], [-6.945254801999965, 107.7160720830002], [-6.945772647999888, 107.71588897700013], [-6.945693016999883, 107.71560668900003], [-6.94567346599996, 107.71545410100003], [-6.945736883999871, 107.715293884], [-6.945844173999944, 107.71514129700012], [-6.946002483999905, 107.71483612000014], [-6.946004390999974, 107.71453094500004], [-6.946029184999816, 107.71441650300017], [-6.946278571999926, 107.71401977400012], [-6.946502684999928, 107.71386718700018], [-6.946549414999936, 107.71380615200019], [-6.946621894999907, 107.71370696999998], [-6.946821689999922, 107.71343231200018], [-6.947213172999966, 107.71331787100002], [-6.947343826999941, 107.713233947], [-6.947535037999955, 107.71311187700002], [-6.947806357999866, 107.71311187700002], [-6.948012350999932, 107.71308898800004], [-6.948218822999877, 107.7130126950002], [-6.948291300999927, 107.71306610200008], [-6.948412416999929, 107.71331787100002], [-6.948552607999943, 107.71340179500004], [-6.948662280999883, 107.71340942300014], [-6.949136255999917, 107.71348571700008], [-6.949326514999939, 107.71350097700008], [-6.949274539999919, 107.71335601800007], [-6.949228286999926, 107.71322631900011], [-6.949189185999955, 107.71311187700002], [-6.949070452999933, 107.71279144400006], [-6.948858737999899, 107.71219635100016], [-6.948769090999917, 107.71194458000019], [-6.948633669999936, 107.71156311100015], [-6.948378084999831, 107.71084594800004], [-6.9483027469999, 107.71063232500006], [-6.948203563999868, 107.71035766500006], [-6.948061465999899, 107.70996093700012], [-6.948007105999977, 107.70980834900007], [-6.947875021999948, 107.70944976800018], [-6.947736739999868, 107.70906066900005], [-6.947585105999963, 107.7086334220001], [-6.947444915999881, 107.70823669300006], [-6.947345256999881, 107.7079620350001], [-6.947253702999944, 107.70770263600002], [-6.947223663999978, 107.70761871400003], [-6.94713354199996, 107.70736694300007], [-6.947003363999954, 107.70700073300014], [-6.946800708999945, 107.70643615700016], [-6.946698663999939, 107.70614624000007], [-6.946594713999957, 107.70585632400002], [-6.946477413999958, 107.70587921000015], [-6.946061611999937, 107.70597076400009], [-6.94541692699994, 107.7061004630001], [-6.94346380199994, 107.7065353390002], [-6.942905425999925, 107.70670318600014], [-6.942808626999977, 107.70673370300005], [-6.941944598999896, 107.70700073300014], [-6.94176006299989, 107.7069015510001], [-6.941624163999961, 107.70672607500012], [-6.941464423999946, 107.70652008000008], [-6.940130710999938, 107.70658111600017], [-6.939448356999947, 107.70661926200012], [-6.938005923999981, 107.70670318600014], [-6.937779425999963, 107.70668792800012], [-6.937578676999976, 107.70668792800012], [-6.93736505399994, 107.70668792800012], [-6.937146186999883, 107.70668792800012], [-6.936503886999958, 107.70668792800012], [-6.936365604999935, 107.70668792800012], [-6.936235903999886, 107.706695556], [-6.93599653299998, 107.706695556], [-6.935956000999909, 107.70742797800006], [-6.935848712999928, 107.70873260399998], [-6.935820101999923, 107.70909881600011], [-6.935794830999896, 107.70942687900015], [-6.93570995399989, 107.7105178830002], [-6.935694217999924, 107.71084594800004], [-6.935689925999895, 107.71092987000009], [-6.935679912999888, 107.71109008700012], [-6.935652731999937, 107.71147918700012], [-6.93562602999998, 107.71192169100016], [-6.935569762999933, 107.71247863700006], [-6.935559749999811, 107.7126464850001], [-6.935543536999887, 107.71291351300016], [-6.935511589999976, 107.71325683600003], [-6.935453891999941, 107.71398162800017], [-6.935434818999966, 107.71424865700016], [-6.935423850999939, 107.71444702200012], [-6.935417652999945, 107.71466064400005], [-6.935395716999892, 107.71493530200019], [-6.935375690999933, 107.715148925], [-6.935340881999821, 107.71607971100013], [-6.935326575999966, 107.71640777600015], [-6.935322760999895, 107.7166290290001], [-6.935307024999929, 107.71682739300013], [-6.935303687999919, 107.71697235000016], [-6.935290811999948, 107.71708679300014], [-6.935289859999955, 107.71720886100007], [-6.935274123999875, 107.71744537400002], [-6.935265540999978, 107.71765899700006], [-6.935265540999978, 107.71784210300007], [-6.93520164499995, 107.71846771300017], [-6.935165405999953, 107.71867370700016], [-6.935078619999956, 107.71897125100008], [-6.934934137999903, 107.719070434], [-6.93490028399998, 107.71923065100003], [-6.934870241999931, 107.719345094], [-6.934850215999973, 107.71943664600013], [-6.934828757999981, 107.71952056900005], [-6.934806823999963, 107.71963501000005], [-6.934770582999874, 107.71981811600006], [-6.934741495999958, 107.71996307300009], [-6.93470954999998, 107.72012329000012], [-6.93466091199997, 107.72039031999998], [-6.934634685999981, 107.7205429070001], [-6.934602736999921, 107.72071838300002], [-6.934579848999931, 107.72084808400001], [-6.934565542999962, 107.72092437800012], [-6.934428691999926, 107.7213439950001], [-6.934353827999928, 107.72151184000006], [-6.934305667999979, 107.72159576400009], [-6.934301852999909, 107.72172546300004]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var marker_33fb930d65fa80b0aae63a8b17b9cebc = L.marker(
+                [-6.9396935, 107.7119522],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_191f8b30ad0c603c47ebbde2428da841 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_86de4ed51c7ea027aeec122dcf13190f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5d923f8175a45ed2affe3ea145b28a15 = $(`<div id="html_5d923f8175a45ed2affe3ea145b28a15" style="width: 100.0%; height: 100.0%;">SD Juara Bandung</div>`)[0];
+                popup_86de4ed51c7ea027aeec122dcf13190f.setContent(html_5d923f8175a45ed2affe3ea145b28a15);
+            
+        
+
+        marker_33fb930d65fa80b0aae63a8b17b9cebc.bindPopup(popup_86de4ed51c7ea027aeec122dcf13190f)
+        ;
+
+        
+    
+    
+                marker_33fb930d65fa80b0aae63a8b17b9cebc.setIcon(icon_191f8b30ad0c603c47ebbde2428da841);
+            
+    
+            var marker_940ce34e13f231094f9be2d9af596322 = L.marker(
+                [-6.9404346, 107.7112696],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_a100888c21841d7c41deaba7111079a2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_031f3fbe36217ba609125520ad4bbf71 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6c6221f2faf163ac98280ba66df3f11b = $(`<div id="html_6c6221f2faf163ac98280ba66df3f11b" style="width: 100.0%; height: 100.0%;">Al Biruni Cerdas Mulia</div>`)[0];
+                popup_031f3fbe36217ba609125520ad4bbf71.setContent(html_6c6221f2faf163ac98280ba66df3f11b);
+            
+        
+
+        marker_940ce34e13f231094f9be2d9af596322.bindPopup(popup_031f3fbe36217ba609125520ad4bbf71)
+        ;
+
+        
+    
+    
+                marker_940ce34e13f231094f9be2d9af596322.setIcon(icon_a100888c21841d7c41deaba7111079a2);
+            
+    
+            var marker_6dcbdb4708db3fc942859a5a2fcf276b = L.marker(
+                [-6.943547799999999, 107.7163696],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_4ab8f91aa017ca5b53b4a9f6fedd9239 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_255dfccb213db13c768f9e364827bc27 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dd1df547df14b001fc29e827ed2d221f = $(`<div id="html_dd1df547df14b001fc29e827ed2d221f" style="width: 100.0%; height: 100.0%;">Bolabot ( Sekolah Robot )</div>`)[0];
+                popup_255dfccb213db13c768f9e364827bc27.setContent(html_dd1df547df14b001fc29e827ed2d221f);
+            
+        
+
+        marker_6dcbdb4708db3fc942859a5a2fcf276b.bindPopup(popup_255dfccb213db13c768f9e364827bc27)
+        ;
+
+        
+    
+    
+                marker_6dcbdb4708db3fc942859a5a2fcf276b.setIcon(icon_4ab8f91aa017ca5b53b4a9f6fedd9239);
+            
+    
+            var marker_4876725082e3145ccac3ad937803b3b4 = L.marker(
+                [-6.946024, 107.7063466],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_df02151fac254d3d84a64418b81c8c49 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f02a826676d241cc13acd54f8344a98a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_20943234579248279c614a2ee99074b1 = $(`<div id="html_20943234579248279c614a2ee99074b1" style="width: 100.0%; height: 100.0%;">Kuttab Al Fatih Gedebage</div>`)[0];
+                popup_f02a826676d241cc13acd54f8344a98a.setContent(html_20943234579248279c614a2ee99074b1);
+            
+        
+
+        marker_4876725082e3145ccac3ad937803b3b4.bindPopup(popup_f02a826676d241cc13acd54f8344a98a)
+        ;
+
+        
+    
+    
+                marker_4876725082e3145ccac3ad937803b3b4.setIcon(icon_df02151fac254d3d84a64418b81c8c49);
+            
+    
+            var marker_de27f0d1f2c25fb808085c1f85361b7d = L.marker(
+                [-6.9406035, 107.7124349],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_09f8779d6b4203d586ef7b91b5e658d6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e27debb10d672a63663020c2c6fa4e61 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_391fa0861e84b454ebbb2e91660bff10 = $(`<div id="html_391fa0861e84b454ebbb2e91660bff10" style="width: 100.0%; height: 100.0%;">KUMON BUMI PANYILEUKAN</div>`)[0];
+                popup_e27debb10d672a63663020c2c6fa4e61.setContent(html_391fa0861e84b454ebbb2e91660bff10);
+            
+        
+
+        marker_de27f0d1f2c25fb808085c1f85361b7d.bindPopup(popup_e27debb10d672a63663020c2c6fa4e61)
+        ;
+
+        
+    
+    
+                marker_de27f0d1f2c25fb808085c1f85361b7d.setIcon(icon_09f8779d6b4203d586ef7b91b5e658d6);
+            
+    
+            var marker_b95d8a5794cd6c372968c4ed5162de0b = L.marker(
+                [-6.9420494, 107.7123794],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_01ab8eafbc4bf3b980f73683b3f1e947 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3f9d75ee0fb27582f1f927cdfbe0dae4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_697a60aa0e4a1e4dae3dc2663841b9a3 = $(`<div id="html_697a60aa0e4a1e4dae3dc2663841b9a3" style="width: 100.0%; height: 100.0%;">SMP IT AR-RIFQI</div>`)[0];
+                popup_3f9d75ee0fb27582f1f927cdfbe0dae4.setContent(html_697a60aa0e4a1e4dae3dc2663841b9a3);
+            
+        
+
+        marker_b95d8a5794cd6c372968c4ed5162de0b.bindPopup(popup_3f9d75ee0fb27582f1f927cdfbe0dae4)
+        ;
+
+        
+    
+    
+                marker_b95d8a5794cd6c372968c4ed5162de0b.setIcon(icon_01ab8eafbc4bf3b980f73683b3f1e947);
+            
+    
+            var marker_ed2164ef4fec75a10bfd2d8ea14f94af = L.marker(
+                [-6.9421607, 107.7117711],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_925cba762a7e290d88eb632d75f5798f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4f6efc130609b9f08303d33dfc2dc90f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1268a34a314c40dbf826cee0f554dfc5 = $(`<div id="html_1268a34a314c40dbf826cee0f554dfc5" style="width: 100.0%; height: 100.0%;">RA Persis Daarussalaam</div>`)[0];
+                popup_4f6efc130609b9f08303d33dfc2dc90f.setContent(html_1268a34a314c40dbf826cee0f554dfc5);
+            
+        
+
+        marker_ed2164ef4fec75a10bfd2d8ea14f94af.bindPopup(popup_4f6efc130609b9f08303d33dfc2dc90f)
+        ;
+
+        
+    
+    
+                marker_ed2164ef4fec75a10bfd2d8ea14f94af.setIcon(icon_925cba762a7e290d88eb632d75f5798f);
+            
+    
+            var marker_4e2d33135727200829cefb1cda227513 = L.marker(
+                [-6.9398359, 107.7135619],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_c6edcb8021690ccf02108dbe558c1b82 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9bea8912eeed867ac1e4fd3663e09603 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1455f6194482e393e3e8bd049dd313a7 = $(`<div id="html_1455f6194482e393e3e8bd049dd313a7" style="width: 100.0%; height: 100.0%;">RA/BA/TA Al Muhajir</div>`)[0];
+                popup_9bea8912eeed867ac1e4fd3663e09603.setContent(html_1455f6194482e393e3e8bd049dd313a7);
+            
+        
+
+        marker_4e2d33135727200829cefb1cda227513.bindPopup(popup_9bea8912eeed867ac1e4fd3663e09603)
+        ;
+
+        
+    
+    
+                marker_4e2d33135727200829cefb1cda227513.setIcon(icon_c6edcb8021690ccf02108dbe558c1b82);
+            
+    
+            var marker_e02ad8ea0a1a9fbcff287ca5af3cb772 = L.marker(
+                [-6.939823700000001, 107.7137211],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_f4f86a8288cf98a061d236bb998942ab = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c6d4838cca4ae5cb420a8bde64f9499f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_72547a4cbc44885c794205b98dc897cc = $(`<div id="html_72547a4cbc44885c794205b98dc897cc" style="width: 100.0%; height: 100.0%;">TPQ Al-Muhajir</div>`)[0];
+                popup_c6d4838cca4ae5cb420a8bde64f9499f.setContent(html_72547a4cbc44885c794205b98dc897cc);
+            
+        
+
+        marker_e02ad8ea0a1a9fbcff287ca5af3cb772.bindPopup(popup_c6d4838cca4ae5cb420a8bde64f9499f)
+        ;
+
+        
+    
+    
+                marker_e02ad8ea0a1a9fbcff287ca5af3cb772.setIcon(icon_f4f86a8288cf98a061d236bb998942ab);
+            
+    
+            var marker_a6fce740f5d3c1c5f80192956ca0cd5d = L.marker(
+                [-6.942375199999999, 107.7141145],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_280166df4c6d198e7d1ea0624278762f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6bc425c5c10347cd199bd5e02bbc2fe0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d3dafaed108c6a10b6888dba485faf2c = $(`<div id="html_d3dafaed108c6a10b6888dba485faf2c" style="width: 100.0%; height: 100.0%;">TK AISYIYAH 1 RANCAEKEK</div>`)[0];
+                popup_6bc425c5c10347cd199bd5e02bbc2fe0.setContent(html_d3dafaed108c6a10b6888dba485faf2c);
+            
+        
+
+        marker_a6fce740f5d3c1c5f80192956ca0cd5d.bindPopup(popup_6bc425c5c10347cd199bd5e02bbc2fe0)
+        ;
+
+        
+    
+    
+                marker_a6fce740f5d3c1c5f80192956ca0cd5d.setIcon(icon_280166df4c6d198e7d1ea0624278762f);
+            
+    
+            var marker_6957ffe2f0b7aa8d0d6562c3ddd1c60b = L.marker(
+                [-6.943113899999999, 107.7132034],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_93787f7607d60166240b7d6d47d6c34e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fcc1f20140e732e71150b66ae6b69170 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_62c6d3ab818138d96a5256e905461e5f = $(`<div id="html_62c6d3ab818138d96a5256e905461e5f" style="width: 100.0%; height: 100.0%;">Komplek Panyileukan Regency Blok D2</div>`)[0];
+                popup_fcc1f20140e732e71150b66ae6b69170.setContent(html_62c6d3ab818138d96a5256e905461e5f);
+            
+        
+
+        marker_6957ffe2f0b7aa8d0d6562c3ddd1c60b.bindPopup(popup_fcc1f20140e732e71150b66ae6b69170)
+        ;
+
+        
+    
+    
+                marker_6957ffe2f0b7aa8d0d6562c3ddd1c60b.setIcon(icon_93787f7607d60166240b7d6d47d6c34e);
+            
+    
+            var marker_bec4e6a0f595152939cfd3275ed36987 = L.marker(
+                [-6.940466, 107.714756],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_b72f3f3fdc7f6dafe4e0b9c5c3fb2699 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8b4cd4515147596320702a7f51684a8d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b2b956660f93c95e83df0e9db353f7c1 = $(`<div id="html_b2b956660f93c95e83df0e9db353f7c1" style="width: 100.0%; height: 100.0%;">Rumah Musik Desan (Les Musik RMD)</div>`)[0];
+                popup_8b4cd4515147596320702a7f51684a8d.setContent(html_b2b956660f93c95e83df0e9db353f7c1);
+            
+        
+
+        marker_bec4e6a0f595152939cfd3275ed36987.bindPopup(popup_8b4cd4515147596320702a7f51684a8d)
+        ;
+
+        
+    
+    
+                marker_bec4e6a0f595152939cfd3275ed36987.setIcon(icon_b72f3f3fdc7f6dafe4e0b9c5c3fb2699);
+            
+    
+            var marker_edf5385d612fee2beeb60151310e4234 = L.marker(
+                [-6.938212300000001, 107.7123882],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_0e5ed313814d2603b3093670a4ebbf83 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_473537762c7b5be81af2b6de6502a726 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4774391c70ac2f3d0f46ea3e3a3fc884 = $(`<div id="html_4774391c70ac2f3d0f46ea3e3a3fc884" style="width: 100.0%; height: 100.0%;">TK Al Biruni</div>`)[0];
+                popup_473537762c7b5be81af2b6de6502a726.setContent(html_4774391c70ac2f3d0f46ea3e3a3fc884);
+            
+        
+
+        marker_edf5385d612fee2beeb60151310e4234.bindPopup(popup_473537762c7b5be81af2b6de6502a726)
+        ;
+
+        
+    
+    
+                marker_edf5385d612fee2beeb60151310e4234.setIcon(icon_0e5ed313814d2603b3093670a4ebbf83);
+            
+    
+            var marker_81e3f013164544b661682b33bcaa6589 = L.marker(
+                [-6.938004899999999, 107.7131303],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_24dbbff0c8f698ae26b70029df5e2b49 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d502104922a376c05709ebe585d09cfb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d02cb8222313d700dd57512ae960a528 = $(`<div id="html_d02cb8222313d700dd57512ae960a528" style="width: 100.0%; height: 100.0%;">SD Science Al-Biruni</div>`)[0];
+                popup_d502104922a376c05709ebe585d09cfb.setContent(html_d02cb8222313d700dd57512ae960a528);
+            
+        
+
+        marker_81e3f013164544b661682b33bcaa6589.bindPopup(popup_d502104922a376c05709ebe585d09cfb)
+        ;
+
+        
+    
+    
+                marker_81e3f013164544b661682b33bcaa6589.setIcon(icon_24dbbff0c8f698ae26b70029df5e2b49);
+            
+    
+            var marker_0720b9cff0f223d2c7885a2ddbd3d8ef = L.marker(
+                [-6.938402600000001, 107.7105916],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_eb05dff04eac1d071e46a1ffac62ba35 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5ab45bd2f6bec9558b00dbabc3c66665 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3db877d2cc4e3f2e334ff3749f2d6770 = $(`<div id="html_3db877d2cc4e3f2e334ff3749f2d6770" style="width: 100.0%; height: 100.0%;">SMP Juara Bandung</div>`)[0];
+                popup_5ab45bd2f6bec9558b00dbabc3c66665.setContent(html_3db877d2cc4e3f2e334ff3749f2d6770);
+            
+        
+
+        marker_0720b9cff0f223d2c7885a2ddbd3d8ef.bindPopup(popup_5ab45bd2f6bec9558b00dbabc3c66665)
+        ;
+
+        
+    
+    
+                marker_0720b9cff0f223d2c7885a2ddbd3d8ef.setIcon(icon_eb05dff04eac1d071e46a1ffac62ba35);
+            
+    
+            var marker_4cf5ba6d0133e9d40cf305eaadccd77d = L.marker(
+                [-6.9393224, 107.7095143],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_5b7a119a2c85a449c59054679f97f6b5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_30232e71f9a5e08471f217b34889446a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_20cc278a9adbbd9fc151ca846b98de27 = $(`<div id="html_20cc278a9adbbd9fc151ca846b98de27" style="width: 100.0%; height: 100.0%;">LPK PRAMIDIA</div>`)[0];
+                popup_30232e71f9a5e08471f217b34889446a.setContent(html_20cc278a9adbbd9fc151ca846b98de27);
+            
+        
+
+        marker_4cf5ba6d0133e9d40cf305eaadccd77d.bindPopup(popup_30232e71f9a5e08471f217b34889446a)
+        ;
+
+        
+    
+    
+                marker_4cf5ba6d0133e9d40cf305eaadccd77d.setIcon(icon_5b7a119a2c85a449c59054679f97f6b5);
+            
+    
+            var marker_00d311c15b427ada97a0828f89f459a8 = L.marker(
+                [-6.9398656, 107.715616],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_8bd20860209edf12f5f2ebdc64e21223 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_610ecba82da344d2dd57f2df7d2773da = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ef06fa3155cf3d8f4575fb2860660df4 = $(`<div id="html_ef06fa3155cf3d8f4575fb2860660df4" style="width: 100.0%; height: 100.0%;">TK Dwi Lestari</div>`)[0];
+                popup_610ecba82da344d2dd57f2df7d2773da.setContent(html_ef06fa3155cf3d8f4575fb2860660df4);
+            
+        
+
+        marker_00d311c15b427ada97a0828f89f459a8.bindPopup(popup_610ecba82da344d2dd57f2df7d2773da)
+        ;
+
+        
+    
+    
+                marker_00d311c15b427ada97a0828f89f459a8.setIcon(icon_8bd20860209edf12f5f2ebdc64e21223);
+            
+    
+            var marker_f6695d154a5de85ad529d429aa7b11dd = L.marker(
+                [-6.9443848, 107.714084],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_ba88ab32986271487cf3bd469d421168 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e9aeb66b6dc1ceccaeb002b622ddd428 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e0a338914079ab44cc07d577313dfc1f = $(`<div id="html_e0a338914079ab44cc07d577313dfc1f" style="width: 100.0%; height: 100.0%;">Bimba Rainbow Kids Panyileukan - Bandung</div>`)[0];
+                popup_e9aeb66b6dc1ceccaeb002b622ddd428.setContent(html_e0a338914079ab44cc07d577313dfc1f);
+            
+        
+
+        marker_f6695d154a5de85ad529d429aa7b11dd.bindPopup(popup_e9aeb66b6dc1ceccaeb002b622ddd428)
+        ;
+
+        
+    
+    
+                marker_f6695d154a5de85ad529d429aa7b11dd.setIcon(icon_ba88ab32986271487cf3bd469d421168);
+            
+    
+            var marker_8d2f803259a31c55dbc8fa804fa6d64f = L.marker(
+                [-6.944242699999999, 107.7144063],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_e899fae865940828cd5e8e2101c48aea = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c4fec8936760df806b2418c6dc0b27dc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5c78f325e8c7253bddf8877e4dbdf910 = $(`<div id="html_5c78f325e8c7253bddf8877e4dbdf910" style="width: 100.0%; height: 100.0%;">Bimbel BRAINY</div>`)[0];
+                popup_c4fec8936760df806b2418c6dc0b27dc.setContent(html_5c78f325e8c7253bddf8877e4dbdf910);
+            
+        
+
+        marker_8d2f803259a31c55dbc8fa804fa6d64f.bindPopup(popup_c4fec8936760df806b2418c6dc0b27dc)
+        ;
+
+        
+    
+    
+                marker_8d2f803259a31c55dbc8fa804fa6d64f.setIcon(icon_e899fae865940828cd5e8e2101c48aea);
+            
+    
+            var marker_1109d1a3090c7c840884bc53e64c19d0 = L.marker(
+                [-6.941948600000001, 107.7085312],
+                {
+}
+            ).addTo(map_1837112ea1041544e32d3a72ff51bdc3);
+        
+    
+            var icon_16474882336757efa7648cb5d21f040f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b446f889e55130da7f4b5390e84a72c8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ca603fa70a8af2f0e89817d0aa3f4eb0 = $(`<div id="html_ca603fa70a8af2f0e89817d0aa3f4eb0" style="width: 100.0%; height: 100.0%;">Rumah Seduh I 55</div>`)[0];
+                popup_b446f889e55130da7f4b5390e84a72c8.setContent(html_ca603fa70a8af2f0e89817d0aa3f4eb0);
+            
+        
+
+        marker_1109d1a3090c7c840884bc53e64c19d0.bindPopup(popup_b446f889e55130da7f4b5390e84a72c8)
+        ;
+
+        
+    
+    
+                marker_1109d1a3090c7c840884bc53e64c19d0.setIcon(icon_16474882336757efa7648cb5d21f040f);
+            
+</script>
+</html>

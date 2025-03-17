@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+TK Bina Mandiri,"Jalan Budi No.70, Sukaraja",-6.8891206,107.5602586,OPERATIONAL,5,4,"point_of_interest, school, establishment",
+SMK Negeri 11 Bandung,"Jalan Raya Cilember RT.01/RW.04, Sukaraja",-6.8905271,107.5583301,OPERATIONAL,4.6,265,"secondary_school, point_of_interest, school, establishment",
+SMP Hikmah Teladan,"Jalan Raya Cilember No.286, Sukaraja",-6.8895983,107.557969,OPERATIONAL,5,43,"point_of_interest, school, establishment",
+Elementary School Pasirkaliki 7,"Jalan Babakan Cianjur No.81, Sukaraja",-6.8931413,107.5645627,OPERATIONAL,4.8,19,"primary_school, point_of_interest, school, establishment",
+main riang daycare,"Gateway Pasteur Residence, Jl. Crystal 1 No.5",-6.8908967,107.5645906,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+Indonesian learning Quran,Sukaraja,-6.889686099999999,107.5661201,OPERATIONAL,5,30,"point_of_interest, school, establishment",
+TK Islam Al Ikhlas,"Jalan Mega Mekar No.13, Sukaraja",-6.8942882,107.5680107,OPERATIONAL,3,1,"point_of_interest, school, establishment",
+TAAM AL ADZKAR,Sukaraja,-6.8924599,107.5630093,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",
+SMP PGRI 4 Kota Bandung,"Jalan Gunung Batu No.30, Sukaraja",-6.891273,107.5630116,OPERATIONAL,4.8,6,"point_of_interest, school, establishment",
+TK Islam Husnul Khotimah,"JL Gunung Batu Gang Pada Asin, No. 42, Sukaraja, Cicendo, Sukaraja",-6.8913056,107.562925,OPERATIONAL,Unknown,Unknown,"point_of_interest, school, establishment",

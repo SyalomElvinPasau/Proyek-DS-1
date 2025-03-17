@@ -1,0 +1,15 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Ayam Goreng Fatmawati,"Jalan Pasir Kaliki No.121-123, Pamoyanan",-6.9057467,107.5969304,OPERATIONAL,5,1,"meal_takeaway, restaurant, point_of_interest, food, establishment",2
+Pepes Ny.Vonny,"Jalan Sadewa No.38, Pamoyanan",-6.905048900000001,107.5918479,OPERATIONAL,4.6,315,"restaurant, point_of_interest, food, establishment",2
+Triple Seven Bed & Breakfast,"Jalan Pesantren Wetan No.20, Pamoyanan",-6.904742300000001,107.5924234,OPERATIONAL,4.4,860,"lodging, restaurant, point_of_interest, food, establishment",Unknown
+Seblak depan Kampus 2 Stikep PPNI,"3HXV+XQ8, Pamoyanan",-6.9000778,107.594452,OPERATIONAL,4.5,24,"restaurant, point_of_interest, food, establishment",1
+Herb And Spice,"Jalan Pasir Kaliki No.163, Pamoyanan",-6.902906899999999,107.5972739,OPERATIONAL,4.5,498,"cafe, restaurant, point_of_interest, food, establishment",2
+Bubur Ayam Om Djym,"Jalan Sangkuning, Pamoyanan",-6.905248500000002,107.596565,OPERATIONAL,4.9,40,"restaurant, point_of_interest, food, establishment",1
+Gokana,"Jalan Pasir Kaliki No.121-123, Pamoyanan",-6.9056285,107.5964698,CLOSED_TEMPORARILY,4.3,270,"restaurant, point_of_interest, food, establishment",2
+Bebek Kaleyo Bandung,"Komplek Bali Heaven, Jalan Pasir Kaliki No.185-189, Pamoyanan",-6.900842799999999,107.5970644,OPERATIONAL,4.6,11601,"restaurant, point_of_interest, food, establishment",2
+Kabobs Premium Kebab - Istana Plaza Lt. LG,"Jalan Pasir Kaliki No.121-123, Pamoyanan",-6.9057605,107.5966436,OPERATIONAL,4.3,319,"restaurant, point_of_interest, food, establishment",2
+Tong Tji,"Jalan Pasir Kaliki No.121-123, Pamoyanan",-6.9058293,107.5966628,CLOSED_TEMPORARILY,3.7,6,"restaurant, point_of_interest, food, establishment",2
+Raja Baso Tahu Saboga,"Istana Plaza Food Court, Jalan Pasir Kaliki Blok FC1 No.121-123 Lt. TF, Pamoyanan",-6.905702700000001,107.5968826,CLOSED_TEMPORARILY,4.2,28,"restaurant, point_of_interest, food, establishment",Unknown
+Oz+ Bandung,"Jalan Pasir Kaliki, Pamoyanan",-6.905478,107.597182,OPERATIONAL,Unknown,Unknown,"bar, restaurant, point_of_interest, food, establishment",Unknown
+Domino's Pizza,"Jalan Pasir Kaliki No.121 123, Pasir Kaliki",-6.905304699999999,107.5974087,OPERATIONAL,4.4,1277,"meal_delivery, meal_takeaway, restaurant, point_of_interest, food, establishment",2
+Eastern,"Istana Plaza Lantai GF Blok B5-B6, Jalan Pasir Kaliki No.121-123, Pamoyanan",-6.905773000000001,107.5971898,OPERATIONAL,4.6,2625,"restaurant, point_of_interest, food, establishment",2

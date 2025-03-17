@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+De'Chick Kawaluyaan,"Jalan Kawaluyaan Indah Raya No.1, Food Court Yomart, Jatisari, Buah Batu, Jatisari",-6.9344148,107.6613014,OPERATIONAL,4,2,"restaurant, food, point_of_interest, establishment",Unknown
+Nasi Kebuli kawali,"Jalan Kawaluyaan Indah IV No.22, Jatisari",-6.9361462,107.6623662,CLOSED_TEMPORARILY,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Ruma Hasian,"Regency, Jalan Kawaluyaan No.C 1",-6.9368469,107.6618705,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Rumah Makan Nan Dinanti,"Jalan Kawaluyaan Indah I No.8B, Jatisari",-6.9352641,107.6623626,OPERATIONAL,5,3,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Ani,"kode pos 40286, jalan kawaluyaan indah VI gerbang keluar komplek, Jalan Kawaluyaan Jalan Kawaluyaan Indah Raya No.VI, RT.6/RW.6",-6.936652399999999,107.6607986,OPERATIONAL,5,10,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Cemilan Bandung,"Jalan Kawaluyaan Indah Raya No.3, Jatisari",-6.9347578,107.6622535,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown

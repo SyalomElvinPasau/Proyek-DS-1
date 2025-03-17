@@ -1,0 +1,15 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Jack Runner Roastery,"Jalan Panaitan No.34, Kebon Pisang",-6.9176532,107.6173011,OPERATIONAL,4.6,569,"cafe, store, bar, restaurant, food, point_of_interest, establishment",2
+Sambel Hejo Natuna - Bandung,"Jalan Natuna No.29, Kebon Pisang",-6.916609899999999,107.6162121,OPERATIONAL,4.4,5448,"restaurant, food, point_of_interest, establishment",2
+Dapur Iga,"Jalan Braga No.15, Braga",-6.9197498,107.6141069,OPERATIONAL,4.2,72,"restaurant, food, point_of_interest, establishment",2
+Yami Yami Noodle House,"Jalan Sunda No.mor 53, Kebon Pisang",-6.919285800000001,107.6177014,OPERATIONAL,4.4,1130,"restaurant, food, point_of_interest, establishment",2
+Batagor Riasari,"Jalan Veteran, Kebon Pisang",-6.919428,107.6153939,OPERATIONAL,3.5,146,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Baso Bintang Avon (Ahmad Yani),"Jalan A. Yani No.29 A, Kebon Pisang",-6.9216323,107.6187222,OPERATIONAL,4.5,1839,"restaurant, food, point_of_interest, establishment",2
+Warung Sate HM Harris,"Jalan Asia Afrika No.155, Kebon Pisang",-6.9220885,107.6171051,OPERATIONAL,4.5,5311,"restaurant, food, point_of_interest, establishment",2
+HokBen - Yogya Sunda,"Yogya Dept. Store, Jalan Sunda No.60 Lantai 4, Kebon Pisang",-6.918043099999999,107.618224,OPERATIONAL,4,40,"restaurant, food, point_of_interest, establishment",2
+Lacamera Coffee,"Jalan Naripan No.99, Kebon Pisang",-6.920947699999999,107.6171287,OPERATIONAL,4.5,2612,"cafe, store, restaurant, food, point_of_interest, establishment",2
+28 Kopi,"Jalan Veteran No.28, Kebon Pisang",-6.919203100000001,107.6148126,OPERATIONAL,4.8,5,"restaurant, food, point_of_interest, establishment",Unknown
+Gudeg Yu Nap - Kartini,"Jalan Kartini Jalan Van Deventer No.31, Kebon Pisang",-6.917711899999999,107.6152099,OPERATIONAL,4.6,319,"restaurant, food, point_of_interest, establishment",Unknown
+Tanggo Pork Resto,"Jalan Taman Cibunut Utara No.14, Kebon Pisang",-6.917270999999999,107.615149,OPERATIONAL,4.4,646,"restaurant, food, point_of_interest, establishment",2
+Tahu isi tahu,"Gedung graha Indosurya, Jalan Asia Afrika No.129, Kebon Pisang",-6.921873999999999,107.615688,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Bakmie Karet,Jalan Natuna No.9,-6.916424200000001,107.6149105,OPERATIONAL,4.5,977,"restaurant, food, point_of_interest, establishment",2

@@ -1,0 +1,17 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Aroma Manis Marshmallow Halal,"Jalan Rajawali Barat No.91, Garuda",-6.9124997,107.5746271,OPERATIONAL,4.9,7,"restaurant, food, point_of_interest, establishment",Unknown
+Sate pasar kaget,"Jalan Burung Tungku No.30, Maleber",-6.9098013,107.5726243,OPERATIONAL,2.5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Sate burung tungku,"Jalan Burung Tungku No.30, Maleber",-6.909862,107.5726862,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Sate Mba War,"Jalan Burung Tungku No.30, Maleber",-6.909862,107.5726862,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Cianjuran,"3HQC+XQV, Gang Burung Tungku IV, Maleber",-6.910017099999999,107.5719237,OPERATIONAL,4.4,7,"restaurant, food, point_of_interest, establishment",Unknown
+Bubur Ayam Dan Ayam Bakar Mng Alan,"3HQC+XM5, Gang Burung Tungku IV, Maleber",-6.9101233,107.5717459,OPERATIONAL,4.8,5,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Goreng Calawak,"Jl. Rajawali Barat Gg. Ibu Karees No. 212, Jalan Pinguin No.Rt.03/02 187b, Maleber",-6.9099749,107.5713296,OPERATIONAL,4.8,5,"restaurant, food, point_of_interest, establishment",Unknown
+Bulbul Bolu ketan item,"Jalan Burung Tungku, Maleber",-6.9107055,107.5720792,OPERATIONAL,Unknown,Unknown,"cafe, restaurant, food, point_of_interest, establishment",Unknown
+Ayam Serundeng Rempah,Gang Latifah No.286A 187B,-6.9097963,107.5711192,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Goreng Mantul,"3HQC+XCV, Gang Latifah, Maleber",-6.910009899999999,107.5710567,OPERATIONAL,4.8,6,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Sate Maranggi punce,"Gang Ibu Karees No.I, Maleber",-6.9106618,107.5714828,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Sate Maranggi sariak layung,"Gang Ibu Karees No.I, Maleber",-6.9106662,107.5714466,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam goreng&bakar MALIKA,"Jalan Maleber Barat No.164, RT.003/003, Maleber",-6.9088954,107.5709084,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Katering dan Kue Basah Ibu Lilis,"Gang Srigunting II No.02, RT.04/RW.07, Maleber",-6.907985099999999,107.5731672,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Mitul Marley,"Jl rajawali barat,gg, Jalan Burung Tungku No.1 no 17, RT.03/RW.02, Maleber",-6.9108452,107.5716129,OPERATIONAL,4.7,9,"restaurant, food, point_of_interest, establishment",Unknown
+Baso Bajuri Maleber,"Jalan Maleber Barat No.47, Maleber",-6.908592499999998,107.5709028,OPERATIONAL,4.6,61,"restaurant, food, point_of_interest, establishment",1

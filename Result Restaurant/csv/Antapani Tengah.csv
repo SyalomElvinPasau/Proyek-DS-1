@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+RM. Ayam Goreng Ninit,"Jalan Cibatu Raya No.45, Antapani Tengah",-6.9171094,107.6639977,OPERATIONAL,4.4,38,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown
+Angkringan Jogja,"Jalan Cibatu Raya No.45, Antapani Tengah",-6.917040600000001,107.6640243,OPERATIONAL,4.6,91,"restaurant, food, point_of_interest, establishment",Unknown
+RM Ikasari,"Jalan Cibatu Raya No.56, Antapani Tengah",-6.9167816,107.6639802,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Surabi Kuningan,"Jalan Kuningan Raya No.113, Antapani Tengah",-6.919285800000001,107.6632292,OPERATIONAL,4.2,45,"restaurant, food, point_of_interest, establishment",1

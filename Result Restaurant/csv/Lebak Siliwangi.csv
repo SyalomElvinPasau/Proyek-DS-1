@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Saisan Teppan and Izakaya,Jalan Ir. H. Juanda No.161,-6.8876428,107.6131408,OPERATIONAL,4.5,874,"restaurant, food, point_of_interest, establishment",3
+Ganesha Mocktail,"Jalan Gelap Nyawang, Lebak Siliwangi",-6.894855399999999,107.6115855,OPERATIONAL,4.4,312,"cafe, restaurant, food, point_of_interest, establishment",1
+Noah's Barn,"Jalan Dayang Sumbi No.2, Lebak Siliwangi",-6.8870532,107.6127593,OPERATIONAL,4.6,5895,"cafe, restaurant, food, store, point_of_interest, establishment",3

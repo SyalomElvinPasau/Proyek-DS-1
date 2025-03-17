@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Aynarr Chicken,"Jalan Maleer Indah II No.44, Maleer",-6.927042800000001,107.6395821,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Anak Kosan,"Jalan Maleer Indah II No.27, Maleer",-6.926743000000001,107.6392837,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Masakan khas sunda bu yulli,"3JFQ+8P2, Jalan Maleer Indah II, Maleer",-6.9267371,107.6392801,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Baso tahu siomay maleer,"Jl.kebon gedang III kec.batununggal, Maleer",-6.926552,107.6400487,CLOSED_TEMPORARILY,5,7,"restaurant, food, point_of_interest, establishment",Unknown
+Renyahlicious,Jalan Kebon Gedang III,-6.926755099999999,107.6401098,OPERATIONAL,5,2,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown

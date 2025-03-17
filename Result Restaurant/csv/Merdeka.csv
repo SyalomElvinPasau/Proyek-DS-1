@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Ayam Goreng Pa Toto,"Jalan Gudang Utara No.27, Merdeka",-6.9164122,107.6247658,OPERATIONAL,4.7,196,"meal_takeaway, restaurant, point_of_interest, food, establishment",Unknown
+Bawean Sweetheart Bakery & Resto,"Jalan Bawean No.4, Merdeka",-6.910081099999998,107.6180748,OPERATIONAL,4.6,2104,"bakery, store, restaurant, point_of_interest, food, establishment",2
+Bakso Malang Mas Joko,"Jalan Gudang Selatan No.1, Merdeka",-6.918118199999999,107.6240395,OPERATIONAL,4.3,30,"restaurant, point_of_interest, food, establishment",Unknown
+Sambel Hejo,"Jalan Gandapura No.69, RW.1, Merdeka",-6.9120755,107.626503,OPERATIONAL,4.3,630,"restaurant, point_of_interest, food, establishment",2
+Pizza Hut Restaurant,"Jalan Gandapura No.126, Merdeka",-6.911173799999999,107.6266715,OPERATIONAL,4.6,4318,"restaurant, point_of_interest, food, establishment",2
+Restoran Sederhana Riau,"Jalan L. L. R.E. Martadinata No.128, Merdeka",-6.9115749,107.6272371,OPERATIONAL,4.4,1074,"restaurant, point_of_interest, food, establishment",2
+RM Basamo,"Ruko Puskopad Blok B No.1, Jalan Gandapura, Merdeka, Sumur Bandung, Merdeka",-6.918127999999999,107.625113,OPERATIONAL,5,5,"restaurant, point_of_interest, food, establishment",Unknown
+Mie Baso Pangsit Miskam,"Ruko Puskopad, Jalan Gandapura No.1, Merdeka, Sumur Bandung, Merdeka",-6.9181961,107.625037,OPERATIONAL,4.2,29,"restaurant, point_of_interest, food, establishment",Unknown
+Djava32,"Jalan Jawa No.32A, Merdeka",-6.9153153,107.6151615,OPERATIONAL,4.6,105,"meal_takeaway, store, restaurant, point_of_interest, food, establishment",1

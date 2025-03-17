@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Dapoer Pandan Wangi Pasirkoja,"Jalan Terusan Pasirkoja No.275, Sukahaji",-6.9285536,107.5818637,OPERATIONAL,4.5,8178,"restaurant, food, point_of_interest, establishment",2
+Roemah Seafood,"Jalan Terusan Pasirkoja No.267, Sukahaji",-6.9273362,107.5844803,OPERATIONAL,4.6,1560,"restaurant, food, point_of_interest, establishment",2
+Rumah Makan Bu haji Dede,"Jalan Halimun No.1, Babakan Tarogong",-6.9274764,107.5834357,OPERATIONAL,3.5,2,"restaurant, food, point_of_interest, establishment",Unknown

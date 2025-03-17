@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Raja Ayam,"Jalan Pasundan No.126, Pungkur",-6.930624799999999,107.6084559,OPERATIONAL,4,2,"restaurant, food, point_of_interest, establishment",Unknown
+RINA SHOP,"Jalan Raden Dewi Sartika No.101, Pungkur",-6.929634999999999,107.6055002,OPERATIONAL,3.8,5,"restaurant, food, point_of_interest, establishment",Unknown
+Tutut Bu Osy,"Jalan Dudukuy No.2, Pungkur",-6.931455899999999,107.6087391,OPERATIONAL,4.3,29,"restaurant, food, point_of_interest, establishment",Unknown
+Mie baso yen,"3JF3+2PW, Jalan Ijan, Pungkur",-6.927391500000001,107.6043162,OPERATIONAL,4.3,10,"restaurant, food, point_of_interest, establishment",Unknown

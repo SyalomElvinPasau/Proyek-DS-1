@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_119cb0d5d21aecf1e80b8758ba1b121f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_119cb0d5d21aecf1e80b8758ba1b121f" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_119cb0d5d21aecf1e80b8758ba1b121f = L.map(
+                "map_119cb0d5d21aecf1e80b8758ba1b121f",
+                {
+                    center: [-6.890475406043429, 107.60406759353627],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_629ab6acb3f195ccb850f3a96923ec25 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_629ab6acb3f195ccb850f3a96923ec25.addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var polygon_09c06fb8a691ef15c9b4405e6c833b68 = L.polygon(
+                [[-6.895484446999887, 107.60661315900012], [-6.895368098999938, 107.60650634800004], [-6.895229339999901, 107.60636138900003], [-6.895133017999967, 107.60617065500008], [-6.895146368999974, 107.60609436000004], [-6.895184992999873, 107.60588836699998], [-6.895198345999916, 107.6058120730001], [-6.895259855999939, 107.60547638000008], [-6.895279406999975, 107.60537719800004], [-6.895329951999884, 107.6051177980001], [-6.895398617999888, 107.60478210500014], [-6.895415305999961, 107.60469818100012], [-6.895500182999967, 107.60427856400008], [-6.895564077999893, 107.60404968300008], [-6.895676612999978, 107.60399627600003], [-6.896212100999946, 107.60398101800018], [-6.896320342999957, 107.60398101800018], [-6.896784304999869, 107.60401153700013], [-6.896910190999904, 107.60401916500007], [-6.897290705999922, 107.60403442300009], [-6.897381305999886, 107.60404968300008], [-6.897549628999968, 107.60406494200004], [-6.897643087999882, 107.60407257000014], [-6.897715090999952, 107.60408020000006], [-6.897907257999975, 107.60409545800007], [-6.898181915999942, 107.60409545800007], [-6.899169921999828, 107.60417175200013], [-6.89934444499994, 107.60418701200018], [-6.899829864999958, 107.60422515900007], [-6.900217055999974, 107.60426330600006], [-6.900304794999954, 107.60381317200017], [-6.900304317999883, 107.60370636], [-6.900302409999938, 107.60343933000013], [-6.90029668699998, 107.60331726200013], [-6.900285721999978, 107.60308837900016], [-6.900267123999924, 107.6028594980001], [-6.900233268999955, 107.60227203300008], [-6.900000095999928, 107.60224914600008], [-6.899549959999831, 107.60224914600008], [-6.899419783999974, 107.60224914600008], [-6.898303030999955, 107.60224914600008], [-6.898096083999974, 107.60224914600008], [-6.897927760999892, 107.60224914600008], [-6.897749899999951, 107.60224914600008], [-6.896196842999927, 107.60227203300008], [-6.895928382999955, 107.602279663], [-6.895843505999949, 107.602294921], [-6.895734310999956, 107.60230255200003], [-6.89527654699998, 107.60236358700001], [-6.894710062999934, 107.60244751100004], [-6.894550322999976, 107.6024932860002], [-6.894472598999926, 107.60250854400005], [-6.894356726999945, 107.60253143300008], [-6.894147871999962, 107.60257721000005], [-6.893980978999934, 107.60258484000013], [-6.893797397999947, 107.60260009800015], [-6.893499850999888, 107.60258484000013], [-6.892990111999893, 107.6025619510001], [-6.892508506999945, 107.60250854400005], [-6.892358779999881, 107.60250091600011], [-6.892117976999941, 107.60247802700007], [-6.891936777999888, 107.60247802700007], [-6.891815184999871, 107.60246276900006], [-6.89168596199994, 107.60246276900006], [-6.89147853899982, 107.60246276900006], [-6.891208170999903, 107.60244751100004], [-6.89097976599993, 107.60243988100012], [-6.889190196999948, 107.60237121500012], [-6.888814448999938, 107.602348329], [-6.888271808999946, 107.60228729300013], [-6.887725352999951, 107.60218811100009], [-6.887360572999967, 107.6021270760001], [-6.887199878999979, 107.60208129900013], [-6.886674880999976, 107.60197448700018], [-6.885966777999954, 107.60186004600018], [-6.885654448999958, 107.60180664100011], [-6.885260104999929, 107.60175323600004], [-6.885061262999955, 107.60170745900007], [-6.884989737999945, 107.60169220000017], [-6.884809970999981, 107.60165405400005], [-6.884534835999943, 107.60159301800013], [-6.884350299999937, 107.60154724100016], [-6.884238241999981, 107.60151672500012], [-6.884077071999968, 107.60146331700014], [-6.883898733999956, 107.60140991200007], [-6.883732795999947, 107.601356507], [-6.883405685999946, 107.60124969500004], [-6.883152483999879, 107.60116577100001], [-6.883076667999887, 107.60114288300008], [-6.882999896999934, 107.60111999600008], [-6.882924555999921, 107.60109710800015], [-6.882732391999923, 107.60104370000016], [-6.882718085999898, 107.60116577100001], [-6.88273477499996, 107.60134887700008], [-6.882753847999936, 107.60144805900012], [-6.882785796999826, 107.60160827700008], [-6.882850169999926, 107.60192871200019], [-6.883019922999836, 107.60253143300008], [-6.883086203999881, 107.60270690800007], [-6.883227824999892, 107.60308837900016], [-6.88328409199994, 107.60321807900004], [-6.883316038999908, 107.60328674300001], [-6.883379458999912, 107.60344696000004], [-6.883487224999953, 107.60358428900014], [-6.883572578999974, 107.6036911020002], [-6.883642196999972, 107.60376739499998], [-6.883738993999884, 107.60387420600006], [-6.883988857999952, 107.60404968300008], [-6.884068011999943, 107.60409545800007], [-6.884136676999958, 107.60413360500013], [-6.884224891999963, 107.6041793820001], [-6.884308337999926, 107.60422515900007], [-6.884384153999974, 107.60425567599998], [-6.884470937999879, 107.60430145300012], [-6.884563444999912, 107.60434723000009], [-6.884826659999931, 107.6044769290001], [-6.884993552999958, 107.60456085200019], [-6.884869098999957, 107.60459899900007], [-6.88479614299996, 107.60462188800011], [-6.884720324999932, 107.60464477600004], [-6.884601116999931, 107.6046829230001], [-6.884300232999976, 107.604774475], [-6.884124754999959, 107.60480499200014], [-6.884010313999966, 107.60482788000007], [-6.883793830999934, 107.60488128700013], [-6.883697031999816, 107.60490417400018], [-6.883481978999953, 107.60497283900008], [-6.883383274999971, 107.60504150500009], [-6.883324621999975, 107.60514831500006], [-6.883332251999832, 107.6054153450001], [-6.883399485999973, 107.60552978500016], [-6.883577823999872, 107.60566711400008], [-6.883841513999869, 107.6058349600001], [-6.883965968999973, 107.60594940200014], [-6.884070871999938, 107.60604858500011], [-6.884204387999944, 107.60617828300019], [-6.884321212999964, 107.60630035400004], [-6.884417055999961, 107.60642242500012], [-6.884527205999916, 107.60655975400005], [-6.884633062999967, 107.60670471300006], [-6.884669779999911, 107.60688018900015], [-6.884658811999884, 107.60700225900013], [-6.884648323999897, 107.60710906999998], [-6.884630202999915, 107.60729980600013], [-6.884593008999957, 107.60746765100009], [-6.884569644999885, 107.60757446400015], [-6.884481905999905, 107.6076736460002], [-6.884931564999931, 107.60771942100013], [-6.885121820999927, 107.60775756800018], [-6.885262489999946, 107.60780334500015], [-6.885340213999882, 107.607772828], [-6.885445593999975, 107.60773468100018], [-6.885545253999965, 107.60758972200017], [-6.885709761999976, 107.60756683300013], [-6.885716913999943, 107.60748291000004], [-6.885823248999941, 107.60743713500005], [-6.885977743999945, 107.60736846900005], [-6.886126040999955, 107.60719299300013], [-6.886201858999925, 107.60701751800008], [-6.88624477399992, 107.60681915300006], [-6.886157989999958, 107.60668945200013], [-6.886271952999948, 107.60643005300005], [-6.886376379999888, 107.60639190600017], [-6.886468886999921, 107.60636138900003], [-6.886543749999873, 107.6063385010001], [-6.886698722999938, 107.60623931900005], [-6.886764047999918, 107.60615539500003], [-6.886807917999818, 107.60609436000004], [-6.886890888999915, 107.60586547900004], [-6.886960982999938, 107.60578155500002], [-6.887036322999961, 107.60571289100005], [-6.887175082999931, 107.60565185600007], [-6.887277126999891, 107.6056060790001], [-6.887492656999882, 107.60553741600017], [-6.88775920799992, 107.60543060300012], [-6.887871741999902, 107.6054229730002], [-6.887996672999918, 107.60547638000008], [-6.888138294999919, 107.60550689700005], [-6.888489723999953, 107.60548400800019], [-6.888915061999967, 107.60544586200007], [-6.888999462999948, 107.60544586200007], [-6.889199256999973, 107.60544586200007], [-6.889424322999957, 107.60548400800019], [-6.8894958489999, 107.60549163900004], [-6.889749525999946, 107.60556030200013], [-6.890120029999935, 107.60572051900016], [-6.890294550999897, 107.60578155500002], [-6.890557765999915, 107.60588073700006], [-6.890645502999973, 107.60587310900013], [-6.890891551999914, 107.60579681300004], [-6.89104557099995, 107.60588073700006], [-6.891253947999871, 107.60599517700012], [-6.89133834799992, 107.60605621300004], [-6.891570567999963, 107.60608673100006], [-6.891753673999915, 107.60618591399998], [-6.891764164999927, 107.60626220699999], [-6.891895293999937, 107.60626220699999], [-6.892000197999891, 107.60615539500003], [-6.892127989999892, 107.60614013700001], [-6.892309665999903, 107.60604858500011], [-6.892485140999952, 107.60594940200014], [-6.892721174999963, 107.60577392700009], [-6.892752170999927, 107.60600280800014], [-6.892845152999939, 107.60604858500011], [-6.89301109299987, 107.60614013700001], [-6.893168447999926, 107.60623931900005], [-6.893363474999887, 107.60639190600017], [-6.893421649999937, 107.60645294100016], [-6.893535612999926, 107.60658264200015], [-6.893582819999949, 107.60679626500013], [-6.893727301999888, 107.60688781700009], [-6.893973825999979, 107.6070556640002], [-6.894190788999879, 107.60706329300001], [-6.894286155999964, 107.60714721600016], [-6.894448755999974, 107.60720062300004], [-6.89462470899997, 107.6072387700001], [-6.89474153499998, 107.60722351000004], [-6.894895553999902, 107.60713195800014], [-6.895017146999862, 107.60701751800008], [-6.895158766999941, 107.60696411000009], [-6.895238874999905, 107.60692596400014], [-6.895298002999937, 107.60686492800005], [-6.895390032999956, 107.60681152299998], [-6.895484446999887, 107.60661315900012]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var marker_286de70183caa469db2d3b6c15a7e252 = L.marker(
+                [-6.8948142, 107.6049463],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_05c7f61281e020301f5a0ec07f3f2225 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e42311875cd4c0d7a574a30d81f4a117 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_71e6b333ba90895cc0b1b783717f92d5 = $(`<div id="html_71e6b333ba90895cc0b1b783717f92d5" style="width: 100.0%; height: 100.0%;">Sensa Hotel</div>`)[0];
+                popup_e42311875cd4c0d7a574a30d81f4a117.setContent(html_71e6b333ba90895cc0b1b783717f92d5);
+            
+        
+
+        marker_286de70183caa469db2d3b6c15a7e252.bindPopup(popup_e42311875cd4c0d7a574a30d81f4a117)
+        ;
+
+        
+    
+    
+                marker_286de70183caa469db2d3b6c15a7e252.setIcon(icon_05c7f61281e020301f5a0ec07f3f2225);
+            
+    
+            var marker_8aa0218ad6840849fb681e1613285d4d = L.marker(
+                [-6.896211099999999, 107.6034164],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_1bd23f049dc1c8651eb2efcf658c3862 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d40f889e71fe2032fdd3084792c2fe6e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b15be21dbfaa8bee10f907ee0bc89dc6 = $(`<div id="html_b15be21dbfaa8bee10f907ee0bc89dc6" style="width: 100.0%; height: 100.0%;">favehotel Premier - Cihampelas</div>`)[0];
+                popup_d40f889e71fe2032fdd3084792c2fe6e.setContent(html_b15be21dbfaa8bee10f907ee0bc89dc6);
+            
+        
+
+        marker_8aa0218ad6840849fb681e1613285d4d.bindPopup(popup_d40f889e71fe2032fdd3084792c2fe6e)
+        ;
+
+        
+    
+    
+                marker_8aa0218ad6840849fb681e1613285d4d.setIcon(icon_1bd23f049dc1c8651eb2efcf658c3862);
+            
+    
+            var marker_f310d1f0130493f3628f4acffbb18bab = L.marker(
+                [-6.886319599999999, 107.603844],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_81ace67ffaf5819a0c5664c004b84f41 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e261db68e9f6d6ad542c5c3b1be12455 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6eca7f7d777bf654e8def56b468cf6bf = $(`<div id="html_6eca7f7d777bf654e8def56b468cf6bf" style="width: 100.0%; height: 100.0%;">Grand Tjokro</div>`)[0];
+                popup_e261db68e9f6d6ad542c5c3b1be12455.setContent(html_6eca7f7d777bf654e8def56b468cf6bf);
+            
+        
+
+        marker_f310d1f0130493f3628f4acffbb18bab.bindPopup(popup_e261db68e9f6d6ad542c5c3b1be12455)
+        ;
+
+        
+    
+    
+                marker_f310d1f0130493f3628f4acffbb18bab.setIcon(icon_81ace67ffaf5819a0c5664c004b84f41);
+            
+    
+            var marker_33627b373e1118033ae0653bf61f1c0c = L.marker(
+                [-6.894474799999999, 107.6027976],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_d5ad5d787e48c074f74474cdcc6c9918 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_187fcaddf18ea0aff9589dcdaeda6395 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0e9ea465c75cae364154ee0eb14b61cd = $(`<div id="html_0e9ea465c75cae364154ee0eb14b61cd" style="width: 100.0%; height: 100.0%;">Sosisqu</div>`)[0];
+                popup_187fcaddf18ea0aff9589dcdaeda6395.setContent(html_0e9ea465c75cae364154ee0eb14b61cd);
+            
+        
+
+        marker_33627b373e1118033ae0653bf61f1c0c.bindPopup(popup_187fcaddf18ea0aff9589dcdaeda6395)
+        ;
+
+        
+    
+    
+                marker_33627b373e1118033ae0653bf61f1c0c.setIcon(icon_d5ad5d787e48c074f74474cdcc6c9918);
+            
+    
+            var marker_9de76c0b94a0a89bc53345651d2f6bdf = L.marker(
+                [-6.887343799999999, 107.602383],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_bb1d2f8019f33bfe4eabac1bc19f3639 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3749d9665f58be8339f6d4a8b0bade48 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_87fcac3bfcd369718a1f7be60f7674b9 = $(`<div id="html_87fcac3bfcd369718a1f7be60f7674b9" style="width: 100.0%; height: 100.0%;">Dapur Dahapati</div>`)[0];
+                popup_3749d9665f58be8339f6d4a8b0bade48.setContent(html_87fcac3bfcd369718a1f7be60f7674b9);
+            
+        
+
+        marker_9de76c0b94a0a89bc53345651d2f6bdf.bindPopup(popup_3749d9665f58be8339f6d4a8b0bade48)
+        ;
+
+        
+    
+    
+                marker_9de76c0b94a0a89bc53345651d2f6bdf.setIcon(icon_bb1d2f8019f33bfe4eabac1bc19f3639);
+            
+    
+            var marker_fc669a879e1686b625b0948ac455cb01 = L.marker(
+                [-6.893888, 107.6055754],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_526c84c2e10eb75bc53197457681efd0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_82d274c3a4cc09618325d3bcbc17cfca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c46a66d8751043716abcf7ee66fd9524 = $(`<div id="html_c46a66d8751043716abcf7ee66fd9524" style="width: 100.0%; height: 100.0%;">Solaria - Cihampelas Walk</div>`)[0];
+                popup_82d274c3a4cc09618325d3bcbc17cfca.setContent(html_c46a66d8751043716abcf7ee66fd9524);
+            
+        
+
+        marker_fc669a879e1686b625b0948ac455cb01.bindPopup(popup_82d274c3a4cc09618325d3bcbc17cfca)
+        ;
+
+        
+    
+    
+                marker_fc669a879e1686b625b0948ac455cb01.setIcon(icon_526c84c2e10eb75bc53197457681efd0);
+            
+    
+            var marker_3b3affbd2da0149f7870e335b989572d = L.marker(
+                [-6.8934803, 107.6051751],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_b38281b16d1ad7c3ac3604b7143e265d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e91b2884a78a1bb4d37bee426b95ec88 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2fdd7c68878000ea8895e372c5a44122 = $(`<div id="html_2fdd7c68878000ea8895e372c5a44122" style="width: 100.0%; height: 100.0%;">Raa Cha Suki & BBQ Cihampelas Walk</div>`)[0];
+                popup_e91b2884a78a1bb4d37bee426b95ec88.setContent(html_2fdd7c68878000ea8895e372c5a44122);
+            
+        
+
+        marker_3b3affbd2da0149f7870e335b989572d.bindPopup(popup_e91b2884a78a1bb4d37bee426b95ec88)
+        ;
+
+        
+    
+    
+                marker_3b3affbd2da0149f7870e335b989572d.setIcon(icon_b38281b16d1ad7c3ac3604b7143e265d);
+            
+    
+            var marker_2b117b5b140a44427456ff8911116c49 = L.marker(
+                [-6.8931219, 107.6055268],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_26c038cc755fc8d056b709b7e2c8d1bb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8ae4edb4e0e2d22dfb1e73283dff8ab1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a76a506977aebb15affbc37a47fa35d5 = $(`<div id="html_a76a506977aebb15affbc37a47fa35d5" style="width: 100.0%; height: 100.0%;">HokBen - Ciwalk</div>`)[0];
+                popup_8ae4edb4e0e2d22dfb1e73283dff8ab1.setContent(html_a76a506977aebb15affbc37a47fa35d5);
+            
+        
+
+        marker_2b117b5b140a44427456ff8911116c49.bindPopup(popup_8ae4edb4e0e2d22dfb1e73283dff8ab1)
+        ;
+
+        
+    
+    
+                marker_2b117b5b140a44427456ff8911116c49.setIcon(icon_26c038cc755fc8d056b709b7e2c8d1bb);
+            
+    
+            var marker_3f87bcfab5b73c0c4c1ed7165fc2cd8f = L.marker(
+                [-6.893205999999999, 107.605483],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_89f1ac47a9a164c6f78758bc295d5319 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4475eb3f633e5018d72ce02f9881d914 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e2a797cab62dbfbf8f9e8b318e3414ff = $(`<div id="html_e2a797cab62dbfbf8f9e8b318e3414ff" style="width: 100.0%; height: 100.0%;">KFC • CiWalk</div>`)[0];
+                popup_4475eb3f633e5018d72ce02f9881d914.setContent(html_e2a797cab62dbfbf8f9e8b318e3414ff);
+            
+        
+
+        marker_3f87bcfab5b73c0c4c1ed7165fc2cd8f.bindPopup(popup_4475eb3f633e5018d72ce02f9881d914)
+        ;
+
+        
+    
+    
+                marker_3f87bcfab5b73c0c4c1ed7165fc2cd8f.setIcon(icon_89f1ac47a9a164c6f78758bc295d5319);
+            
+    
+            var marker_d5ba5e4eb4e07e3451cbf986dc8ac847 = L.marker(
+                [-6.893606999999999, 107.6042073],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_956b909926aa953502cba0e49e7e0541 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3050b6238195bb49165164de2a816611 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_96dd3030ddd0ab92adb9e45424f8cdd0 = $(`<div id="html_96dd3030ddd0ab92adb9e45424f8cdd0" style="width: 100.0%; height: 100.0%;">Roffee's Melty Pudding Cihampelas Walk</div>`)[0];
+                popup_3050b6238195bb49165164de2a816611.setContent(html_96dd3030ddd0ab92adb9e45424f8cdd0);
+            
+        
+
+        marker_d5ba5e4eb4e07e3451cbf986dc8ac847.bindPopup(popup_3050b6238195bb49165164de2a816611)
+        ;
+
+        
+    
+    
+                marker_d5ba5e4eb4e07e3451cbf986dc8ac847.setIcon(icon_956b909926aa953502cba0e49e7e0541);
+            
+    
+            var marker_be602ff856d7b2c3d3165c0e290144b9 = L.marker(
+                [-6.8935635, 107.6048512],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_bf88bf065c3bfa8574be27768e8cf88f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ba715d4d33b0d74ffbac1dd670b33628 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3cb01e9a4672d4d8c488854cf7d8d064 = $(`<div id="html_3cb01e9a4672d4d8c488854cf7d8d064" style="width: 100.0%; height: 100.0%;">KABOBS - Premium Kebab, Cihampelas Walk Lt. LG</div>`)[0];
+                popup_ba715d4d33b0d74ffbac1dd670b33628.setContent(html_3cb01e9a4672d4d8c488854cf7d8d064);
+            
+        
+
+        marker_be602ff856d7b2c3d3165c0e290144b9.bindPopup(popup_ba715d4d33b0d74ffbac1dd670b33628)
+        ;
+
+        
+    
+    
+                marker_be602ff856d7b2c3d3165c0e290144b9.setIcon(icon_bf88bf065c3bfa8574be27768e8cf88f);
+            
+    
+            var marker_065af285c192a8c6b69cc74b62e0e75a = L.marker(
+                [-6.8937126, 107.6053053],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_eecfae4799f048e8c2508f1a118e7e4a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_87fcb1c126931381cea3a11c383e3e71 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e27de436783ca319c388c0805c123352 = $(`<div id="html_e27de436783ca319c388c0805c123352" style="width: 100.0%; height: 100.0%;">Starbucks Coffee - Ciwalk</div>`)[0];
+                popup_87fcb1c126931381cea3a11c383e3e71.setContent(html_e27de436783ca319c388c0805c123352);
+            
+        
+
+        marker_065af285c192a8c6b69cc74b62e0e75a.bindPopup(popup_87fcb1c126931381cea3a11c383e3e71)
+        ;
+
+        
+    
+    
+                marker_065af285c192a8c6b69cc74b62e0e75a.setIcon(icon_eecfae4799f048e8c2508f1a118e7e4a);
+            
+    
+            var marker_ec29659d4fcc7b20c0d86f6629ce755e = L.marker(
+                [-6.893988, 107.6051379],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_3abbb348269df6c6f11b34c2bb892780 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f59928c4483492a107573f4e2c89007e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_89b354c2c129e91f6b9c7addbb5a5559 = $(`<div id="html_89b354c2c129e91f6b9c7addbb5a5559" style="width: 100.0%; height: 100.0%;">Bakso Malang Karapitan Cihampelas Walk</div>`)[0];
+                popup_f59928c4483492a107573f4e2c89007e.setContent(html_89b354c2c129e91f6b9c7addbb5a5559);
+            
+        
+
+        marker_ec29659d4fcc7b20c0d86f6629ce755e.bindPopup(popup_f59928c4483492a107573f4e2c89007e)
+        ;
+
+        
+    
+    
+                marker_ec29659d4fcc7b20c0d86f6629ce755e.setIcon(icon_3abbb348269df6c6f11b34c2bb892780);
+            
+    
+            var marker_7d51a19137699c1b85d2632ad81c043e = L.marker(
+                [-6.893771500000001, 107.6056961],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_55af9fd91825b05e9f442243ef5d5a3a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_485b7ac71741119f21b76a608ffcaf27 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_13ffad9b41c6a013c3f8e0b7895c931e = $(`<div id="html_13ffad9b41c6a013c3f8e0b7895c931e" style="width: 100.0%; height: 100.0%;">Gokana Ramen & Teppan Ciwalk</div>`)[0];
+                popup_485b7ac71741119f21b76a608ffcaf27.setContent(html_13ffad9b41c6a013c3f8e0b7895c931e);
+            
+        
+
+        marker_7d51a19137699c1b85d2632ad81c043e.bindPopup(popup_485b7ac71741119f21b76a608ffcaf27)
+        ;
+
+        
+    
+    
+                marker_7d51a19137699c1b85d2632ad81c043e.setIcon(icon_55af9fd91825b05e9f442243ef5d5a3a);
+            
+    
+            var marker_f00df66ac264a684ad87d11be3c46e9c = L.marker(
+                [-6.894108, 107.6053713],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_8cf3b61027936bca5a33d4de0a847c49 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b559df3e1585eeaefa35f91afb901835 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7fd560c0f96e8b6173c72644252a1b32 = $(`<div id="html_7fd560c0f96e8b6173c72644252a1b32" style="width: 100.0%; height: 100.0%;">Champ Group - Platinum Cihampelas Walk</div>`)[0];
+                popup_b559df3e1585eeaefa35f91afb901835.setContent(html_7fd560c0f96e8b6173c72644252a1b32);
+            
+        
+
+        marker_f00df66ac264a684ad87d11be3c46e9c.bindPopup(popup_b559df3e1585eeaefa35f91afb901835)
+        ;
+
+        
+    
+    
+                marker_f00df66ac264a684ad87d11be3c46e9c.setIcon(icon_8cf3b61027936bca5a33d4de0a847c49);
+            
+    
+            var marker_654e6491c846a3882fc4c899c2fcd69e = L.marker(
+                [-6.894441199999999, 107.6046792],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_e9eb28c1254edf00521118bf901a32de = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7aa3614340e2e7e14e510cbf3284eb14 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3d691ba326f71f0fb735ca26f7ba79d8 = $(`<div id="html_3d691ba326f71f0fb735ca26f7ba79d8" style="width: 100.0%; height: 100.0%;">Wendy's - Ciwalk</div>`)[0];
+                popup_7aa3614340e2e7e14e510cbf3284eb14.setContent(html_3d691ba326f71f0fb735ca26f7ba79d8);
+            
+        
+
+        marker_654e6491c846a3882fc4c899c2fcd69e.bindPopup(popup_7aa3614340e2e7e14e510cbf3284eb14)
+        ;
+
+        
+    
+    
+                marker_654e6491c846a3882fc4c899c2fcd69e.setIcon(icon_e9eb28c1254edf00521118bf901a32de);
+            
+    
+            var marker_4e6e1a2a44e24ce9f10ea71249fe4cbc = L.marker(
+                [-6.894845600000001, 107.6042299],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_d4db8c45be331da86352f45509ee6653 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d2499c0cf14ee884d4081a1b41292375 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2df5c873befb6e097e6a643975f51c98 = $(`<div id="html_2df5c873befb6e097e6a643975f51c98" style="width: 100.0%; height: 100.0%;">Burger King Cihampelas Walk</div>`)[0];
+                popup_d2499c0cf14ee884d4081a1b41292375.setContent(html_2df5c873befb6e097e6a643975f51c98);
+            
+        
+
+        marker_4e6e1a2a44e24ce9f10ea71249fe4cbc.bindPopup(popup_d2499c0cf14ee884d4081a1b41292375)
+        ;
+
+        
+    
+    
+                marker_4e6e1a2a44e24ce9f10ea71249fe4cbc.setIcon(icon_d4db8c45be331da86352f45509ee6653);
+            
+    
+            var marker_343f7ac8086483a1c8735e33d7ecb5fb = L.marker(
+                [-6.8948142, 107.6049463],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_f304614e649a179b2683072b1f20978f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7fcbb996a4f6dec74f61c0a2037bc34c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_18c5fec71a8e3747089de6fe7c5508c6 = $(`<div id="html_18c5fec71a8e3747089de6fe7c5508c6" style="width: 100.0%; height: 100.0%;">Shihlin - Cihampelas Walk</div>`)[0];
+                popup_7fcbb996a4f6dec74f61c0a2037bc34c.setContent(html_18c5fec71a8e3747089de6fe7c5508c6);
+            
+        
+
+        marker_343f7ac8086483a1c8735e33d7ecb5fb.bindPopup(popup_7fcbb996a4f6dec74f61c0a2037bc34c)
+        ;
+
+        
+    
+    
+                marker_343f7ac8086483a1c8735e33d7ecb5fb.setIcon(icon_f304614e649a179b2683072b1f20978f);
+            
+    
+            var marker_412fb0e5e9c08cc907992c85184387e3 = L.marker(
+                [-6.8845234, 107.6062175],
+                {
+}
+            ).addTo(map_119cb0d5d21aecf1e80b8758ba1b121f);
+        
+    
+            var icon_84ece7e17bc59442936a6d0a9198c51e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_78f732bc9831d7831f1428e9f51ceb59 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3a9806d6fd3771e6627c0394e5843bc8 = $(`<div id="html_3a9806d6fd3771e6627c0394e5843bc8" style="width: 100.0%; height: 100.0%;">Warung Dalaraos</div>`)[0];
+                popup_78f732bc9831d7831f1428e9f51ceb59.setContent(html_3a9806d6fd3771e6627c0394e5843bc8);
+            
+        
+
+        marker_412fb0e5e9c08cc907992c85184387e3.bindPopup(popup_78f732bc9831d7831f1428e9f51ceb59)
+        ;
+
+        
+    
+    
+                marker_412fb0e5e9c08cc907992c85184387e3.setIcon(icon_84ece7e17bc59442936a6d0a9198c51e);
+            
+</script>
+</html>

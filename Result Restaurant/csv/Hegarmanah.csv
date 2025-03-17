@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Kantin Heri,"Jalan Bukit Jarian Dalam VI No.4, Hegarmanah",-6.878389999999999,107.606497,OPERATIONAL,4.6,65,"restaurant, food, point_of_interest, establishment",1
+Sate Tegal Marem,"Jalan Doktor Setiabudi No.136, Hegarmanah",-6.874872499999999,107.5966101,OPERATIONAL,4.6,932,"restaurant, food, point_of_interest, establishment",2
+Koi Bistro,"Jalan Hegarmanah No.26, RW.01, Hegarmanah",-6.878349999999999,107.5987372,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Gombal Asap (Sego Sambal Ikan Asap),Jalan Ciumbuleuit No.151 B,-6.8748394,107.6044102,CLOSED_TEMPORARILY,4.6,101,"restaurant, food, point_of_interest, establishment",2
+Sabana Fried Chicken,"Jalan Ciumbuleuit No.151, Hegarmanah",-6.8748363,107.6044456,OPERATIONAL,4.8,4,"meal_takeaway, restaurant, food, point_of_interest, establishment",1
+Ayam Djogja II Istimewa,"Jalan Doktor Setiabudi No.140, Hegarmanah",-6.8747396,107.5965277,OPERATIONAL,4.6,376,"restaurant, food, point_of_interest, establishment",Unknown
+Dunkin Donuts Borma,"Jalan Doktor Setiabudi Dalam No.148, Hegarmanah",-6.8740956,107.5961624,OPERATIONAL,4.3,105,"bakery, store, restaurant, food, point_of_interest, establishment",2
+Rotiku,"Jalan Doktor Setiabudi No.168, Hegarmanah",-6.872885399999999,107.5950989,OPERATIONAL,4.3,365,"bakery, store, restaurant, food, point_of_interest, establishment",2
+Suis Butcher Steak House Setiabudi,"Jalan Doktor Setiabudi No.174, Hegarmanah",-6.871341399999999,107.594205,OPERATIONAL,4.4,2131,"restaurant, food, point_of_interest, establishment",2
+Liek's Resto & Cafe,"4J92+53M, Jalan Doktor Setiabudi, Hegarmanah",-6.882026199999999,107.6001765,OPERATIONAL,5,3,"restaurant, food, point_of_interest, establishment",Unknown

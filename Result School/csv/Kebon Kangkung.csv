@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+SMP Ignatius Slamet Riyadi Bandung,"Jalan Ibrahim Adjie No.Gg, Kebon Kangkung",-6.9372587,107.6435639,OPERATIONAL,4,22,"secondary_school, school, point_of_interest, establishment",
+SD Negeri 01 Warung Jambu,"Jalan Warung Jambu No.28, Kebon Kangkung",-6.9296979,107.6455989,OPERATIONAL,3.9,14,"primary_school, school, point_of_interest, establishment",
+SDN 162 Warung Jambu,"3JCW+57X, Kebon Kangkung",-6.929517499999999,107.6457423,OPERATIONAL,4.6,30,"primary_school, school, point_of_interest, establishment",
+SD Ignatius Slamet Riyadi 2,"Jalan Kebon Kangkung 10 Jalan Kiara Condong No.2, Kebon Kangkung",-6.937242999999999,107.643133,OPERATIONAL,4.4,36,"primary_school, school, point_of_interest, establishment",
+TK AR Risalah,"Jalan Kebon Kangkung XII No.10, Kebon Kangkung",-6.938314,107.642833,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Flamboyan,"3J6W+Q66, Jalan Papanggungan XIII, Kebon Kangkung",-6.938078,107.645522,OPERATIONAL,5,1,"school, point_of_interest, establishment",
+LPK Kagayaki Training Centre Bandung,"Jalan Bumi Kiara No.1B, Kebon Kangkung",-6.936230999999999,107.6429794,OPERATIONAL,5,8,"school, point_of_interest, establishment",
+TKA/TPA Al Furqon,"Gang Papanggungan VII No.09, Kebon Kangkung",-6.9359044,107.645143,OPERATIONAL,5,2,"school, point_of_interest, establishment",

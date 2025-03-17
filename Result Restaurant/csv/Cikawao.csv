@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Pondok Pesanggrahan,"Jalan Lengkong Besar No.103, Cikawao",-6.927583800000001,107.6132599,OPERATIONAL,4.5,730,"restaurant, point_of_interest, food, establishment",2
+Yes Ice Please (YIP Hauz),"Jalan Lengkong Besar No.37, Cikawao",-6.923871299999999,107.6118631,OPERATIONAL,4.6,385,"cafe, hair_care, store, health, restaurant, point_of_interest, food, establishment",1
+Pepes bunita,"Jalan Melong No.22, Cikawao",-6.929280500000001,107.6153309,OPERATIONAL,4.6,19,"restaurant, point_of_interest, food, establishment",Unknown

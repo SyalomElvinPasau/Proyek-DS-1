@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Jual Bandeng Presto,"anyar, Jalan Karasak Utara 1 gg. 2 no.1 RT 002 RW 006, Kel. Karasak, Kec. Astana, Karasak",-6.9468825,107.60674,OPERATIONAL,4.4,11,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Ampera,"Jalan Soekarno-Hatta No.394, Karasak",-6.948359099999999,107.6054002,OPERATIONAL,4.3,6892,"restaurant, food, point_of_interest, establishment",2
+Kedai mie 21,"Jalan Karasak Tengah II No.21, Karasak",-6.9491805,107.6078034,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+Mie Ayam Baso Mas Reno,"Jalan Karasak Tengah II No.1, Karasak",-6.9484312,107.6080416,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Nasi Ibu Dewi,"Jalan Soekarno-Hatta No.412A, Karasak",-6.9483304,107.6077994,OPERATIONAL,4.5,51,"restaurant, food, point_of_interest, establishment",Unknown
+Warnas Sunda Karasak,"3J25+J7M, Gang Karasak, Karasak",-6.9484023,107.6081868,OPERATIONAL,4,6,"restaurant, food, point_of_interest, establishment",Unknown
+Rumah Makan Khas Sunda Mangga Sindang,Indonesia,-6.9483568,107.608249,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Soto Ayam Khas Madura Cak Zaeini,"Jalan Soekarno-Hatta No.415, Karasak",-6.948063400000001,107.6078069,OPERATIONAL,5,2,"restaurant, food, point_of_interest, establishment",Unknown
+"Lucky Seafood ""Madiun""",Indonesia,-6.9483991,107.6085137,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Ayam Goreng Mahakarya,Indonesia,-6.9483922,107.6086069,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Bu Sumirah karasak 89,"Jalan Karasak No.89, RT.05/02, Karasak",-6.9496913,107.607216,OPERATIONAL,Unknown,Unknown,"meal_takeaway, restaurant, food, point_of_interest, establishment",Unknown

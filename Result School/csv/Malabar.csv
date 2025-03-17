@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+SMPK 4 PENABUR Bandung - Guntur 34,"Jalan Guntur No.34, Malabar",-6.925651999999999,107.6209062,OPERATIONAL,4.7,98,"university, school, point_of_interest, establishment",
+Preschool GagasCeria Innovative Education,"Jalan Malabar No.80-82, Malabar",-6.927413299999999,107.6227345,OPERATIONAL,4.8,20,"school, point_of_interest, establishment",
+Andry Efendy Music School,Jalan Burangrang No.29,-6.9256204,107.6198473,OPERATIONAL,4.6,14,"store, school, point_of_interest, establishment",
+Pascal Montessori,Jalan Guntur No.14,-6.9242725,107.6214868,OPERATIONAL,5,9,"school, point_of_interest, establishment",
+Sekolah Swasta GagasCeria Innovative Education,"Jalan Malabar No.61, Malabar",-6.927944799999999,107.622871,OPERATIONAL,4.6,61,"primary_school, school, point_of_interest, establishment",
+SMA Muhammadiyah 1 Bandung (SMAMSA Bandung),"Jalan Kancil No.1, Malabar",-6.932786600000001,107.6197287,OPERATIONAL,4.8,66,"school, point_of_interest, establishment",

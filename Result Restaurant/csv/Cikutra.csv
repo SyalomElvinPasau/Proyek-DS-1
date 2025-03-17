@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+INMONS SUPPLY CO,"Jalan Asep Berlian Gang Sartika No.38, Cikutra",-6.907729799999999,107.641006,OPERATIONAL,5,3,"clothing_store, store, restaurant, food, point_of_interest, establishment",Unknown
+Nasi Bebek Madura Mas Agus,"Gang Sastrodihardjo II No.7, Cikutra",-6.9030919,107.6404381,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Warung Bu Ali,Gang Sastrodihardjo V,-6.902900899999999,107.6395201,OPERATIONAL,Unknown,Unknown,"restaurant, food, point_of_interest, establishment",Unknown
+Dapur Sadiya,Gang Sastrodihardjo III No.9,-6.9023803,107.6397046,OPERATIONAL,4.5,4,"store, restaurant, food, point_of_interest, establishment",Unknown
+Kedai Makan Ayam Geprek Suka-Suka,"Jalan Sukarajin 2, Gang Sastrodihardjo IV VI No.1",-6.903172199999999,107.6394802,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown

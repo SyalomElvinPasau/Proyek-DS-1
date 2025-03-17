@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Elementary School Assalaam,"Jalan Sasak Gantung No.1-4, Balonggede",-6.925699,107.607614,OPERATIONAL,4.9,247,"primary_school, school, point_of_interest, establishment",
+Senior High School Pasundan 1,"Jalan Balonggede No.28, Balonggede",-6.923596700000001,107.6076382,OPERATIONAL,4.5,253,"school, point_of_interest, establishment",
+Junior High School Assalaam,"Jalan Sasak Gantung No.12-14, Balonggede",-6.926038099999999,107.6079401,OPERATIONAL,4.8,142,"school, point_of_interest, establishment",
+TK Assalaam,"Jalan Sasak Gantung No.9, Balonggede",-6.925792100000001,107.6082948,OPERATIONAL,5,381,"school, point_of_interest, establishment",
+Taman Pendidikan Quran (TPQ) Assalaam,"Gang Disan No.10, Balonggede",-6.924896200000001,107.6078713,OPERATIONAL,5,16,"school, point_of_interest, establishment",
+Pasundan Junior High School 1 Bandung,"Jalan Pasundan No.32, Balonggede",-6.9242743,107.6080385,OPERATIONAL,4.4,73,"school, point_of_interest, establishment",
+SMP Pasundan 2 Bandung,"Jalan Pasundan No.32, Balonggede",-6.924222999999999,107.6078673,OPERATIONAL,4.8,41,"school, point_of_interest, establishment",
+Gereja Rehoboth,"Jalan Raden Dewi Sartika No.36-38, Balonggede",-6.925136099999999,107.6059459,OPERATIONAL,4.6,34,"church, school, place_of_worship, point_of_interest, establishment",
+Junior High School 43 Bandung,"Jalan Kautamaan Istri No.43, Balonggede",-6.9256767,107.6069018,OPERATIONAL,4.7,81,"school, point_of_interest, establishment",
+Elementary School Balonggede,"Jalan Balonggede No.49, Balonggede",-6.924554199999998,107.6075487,OPERATIONAL,4.5,26,"primary_school, school, point_of_interest, establishment",
+Yayasan Assalaam Bandung,"Jalan Yuda No.1, Balonggede",-6.927091900000002,107.6075299,OPERATIONAL,4.3,20,"school, point_of_interest, establishment",

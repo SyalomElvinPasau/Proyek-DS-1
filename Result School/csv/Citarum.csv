@@ -1,0 +1,13 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+PENABUR Banda School,"Jalan Banda No.19, Citarum",-6.9055272,107.6163354,OPERATIONAL,4.3,85,"primary_school, school, point_of_interest, establishment",
+ZENSPOT,"Jalan Progo No.2, Citarum",-6.9048514,107.6171594,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+Sekolah Dasar Yahya Kristen Yahya,"Jalan Progo No.4, Citarum",-6.904743,107.617272,OPERATIONAL,4.9,22,"primary_school, school, point_of_interest, establishment",
+Apple Tree Pre-School Bandung,"Jalan Sultan Tirtayasa No.35, Citarum",-6.9038582,107.6155619,OPERATIONAL,3.6,5,"school, point_of_interest, establishment",
+Kantor Sekretariat BPK PENABUR Bandung,"Jalan Banda No.19, Citarum",-6.9056313,107.616297,OPERATIONAL,4.8,27,"school, point_of_interest, establishment",
+Penabur International Kindergarten,"Jalan Bahureksa No.26, Citarum",-6.905465400000001,107.6154728,OPERATIONAL,2.3,3,"school, point_of_interest, establishment",
+Istiqamah Mosque,"Plaza Istiqamah, Jalan Taman Citarum, Citarum",-6.904803500000001,107.6219618,OPERATIONAL,4.6,585,"mosque, primary_school, school, place_of_worship, point_of_interest, establishment",
+Yayasan Taruna Bakti,"Jalan L. L. R.E. Martadinata No.52, Citarum",-6.9063723,107.6185581,OPERATIONAL,4.6,278,"school, point_of_interest, establishment",
+TK. Taruna Bakti,"Jalan L. L. R.E. Martadinata No.91, Citarum",-6.905572799999999,107.6196666,OPERATIONAL,4.6,9,"school, point_of_interest, establishment",
+Junior High School 7 Bandung,"Jalan Ambon No.23, Citarum",-6.907066100000001,107.6187631,OPERATIONAL,4.7,159,"school, point_of_interest, establishment",
+Speak Up! The Public Speaking School,"Bandung Wetan,Kota Bandung, 40115, Jalan Cisangkuy No.62, Citarum",-6.9021857,107.6216243,OPERATIONAL,5,1,"school, university, point_of_interest, establishment",
+DJ Arie Public Speaking & Broadcasting School,"Jalan Cisangkuy No.66 Lantai 2, Citarum",-6.901659699999999,107.6213704,OPERATIONAL,4.4,23,"school, university, point_of_interest, establishment",

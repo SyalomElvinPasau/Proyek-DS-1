@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+STIE Dharma Negara,"Jalan Babakan Sari No.68, Babakan Sari",-6.9224248,107.649894,OPERATIONAL,4.4,73,"university, accounting, finance, point_of_interest, school, establishment",
+SMK Kencana,"Jalan Babakan Surabaya No.44, Babakan Sari",-6.918768,107.64783,OPERATIONAL,4.5,103,"point_of_interest, school, establishment",
+SMA Plus Muthahhari Bandung,"Jalan Kampus II No.13-17, Babakan Sari",-6.923273599999999,107.6505996,OPERATIONAL,4.6,68,"point_of_interest, school, establishment",
+Senior High School 16 Bandung,"Jalan Mekarsari No.81, Babakan Sari",-6.926469099999999,107.6568007,OPERATIONAL,4,169,"point_of_interest, school, establishment",
+TK Az Zahra,"Jalan Kampus II No.4, Babakan Sari",-6.922745199999999,107.6505076,OPERATIONAL,4.3,7,"point_of_interest, school, establishment",
+PAUD Arrodhiyah,Jalan Kampus VII No.19,-6.9231981,107.6517839,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+TK 129,"Jalan Babakan Sari No.129, Babakan Sari",-6.9225502,107.6517879,OPERATIONAL,Unknown,Unknown,"school, point_of_interest, establishment",
+GAV International School,"Jalan Babakan Sari No.68, Babakan Sari",-6.924031800000002,107.6496084,OPERATIONAL,4.8,5,"school, point_of_interest, establishment",
+SMA Bina Dharma 2,"3MG2+WH7, Jalan Babakan Sari No.131, Babakan Sari",-6.922532199999999,107.6520992,OPERATIONAL,4.3,42,"point_of_interest, school, establishment",
+TK Global Cendekia School,"Jalan Kampus I No.39, RT.01/RW.08, Babakan Sari",-6.924606,107.6498431,OPERATIONAL,5,2,"school, point_of_interest, establishment",

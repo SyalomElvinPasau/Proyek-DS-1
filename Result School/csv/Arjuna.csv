@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Sekolah Dasar Industri,"Jalan Industri Jalan Industri Dalam No.2, Arjuna",-6.9127283,107.5948052,OPERATIONAL,4.5,6,"primary_school, point_of_interest, school, establishment",
+Bina Bakti Christian Middle School 2,"Jalan Bima No.1, Arjuna",-6.9121609,107.5954822,OPERATIONAL,4.8,52,"point_of_interest, school, establishment",
+Sekolah Mode Linna Lea,"Jalan Semar No.32, Arjuna",-6.9081343,107.5971071,OPERATIONAL,4,6,"school, point_of_interest, establishment",
+SMP Negeri 9 Bandung,"Jalan Semar No.5, Arjuna",-6.9089943,107.5969819,OPERATIONAL,4.3,136,"point_of_interest, school, establishment",

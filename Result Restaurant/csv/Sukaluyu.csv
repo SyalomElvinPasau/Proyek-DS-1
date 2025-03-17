@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level
+Ayam Dadar Bandung,"Jalan Jalaprang No.83, Sukaluyu",-6.8970705,107.631041,OPERATIONAL,5,1,"restaurant, food, point_of_interest, establishment",Unknown
+RM. SAIYO Cikutra Barat,"Jalan Cikutra Barat No.59, Sukaluyu",-6.892334999999999,107.6310695,OPERATIONAL,4.3,48,"restaurant, food, point_of_interest, establishment",1
+Saine Kitchen,"Jalan Gambir Saketi No.6, Sukaluyu",-6.8961695,107.6300414,CLOSED_TEMPORARILY,4.5,23,"restaurant, food, point_of_interest, establishment",Unknown
