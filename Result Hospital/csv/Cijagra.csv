@@ -1,0 +1,3 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Medstar,"Jalan Suryalaya Tengah No.14 A, Cijagra",-6.9441031,107.62304,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,1
+Poliklinik ISBI,"No.212, GOS.Patanjala,, Jalan Buah Batu, Cijagra",-6.942609699999999,107.6275183,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

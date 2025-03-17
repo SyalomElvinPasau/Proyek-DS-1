@@ -1,0 +1,7 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Balai Pengobatan Advent,"Jalan Kiara Condong No.269, Babakan Sari",-6.923832099999999,107.6483763,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Bidan Adelia,"Jalan Babakan Sari No.155, Babakan Sari",-6.9235594,107.6533319,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.9,50
+Tugala Oyo,"3MG3+8PX, Jalan Kantor, Babakan Sari",-6.924133899999999,107.6543445,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Umah yowyow,"07, Jalan Babakan Surabaya No.21c, Babakan Sari",-6.919277300000001,107.6473578,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Mandala,"Jalan Babakan Sari No.11, Babakan Sari",-6.9221798,107.6451965,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Anugrah Sejahtera,"Jalan Kiara Condong No.331, Babakan Sari",-6.921603500000001,107.6445842,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1

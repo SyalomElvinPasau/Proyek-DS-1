@@ -1,0 +1,3 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Pengobatan Pak Fauzan,"Margahayu Raya Barat, Jl. Neptunus Tengah I A 26 no 1, Sekejati",-6.947910299999999,107.6570344,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,8
+Edelweiss Hospital,"Jalan Soekarno-Hatta No.550, Sekejati",-6.943559099999999,107.6496628,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.4,1793

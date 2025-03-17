@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Bidan darmi,"Jalan Babakan Baru No.230, Sukapada",-6.8988087,107.6472726,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3
+Balai Pengobatan Bina Insan Sehat,Jalan Cimuncang No.54-A,-6.897921499999999,107.650588,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Posyandu Cempaka Mekar,"Jalan Sekemerak No.182, Sukapada",-6.8918004,107.6464573,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

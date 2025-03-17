@@ -1,0 +1,6 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Praktek Dokter Gigi,"Jalan Pasir Kaliki No.239, Sukabungah",-6.897103199999999,107.597208,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,1
+Cardiac Center and Medical Center,"Jalan Pasir Kaliki No.225, Pasteur",-6.897864900000001,107.5971291,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.9,13
+Rumah Teduh Bandung,"4H4W+PVJ, Pasteur",-6.893169999999999,107.5971351,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,26
+RS Wulandari,"Jalan Jendral Gatot Subroto No. 31, Sukabungah, Sukajadi, Sukabungah",-6.899452800000001,107.5959488,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Robotik Alamanda,"RS Dr Hasan Sadikin Jalan Pasteur No.38, Pasir Kaliki",-6.899516799999999,107.5966007,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

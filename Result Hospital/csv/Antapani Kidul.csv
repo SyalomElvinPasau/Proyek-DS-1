@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+PT. RAFA Topaz Utama,"Jalan Hantap Raya No.2-10, Antapani Kidul",-6.9231522,107.6574818,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+dr. R. H Agoes Hardiana,"3MJ6+H26, Antapani Kidul",-6.9185959,107.6600056,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+UPT PUSKESMAS JAJAWAY,"Jalan Pratista Timur VIII No.43, Antapani Kidul",-6.927591799999999,107.6644721,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.3,90
+Holistic,"3MM4+2RR, Jalan Purwakarta, Antapani Tengah",-6.917382099999999,107.6570208,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

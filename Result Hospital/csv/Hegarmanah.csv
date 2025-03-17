@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Dr. H. A. Rotinsulu Lung Hospital,"Jalan Bukit Jarian No.40, Hegarmanah",-6.877633899999999,107.6065216,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.2,740
+Dr. Abdul Azis W,"JL. Cimbuluit No.90, Hegarmanah",-6.874550999999999,107.604931,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,2
+Pelayanan Rawat Inap,"4JC4+RHV, Hegarmanah",-6.877875499999999,107.6064117,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,4

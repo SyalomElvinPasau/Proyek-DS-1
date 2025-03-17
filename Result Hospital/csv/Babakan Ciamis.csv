@@ -1,0 +1,9 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Klinic Vega,"Jalan Kebon Sirih No.23, Babakan Ciamis",-6.911597899999999,107.6060068,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+RS PTP VIII Yung Huhn,"3JP5+375, Jl. Pangkalan AU Sulaiman, Babakan Ciamis, Sumur Bandung, Babakan Ciamis",-6.9148644,107.6082421,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Caringin,Babakanciamis,-6.9148644,107.6082421,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+RS TB Paru Cipaganti,Babakanciamis,-6.9148644,107.6082421,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Poli Eksekutif VIP RS Cicendo,"Jalan Cicendo No.4, Babakan Ciamis",-6.91013,107.6047955,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Cicendo LASIK Center,"3JR3+2Q7, Unnamed Road, Jalan Pasir Kaliki, Babakanciamis",-6.9099565,107.6044361,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,6
+RSMC,"Jalan Cicendo No.33, Babakan Ciamis",-6.910589499999999,107.6042602,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3
+Mandiri ATM Rs Mata Cicendo,"Jalan Cicendo No.24a, Pasir Kaliki",-6.9105742,107.6041998,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,1

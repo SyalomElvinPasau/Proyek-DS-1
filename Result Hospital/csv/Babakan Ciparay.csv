@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+PT Karsa Sangga Buwana,Jalan Soekarno-Hatta No.147,-6.9374091,107.5806017,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Dr Gigi Bertha Triana,Jalan Sumber Nanjung III No.25-17,-6.937593099999999,107.5749831,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.6,8
+Klinik Umum Pratama Walagri,"Jalan Makam Caringin No.30, Babakan Ciparay",-6.947099699999999,107.5832728,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Posyandu Kenanga 1 & 2,"Jalan Babakan Ciparay No.08, Suka Asih",-6.934172999999999,107.5845851,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1

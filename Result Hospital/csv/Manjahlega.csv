@@ -1,0 +1,19 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Rachmawati Noverina DRH,"JL. Mars Selatan 5, No. 3, Margahayu Raya, Bandung, Manjahlega",-6.948201,107.664969,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Khitan,Manjahlega,-6.949248899999999,107.665927,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,2
+Fisioterapi RS Al Islam Bandung,"3M59+R7G, Manjahlega",-6.9404314,107.6682079,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,1
+Al Islam Hospital,"Jalan Soekarno-Hatta No.644, Manjahlega",-6.9390073,107.6691759,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,2023
+"Irma Sukmawati Indrawan, DRG","JL. Merkuri Raya, No. 76, Margasari, Margacinta, Bandung, Manjahlega",-6.946124999999999,107.668099,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Pavilium Parahyangan,"Jalan Venus Timur IX No.10, Manjahlega",-6.9412411,107.6687503,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Tumbuh Kembang Anak Al Islam,"Jl. Venus, Jalan Aria Timur III No.7, Manjahlega",-6.940471000000001,107.668157,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3
+RS Humana Prima,"Jalan Rancabolang No.21, Manjahlega",-6.9407992,107.6640191,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.4,817
+Klinik Bedah Saraf,"3M59+RJV, Manjahlega",-6.940384700000001,107.669061,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Klinik Jantung dan Pembuluh Darah,"3M59+RJV, Manjahlega",-6.940384700000001,107.6690623,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+Klinik Bedah Tulang/Orthopedi,"3M59+RJV, Manjahlega",-6.9403837,107.6690606,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Klinik Mata,"3M59+RJV, Manjahlega",-6.940383600000001,107.6690611,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.7,3
+Klinik Paru,"3M59+RJV, Manjahlega",-6.940383199999999,107.6690601,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Bedah Urolog,"3M59+RJV, Manjahlega",-6.940383699999999,107.6690619,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Bedah Umum,"3M59+RJV, Manjahlega",-6.940383600000001,107.6690615,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Klinik Psikiatri,"3M59+RJV, Manjahlega",-6.9403831,107.6690601,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.8,6
+Klinik Bedah Plastik,"3M59+RJV, Manjahlega",-6.9403832,107.6690614,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+"Klinik Kulit, Kelamin dan Kosmetik","3M59+RJV, Manjahlega",-6.940383100000001,107.6690615,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

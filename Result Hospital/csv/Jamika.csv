@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+UPTD Puskesmas Sukapakir,"Jalan Pagarsih Gang Pa. Oyon No.27, Jamika",-6.9232702,107.587036,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.1,75
+Dr. Ade Burhanudin,"Jalan Pagarsih No.221, Jamika",-6.9221453,107.5870234,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Dr Ikin Tjandra,"Jalan Jamika No.98 B, Babakan Tarogong",-6.9226825,107.5857892,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.9,26
+Klinik Jamika,Jalan Jamika No.86,-6.922345600000001,107.5857548,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,37

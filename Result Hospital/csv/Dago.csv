@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Kontrakan dr. Hanafi,"Jalan Dagopojok No.24, Dago",-6.873627399999999,107.6173575,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.3,3
+Maria 407,"4JF9+P96, Jalan, Dago",-6.8757044,107.6183813,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Pos Pelayanan Terpadu (POSYANDU),"4J95+RVC, Jalan Sangkuriang Barat 2, Dago",-6.8804263,107.6096436,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

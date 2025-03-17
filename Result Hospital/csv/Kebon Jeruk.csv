@@ -1,0 +1,20 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Santosa Hospital Bandung Central,"Jalan Kebon Jati No.38, Kebon Jeruk",-6.9154958,107.600376,"hospital, dentist, health, point_of_interest, establishment",OPERATIONAL,4.6,11164
+Provider InHealth Bandung,"RS Santosa Bandung Internasional, JL. Kebon Jati, No. 38, Campaka, 40181, Kebon Jeruk",-6.9161167,107.6010271,"hospital, insurance_agency, health, point_of_interest, establishment",OPERATIONAL,5,2
+Rumah Sakit Kebon Jati,"Jalan Kebon Jati No.152, Ciroyom",-6.9161037,107.5963194,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,3.7,1402
+Pintu Portal Sentosa Hospital Bandung,"Jalan Kebon Jeruk No.38, Kebon Jeruk",-6.918528599999999,107.6002356,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3
+Lobby Security Rs Kebon Jati,"Jalan Kebon Jati No.130, Ciroyom",-6.9159619,107.597288,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+"Eppy Darmadi Achmad, SP.Og","Santosa Bandung International, Jalan Kebon Jati No.38, Kebon Jeruk",-6.915789999999999,107.600513,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,5
+Klinik Disfungsi Seksual,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1
+Pusat Kesehatan Anak,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Sandia Biotech Diagnostic Centre (SBDC),"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.3,7
+Klinik Mata,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Pusat Ortopedi Rekonstruksi dan Sport Medicine,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1
+Klinik-Klinik Penyakit Dalam,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.7,7
+Klinik Gizi,"Jalan Kebon Jati No.40, Kebon Jeruk",-6.9156321,107.6005418,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Obstetric and gynecology center,"Jalan Kebon Jati No.38, Kebon Jeruk",-6.915402099999999,107.6002868,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+Santosa Eye Center,"3JM2+R58, Kebon Jeruk",-6.9154689,107.6004609,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,4
+Musholla Asy-Syifa,"Santosa Hospital Bandung Central, Kebon Jeruk",-6.915213700000001,107.6004507,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+East Wing RS Santosa Bandung,"Jalan Kebon Jati No.32, Kebon Jeruk",-6.9154049,107.6008491,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.7,3
+Klinik Paru,"3HMW+HFW, Ciroyom",-6.9160241,107.5962104,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Cafetatia Santosa,"3JP2+45G, Jalan Stasiun Barat, Kebon Jeruk",-6.9146812,107.6004384,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1

@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Bidan Wulan Maternity Clinic,"Jalan Inhoftank No.120, Kebon Lega",-6.946816499999999,107.6022486,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.9,7
+Rumah Bersalin Ibu Ida. S,"Jalan Cibaduyut Lama No.78, Kebon Lega",-6.948130799999999,107.5925509,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1
+Klinik Permata Bunda,"Jalan Cibaduyut Lama No.76, Kebon Lega",-6.948139800000001,107.5924386,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Posyandu Cemara II Rw. 07,"Jalan Cibaduyut Lama No.07, Kebon Lega",-6.9482905,107.5908453,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

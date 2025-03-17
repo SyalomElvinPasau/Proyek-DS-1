@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Rumah Sakit Max I Salhutera,3MPC+48C,-6.914675,107.670764,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Utama Rachmawati,"Jalan Pesona Arcamanik Endah No.A4, Sukamiskin",-6.920363399999999,107.6711234,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Rumah Bersalin Rachmawati,"Jalan Pesona Arcamanik Endah No.A4, Sukamiskin",-6.920370899999999,107.6711396,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,8
+Deshi,"3MV9+C85, Jalan Simpangsari, Sukamiskin",-6.906497600000001,107.668375,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

@@ -1,0 +1,16 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+"Gedung Ilmu Penyakit Dalam, FK Unpad, RSUP Dr. Hasan Sadikin","No., Jalan Pasir Kaliki No.190, Pasteur",-6.8985892,107.5984397,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.8,4
+RSUP Dr. Hasan Sadikin Bandung,"Jalan Pasteur No.38, Pasteur",-6.898158799999999,107.5983954,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,2.9,5548
+Dr. Lina,"JL. Jurang Blok 181 No.735, Pasteur",-6.889275,107.6005035,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Hospital Scooter's Matic,"4H4X+XJ4, Pasteur",-6.8926077,107.5990687,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+rumah singgah kab. subang,"Jalan Tawekal No.19, Pasteur",-6.8935675,107.5997218,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+RUMAH SEHAT MANDIRI,"Jalan Tawekal, Pasteur",-6.8937219,107.6001814,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,47
+Poliklinik Kesehatan Gigi dan Mulut,"Jalan Makmur, isya, gotong royong",-6.894579599999999,107.600103,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Khitan Sukajadi,"Jalan Sukajadi No.36A, Pasteur",-6.894080099999999,107.5972743,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,47
+Poliklinik Husni Sukajadi,"Jalan Sukajadi No.36, Sukabungah",-6.8941876,107.5972477,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.4,64
+Klinik Teratai RSUP Dr. Hasan Sadikin,"Jalan Professor Eyckman No.38, Pasteur",-6.8954111,107.5985651,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.3,3
+MEDICAL SCIENCE CENTER RSP UNPAD BANDUNG,"Gedung RSP UNPAD, Jalan Professor Eyckman No.38, Pasteur",-6.895729599999999,107.5988751,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3
+R.sakit pusat Hassan Sadikin,"4J32+F3R, Jalan Professor Eyckman, Pasteur",-6.8962702,107.6001429,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Gedung Parahyangan - RSHS,"Jalan Pasteur No.38, Pasir Kaliki",-6.896355399999999,107.5987659,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Poliklinik Kesehatan Jiwa,"4H3X+76W, Pasteur",-6.896772500000001,107.5980681,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Poliklinik Kebidanan & kandungan,"4H3X+76W, Pasteur",-6.896772500000001,107.5980681,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

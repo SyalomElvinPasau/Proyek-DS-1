@@ -1,0 +1,7 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Apotik Dextro,"3JQF+79J, Merdeka",-6.9117928,107.6233926,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Skin Ethica | Klinik Spesialis Kulit & Body Slimming • Aesthetic • Operasi Plastik • Ozempic (Semaglutide) • Bandung,"Jalan Aceh No.66, Merdeka",-6.9093015,107.6194375,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,66
+Klinik Pratama Kodiklat AD,"Jalan Belitung No.3, Merdeka",-6.9114009,107.6169155,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,8
+"Dr. L. Kabul Budianto, SPKJ","Apt. Mega Farma, JL. Aceh, No. 129, Bandung, Merdeka",-6.909844,107.616494,"hospital, health, point_of_interest, establishment",CLOSED_TEMPORARILY,4.8,5
+Rumah Sakit Bersalin Emma Poeradiredja,Jalan Sumatera No.46 - 48,-6.912985999999999,107.613875,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Kantor BOS,"Jalan Sumatera No.46, Merdeka",-6.913158299999999,107.6135348,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

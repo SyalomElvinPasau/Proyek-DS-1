@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Damai,"Jalan Laswi No.1, Kacapiring",-6.917543199999999,107.631112,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Dr. Hizkia Suria Subrata,"Plaza IIBC, Jalan A. Yani No.296, Kacapiring",-6.9148294,107.6330848,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+M Agus Ahli Gigi,"Jalan Laswi No.82, Cibangkong",-6.918012999999999,107.63076,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Poliklinik Kebon Waru,"Jalan Kebonwaru Utara No.17, Kacapiring",-6.913215200000001,107.6361629,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

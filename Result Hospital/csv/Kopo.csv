@@ -1,0 +1,6 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Balai Pengobatan Swasta Bd. Hj Tini,"Jalan Citarip Tengah I No.18-20, Kopo",-6.939635999999999,107.587569,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Upt Puskes,"3H6Q+Q92, Kopo",-6.9381234,107.5883768,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+BPM Bidan Citra Mahardika,"Jalan Sukamulya No.36, Kopo",-6.937705599999999,107.5892424,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+RUQYAH RSI,"Gang Cetarip Timur I No.111 Rt.04/05, Situsaeur",-6.9442298,107.5905084,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+Kki,"Jalan Cetarip Barat No.20, Kopo",-6.941508199999999,107.5918919,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2

@@ -1,0 +1,3 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+RSB Harapan Keluarga,"Jalan Pasir Salam No.6-8, Ancol",-6.9452772,107.6167616,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,13
+Klinik Bersalin Harkel (Harapan Keluarga),"Jalan Pasir Salam Raya I No.6-8, Ancol",-6.945373000000001,107.6168,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.5,167

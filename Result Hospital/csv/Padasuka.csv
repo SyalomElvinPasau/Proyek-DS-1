@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Ruang Fatimah - RS Santo Yusup Bandung,"3JWV+6JC, Jalan Cikutra, Cikutra",-6.904439599999999,107.6440062,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,2
+Klinik amanah suci,"Jalan Khp Hasan Mustopa No.124, Padasuka",-6.900612299999999,107.6454022,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+Klinik Bersalin Cikultra,"3JXV+WVR, Gang Sukapada I, Padasuka",-6.900145699999999,107.6446295,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

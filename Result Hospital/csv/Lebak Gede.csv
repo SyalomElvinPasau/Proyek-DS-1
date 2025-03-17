@@ -1,0 +1,19 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Borromeus Children Medical Center,"Jalan Ir. H. Juanda No.100, Lebakgede",-6.894095999999999,107.6133558,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.7,56
+Rumah Sakit Gigi dan Mulut Unpad,"Jalan Sekeloa Selatan No.1, Lebakgede",-6.8905118,107.6191411,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,845
+Saint Borromeus Hospital,"Jalan Ir. H. Juanda No.100, Lebakgede",-6.8939955,107.6136797,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,2104
+Pintumasuk,"Jalan Surya Kencana No.8, Lebakgede",-6.893317899999999,107.6144579,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Lobby Elisabeth RS Borromeus,"Jalan Surya Kencana No.1-7, Lebakgede",-6.8932815,107.6142844,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Gedung Carolus RS St. Borromeus,"Jalan Ir. H. Juanda No.104, Lebakgede",-6.8929964,107.6135309,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,6
+DRG. Nina Djustiana,"JL. Ir. H. Juanda, No. 1, Bandung, Lebak Gede",-6.892215999999999,107.613431,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,1
+Gedung yosef,"4J47+6FP, Lebak Gede",-6.894419399999999,107.6138462,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Santo Lukas,"RSU Santo Borromeus, Jalan Ir. H. Juanda No.100, Lebakgede",-6.894524400000001,107.6138306,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,2
+Medical Check Up RS Borromeus,"4J47+4HP, Jalan Ir. H. Juanda, Dago",-6.8946694,107.6139461,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Puskesmas Sekeloa,"Jalan Tubagus Ismail Bawah No.4, Lebakgede",-6.8896266,107.6168169,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.9,66
+Klub Sadar Stroke,"4J47+99F, Lebak Gede",-6.8940702,107.6134314,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Kamar Operasi,"4J47+997, Lebak Gede",-6.894087900000001,107.6134306,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Instalasi Gizi,"4J47+997, Lebak Gede",-6.894087900000001,107.6134306,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Gedung maria 1,"4J47+F83, Dago",-6.893866,107.6132911,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Shelter SDO & LLT,"Jalan Dago No.100, Lebak Siliwangi",-6.894224700000001,107.6134304,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Intensive Care Unit (ICU),"4J47+C8J, Lebak Gede",-6.893912900000001,107.6132744,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Cek eeg,"Jalan Dipati Ukur No.23, Lebakgede",-6.896031600000001,107.6162709,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

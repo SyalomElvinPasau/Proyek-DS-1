@@ -1,0 +1,6 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Bandung Advent Hospital,"Jalan Cihampelas No.161, Cipaganti",-6.892076599999998,107.6032797,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,4.2,1466
+IGD RS ADVENT,"4J53+783, Jalan Sampurna, Pasteur",-6.891857799999999,107.6033004,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,4
+"Dr Achmad Suardi, SP.Og, K-Onk","RS ADVENT, Jalan Cihampelas No.161, Cipaganti",-6.891980999999999,107.6031991,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.7,3
+Nurse Station,"Rs. Advent, Jalan Cihampelas No.161, Cipaganti",-6.891978799999999,107.6028996,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Poli Gigi RS Siaga Raya,"Jalan Siaga Raya No.kav 4-8, Pejaten Barat",-6.894776999999999,107.605618,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

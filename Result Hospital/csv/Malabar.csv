@@ -1,0 +1,6 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Puskesmas kec. Lengkong,"Jalan Malabar No.125 B, Malabar",-6.928226299999999,107.6225686,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,7
+Gebyar Bekam,"Jalan Malabar No.61, Malabar",-6.923179800000001,107.6242631,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+"Yeni Udaya, DRG","Jalan A. Yani No.172, Kebon Pisang",-6.919858100000001,107.6227204,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Dokter Setiawan,"3JJF+2GJ, Malabar",-6.919920299999999,107.6237551,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.8,65
+Evo Dental Care (VDC) / Dokter Gigi Spesialis Prosto,"Jalan Gajah No.20A, Malabar",-6.9339073,107.620797,"hospital, dentist, health, point_of_interest, establishment",OPERATIONAL,5,269

@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Apotek Griya Farma Ciwastra,"Jalan Margasari No.94, Mekarjaya",-6.959375499999999,107.6607971,"pharmacy, hospital, store, health, point_of_interest, establishment",OPERATIONAL,4.8,261
+RSIA Harapan Bunda Bandung,Jalan Pluto Raya Blok C,-6.955923299999998,107.661776,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4,617
+Dr. Ade Haydae Amir Rajab,"Jalan Pluto Raya B No.4, Margasari",-6.958898199999999,107.6617112,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

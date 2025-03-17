@@ -1,0 +1,6 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+BIDAN S. INDRI,"Jalan Jatihandap No.158, Jatihandap",-6.891631699999999,107.6628146,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Bidan IIyan,"Jalan Jatihandap No.40, Jatihandap",-6.889672999999999,107.6638649,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Pijat Pak Agus,"Jalan Cicabe No.26, Jatihandap",-6.899275499999999,107.6579264,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+pengobatan asia afrika,"3MX5+FMR, Jatihandap",-6.901253699999999,107.6591475,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Asia Eropa,"3MX5+FJQ, Jatihandap",-6.90128,107.659094,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

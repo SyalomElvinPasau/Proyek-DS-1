@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2df956689b0177952be84d873594a14b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_2df956689b0177952be84d873594a14b" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_2df956689b0177952be84d873594a14b = L.map(
+                "map_2df956689b0177952be84d873594a14b",
+                {
+                    center: [-6.917186915728296, 107.5988984933912],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_592bdecd27037cbe18f1657f9d547ee6 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_592bdecd27037cbe18f1657f9d547ee6.addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var polygon_4a8c4aed8e16dbb69dc3a51c98142a14 = L.polygon(
+                [[-6.919430731999967, 107.59301757900016], [-6.919201372999964, 107.59304809600013], [-6.918791293999959, 107.59310150099998], [-6.918404577999979, 107.59314727800012], [-6.91816711499996, 107.59317779600019], [-6.917882918999965, 107.59322357100012], [-6.91716909299987, 107.5933227540001], [-6.917094706999933, 107.59333801200012], [-6.916690349999953, 107.59339141900017], [-6.916447638999955, 107.5933990470001], [-6.916369437999947, 107.59335327200012], [-6.916205882999918, 107.59335327200012], [-6.916084766999973, 107.59328460700004], [-6.915989397999965, 107.59314727800012], [-6.915888785999925, 107.59301757900016], [-6.915700435999952, 107.59279632600004], [-6.915438651999978, 107.59280395400015], [-6.915248392999956, 107.59259796200018], [-6.915132044999893, 107.59260559000006], [-6.915012358999945, 107.59265136700003], [-6.914933204999954, 107.59264373700012], [-6.914747236999972, 107.592697144], [-6.914393900999926, 107.59282684300018], [-6.914300917999981, 107.59284973100011], [-6.914247035999949, 107.59300231900016], [-6.914117812999905, 107.59298706000004], [-6.914002418999871, 107.59294128300007], [-6.914003848999926, 107.59329223700013], [-6.914004324999951, 107.59349822900015], [-6.914015769999935, 107.59358978300008], [-6.914141177999966, 107.5944519040001], [-6.914201735999939, 107.59487152100007], [-6.914258478999898, 107.59519958400011], [-6.914259910999931, 107.59536743200016], [-6.914261816999954, 107.59544372500017], [-6.914273739999942, 107.59588623100018], [-6.91427183199994, 107.596244813], [-6.914273261999881, 107.59637451100008], [-6.914275644999918, 107.59660339400011], [-6.914276599999937, 107.59670257700003], [-6.914288042999885, 107.597747803], [-6.914290904999916, 107.5979995730001], [-6.914298533999954, 107.59819793700012], [-6.914302348999911, 107.59833526600005], [-6.914308070999937, 107.59844207800018], [-6.914314746999935, 107.59857177700019], [-6.914321898999845, 107.598739625], [-6.914336679999906, 107.59908294600012], [-6.914338112999928, 107.59922790500008], [-6.914340494999976, 107.59931945700004], [-6.914348125999879, 107.59961700400004], [-6.914342402999921, 107.59986114500009], [-6.91433620499987, 107.60001373200004], [-6.914332866999928, 107.60034942500016], [-6.914328574999956, 107.60083770800014], [-6.914324759999886, 107.60124206500012], [-6.914322851999941, 107.60141754199998], [-6.914349077999873, 107.60185241800008], [-6.914360045999956, 107.60204315200008], [-6.914370058999907, 107.60233306800006], [-6.914370058999907, 107.60240936200017], [-6.914377211999977, 107.60253143300008], [-6.914390087999891, 107.60276031500018], [-6.914390087999891, 107.6028594980001], [-6.914457320999929, 107.60356140100004], [-6.914470671999879, 107.60369873000008], [-6.91448306999996, 107.60382843100007], [-6.914492606999943, 107.60392761300011], [-6.914539336999894, 107.60429382300003], [-6.914551257999904, 107.60445404000006], [-6.914556502999972, 107.60462951599999], [-6.914655207999886, 107.60462951599999], [-6.914748668999891, 107.60462951599999], [-6.914865969999937, 107.60462951599999], [-6.914979934999906, 107.60462951599999], [-6.915057658999956, 107.60462951599999], [-6.915183544999877, 107.60462188800011], [-6.915304182999932, 107.60462188800011], [-6.915437698999881, 107.6046142580002], [-6.915698050999936, 107.60459136900016], [-6.91584157799997, 107.604568481], [-6.915969371999893, 107.6045532220001], [-6.916073321999875, 107.60454559400017], [-6.916184901999884, 107.60453033400017], [-6.916320322999979, 107.60451507500005], [-6.916822908999904, 107.60446929800008], [-6.916920660999949, 107.60445404000006], [-6.917049406999922, 107.60443878200005], [-6.917142866999939, 107.60443115200013], [-6.917294500999958, 107.6044235230001], [-6.917420386999879, 107.60441589300018], [-6.917800902999943, 107.60437774600013], [-6.918073652999908, 107.60435485800019], [-6.918147085999976, 107.60435485800019], [-6.918279646999906, 107.60434723000009], [-6.918534278999857, 107.60433196899999], [-6.918722627999898, 107.60432434100005], [-6.91901016199995, 107.60430908300003], [-6.919183729999929, 107.60430145300012], [-6.919331073999956, 107.60428619400005], [-6.919483660999958, 107.604270934], [-6.919650076999972, 107.60425567599998], [-6.919742583999891, 107.60424041700009], [-6.919950960999927, 107.60424041700009], [-6.920236110999952, 107.6042175290001], [-6.920771598999977, 107.60418701200018], [-6.920686244999899, 107.60343933000013], [-6.920617103999973, 107.60284423700017], [-6.920596122999939, 107.60266113300014], [-6.920569419999936, 107.6024322500001], [-6.920558451999909, 107.60232544000013], [-6.920545577999917, 107.6021957390002], [-6.92052125999993, 107.60196685800014], [-6.920491218999928, 107.60169982899998], [-6.920458793999842, 107.60139465400005], [-6.920447348999971, 107.60128784200009], [-6.920415399999968, 107.60099792500017], [-6.920387743999981, 107.60079956100009], [-6.92035961199997, 107.60048675600007], [-6.920273780999878, 107.59980774000002], [-6.920215605999942, 107.59932708700012], [-6.920125483999868, 107.59859466500012], [-6.920102595999936, 107.59841919000007], [-6.920093059999942, 107.59833526600005], [-6.920060157999899, 107.59809875500014], [-6.919985294999833, 107.59755706700008], [-6.91997289699998, 107.5974502570001], [-6.919957637999914, 107.59732055600011], [-6.919929504999914, 107.59706115600017], [-6.91989278799997, 107.59671783500005], [-6.919883249999828, 107.59663391100008], [-6.919815539999888, 107.59606170700016], [-6.919806003999895, 107.59598541300005], [-6.919784067999956, 107.59578704900014], [-6.919772147999936, 107.5956878670001], [-6.919751643999973, 107.59547424400012], [-6.919726372999889, 107.59521484400017], [-6.91970777399996, 107.5950317380001], [-6.919677732999958, 107.59481048600009], [-6.919580458999974, 107.59408569400017], [-6.919529913999895, 107.59378814800004], [-6.919430731999967, 107.59301757900016]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var marker_50cbdfbae2e6e00a44a71076df281036 = L.marker(
+                [-6.9154958, 107.600376],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_d467e789b9c7cffd57d3e80a07eafa96 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_63d0d12ffa13387eabf1a0843a8e1a6c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_014ac39b00bee3db4fbf03fd0d4ffccd = $(`<div id="html_014ac39b00bee3db4fbf03fd0d4ffccd" style="width: 100.0%; height: 100.0%;">Santosa Hospital Bandung Central</div>`)[0];
+                popup_63d0d12ffa13387eabf1a0843a8e1a6c.setContent(html_014ac39b00bee3db4fbf03fd0d4ffccd);
+            
+        
+
+        marker_50cbdfbae2e6e00a44a71076df281036.bindPopup(popup_63d0d12ffa13387eabf1a0843a8e1a6c)
+        ;
+
+        
+    
+    
+                marker_50cbdfbae2e6e00a44a71076df281036.setIcon(icon_d467e789b9c7cffd57d3e80a07eafa96);
+            
+    
+            var marker_90b1ca37257a0999389916c3204d5742 = L.marker(
+                [-6.9161167, 107.6010271],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_6e3547b0a7c0e2a14130381f98bc4b0d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4bd43799568ac95d684021788225d105 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ae31c1a89d49d29cdc715de2fee0db97 = $(`<div id="html_ae31c1a89d49d29cdc715de2fee0db97" style="width: 100.0%; height: 100.0%;">Provider InHealth Bandung</div>`)[0];
+                popup_4bd43799568ac95d684021788225d105.setContent(html_ae31c1a89d49d29cdc715de2fee0db97);
+            
+        
+
+        marker_90b1ca37257a0999389916c3204d5742.bindPopup(popup_4bd43799568ac95d684021788225d105)
+        ;
+
+        
+    
+    
+                marker_90b1ca37257a0999389916c3204d5742.setIcon(icon_6e3547b0a7c0e2a14130381f98bc4b0d);
+            
+    
+            var marker_cdb5ae1c2cc1f4fc7c024391397d08e1 = L.marker(
+                [-6.9161037, 107.5963194],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_0df005f6bce764deaec251e786ea7aa4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0130ba259b4cfe1e219d49e84befde2d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bed846ee674ac150f9cc9f7616463b7f = $(`<div id="html_bed846ee674ac150f9cc9f7616463b7f" style="width: 100.0%; height: 100.0%;">Rumah Sakit Kebon Jati</div>`)[0];
+                popup_0130ba259b4cfe1e219d49e84befde2d.setContent(html_bed846ee674ac150f9cc9f7616463b7f);
+            
+        
+
+        marker_cdb5ae1c2cc1f4fc7c024391397d08e1.bindPopup(popup_0130ba259b4cfe1e219d49e84befde2d)
+        ;
+
+        
+    
+    
+                marker_cdb5ae1c2cc1f4fc7c024391397d08e1.setIcon(icon_0df005f6bce764deaec251e786ea7aa4);
+            
+    
+            var marker_0aaf803258204de5e677a84b1fc016b7 = L.marker(
+                [-6.918528599999999, 107.6002356],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_5fb84ea21371141cf492ff5cc03c7dda = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c58f6b18c9e08c1c2b3692b861a316e4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_86e9727c898daab67cb8822ad6cee957 = $(`<div id="html_86e9727c898daab67cb8822ad6cee957" style="width: 100.0%; height: 100.0%;">Pintu Portal Sentosa Hospital Bandung</div>`)[0];
+                popup_c58f6b18c9e08c1c2b3692b861a316e4.setContent(html_86e9727c898daab67cb8822ad6cee957);
+            
+        
+
+        marker_0aaf803258204de5e677a84b1fc016b7.bindPopup(popup_c58f6b18c9e08c1c2b3692b861a316e4)
+        ;
+
+        
+    
+    
+                marker_0aaf803258204de5e677a84b1fc016b7.setIcon(icon_5fb84ea21371141cf492ff5cc03c7dda);
+            
+    
+            var marker_fdfb3965ffdb55a76c56fdac123d4569 = L.marker(
+                [-6.9159619, 107.597288],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_aa0e7d426b75ce5056f0c00478b0f000 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5a476d4ba714092f42f5a60f49379a7e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_449fab9c8c01702f1193629aedfe4ffd = $(`<div id="html_449fab9c8c01702f1193629aedfe4ffd" style="width: 100.0%; height: 100.0%;">Lobby Security Rs Kebon Jati</div>`)[0];
+                popup_5a476d4ba714092f42f5a60f49379a7e.setContent(html_449fab9c8c01702f1193629aedfe4ffd);
+            
+        
+
+        marker_fdfb3965ffdb55a76c56fdac123d4569.bindPopup(popup_5a476d4ba714092f42f5a60f49379a7e)
+        ;
+
+        
+    
+    
+                marker_fdfb3965ffdb55a76c56fdac123d4569.setIcon(icon_aa0e7d426b75ce5056f0c00478b0f000);
+            
+    
+            var marker_c4b1b52fd729d24997200107475713d7 = L.marker(
+                [-6.915789999999999, 107.600513],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_0c5faac609a2d83fbda00e6c8d315420 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2757cc33d58e1027b172dab08c76c27d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0cbf27d2b169a1bc8a13db1ece66fa2b = $(`<div id="html_0cbf27d2b169a1bc8a13db1ece66fa2b" style="width: 100.0%; height: 100.0%;">Eppy Darmadi Achmad, SP.Og</div>`)[0];
+                popup_2757cc33d58e1027b172dab08c76c27d.setContent(html_0cbf27d2b169a1bc8a13db1ece66fa2b);
+            
+        
+
+        marker_c4b1b52fd729d24997200107475713d7.bindPopup(popup_2757cc33d58e1027b172dab08c76c27d)
+        ;
+
+        
+    
+    
+                marker_c4b1b52fd729d24997200107475713d7.setIcon(icon_0c5faac609a2d83fbda00e6c8d315420);
+            
+    
+            var marker_ee1664211de9bccfb2604cae841d1c8a = L.marker(
+                [-6.9156321, 107.6005418],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_cfdf90931750191f39f3a1e771f45a19 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ec6edad9a7955090a8de0f363a5750d4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7a33633ece8c3a546d771878e6b6ade6 = $(`<div id="html_7a33633ece8c3a546d771878e6b6ade6" style="width: 100.0%; height: 100.0%;">Klinik Disfungsi Seksual</div>`)[0];
+                popup_ec6edad9a7955090a8de0f363a5750d4.setContent(html_7a33633ece8c3a546d771878e6b6ade6);
+            
+        
+
+        marker_ee1664211de9bccfb2604cae841d1c8a.bindPopup(popup_ec6edad9a7955090a8de0f363a5750d4)
+        ;
+
+        
+    
+    
+                marker_ee1664211de9bccfb2604cae841d1c8a.setIcon(icon_cfdf90931750191f39f3a1e771f45a19);
+            
+    
+            var marker_62966e0596fe6b896665de76274efb8a = L.marker(
+                [-6.9156321, 107.6005418],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_59d5a11f2ae7bda11d6fd4f89da55c46 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_42030023058eebd970e01b940dc30ce3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1de22425362b4d0a7ae9702302d64b39 = $(`<div id="html_1de22425362b4d0a7ae9702302d64b39" style="width: 100.0%; height: 100.0%;">Pusat Kesehatan Anak</div>`)[0];
+                popup_42030023058eebd970e01b940dc30ce3.setContent(html_1de22425362b4d0a7ae9702302d64b39);
+            
+        
+
+        marker_62966e0596fe6b896665de76274efb8a.bindPopup(popup_42030023058eebd970e01b940dc30ce3)
+        ;
+
+        
+    
+    
+                marker_62966e0596fe6b896665de76274efb8a.setIcon(icon_59d5a11f2ae7bda11d6fd4f89da55c46);
+            
+    
+            var marker_16f43e45c3ffb62a1aa3090fb3a8700f = L.marker(
+                [-6.9156321, 107.6005418],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_be2987e53512beb2da7f83a03262b3bc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f165e1ec0bc5378b9c979a03fa0280b7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_44f315c85a1d09bf4078a57c17b9ffde = $(`<div id="html_44f315c85a1d09bf4078a57c17b9ffde" style="width: 100.0%; height: 100.0%;">Sandia Biotech Diagnostic Centre (SBDC)</div>`)[0];
+                popup_f165e1ec0bc5378b9c979a03fa0280b7.setContent(html_44f315c85a1d09bf4078a57c17b9ffde);
+            
+        
+
+        marker_16f43e45c3ffb62a1aa3090fb3a8700f.bindPopup(popup_f165e1ec0bc5378b9c979a03fa0280b7)
+        ;
+
+        
+    
+    
+                marker_16f43e45c3ffb62a1aa3090fb3a8700f.setIcon(icon_be2987e53512beb2da7f83a03262b3bc);
+            
+    
+            var marker_8ea19483765ad3d40123873cca9983a7 = L.marker(
+                [-6.9156321, 107.6005418],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_e51ff7b550b5ed5995ffcad2f8246a6e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_11bb8a46ded41aab8c3ceec6c03c5748 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6ae54e820fe5c6b01402054711211047 = $(`<div id="html_6ae54e820fe5c6b01402054711211047" style="width: 100.0%; height: 100.0%;">Klinik Mata</div>`)[0];
+                popup_11bb8a46ded41aab8c3ceec6c03c5748.setContent(html_6ae54e820fe5c6b01402054711211047);
+            
+        
+
+        marker_8ea19483765ad3d40123873cca9983a7.bindPopup(popup_11bb8a46ded41aab8c3ceec6c03c5748)
+        ;
+
+        
+    
+    
+                marker_8ea19483765ad3d40123873cca9983a7.setIcon(icon_e51ff7b550b5ed5995ffcad2f8246a6e);
+            
+    
+            var marker_f96d1eba969608612e4326266bbdf093 = L.marker(
+                [-6.9156321, 107.6005418],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_99d05a2f7d7aac879e199e810891b22f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8fa9520cf4087dee94304cfaf11271a4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_25230b7d7ea88d10ce08d2d056760b0f = $(`<div id="html_25230b7d7ea88d10ce08d2d056760b0f" style="width: 100.0%; height: 100.0%;">Pusat Ortopedi Rekonstruksi dan Sport Medicine</div>`)[0];
+                popup_8fa9520cf4087dee94304cfaf11271a4.setContent(html_25230b7d7ea88d10ce08d2d056760b0f);
+            
+        
+
+        marker_f96d1eba969608612e4326266bbdf093.bindPopup(popup_8fa9520cf4087dee94304cfaf11271a4)
+        ;
+
+        
+    
+    
+                marker_f96d1eba969608612e4326266bbdf093.setIcon(icon_99d05a2f7d7aac879e199e810891b22f);
+            
+    
+            var marker_8b41da95a9e4f28b868d6f550b2e4721 = L.marker(
+                [-6.9156321, 107.6005418],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_09b72210873df238a7b7cb37b48457e8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_81307c95e1c38ca7b2453d09d9b2abf5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c93ae3fcba6abaa431341ed526c0ed4b = $(`<div id="html_c93ae3fcba6abaa431341ed526c0ed4b" style="width: 100.0%; height: 100.0%;">Klinik-Klinik Penyakit Dalam</div>`)[0];
+                popup_81307c95e1c38ca7b2453d09d9b2abf5.setContent(html_c93ae3fcba6abaa431341ed526c0ed4b);
+            
+        
+
+        marker_8b41da95a9e4f28b868d6f550b2e4721.bindPopup(popup_81307c95e1c38ca7b2453d09d9b2abf5)
+        ;
+
+        
+    
+    
+                marker_8b41da95a9e4f28b868d6f550b2e4721.setIcon(icon_09b72210873df238a7b7cb37b48457e8);
+            
+    
+            var marker_72c28ace7306601c5a2b0407fcd630da = L.marker(
+                [-6.9156321, 107.6005418],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_8f5a810128bc49b72a98b0072ddd35d1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_588ab2d9f6e0ff0430f7ee92e1944888 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4e48b89bc6119136dfe86cdb9bed01f9 = $(`<div id="html_4e48b89bc6119136dfe86cdb9bed01f9" style="width: 100.0%; height: 100.0%;">Klinik Gizi</div>`)[0];
+                popup_588ab2d9f6e0ff0430f7ee92e1944888.setContent(html_4e48b89bc6119136dfe86cdb9bed01f9);
+            
+        
+
+        marker_72c28ace7306601c5a2b0407fcd630da.bindPopup(popup_588ab2d9f6e0ff0430f7ee92e1944888)
+        ;
+
+        
+    
+    
+                marker_72c28ace7306601c5a2b0407fcd630da.setIcon(icon_8f5a810128bc49b72a98b0072ddd35d1);
+            
+    
+            var marker_f0454d68c72ba5b3a8a7de2282d13e06 = L.marker(
+                [-6.915402099999999, 107.6002868],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_f5cc0b69539b0f1688577aa667497b21 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e87f49e7d3a80c4474a1a4ecb74ace61 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a0aff01e737ae27a18dff49a0c6465ff = $(`<div id="html_a0aff01e737ae27a18dff49a0c6465ff" style="width: 100.0%; height: 100.0%;">Obstetric and gynecology center</div>`)[0];
+                popup_e87f49e7d3a80c4474a1a4ecb74ace61.setContent(html_a0aff01e737ae27a18dff49a0c6465ff);
+            
+        
+
+        marker_f0454d68c72ba5b3a8a7de2282d13e06.bindPopup(popup_e87f49e7d3a80c4474a1a4ecb74ace61)
+        ;
+
+        
+    
+    
+                marker_f0454d68c72ba5b3a8a7de2282d13e06.setIcon(icon_f5cc0b69539b0f1688577aa667497b21);
+            
+    
+            var marker_6b05bce319aa571333193564a55a2bbf = L.marker(
+                [-6.9154689, 107.6004609],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_bdf3b973059e648374f6d647c86d2578 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1face6053dbd997418857d94906e8289 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a26cd47052e7441410513e3defeaba36 = $(`<div id="html_a26cd47052e7441410513e3defeaba36" style="width: 100.0%; height: 100.0%;">Santosa Eye Center</div>`)[0];
+                popup_1face6053dbd997418857d94906e8289.setContent(html_a26cd47052e7441410513e3defeaba36);
+            
+        
+
+        marker_6b05bce319aa571333193564a55a2bbf.bindPopup(popup_1face6053dbd997418857d94906e8289)
+        ;
+
+        
+    
+    
+                marker_6b05bce319aa571333193564a55a2bbf.setIcon(icon_bdf3b973059e648374f6d647c86d2578);
+            
+    
+            var marker_9600e507f74306bc71891c54e02546ff = L.marker(
+                [-6.915213700000001, 107.6004507],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_fee187ba9ab594d3769229b13b72e59f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_287bb9e6b5ab5c95d3636c52d92b2132 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7b7a53c18681273fb2f205e8baa0b8a8 = $(`<div id="html_7b7a53c18681273fb2f205e8baa0b8a8" style="width: 100.0%; height: 100.0%;">Musholla Asy-Syifa</div>`)[0];
+                popup_287bb9e6b5ab5c95d3636c52d92b2132.setContent(html_7b7a53c18681273fb2f205e8baa0b8a8);
+            
+        
+
+        marker_9600e507f74306bc71891c54e02546ff.bindPopup(popup_287bb9e6b5ab5c95d3636c52d92b2132)
+        ;
+
+        
+    
+    
+                marker_9600e507f74306bc71891c54e02546ff.setIcon(icon_fee187ba9ab594d3769229b13b72e59f);
+            
+    
+            var marker_53d470cbc42bb77fe125ee18bb8405f5 = L.marker(
+                [-6.9154049, 107.6008491],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_980c164fc6a9d702d3b129f7dd725de9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5e383dc343c72c19d3fe208792484759 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_96895aec3d76ae2a037e71d9f36b1645 = $(`<div id="html_96895aec3d76ae2a037e71d9f36b1645" style="width: 100.0%; height: 100.0%;">East Wing RS Santosa Bandung</div>`)[0];
+                popup_5e383dc343c72c19d3fe208792484759.setContent(html_96895aec3d76ae2a037e71d9f36b1645);
+            
+        
+
+        marker_53d470cbc42bb77fe125ee18bb8405f5.bindPopup(popup_5e383dc343c72c19d3fe208792484759)
+        ;
+
+        
+    
+    
+                marker_53d470cbc42bb77fe125ee18bb8405f5.setIcon(icon_980c164fc6a9d702d3b129f7dd725de9);
+            
+    
+            var marker_739db68543ae00efb7b6f65c18fce424 = L.marker(
+                [-6.9160241, 107.5962104],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_4ccb57d1ead54eb976d484584978a889 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_09719a59cf29e528e2224ea503f478a8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c66da3d0a6c6cb2ff7f8a78668945fe1 = $(`<div id="html_c66da3d0a6c6cb2ff7f8a78668945fe1" style="width: 100.0%; height: 100.0%;">Klinik Paru</div>`)[0];
+                popup_09719a59cf29e528e2224ea503f478a8.setContent(html_c66da3d0a6c6cb2ff7f8a78668945fe1);
+            
+        
+
+        marker_739db68543ae00efb7b6f65c18fce424.bindPopup(popup_09719a59cf29e528e2224ea503f478a8)
+        ;
+
+        
+    
+    
+                marker_739db68543ae00efb7b6f65c18fce424.setIcon(icon_4ccb57d1ead54eb976d484584978a889);
+            
+    
+            var marker_b79eaf9ccf8fa3bc3dd42e82855552ce = L.marker(
+                [-6.9146812, 107.6004384],
+                {
+}
+            ).addTo(map_2df956689b0177952be84d873594a14b);
+        
+    
+            var icon_8e097ef3bef3863d42a42fa921e5c994 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fe1a95ee601e9d9e46a241305c444e3b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d9be78f0af9d8605cf801b2179ca5096 = $(`<div id="html_d9be78f0af9d8605cf801b2179ca5096" style="width: 100.0%; height: 100.0%;">Cafetatia Santosa</div>`)[0];
+                popup_fe1a95ee601e9d9e46a241305c444e3b.setContent(html_d9be78f0af9d8605cf801b2179ca5096);
+            
+        
+
+        marker_b79eaf9ccf8fa3bc3dd42e82855552ce.bindPopup(popup_fe1a95ee601e9d9e46a241305c444e3b)
+        ;
+
+        
+    
+    
+                marker_b79eaf9ccf8fa3bc3dd42e82855552ce.setIcon(icon_8e097ef3bef3863d42a42fa921e5c994);
+            
+</script>
+</html>

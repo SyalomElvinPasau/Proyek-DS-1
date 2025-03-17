@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Yayasan An-Nur Adi Thalia,"Jalan Sarikaso 1 No.8, Sarijadi",-6.876641999999999,107.5786123,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Bidan Ros,"Sarijadi Blok 3 RT 05 RW 02 No. 123,, Sarijadi",-6.875629699999999,107.5790346,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+F th Rani Bidan,"Jalan Sarijadi Raya No.16, Sarijadi",-6.870543000000001,107.580624,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

@@ -1,0 +1,10 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Immanuel Skin & Aesthetic Clinic,"Jalan Raya Kopo No.161, Situsaeur",-6.9363438,107.5969974,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,6
+Gedung Alkema RS Immanuel,"Jalan Raya Kopo No.161, Situsaeur",-6.935984899999999,107.596934,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,6
+Immanuel Hospital Bandung,"Jalan Raya Kopo No.161, Situsaeur",-6.935559299999999,107.5960894,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,4,1980
+Kamar Bedah RS.Immanuel,"Jalan Raya Kopo No.161, Situsaeur",-6.935939999999999,107.5970246,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,3
+Gedung Dr.Johannes Leimena,"3H7W+QCC, Jalan Raya Kopo, Situsaeur",-6.9355696,107.5960173,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,5
+Rumah Sakit Pendidikan Bandung Kiwari,Jalan Raya Kopo No.311,-6.9434439,107.5917681,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+Rumah Sakit Umum Daerah Bandung Kiwari - Kota Bandung,"Jalan Raya Kopo No.311, RT.03/RW.05, Situsaeur",-6.9432643,107.5914246,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.8,1279
+Special Hospital Maternal and Child,"Jalan Raya Kopo No.311, Kopo",-6.943295,107.5914109,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Mantul,"Jalan Raya Kopo No.321, Kopo",-6.944529200000001,107.5909784,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

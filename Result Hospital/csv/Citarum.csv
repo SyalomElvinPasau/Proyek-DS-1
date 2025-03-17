@@ -1,0 +1,16 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Halmahera Medika Klinik Utama,"Jalan Halmahera No.2, Citarum",-6.907484299999999,107.6159514,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,11
+Klinik Utama Jiwa Grha Atma,"Jalan L. L. R.E. Martadinata, Citarum",-6.906888899999999,107.6116691,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.5,227
+Halmahera Siaga Hospital,"Jalan L. L. R.E. Martadinata No.28, Citarum",-6.9067338,107.6155973,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,282
+Rumah Sakit Ibu dan Anak Limijati,"Jalan Jalan L. L. R.E. Martadinata No.39, Citarum",-6.9061276,107.613634,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,3.4,727
+Rumah Ceragem,"Jalan Bahureksa No.16, Citarum",-6.905399899999999,107.6147513,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Rehabilitasi medik,"3JV8+87V, Citarum",-6.9066353,107.6156595,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Unit Gawat Darurat Rumah Sakit Bedah Halmahera Siaga,"3JV8+87V, Citarum",-6.9066353,107.6156595,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,6
+Bedah,"3JV8+38M, Citarum",-6.907284999999999,107.6157877,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+"dr. Edwin Kurniawan, Sp.OG, M.Kes, MBA, FMIGS, FICS, FEGRF, FI, Int.Aff.RANZCOG @RSIA Limijati",Jalan L. L. R.E. Martadinata No.39,-6.906218399999998,107.6136497,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,5,42
+Kesehatan Daerah Militer (Kesdam) III/Siliwangi,"Jalan Ambon No.7, Citarum",-6.907690899999999,107.6154523,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,80
+Hedy S. Handaru Drg Sp. Ort,"Jalan Madura No.2, Citarum",-6.906805799999999,107.619485,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,2
+Loby halmahera,"3JR7+HMF, Citarum",-6.908573199999999,107.6141653,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Perempatan Bermuda,"Jalan Diponegoro No.15, Citarum",-6.900378700000001,107.6135622,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Unit Dialisis Sariningsih,"Jalan L. L. R.E. Martadinata No.9, Citarum",-6.9065061,107.6111742,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+RS Sariningsih Martadinata,"Jalan L. L. R.E. Martadinata No.9, Citarum",-6.907011999999999,107.611362,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.5,374

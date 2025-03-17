@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Klinik Bidan Muslimah,Dungus Cariang,-6.915686699999998,107.5793504,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.6,49
+Klinik Arjuna,"Jalan Jend. Sudirman No.849, Dungus Cariang",-6.917759999999999,107.582818,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Rumah Bersalin Ibu Lenny,"Jl. Andir, Gg. Syukur No. 10, Dungus Cariang, Andir, Dungus Cariang",-6.916616899999999,107.5849695,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.1,7
+Yayasan Siti Aminah Zhuang Medical Center,"3HRH+6FH, Jalan Garuda, Dungus Cariang",-6.909445,107.578742,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

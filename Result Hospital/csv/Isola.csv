@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Puskesmas Ledeng,"Jalan Sersan Bajuri Dalam No.2, Isola",-6.8581752,107.5946309,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.6,83
+Kost Cilimus Bahagia,"Jalan Cilimus No.20, Isola",-6.858381899999999,107.5911154,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Poliklinik UPI,"4HQV+666, Jalan Doktor Setiabudi, Isola",-6.861959399999999,107.5930227,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.3,110
