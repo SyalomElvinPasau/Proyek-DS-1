@@ -1,0 +1,6 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Klinik KF,"Ruko Cipta Pesona, Jalan Cipamokolan No.B19, Cipamokolan",-6.950357400000001,107.6762272,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Jibran Jaya Motor Service,"Jalan Silih Asih No.55, Cipamokolan",-6.945999100000001,107.6720085,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Bekam Riung Bandung,"Jalan Cipamokolan No.18, Cipamokolan",-6.9425668,107.677076,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,16
+Bumi Sehat Suci,"Komplek Nuansa Mas estate blok f No 3 Rt/rw : 012/009, Jalan Riung Bandung Raya, Cipamokolan",-6.948108599999999,107.6809047,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Proyek RS Borromeus Kawasan Sumarecon Bandung,"2MXC+HQ4, Jalan Sharon Boulevard Raya, Sumarecon",-6.951118500000001,107.6719397,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

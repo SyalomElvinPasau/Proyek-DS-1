@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d31746add5e41c090611bef2fbd00666 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_d31746add5e41c090611bef2fbd00666" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_d31746add5e41c090611bef2fbd00666 = L.map(
+                "map_d31746add5e41c090611bef2fbd00666",
+                {
+                    center: [-6.947149392040787, 107.66684225628136],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7ac795fd9efdf5a0b61bfe971f1ef550 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_7ac795fd9efdf5a0b61bfe971f1ef550.addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var polygon_86f46b35789999bb72103a3f3d22f892 = L.polygon(
+                [[-6.939055918999884, 107.66398620700005], [-6.939048765999928, 107.66409301700014], [-6.938954353999918, 107.66548156700014], [-6.938884734999931, 107.6664581300002], [-6.938838957999963, 107.66709136999998], [-6.93881893199989, 107.66735839800009], [-6.93877219999996, 107.66799163800005], [-6.938763617999939, 107.66810608000009], [-6.938707351999938, 107.66885376000016], [-6.93864107099995, 107.66982269300013], [-6.938839912999981, 107.6697998050002], [-6.939620017999914, 107.66976928800005], [-6.940050124999971, 107.66976928800005], [-6.94048023299996, 107.66976165800014], [-6.941430091999962, 107.6697387690001], [-6.942357540999978, 107.66969299200014], [-6.942446707999977, 107.66970062200005], [-6.942633150999939, 107.66970062200005], [-6.942785262999905, 107.66971588100017], [-6.942895888999885, 107.669731141], [-6.943283556999916, 107.66981506300004], [-6.943592548999902, 107.66989898700007], [-6.943973063999977, 107.67012786800007], [-6.944105147999949, 107.67024993800004], [-6.944281100999945, 107.67039489700005], [-6.94443988799992, 107.67050171000011], [-6.944566726999938, 107.6705627450001], [-6.945075987999928, 107.67071533199999], [-6.94550466599992, 107.67085266100008], [-6.945747851999897, 107.6709365850001], [-6.945884703999923, 107.67098236000004], [-6.946033000999932, 107.671028137], [-6.946397304999891, 107.67115783600019], [-6.946749208999961, 107.67123413200011], [-6.946972369999969, 107.67125701800006], [-6.947140216999969, 107.6712799070001], [-6.947411059999922, 107.67131042500012], [-6.947509288999981, 107.67131042500012], [-6.94773006499986, 107.67131042500012], [-6.947850702999972, 107.6713027950002], [-6.947969913999884, 107.6712799070001], [-6.948338507999949, 107.67120361300016], [-6.948611258999961, 107.67115783600019], [-6.948742866999964, 107.67113494900019], [-6.948981283999899, 107.671089172], [-6.949128627999926, 107.67105865400015], [-6.949288844999955, 107.67103576700015], [-6.949582098999883, 107.67097473200016], [-6.950134754999965, 107.67087555000012], [-6.950373648999914, 107.67082214300007], [-6.950559614999918, 107.67079925600018], [-6.950697421999962, 107.67076873800016], [-6.950819969999884, 107.67079925600018], [-6.951350211999966, 107.67115783600019], [-6.951494215999901, 107.67124939000013], [-6.951848029999951, 107.67150879000008], [-6.952131748999875, 107.67170715400016], [-6.952429769999981, 107.67189788800016], [-6.952673911999909, 107.67198181200018], [-6.953017710999916, 107.67206573599998], [-6.953652857999884, 107.6722183230001], [-6.954143047999935, 107.6723632820001], [-6.954133509999963, 107.67185211100019], [-6.954130649999911, 107.67175292900015], [-6.954123019999884, 107.67154693600008], [-6.954116343999885, 107.67140960700016], [-6.954102038999963, 107.67111968900014], [-6.954097747999924, 107.671028137], [-6.95409488599995, 107.67095184300013], [-6.95408058199996, 107.67060852000003], [-6.954062938999925, 107.67038726700014], [-6.95403194499994, 107.66980743500011], [-6.953981399999975, 107.66935729900018], [-6.953969954999934, 107.66925048900004], [-6.953960418999941, 107.6691589350001], [-6.953930377999939, 107.6689682010001], [-6.953907966999964, 107.66882324100004], [-6.953837393999891, 107.6683731080002], [-6.953811167999959, 107.66809845], [-6.953786848999869, 107.66784668000014], [-6.953661440999895, 107.66728973400006], [-6.953633308999883, 107.6670150760001], [-6.95360517499995, 107.6668090820001], [-6.953579901999888, 107.66662597600003], [-6.953516005999973, 107.66616058400007], [-6.953747271999873, 107.66612243700001], [-6.953576563999889, 107.66504669200009], [-6.953559875999929, 107.66493988000013], [-6.953524588999926, 107.66469574000001], [-6.953450679999946, 107.66418457100008], [-6.95343637499991, 107.66408538900004], [-6.953360556999939, 107.663551332], [-6.953344820999973, 107.66343688900002], [-6.953315733999887, 107.66323852500017], [-6.953288554999972, 107.66302490200013], [-6.953623293999954, 107.66274261400008], [-6.953563690999886, 107.66252136300017], [-6.953543184999887, 107.66244506800012], [-6.953516005999973, 107.66235351600005], [-6.953485011999874, 107.66224670300016], [-6.953311443999894, 107.66169738700017], [-6.953197478999869, 107.6612548820001], [-6.952250003999893, 107.6614379880001], [-6.952087878999976, 107.66146850600018], [-6.951522349999948, 107.6615753170002], [-6.95137357599998, 107.66156005800008], [-6.951058387999979, 107.66168212900016], [-6.95041608799994, 107.66187286300016], [-6.950224876999869, 107.66191100999998], [-6.950135229999887, 107.66192627000004], [-6.95003414099989, 107.66194152900016], [-6.950032232999888, 107.662124635], [-6.950053690999937, 107.6623382570001], [-6.949514388999944, 107.66243743900014], [-6.948938846999965, 107.66250610300011], [-6.948781966999945, 107.66252136300017], [-6.948404788999881, 107.66254425000017], [-6.948003292999886, 107.6625671380001], [-6.947545050999906, 107.66265869200004], [-6.947258947999956, 107.66268920900018], [-6.947030544999961, 107.66271209700011], [-6.946295737999947, 107.66285705700005], [-6.945662497999933, 107.66300201400003], [-6.945375919999947, 107.66314697300004], [-6.945101736999902, 107.66334533700012], [-6.945028780999905, 107.66335296700004], [-6.944870470999945, 107.66337585400004], [-6.944571971999949, 107.66342926100015], [-6.944306373999893, 107.66344451900017], [-6.943947314999946, 107.66345977800006], [-6.943764686999941, 107.66350555500003], [-6.943600653999965, 107.66363525300011], [-6.943236351999929, 107.66365814200014], [-6.943144797999878, 107.66368866], [-6.942684650999922, 107.66365051400004], [-6.942361830999971, 107.66367340000016], [-6.941608905999942, 107.66372680700005], [-6.941250323999895, 107.66377258200004], [-6.941105364999885, 107.66378784300014], [-6.940656185999956, 107.66384887600015], [-6.940167425999846, 107.66391754100005], [-6.94002675899992, 107.66393280000011], [-6.939698695999937, 107.663970947], [-6.939055918999884, 107.66398620700005]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var marker_bcf33fb9b6ff64255810fa8d5514c987 = L.marker(
+                [-6.948201, 107.664969],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_992107f480720e4ec9583bb6bf6bb37b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9ae6f9e148076e3b70758d2c66fbd744 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8387734085d2be3db16deb8a5dd5a819 = $(`<div id="html_8387734085d2be3db16deb8a5dd5a819" style="width: 100.0%; height: 100.0%;">Rachmawati Noverina DRH</div>`)[0];
+                popup_9ae6f9e148076e3b70758d2c66fbd744.setContent(html_8387734085d2be3db16deb8a5dd5a819);
+            
+        
+
+        marker_bcf33fb9b6ff64255810fa8d5514c987.bindPopup(popup_9ae6f9e148076e3b70758d2c66fbd744)
+        ;
+
+        
+    
+    
+                marker_bcf33fb9b6ff64255810fa8d5514c987.setIcon(icon_992107f480720e4ec9583bb6bf6bb37b);
+            
+    
+            var marker_b0a1357288dd63d469519e68a23e76b7 = L.marker(
+                [-6.949248899999999, 107.665927],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_af60e590c8a0f1d579dc291d394a1f47 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_18e531eac22b31c5fe78387a2a94dee9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f7c78fb7805a38bf4eaeb6fe1af34a6c = $(`<div id="html_f7c78fb7805a38bf4eaeb6fe1af34a6c" style="width: 100.0%; height: 100.0%;">Klinik Khitan</div>`)[0];
+                popup_18e531eac22b31c5fe78387a2a94dee9.setContent(html_f7c78fb7805a38bf4eaeb6fe1af34a6c);
+            
+        
+
+        marker_b0a1357288dd63d469519e68a23e76b7.bindPopup(popup_18e531eac22b31c5fe78387a2a94dee9)
+        ;
+
+        
+    
+    
+                marker_b0a1357288dd63d469519e68a23e76b7.setIcon(icon_af60e590c8a0f1d579dc291d394a1f47);
+            
+    
+            var marker_21653b41390c470122a32c3ad578acd5 = L.marker(
+                [-6.9404314, 107.6682079],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_10384c9f6764abad056cee2c4bb96e1b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3d24c2b7ff9f32841c0ec7219a4e93ef = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_32ef97490279d0bef9e9541c1aa520f2 = $(`<div id="html_32ef97490279d0bef9e9541c1aa520f2" style="width: 100.0%; height: 100.0%;">Fisioterapi RS Al Islam Bandung</div>`)[0];
+                popup_3d24c2b7ff9f32841c0ec7219a4e93ef.setContent(html_32ef97490279d0bef9e9541c1aa520f2);
+            
+        
+
+        marker_21653b41390c470122a32c3ad578acd5.bindPopup(popup_3d24c2b7ff9f32841c0ec7219a4e93ef)
+        ;
+
+        
+    
+    
+                marker_21653b41390c470122a32c3ad578acd5.setIcon(icon_10384c9f6764abad056cee2c4bb96e1b);
+            
+    
+            var marker_3dcf267e8a95c481984fbf1db6a0f5a8 = L.marker(
+                [-6.9390073, 107.6691759],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_c0b51b3741d967cfbbb20b0dc00973be = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b5313220521447cc5c52c466b87e18dc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b19be81e7dd6ba5b5f7d6227f7fd444d = $(`<div id="html_b19be81e7dd6ba5b5f7d6227f7fd444d" style="width: 100.0%; height: 100.0%;">Al Islam Hospital</div>`)[0];
+                popup_b5313220521447cc5c52c466b87e18dc.setContent(html_b19be81e7dd6ba5b5f7d6227f7fd444d);
+            
+        
+
+        marker_3dcf267e8a95c481984fbf1db6a0f5a8.bindPopup(popup_b5313220521447cc5c52c466b87e18dc)
+        ;
+
+        
+    
+    
+                marker_3dcf267e8a95c481984fbf1db6a0f5a8.setIcon(icon_c0b51b3741d967cfbbb20b0dc00973be);
+            
+    
+            var marker_08d139db16325635beaced2e656e2c85 = L.marker(
+                [-6.946124999999999, 107.668099],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_3798bf6474756c0de6295d08f7593d2a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f298e28fbac5ecd916e6c99fbe0938ae = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a8bb67d4304d17c7459d8b6c63eb4702 = $(`<div id="html_a8bb67d4304d17c7459d8b6c63eb4702" style="width: 100.0%; height: 100.0%;">Irma Sukmawati Indrawan, DRG</div>`)[0];
+                popup_f298e28fbac5ecd916e6c99fbe0938ae.setContent(html_a8bb67d4304d17c7459d8b6c63eb4702);
+            
+        
+
+        marker_08d139db16325635beaced2e656e2c85.bindPopup(popup_f298e28fbac5ecd916e6c99fbe0938ae)
+        ;
+
+        
+    
+    
+                marker_08d139db16325635beaced2e656e2c85.setIcon(icon_3798bf6474756c0de6295d08f7593d2a);
+            
+    
+            var marker_9cfe73c7386c68020ac2259d61c8d476 = L.marker(
+                [-6.9412411, 107.6687503],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_db746322e6de921a5e73190e85489f0c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b8b513d41bbdf7e6d8fe0c86f871d3db = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_41cba76d0a9c5d4418c69d772d962a1e = $(`<div id="html_41cba76d0a9c5d4418c69d772d962a1e" style="width: 100.0%; height: 100.0%;">Pavilium Parahyangan</div>`)[0];
+                popup_b8b513d41bbdf7e6d8fe0c86f871d3db.setContent(html_41cba76d0a9c5d4418c69d772d962a1e);
+            
+        
+
+        marker_9cfe73c7386c68020ac2259d61c8d476.bindPopup(popup_b8b513d41bbdf7e6d8fe0c86f871d3db)
+        ;
+
+        
+    
+    
+                marker_9cfe73c7386c68020ac2259d61c8d476.setIcon(icon_db746322e6de921a5e73190e85489f0c);
+            
+    
+            var marker_1cbb84afa105cdfe2bd4750a888a7004 = L.marker(
+                [-6.940471000000001, 107.668157],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_8613ade53013c4a1df0753c371d7c839 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_35b0c540738f99c014e18544be551517 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8b24625a49e908a458052c37dce768d7 = $(`<div id="html_8b24625a49e908a458052c37dce768d7" style="width: 100.0%; height: 100.0%;">Klinik Tumbuh Kembang Anak Al Islam</div>`)[0];
+                popup_35b0c540738f99c014e18544be551517.setContent(html_8b24625a49e908a458052c37dce768d7);
+            
+        
+
+        marker_1cbb84afa105cdfe2bd4750a888a7004.bindPopup(popup_35b0c540738f99c014e18544be551517)
+        ;
+
+        
+    
+    
+                marker_1cbb84afa105cdfe2bd4750a888a7004.setIcon(icon_8613ade53013c4a1df0753c371d7c839);
+            
+    
+            var marker_b15a193122c4b339015f7d464f1cb792 = L.marker(
+                [-6.9407992, 107.6640191],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_92e598ab29001efd30cbb1ea97fd21a3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_725de57de74f3201ab3d60ba96f98d8b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7302aa747fee935e12f325d49ec69673 = $(`<div id="html_7302aa747fee935e12f325d49ec69673" style="width: 100.0%; height: 100.0%;">RS Humana Prima</div>`)[0];
+                popup_725de57de74f3201ab3d60ba96f98d8b.setContent(html_7302aa747fee935e12f325d49ec69673);
+            
+        
+
+        marker_b15a193122c4b339015f7d464f1cb792.bindPopup(popup_725de57de74f3201ab3d60ba96f98d8b)
+        ;
+
+        
+    
+    
+                marker_b15a193122c4b339015f7d464f1cb792.setIcon(icon_92e598ab29001efd30cbb1ea97fd21a3);
+            
+    
+            var marker_63a0c42dbe7f3433bd20809c89fe1b8a = L.marker(
+                [-6.940384700000001, 107.669061],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_b80ba7a5d3131e99b28da91afc9e06fc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4855e0f25e28a7ae18b154dee9e96994 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0affe8ed25efaa0b337f897b1cd09068 = $(`<div id="html_0affe8ed25efaa0b337f897b1cd09068" style="width: 100.0%; height: 100.0%;">Klinik Bedah Saraf</div>`)[0];
+                popup_4855e0f25e28a7ae18b154dee9e96994.setContent(html_0affe8ed25efaa0b337f897b1cd09068);
+            
+        
+
+        marker_63a0c42dbe7f3433bd20809c89fe1b8a.bindPopup(popup_4855e0f25e28a7ae18b154dee9e96994)
+        ;
+
+        
+    
+    
+                marker_63a0c42dbe7f3433bd20809c89fe1b8a.setIcon(icon_b80ba7a5d3131e99b28da91afc9e06fc);
+            
+    
+            var marker_335c9a3fc6db99215abea00b8829e4a3 = L.marker(
+                [-6.940384700000001, 107.6690623],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_d1fc4a868b3b58101def0650da1e3dde = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_385783bb65365fbdacdcad6cede5ef5e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8cd185b56a0cf09887f5dcafc5dd6963 = $(`<div id="html_8cd185b56a0cf09887f5dcafc5dd6963" style="width: 100.0%; height: 100.0%;">Klinik Jantung dan Pembuluh Darah</div>`)[0];
+                popup_385783bb65365fbdacdcad6cede5ef5e.setContent(html_8cd185b56a0cf09887f5dcafc5dd6963);
+            
+        
+
+        marker_335c9a3fc6db99215abea00b8829e4a3.bindPopup(popup_385783bb65365fbdacdcad6cede5ef5e)
+        ;
+
+        
+    
+    
+                marker_335c9a3fc6db99215abea00b8829e4a3.setIcon(icon_d1fc4a868b3b58101def0650da1e3dde);
+            
+    
+            var marker_cf5561d4d8440bf1ac4753a41f9741b6 = L.marker(
+                [-6.9403837, 107.6690606],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_73039189d47bd329fecbd6a1e97d9719 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e1cc501575dc26fbe02fb31d8ad77524 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9effbef8fc3acc5a4fdee46f2cf9dfef = $(`<div id="html_9effbef8fc3acc5a4fdee46f2cf9dfef" style="width: 100.0%; height: 100.0%;">Klinik Bedah Tulang/Orthopedi</div>`)[0];
+                popup_e1cc501575dc26fbe02fb31d8ad77524.setContent(html_9effbef8fc3acc5a4fdee46f2cf9dfef);
+            
+        
+
+        marker_cf5561d4d8440bf1ac4753a41f9741b6.bindPopup(popup_e1cc501575dc26fbe02fb31d8ad77524)
+        ;
+
+        
+    
+    
+                marker_cf5561d4d8440bf1ac4753a41f9741b6.setIcon(icon_73039189d47bd329fecbd6a1e97d9719);
+            
+    
+            var marker_18e151cd5f85a9a1daf6979a7a730653 = L.marker(
+                [-6.940383600000001, 107.6690611],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_b94c1886db9353dd431f4481e22b233e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7c76c5b041a69c537df8fa874713acde = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_80a2201bb0e0a3802cbfd4382157f3b7 = $(`<div id="html_80a2201bb0e0a3802cbfd4382157f3b7" style="width: 100.0%; height: 100.0%;">Klinik Mata</div>`)[0];
+                popup_7c76c5b041a69c537df8fa874713acde.setContent(html_80a2201bb0e0a3802cbfd4382157f3b7);
+            
+        
+
+        marker_18e151cd5f85a9a1daf6979a7a730653.bindPopup(popup_7c76c5b041a69c537df8fa874713acde)
+        ;
+
+        
+    
+    
+                marker_18e151cd5f85a9a1daf6979a7a730653.setIcon(icon_b94c1886db9353dd431f4481e22b233e);
+            
+    
+            var marker_f5381dedc3a5702add630bc172629aa8 = L.marker(
+                [-6.940383199999999, 107.6690601],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_25d364621ec0ca5036cc9254c4704b8e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_078d696b867d2862670b796b7a88c218 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f46bf9e6d6f172591adcefd4a426feab = $(`<div id="html_f46bf9e6d6f172591adcefd4a426feab" style="width: 100.0%; height: 100.0%;">Klinik Paru</div>`)[0];
+                popup_078d696b867d2862670b796b7a88c218.setContent(html_f46bf9e6d6f172591adcefd4a426feab);
+            
+        
+
+        marker_f5381dedc3a5702add630bc172629aa8.bindPopup(popup_078d696b867d2862670b796b7a88c218)
+        ;
+
+        
+    
+    
+                marker_f5381dedc3a5702add630bc172629aa8.setIcon(icon_25d364621ec0ca5036cc9254c4704b8e);
+            
+    
+            var marker_b34923f0c94ef2484f7239b0761f93f8 = L.marker(
+                [-6.940383699999999, 107.6690619],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_d458600ddeaadf71aa7982aee0724ee9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_14a2ce1e6b9f2aa500ad5ad2635fb26f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9bcad2836ffc98a513dc99d3b6880980 = $(`<div id="html_9bcad2836ffc98a513dc99d3b6880980" style="width: 100.0%; height: 100.0%;">Klinik Bedah Urolog</div>`)[0];
+                popup_14a2ce1e6b9f2aa500ad5ad2635fb26f.setContent(html_9bcad2836ffc98a513dc99d3b6880980);
+            
+        
+
+        marker_b34923f0c94ef2484f7239b0761f93f8.bindPopup(popup_14a2ce1e6b9f2aa500ad5ad2635fb26f)
+        ;
+
+        
+    
+    
+                marker_b34923f0c94ef2484f7239b0761f93f8.setIcon(icon_d458600ddeaadf71aa7982aee0724ee9);
+            
+    
+            var marker_4b3fcfb66a839aefe3285566f83c2200 = L.marker(
+                [-6.940383600000001, 107.6690615],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_a569106c7aa95d34bbbac6a07c4b4ec6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3ea811ef18ad8b35a413937ca5cf8ea8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec68e0416eb2823ebe9f4483acab7c61 = $(`<div id="html_ec68e0416eb2823ebe9f4483acab7c61" style="width: 100.0%; height: 100.0%;">Klinik Bedah Umum</div>`)[0];
+                popup_3ea811ef18ad8b35a413937ca5cf8ea8.setContent(html_ec68e0416eb2823ebe9f4483acab7c61);
+            
+        
+
+        marker_4b3fcfb66a839aefe3285566f83c2200.bindPopup(popup_3ea811ef18ad8b35a413937ca5cf8ea8)
+        ;
+
+        
+    
+    
+                marker_4b3fcfb66a839aefe3285566f83c2200.setIcon(icon_a569106c7aa95d34bbbac6a07c4b4ec6);
+            
+    
+            var marker_9821c7effbf2f739492614c2a9efd68d = L.marker(
+                [-6.9403831, 107.6690601],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_8b92eafadd8572f5120be520e02556ca = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4bb458ebf30a68017ed7c8eb82fd885a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7380c6dc3eae73cc5a74472c3bba63f7 = $(`<div id="html_7380c6dc3eae73cc5a74472c3bba63f7" style="width: 100.0%; height: 100.0%;">Klinik Psikiatri</div>`)[0];
+                popup_4bb458ebf30a68017ed7c8eb82fd885a.setContent(html_7380c6dc3eae73cc5a74472c3bba63f7);
+            
+        
+
+        marker_9821c7effbf2f739492614c2a9efd68d.bindPopup(popup_4bb458ebf30a68017ed7c8eb82fd885a)
+        ;
+
+        
+    
+    
+                marker_9821c7effbf2f739492614c2a9efd68d.setIcon(icon_8b92eafadd8572f5120be520e02556ca);
+            
+    
+            var marker_21b00defadaf39355946672082a03374 = L.marker(
+                [-6.9403832, 107.6690614],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_d59e4251124072cb658a352ca6b69d9f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1e881ced5dc69349621eff05bdc48639 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_edf4a72615c1e697b30a0fc14e0eeb85 = $(`<div id="html_edf4a72615c1e697b30a0fc14e0eeb85" style="width: 100.0%; height: 100.0%;">Klinik Bedah Plastik</div>`)[0];
+                popup_1e881ced5dc69349621eff05bdc48639.setContent(html_edf4a72615c1e697b30a0fc14e0eeb85);
+            
+        
+
+        marker_21b00defadaf39355946672082a03374.bindPopup(popup_1e881ced5dc69349621eff05bdc48639)
+        ;
+
+        
+    
+    
+                marker_21b00defadaf39355946672082a03374.setIcon(icon_d59e4251124072cb658a352ca6b69d9f);
+            
+    
+            var marker_80d7a5324f5c0e229bc3a64f478d0aaa = L.marker(
+                [-6.940383100000001, 107.6690615],
+                {
+}
+            ).addTo(map_d31746add5e41c090611bef2fbd00666);
+        
+    
+            var icon_45be98b1931b93ab60ed641afb197e6d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_29234b7be8d83f6037decf3b73911a0d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_966418c45fc0db8fe5e8ee6e5f843574 = $(`<div id="html_966418c45fc0db8fe5e8ee6e5f843574" style="width: 100.0%; height: 100.0%;">Klinik Kulit, Kelamin dan Kosmetik</div>`)[0];
+                popup_29234b7be8d83f6037decf3b73911a0d.setContent(html_966418c45fc0db8fe5e8ee6e5f843574);
+            
+        
+
+        marker_80d7a5324f5c0e229bc3a64f478d0aaa.bindPopup(popup_29234b7be8d83f6037decf3b73911a0d)
+        ;
+
+        
+    
+    
+                marker_80d7a5324f5c0e229bc3a64f478d0aaa.setIcon(icon_45be98b1931b93ab60ed641afb197e6d);
+            
+</script>
+</html>

@@ -1,0 +1,7 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Bandung Eye Center Buah Batu,"Jalan Buah Batu No.147, Turangga",-6.9377109,107.623819,"doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,429
+Graha Kerindo Utama. PT,"Jalan Karawitan No.44, Turangga",-6.9390914,107.629325,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1
+Klinik Ambalat Sesko TNI,"Jalan Martanegara No.3, Lingkar Selatan",-6.933974999999999,107.6310802,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,25
+Muhammadiyah Hospital Bandung,"Jalan K.H. Ahmad Dahlan No.53, Turangga",-6.9335792,107.6231599,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,2482
+Baraya Batim Bikers selter RS Muhammadiyah (BBB MUHOL),"Jalan Banteng No.55, Turangga",-6.9337747,107.6233195,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+Komite Nakes Lain RSMB Kota,Jalan K.H. Ahmad Dahlan No.53,-6.9334567,107.6232398,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

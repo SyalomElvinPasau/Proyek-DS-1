@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Rumah Bersalin Pangestu,"Jalan Haji Mahfud Jalan Kiara Condong No.10, Binong",-6.937654299999999,107.6416727,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.2,15
+Klinik utama Melati Bunda,"Jalan Kiara Condong No.304, Binong",-6.933412199999999,107.6417352,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.9,19
+Bunda Maternity Hospital Bed,"Komp. Dolog Jalan Kiara Condong No.304, Binong",-6.933546199999999,107.642608,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,22
+RSJP Paramarta – Rumah Sakit Khusus Jantung & Pembuluh Darah Paramarta Bandung,Jalan Soekarno-Hatta No.581,-6.945653099999999,107.6405235,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,575

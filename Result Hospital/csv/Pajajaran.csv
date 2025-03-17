@@ -1,0 +1,10 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Hermina Hospital Pasteur,"Jalan Dr. Djundjunan No.107, Pasteur",-6.8958508,107.5888307,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.6,6448
+Kesehatan Anak,"4H3Q+PGC, Pajajaran",-6.895678999999999,107.5887702,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+ICU,"4H3Q+PGC, Pajajaran",-6.8956811,107.5887768,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+NICU,"4H3Q+PGC, Pajajaran",-6.895680599999999,107.5887767,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Kebidanan dan Penyakit Kandungan :,"4H3Q+PGC, Pajajaran",-6.8956785,107.5887718,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Fetomaternal,"4H3Q+PGC, Pajajaran",-6.8956803,107.5887767,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.8,4
+PICU,"4H3Q+PGC, Pajajaran",-6.8956799,107.5887761,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Fisioterapi,"4H3Q+PGC, Pajajaran",-6.895678299999999,107.5887754,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Geriatri,"4H3Q+QC5, Pajajaran",-6.895600099999999,107.5886046,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

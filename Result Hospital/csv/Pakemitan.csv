@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Bandung City Regional General Hospital,"Jalan Rumah Sakit No.22, Pakemitan",-6.915633799999999,107.6987512,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,2.9,681
+Bidan Dewi. S,"no 47, Pakemitan",-6.925206999999999,107.6908126,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,6
+Andir Kidul 1,"3MPX+29G, Pakemitan",-6.914940099999999,107.6984489,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Rumah sakit ujungberung,"Jalan Rumah Sakit No.22, Pakemitan",-6.915732999999999,107.699318,"hospital, health, point_of_interest, establishment",OPERATIONAL,1.5,110

@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Balai Besar Kesehatan Paru Masyarakat Bandung,"Jalan Cibadak No.214, Cibadak",-6.920768199999999,107.5966951,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.3,833
+Balai Pengobatan Pagarsih,"3HGW+QFF, Jalan Pagarsih, Cibadak",-6.9230578,107.5961734,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Bpkbm,"Jalan Cibadak No.212, Cibadak",-6.921149900000001,107.5969125,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Lobby Pendaftaran BBKPM,"Jalan Cibadak No.214, Cibadak",-6.920628799999998,107.5966548,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,4

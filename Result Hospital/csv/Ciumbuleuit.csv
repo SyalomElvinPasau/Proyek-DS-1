@@ -1,0 +1,6 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Rumah Sakit Angkatan Udara (RSAU) dr. M. Salamun,"Jalan Ciumbuleuit No.203, Ciumbuleuit",-6.863781000000001,107.605075,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.5,2643
+Parkiran teduh salamun,"4JP3+GXF, Ciumbuleuit",-6.863678399999999,107.6049149,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+RS Salamun Paviliun Firdaus,"Jalan Panumbang Jaya No.22, Ciumbuleuit",-6.8647958,107.6050409,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3
+Puskesmas Dadali Ciumbuleuit,"4JM4+P67, Ciumbuleuit",-6.8657144,107.6055415,"hospital, health, point_of_interest, establishment",OPERATIONAL,2.5,4
+Paviliun Firdaus Buana 9,"Jalan Ciumbuleuit No.203, Ciumbuleuit",-6.8647322,107.6049632,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

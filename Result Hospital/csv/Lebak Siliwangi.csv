@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+JPKM Surya Sumirat - Borromeus Healthcare,"Jalan Ir. H. Juanda No.101, RW.02, Lebakgede",-6.894053,107.6127542,"hospital, local_government_office, health, point_of_interest, establishment",OPERATIONAL,4.9,33
+Klinik Utama Jasmine MQ Medika,"Jalan Dayang Sumbi No.10, Lebak Siliwangi",-6.8868039,107.6118984,"dentist, hospital, doctor, spa, health, point_of_interest, establishment",OPERATIONAL,4.1,304
+Klinik Utama Bumi Medika Ganesa ITB,"Jalan Gelap Nyawang No.2, Lebak Siliwangi",-6.8944909,107.6115109,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.9,47

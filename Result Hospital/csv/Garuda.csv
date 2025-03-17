@@ -1,0 +1,3 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Dinas Kesehatan,"Jalan Dadali No.6, RT.01/RW.01, Garuda",-6.9114494,107.5773611,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.4,5
+Klinik Pratama Mitra Medika,"Jl. Penguin Raya. 2, Kompleks Jalan Dadali No.40184, Garuda",-6.9086396,107.5738316,"dentist, doctor, hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,29

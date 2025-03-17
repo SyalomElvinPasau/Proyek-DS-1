@@ -1,0 +1,4 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+"Elvi Setiawan, DRH","JL. Sukahaji, No. 59 A, Geger Kalong Hilir Sukasari, Bandung, Sukarasa",-6.873749,107.584095,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+Akupuntur,"Jalan Setramurni Tengah II No.18, Sukarasa",-6.8751001,107.5819528,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+"Isnaniah Mulyana, DRG","JL. Setra Ria, No. 33 Rt. 002 Rw. 06, Sukagalih, Sukajadi, Bandung, Sukarasa",-6.879070500000001,107.5860675,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

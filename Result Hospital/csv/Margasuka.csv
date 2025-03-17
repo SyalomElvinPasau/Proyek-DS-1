@@ -1,0 +1,3 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Apotek Cibolerang,"2HVH+9G7, Unnamed Road, Margasuka",-6.956599000000001,107.578809,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Bidan Seni,"Unnamed Road, Margasuka",-6.954554799999999,107.5836241,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,24

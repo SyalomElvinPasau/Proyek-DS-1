@@ -1,0 +1,8 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Bidan yati,"2HRM+QW6, Cirangrang",-6.958096599999998,107.5847776,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Praktek bidan heni,"Jalan Bintang No.32, Cirangrang",-6.958417599999999,107.5844362,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,10
+Gedung C Paviliun Mahkota Rumah Sakit Santosa Kopo,"2HWP+3HR, Cirangrang",-6.9546906,107.5864213,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Gedung D,"2HWP+CM5, Gang Cirangrang Timur, Cirangrang",-6.9537816,107.586635,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Stroke Center Santosa Hospital,"2HWP+PHJ, Bandung, Cirangrang",-6.953156600000001,107.5863756,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Gedung Komprehensice Cancer Centre,"Santosa Hospital Bandung Kopo, Jalan RS Santosa, Cirangrang",-6.953163900000001,107.5866755,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,3
+Santosa Hospital Bandung Kopo,"Jalan Raya Kopo No.461-463, Cirangrang",-6.9524003,107.5863315,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.5,5257

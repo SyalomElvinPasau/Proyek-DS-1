@@ -1,0 +1,3 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Bio Fit Health Centre,"Jalan Supratman No.69, Cihapit",-6.901918299999998,107.6264759,"hospital, pharmacy, store, health, point_of_interest, establishment",OPERATIONAL,4.4,952
+Klinik Pratama Akupuntur,"3JXG+6H9, Jalan Supratman, Cihapit",-6.901962699999999,107.6264799,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,4

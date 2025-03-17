@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Bidan Abuk,"Jalan Sukamantri II No.88, Sukaluyu",-6.8982254,107.6267035,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,5
+Sewa Peralatan Camping,"Jalan Gagak No.55, Sadang Serang",-6.895722900000001,107.6258324,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+cibeureum,"4J2G+8CH, Jalan Surapati, Cihaur Geulis",-6.899186500000001,107.6260974,"hospital, health, point_of_interest, establishment",OPERATIONAL,3.5,2
+Rumah Beresalin Cuma Cuma,"gedung wakaf 99, Jalan Sidomukti No.99 H, Sukaluyu",-6.892843000000001,107.6349718,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown

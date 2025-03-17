@@ -1,0 +1,7 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Mutiara Cikutra Clinic,"Jalan Cikutra No.115 Blok A-B, Cikutra",-6.9003652,107.6432116,"dentist, hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.7,1367
+Rumah Sakit Santo Yusup,"Jalan Cikutra No.7, Cikutra",-6.9066719,107.6430629,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,4.4,2923
+Balai Pengobatan YPKP,"Jalan Khp Hasan Mustopa No.70, Cikutra",-6.899900100000001,107.6410542,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Radiology room saint joseph hospital,"3JVV+996, Jalan Cikutra, Cikutra",-6.9065935,107.6434043,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1
+Radiology Room's Santo Yusup Hospital,"3JVV+79C, Jalan Cikutra, Cikutra",-6.906820799999999,107.6433838,"hospital, health, point_of_interest, establishment",OPERATIONAL,1,1
+H. DR. A. Fattah Madani (Private House),"Jalan Sukasenang V, Cikutra",-6.8995687,107.6341533,"hospital, health, point_of_interest, establishment",CLOSED_TEMPORARILY,5,1

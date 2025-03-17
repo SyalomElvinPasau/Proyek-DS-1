@@ -1,0 +1,6 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+"Deddy Firman, DRG","Jalan Cikutra Baru III No.7, Neglasari",-6.895304300000001,107.6391922,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Poliklinik Derma Husada,"4J4R+F6G, Jalan Cikutra, Neglasari",-6.893811400000001,107.6405835,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+legalrsy,Jalan Cikutra No.7,-6.8925252,107.6397404,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Puskesmas Cikutra,"4J4R+XCJ, Jalan Cikutra, Neglasari",-6.892537300000001,107.6410083,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,4
+TNI,jl,-6.8985452,107.6415545,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.7,34

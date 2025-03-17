@@ -1,0 +1,13 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Rumah Sakit Umum Pindad Bandung,"Jalan Gatot Subroto No.517, Sukapura",-6.940032,107.6462231,"dentist, hospital, health, point_of_interest, establishment",OPERATIONAL,4.1,913
+Imell melia,"3M63+F6W, Jalan Komplek KPAD Pindad Timur, Sukapura",-6.9387574,107.6530884,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Poliklinik Umum,"3J6W+2JM, Sukapura",-6.9399078,107.6465548,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Paru,"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Bedah Tulang (Ortopedi),"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Saraf (Neurologi),"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Kebidanan dan Kandungan,"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+"Anak, Kulit & Kelamin","3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Bedah Syaraf,"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,4
+Bedah Mulut,"3J5W+WMX, Sukapura",-6.9401255,107.6467346,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Rumah Sakit Umum KUDUNGGA,Jalan Soekarno-Hatta,-6.942603399999999,107.6499655,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Klinik Bedah Mulut Dan Gigi,"3J4X+QJJ, Jalan Soekarno-Hatta, Sukapura",-6.9430403,107.6490083,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,1

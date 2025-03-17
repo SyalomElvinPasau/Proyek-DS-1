@@ -1,0 +1,5 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Port Heath Bandara Husein Sastranegara Bandung,"Jalan Pajajaran No.156, Husen Sastranegara",-6.9042033,107.5803344,"hospital, health, point_of_interest, establishment",OPERATIONAL,4,2
+Poliklinik PTDI,"Jalan Pajajaran No.154, Husen Sastranegara",-6.9009797,107.5845355,"hospital, health, point_of_interest, establishment",OPERATIONAL,3,2
+Klinik Pratama Terpadu Husein S,"3HVH+4MR, Unnamed Road, Husen Sastranegara",-6.907137700000001,107.5791316,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.4,22
+Pratama Husein Sastranegara Klinik,"Jalan Abdul Rahman Saleh No.1, Husen Sastranegara",-6.907183700000001,107.5861231,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,3

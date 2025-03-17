@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0416ac9b52b238d2e655339160681414 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_0416ac9b52b238d2e655339160681414" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_0416ac9b52b238d2e655339160681414 = L.map(
+                "map_0416ac9b52b238d2e655339160681414",
+                {
+                    center: [-6.907596605488963, 107.60089841247341],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7da9ef6a9b925dd327eca382892d6b7c = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_7da9ef6a9b925dd327eca382892d6b7c.addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var polygon_3d06f8ec3a919c3f1ee138c8291b07d9 = L.polygon(
+                [[-6.914556502999972, 107.60462951599999], [-6.914551257999904, 107.60445404000006], [-6.914539336999894, 107.60429382300003], [-6.914492606999943, 107.60392761300011], [-6.91448306999996, 107.60382843100007], [-6.914470671999879, 107.60369873000008], [-6.914457320999929, 107.60356140100004], [-6.914390087999891, 107.6028594980001], [-6.914390087999891, 107.60276031500018], [-6.914377211999977, 107.60253143300008], [-6.914370058999907, 107.60240936200017], [-6.914370058999907, 107.60233306800006], [-6.914360045999956, 107.60204315200008], [-6.914349077999873, 107.60185241800008], [-6.914322851999941, 107.60141754199998], [-6.914324759999886, 107.60124206500012], [-6.914328574999956, 107.60083770800014], [-6.914332866999928, 107.60034942500016], [-6.91433620499987, 107.60001373200004], [-6.914342402999921, 107.59986114500009], [-6.914348125999879, 107.59961700400004], [-6.914340494999976, 107.59931945700004], [-6.914338112999928, 107.59922790500008], [-6.914336679999906, 107.59908294600012], [-6.914321898999845, 107.598739625], [-6.914314746999935, 107.59857177700019], [-6.914308070999937, 107.59844207800018], [-6.914302348999911, 107.59833526600005], [-6.914298533999954, 107.59819793700012], [-6.914101123999956, 107.59819793700012], [-6.914003848999926, 107.59819030700004], [-6.913870333999967, 107.59817504800014], [-6.913718223999979, 107.59815979000012], [-6.913238048999972, 107.59812164300007], [-6.913058757999977, 107.59811401300016], [-6.9128336899999, 107.59810638500005], [-6.912359237999965, 107.59808349600019], [-6.91217136399996, 107.59806823800017], [-6.911755083999935, 107.59803771900005], [-6.910409450999964, 107.59793853700018], [-6.910044193999909, 107.59790802100014], [-6.90988397599989, 107.5978851320001], [-6.909807204999936, 107.59786987400008], [-6.90945482199993, 107.59785461300015], [-6.908966540999927, 107.597808838], [-6.908209800999941, 107.59779357800016], [-6.907870291999927, 107.59777832000015], [-6.907636165999975, 107.59776306100002], [-6.907330036999895, 107.59772491500007], [-6.906796931999907, 107.59768676800002], [-6.906633853999949, 107.59767150900012], [-6.906384467999885, 107.59764862100019], [-6.905577181999888, 107.59763336300017], [-6.905308246999937, 107.59762573300003], [-6.904987811999888, 107.59760284400005], [-6.903954505999934, 107.59757995600006], [-6.903676509999912, 107.59757232700008], [-6.903337954999813, 107.59756469700017], [-6.903152465999938, 107.59755706700008], [-6.902074335999885, 107.5975189200002], [-6.901368617999935, 107.59749603400007], [-6.900781629999926, 107.59748840400016], [-6.900233268999955, 107.5974502570001], [-6.900230406999981, 107.59774017300009], [-6.900228498999923, 107.59789276000004], [-6.900224685999945, 107.59821319500014], [-6.900223253999911, 107.59830474900008], [-6.900221823999971, 107.59843444800009], [-6.900222778999876, 107.59863281200018], [-6.900226593999946, 107.59922790500008], [-6.900237081999933, 107.59937286400009], [-6.90024137499995, 107.59945678800011], [-6.900231361999886, 107.59962463400018], [-6.900228498999923, 107.59973144600013], [-6.900225161999913, 107.59986114500009], [-6.900229453999941, 107.60006713900009], [-6.900234698999895, 107.60034942500016], [-6.900222778999876, 107.6007003790001], [-6.900223730999869, 107.60110473600002], [-6.900226593999946, 107.60125732500018], [-6.900235651999878, 107.60142517100019], [-6.90022897699987, 107.601776122], [-6.900223253999911, 107.60201263300013], [-6.900233268999955, 107.60227203300008], [-6.900410174999934, 107.602294921], [-6.90050363499995, 107.60231018000013], [-6.900752543999943, 107.60233306800006], [-6.901117325999905, 107.6023559570001], [-6.901228427999968, 107.60236358700001], [-6.901314734999914, 107.60236358700001], [-6.90140294899993, 107.6023559570001], [-6.901628969999877, 107.60237884500003], [-6.901827333999961, 107.60238647500012], [-6.902128219999895, 107.60240173400007], [-6.90248107899987, 107.602424622], [-6.902596949999975, 107.60244751100004], [-6.902729988999965, 107.60259246800007], [-6.902880190999952, 107.602722169], [-6.903108118999967, 107.6028594980001], [-6.903442381999923, 107.60298919600018], [-6.903682230999948, 107.60305786200018], [-6.903960228999949, 107.60308837900016], [-6.904335021999884, 107.60311889700017], [-6.904339788999948, 107.60343933000013], [-6.904336451999939, 107.6036224360002], [-6.90432882399989, 107.60404205300017], [-6.904325960999927, 107.60420227100008], [-6.904321192999873, 107.60445404000006], [-6.905159949999927, 107.60446929800008], [-6.905469416999949, 107.60446929800008], [-6.905657290999955, 107.6044769290001], [-6.905761240999936, 107.6044769290001], [-6.905850409999971, 107.60448455900018], [-6.905940531999931, 107.60449218700012], [-6.906519413999945, 107.60450744700012], [-6.906730173999904, 107.60450744700012], [-6.906857966999894, 107.60451507500005], [-6.907017229999951, 107.60451507500005], [-6.907129286999975, 107.60452270600007], [-6.907226561999948, 107.60452270600007], [-6.907479285999898, 107.60453796400009], [-6.907648086999927, 107.60453796400009], [-6.908637045999967, 107.60457611100014], [-6.908745765999981, 107.604568481], [-6.909021853999889, 107.60454559400017], [-6.909247873999959, 107.6044769290001], [-6.909364699999912, 107.60443878200005], [-6.909488200999931, 107.60440063500016], [-6.909657000999971, 107.60433196899999], [-6.909848689999933, 107.60427856400008], [-6.909927843999981, 107.60425567599998], [-6.910191058999828, 107.60420227100008], [-6.910325526999941, 107.60418701200018], [-6.910438059999933, 107.6041793820001], [-6.910616397999945, 107.60416412400008], [-6.910702227999934, 107.60416412400008], [-6.910897253999906, 107.60415649400011], [-6.911180019999961, 107.60413360500013], [-6.911930559999973, 107.60406494200004], [-6.91207408899993, 107.60406494200004], [-6.912628649999874, 107.60404205300017], [-6.912700652999888, 107.60443878200005], [-6.912721156999908, 107.6045532220001], [-6.912735937999969, 107.60464477600004], [-6.912771223999869, 107.60471344000001], [-6.912888526999893, 107.60475921699998], [-6.913012502999948, 107.60474395800009], [-6.913400173999946, 107.60471344000001], [-6.914012907999961, 107.60466766300004], [-6.914281844999891, 107.60464477600004], [-6.914478778999921, 107.60462951599999], [-6.914556502999972, 107.60462951599999]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var marker_09c6d2c78213646c3af54ef7082bc855 = L.marker(
+                [-6.906924299999998, 107.6031359],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_6ac1f1688a36a01be31ad9c416b3c28b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c0e7de0a6057feb29395a37487a84d1e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_253b133402f67d6b8887ce8d5ced9da3 = $(`<div id="html_253b133402f67d6b8887ce8d5ced9da3" style="width: 100.0%; height: 100.0%;">Melinda Beauty & Baby Care (Melby Care)</div>`)[0];
+                popup_c0e7de0a6057feb29395a37487a84d1e.setContent(html_253b133402f67d6b8887ce8d5ced9da3);
+            
+        
+
+        marker_09c6d2c78213646c3af54ef7082bc855.bindPopup(popup_c0e7de0a6057feb29395a37487a84d1e)
+        ;
+
+        
+    
+    
+                marker_09c6d2c78213646c3af54ef7082bc855.setIcon(icon_6ac1f1688a36a01be31ad9c416b3c28b);
+            
+    
+            var marker_d3ce7070f137956d3bb0117c772458a7 = L.marker(
+                [-6.9069686, 107.6032797],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_69b85d45a772825a1d4f065e497a15d5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f72584f9f309f8d06a64d566dbf15616 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec12cc4c83f5242d60a9dda80b5c27fa = $(`<div id="html_ec12cc4c83f5242d60a9dda80b5c27fa" style="width: 100.0%; height: 100.0%;">RSIA Melinda</div>`)[0];
+                popup_f72584f9f309f8d06a64d566dbf15616.setContent(html_ec12cc4c83f5242d60a9dda80b5c27fa);
+            
+        
+
+        marker_d3ce7070f137956d3bb0117c772458a7.bindPopup(popup_f72584f9f309f8d06a64d566dbf15616)
+        ;
+
+        
+    
+    
+                marker_d3ce7070f137956d3bb0117c772458a7.setIcon(icon_69b85d45a772825a1d4f065e497a15d5);
+            
+    
+            var marker_0573682ef90c3dceb604b69666d36a19 = L.marker(
+                [-6.9063167, 107.5983705],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_6be72c6539b3f208c0101aaa940be0d2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_903f96b2bfe435158685123dedf7d422 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d647a1fa55f4226239baa83becd54769 = $(`<div id="html_d647a1fa55f4226239baa83becd54769" style="width: 100.0%; height: 100.0%;">Rumah Sakit Melinda 2</div>`)[0];
+                popup_903f96b2bfe435158685123dedf7d422.setContent(html_d647a1fa55f4226239baa83becd54769);
+            
+        
+
+        marker_0573682ef90c3dceb604b69666d36a19.bindPopup(popup_903f96b2bfe435158685123dedf7d422)
+        ;
+
+        
+    
+    
+                marker_0573682ef90c3dceb604b69666d36a19.setIcon(icon_6be72c6539b3f208c0101aaa940be0d2);
+            
+    
+            var marker_814595cbef02d7b51e55676dd953358e = L.marker(
+                [-6.9005236, 107.6007707],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_2a5b55a661567182d7f3df324f9077db = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e65921af829339eee519e39fd6745792 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4adb7031531e81e2ed265c3e06426499 = $(`<div id="html_4adb7031531e81e2ed265c3e06426499" style="width: 100.0%; height: 100.0%;">Perhimpunan Rumah Sakit Seluruh Indonesia (PERSI) Wilayah Jawa Barat</div>`)[0];
+                popup_e65921af829339eee519e39fd6745792.setContent(html_4adb7031531e81e2ed265c3e06426499);
+            
+        
+
+        marker_814595cbef02d7b51e55676dd953358e.bindPopup(popup_e65921af829339eee519e39fd6745792)
+        ;
+
+        
+    
+    
+                marker_814595cbef02d7b51e55676dd953358e.setIcon(icon_2a5b55a661567182d7f3df324f9077db);
+            
+    
+            var marker_b58c6a7ad72a444fd9c27980d63a413c = L.marker(
+                [-6.906572, 107.59979],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_a1dc1fe65587a5f2253983797bb02d60 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a8c0b60a5796330f95e38214fb690d1f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5530b5dce833a2cc26fa6993dd1de1b7 = $(`<div id="html_5530b5dce833a2cc26fa6993dd1de1b7" style="width: 100.0%; height: 100.0%;">dr. Riadi di Melinda Hospital</div>`)[0];
+                popup_a8c0b60a5796330f95e38214fb690d1f.setContent(html_5530b5dce833a2cc26fa6993dd1de1b7);
+            
+        
+
+        marker_b58c6a7ad72a444fd9c27980d63a413c.bindPopup(popup_a8c0b60a5796330f95e38214fb690d1f)
+        ;
+
+        
+    
+    
+                marker_b58c6a7ad72a444fd9c27980d63a413c.setIcon(icon_a1dc1fe65587a5f2253983797bb02d60);
+            
+    
+            var marker_0bdd16ba35577f2c120043c16c85def6 = L.marker(
+                [-6.906572, 107.59979],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_78e09d9e0903a54001aa4a6f7858aa86 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_08d65351317c7f72bc942f9c1da7511c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ced9f5de3465a7406cc751ecadb4b122 = $(`<div id="html_ced9f5de3465a7406cc751ecadb4b122" style="width: 100.0%; height: 100.0%;">Praktek Dokter Susan Melinda</div>`)[0];
+                popup_08d65351317c7f72bc942f9c1da7511c.setContent(html_ced9f5de3465a7406cc751ecadb4b122);
+            
+        
+
+        marker_0bdd16ba35577f2c120043c16c85def6.bindPopup(popup_08d65351317c7f72bc942f9c1da7511c)
+        ;
+
+        
+    
+    
+                marker_0bdd16ba35577f2c120043c16c85def6.setIcon(icon_78e09d9e0903a54001aa4a6f7858aa86);
+            
+    
+            var marker_0f30668b1faf75ef324b7b507bfa11a7 = L.marker(
+                [-6.905150600000001, 107.6006522],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_42f4847aab206a636338da3ec77e96cc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_573364ac625fabd4b42cc6b52cdea5b6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_735e12eacd5ebb9b0b8e93d7346bcd3c = $(`<div id="html_735e12eacd5ebb9b0b8e93d7346bcd3c" style="width: 100.0%; height: 100.0%;">Melinda Cardio Vascular Center</div>`)[0];
+                popup_573364ac625fabd4b42cc6b52cdea5b6.setContent(html_735e12eacd5ebb9b0b8e93d7346bcd3c);
+            
+        
+
+        marker_0f30668b1faf75ef324b7b507bfa11a7.bindPopup(popup_573364ac625fabd4b42cc6b52cdea5b6)
+        ;
+
+        
+    
+    
+                marker_0f30668b1faf75ef324b7b507bfa11a7.setIcon(icon_42f4847aab206a636338da3ec77e96cc);
+            
+    
+            var marker_745da615909f2800224c9794226d07b5 = L.marker(
+                [-6.906385799999999, 107.5982976],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_df194ffdab195c9d8c8b1947786d9f83 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9a2472d65135ab586928cd06c0c9cda6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_954c05707074d53be7edf717c52833fa = $(`<div id="html_954c05707074d53be7edf717c52833fa" style="width: 100.0%; height: 100.0%;">Melinda Sport Clinic</div>`)[0];
+                popup_9a2472d65135ab586928cd06c0c9cda6.setContent(html_954c05707074d53be7edf717c52833fa);
+            
+        
+
+        marker_745da615909f2800224c9794226d07b5.bindPopup(popup_9a2472d65135ab586928cd06c0c9cda6)
+        ;
+
+        
+    
+    
+                marker_745da615909f2800224c9794226d07b5.setIcon(icon_df194ffdab195c9d8c8b1947786d9f83);
+            
+    
+            var marker_42fe89924690523938abf6c559b2e2a3 = L.marker(
+                [-6.906232999999999, 107.5983274],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_eb9476bc3458c1b60cd77d1ef70f0230 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c7b87ea43d82dff1f58a557c2263ceef = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ea7069d6b5f46d74232defa36c7b6d45 = $(`<div id="html_ea7069d6b5f46d74232defa36c7b6d45" style="width: 100.0%; height: 100.0%;">Morula IVF Melinda Bandung</div>`)[0];
+                popup_c7b87ea43d82dff1f58a557c2263ceef.setContent(html_ea7069d6b5f46d74232defa36c7b6d45);
+            
+        
+
+        marker_42fe89924690523938abf6c559b2e2a3.bindPopup(popup_c7b87ea43d82dff1f58a557c2263ceef)
+        ;
+
+        
+    
+    
+                marker_42fe89924690523938abf6c559b2e2a3.setIcon(icon_eb9476bc3458c1b60cd77d1ef70f0230);
+            
+    
+            var marker_84e68399c0c9962045a44dcb6bbe4b87 = L.marker(
+                [-6.906342800000001, 107.5982255],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_f75e0ca9c22a897ca6c3cceccf72a7bf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4e260b1845f6a7d20fba092f5f76e4a5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b0b6a53f27de715924afd15fcdb3a881 = $(`<div id="html_b0b6a53f27de715924afd15fcdb3a881" style="width: 100.0%; height: 100.0%;">Melinda Child Development Center</div>`)[0];
+                popup_4e260b1845f6a7d20fba092f5f76e4a5.setContent(html_b0b6a53f27de715924afd15fcdb3a881);
+            
+        
+
+        marker_84e68399c0c9962045a44dcb6bbe4b87.bindPopup(popup_4e260b1845f6a7d20fba092f5f76e4a5)
+        ;
+
+        
+    
+    
+                marker_84e68399c0c9962045a44dcb6bbe4b87.setIcon(icon_f75e0ca9c22a897ca6c3cceccf72a7bf);
+            
+    
+            var marker_003d83089ed7a5a9fa53e0a365216a05 = L.marker(
+                [-6.906602899999999, 107.5980013],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_c312f6e078fa127a2c3c8669a8d98bdf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b4f933827c2293f8369b2101d51622c3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_914fe10123b95af494126a3a1e2701c8 = $(`<div id="html_914fe10123b95af494126a3a1e2701c8" style="width: 100.0%; height: 100.0%;">Gd. Kemuning RSHS</div>`)[0];
+                popup_b4f933827c2293f8369b2101d51622c3.setContent(html_914fe10123b95af494126a3a1e2701c8);
+            
+        
+
+        marker_003d83089ed7a5a9fa53e0a365216a05.bindPopup(popup_b4f933827c2293f8369b2101d51622c3)
+        ;
+
+        
+    
+    
+                marker_003d83089ed7a5a9fa53e0a365216a05.setIcon(icon_c312f6e078fa127a2c3c8669a8d98bdf);
+            
+    
+            var marker_f220a0fbec6143218dc1b1bae4629190 = L.marker(
+                [-6.9036883, 107.6016261],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_f19074f9efd41c8a6c3a39072b6ad519 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f8afe6abdfca2e28d8f793da93201eb1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b34725ff39552c8721db76f3f5930fdf = $(`<div id="html_b34725ff39552c8721db76f3f5930fdf" style="width: 100.0%; height: 100.0%;">Klinik Mata Dr Soediro</div>`)[0];
+                popup_f8afe6abdfca2e28d8f793da93201eb1.setContent(html_b34725ff39552c8721db76f3f5930fdf);
+            
+        
+
+        marker_f220a0fbec6143218dc1b1bae4629190.bindPopup(popup_f8afe6abdfca2e28d8f793da93201eb1)
+        ;
+
+        
+    
+    
+                marker_f220a0fbec6143218dc1b1bae4629190.setIcon(icon_f19074f9efd41c8a6c3a39072b6ad519);
+            
+    
+            var marker_1b20a320de2f2d45368986f212b5a935 = L.marker(
+                [-6.912597300000001, 107.6012111],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_11ef0c0116c63b9c844fbfcb26f011fe = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_16409f32a8371027e93a3279df9a63a3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_051c3355c2ae5b392f781894677898cf = $(`<div id="html_051c3355c2ae5b392f781894677898cf" style="width: 100.0%; height: 100.0%;">Sri Rahayu Skd Rr Drg</div>`)[0];
+                popup_16409f32a8371027e93a3279df9a63a3.setContent(html_051c3355c2ae5b392f781894677898cf);
+            
+        
+
+        marker_1b20a320de2f2d45368986f212b5a935.bindPopup(popup_16409f32a8371027e93a3279df9a63a3)
+        ;
+
+        
+    
+    
+                marker_1b20a320de2f2d45368986f212b5a935.setIcon(icon_11ef0c0116c63b9c844fbfcb26f011fe);
+            
+    
+            var marker_38c0ce8adecf052520f5296be7425242 = L.marker(
+                [-6.9127683, 107.6019826],
+                {
+}
+            ).addTo(map_0416ac9b52b238d2e655339160681414);
+        
+    
+            var icon_64632d11f388257af574efe8ea4f6b44 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5d9f96246c0c262ddccd0ec1d99e47ee = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_718b62da22520f08856b5f827163ddd7 = $(`<div id="html_718b62da22520f08856b5f827163ddd7" style="width: 100.0%; height: 100.0%;">Klinik Mediska Kebon Kawung</div>`)[0];
+                popup_5d9f96246c0c262ddccd0ec1d99e47ee.setContent(html_718b62da22520f08856b5f827163ddd7);
+            
+        
+
+        marker_38c0ce8adecf052520f5296be7425242.bindPopup(popup_5d9f96246c0c262ddccd0ec1d99e47ee)
+        ;
+
+        
+    
+    
+                marker_38c0ce8adecf052520f5296be7425242.setIcon(icon_64632d11f388257af574efe8ea4f6b44);
+            
+</script>
+</html>

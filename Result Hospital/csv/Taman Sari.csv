@@ -1,0 +1,11 @@
+name,address,lat,lng,types,business_status,rating,user_ratings_total
+Karya Sadar,"Jalan Tamansari No.3, Tamansari",-6.9026443,107.607885,"hospital, health, point_of_interest, establishment",OPERATIONAL,4.7,3
+MABES FLAMES,"Gang Pangumbahan No.7, Tamansari",-6.9028381,107.6049761,"hospital, health, point_of_interest, establishment",CLOSED_TEMPORARILY,3.7,3
+UPT Pelayanan Kesehatan UNISBA,"Jalan Tamansari No.1, Tamansari",-6.9040599,107.6080489,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,1
+Rumah Kost Wastu 89,"Jalan Wastukencana No.89, Tamansari",-6.904270899999999,107.6060769,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+Puskesmas Berlin,"Balubur Town Square, Tamansari",-6.898813499999999,107.6087699,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+ALEX DENTAL CARE Dokter Gigi drg. Alexander Anugrahputra,"Cihampelas no, Jl. Cihampelas No, 73, Tamansari",-6.9015298,107.6040892,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,2
+Praktek Dokter Revita,"Jl. Cihampelas No.73, Kota Bandung RT 004/RW 008 Kelurahan : Taman Sari, Kecamatan :",-6.901465600000001,107.6039017,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
+santosa hospital bandung centrl,"Jalan Doktor Hatta No.14-6, Tamansari",-6.901735899999999,107.6038568,"hospital, health, point_of_interest, establishment",OPERATIONAL,5,14
+Bedah Plastik (dr. Ade Sari Sitorus @ The Clinic Beautylosophy),"Jalan Ir. H. Juanda No.27, RT.04/RW.01, Tamansari",-6.904603400000001,107.6105773,"hospital, doctor, health, point_of_interest, establishment",OPERATIONAL,4.9,118
+Klinik Universitas Pasundan Tamansari,"3JV5+J9Q, Jalan Gajah Lumantung, Tamansari",-6.9059214,107.6084886,"hospital, health, point_of_interest, establishment",OPERATIONAL,Unknown,Unknown
