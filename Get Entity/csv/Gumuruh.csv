@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Warung Bu Neneng,"3J7Q+8JV, Jalan Gumuruh, Gumuruh",-6.9366496,107.6390481,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung kelontong pa sukri,"Gang Babakan Jati Mulya V No.21, Gumuruh",-6.940295,107.6383704,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+WARUNG MAS BISO,"3J5Q+7F2, Jalan Babakan Jati, Gumuruh",-6.941866399999999,107.6386486,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+ANEKA KREASI JAYA,"Jalan Jati Indah 1 No.3, Gumuruh",-6.942856299999999,107.6350549,OPERATIONAL,3,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown

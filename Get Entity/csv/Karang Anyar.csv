@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart,"Jalan Kalipah Apo No.56, RT.04/RW.04, Karanganyar",-6.923404999999999,107.6008582,OPERATIONAL,3.3,16,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Kalipah Apo No.1, Karanganyar",-6.923951100000001,107.6037297,OPERATIONAL,4.3,25,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomaret Sudirman,"Jalan Jend. Sudirman No.115, Karanganyar",-6.920484,107.600268,OPERATIONAL,2.9,23,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko Teh Botol dan Aqua Pajagalan,"Jalan Pajagalan No.39, Karanganyar",-6.9237636,107.6007056,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Frozen Food Oye,"Jalan Kalipah Apo No.27, Karanganyar",-6.9237459,107.6022336,OPERATIONAL,4.7,284,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Mekar,"3JH2+375, Karang Anyar",-6.922354100000001,107.6007368,OPERATIONAL,3.8,4,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung kopi teh icha,"Capitol Plaza, Jalan Jend. Sudirman No.91, Karanganyar",-6.9207338,107.6009514,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko 21,"Jalan Astana Anyar, Karanganyar",-6.921146799999999,107.5985449,OPERATIONAL,4,39,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Tiara Swalayan,Jalan Astana Anyar No.19,-6.9210556,107.5985353,OPERATIONAL,4.3,218,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

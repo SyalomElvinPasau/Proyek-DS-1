@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+My sister dina napitupulu,"Jalan Sersan Surip No.12, Ledeng",-6.8587902,107.5955476,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Akademi Managemen Informatika & Computer IPTB,"Jalan Doktor Setiabudi No.60, Ledeng",-6.859196000000002,107.595363,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Bandung,"4HRW+72F, Terminal, Ledeng",-6.8593126,107.5950587,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Iwa K Education,"4HRW+52C, Jalan Sersan Surip, Ledeng",-6.8595565,107.5950154,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

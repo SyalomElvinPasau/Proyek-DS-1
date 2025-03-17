@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+IMA JAWA BARAT,Jalan Guntur No.5,-6.9238388,107.6219644,OPERATIONAL,4.9,11,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+SMPK 4 PENABUR Bandung - Guntur 34,"Jalan Guntur No.34, Malabar",-6.925651999999999,107.6209062,OPERATIONAL,4.7,98,"school, university, point_of_interest, establishment",,{'open_now': False},Unknown
+Fakultas Seni dan Desain IWU,"Jalan A. Yani No.22, Kebon Pisang",-6.921935299999999,107.618645,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Penerbit Informatika,"Jalan Buah Batu, Malabar",-6.932364700000001,107.6183967,OPERATIONAL,3.8,4,"book_store, university, library, store, point_of_interest, establishment",,{'open_now': False},Unknown
+UNIVERSITAS HALIM SANUSI BANDUNG,"Jalan Taman Siswa No.4, Malabar",-6.928648799999999,107.6205472,OPERATIONAL,4.9,84,"university, point_of_interest, establishment",,Unknown,Unknown

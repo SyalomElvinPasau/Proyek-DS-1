@@ -1,0 +1,16 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+STIE Pasundan,"Jalan Turangga No.35-43, Lingkar Selatan",-6.932395199999999,107.6349449,OPERATIONAL,4.7,260,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Fakultas Ekonomi dan Bisnis Universitas Winaya Mukti,"Jalan Turangga No.25, Lingkar Selatan",-6.931165600000001,107.6352081,OPERATIONAL,4.8,73,"university, point_of_interest, establishment",,Unknown,Unknown
+Universitas Kebangsaan Republik Indonesia,"Jalan Terusan Halimun No.37, Lingkar Selatan",-6.927163,107.626359,OPERATIONAL,4.5,293,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Angkub,"3JCJ+HVW, Jalan Salak, Lingkar Selatan",-6.9285136,107.6321932,OPERATIONAL,4.7,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Precious Healty,Jalan Terusan Halimun II,-6.927995699999999,107.6261375,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Pengolahan Air Bersih dan Air Limbah,"3JFG+8P9, South Lingkar",-6.926722799999999,107.6268499,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Fakultas Ekonomi UKRI,"Jalan Pelajar Pejuang 45 No.8, Lingkar Selatan",-6.9265071,107.6268853,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekretariat PMB UKRI,Jalan Pelajar Pejuang 45 No.8,-6.9265071,107.6268853,OPERATIONAL,5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+kampus krui,"3JFG+6CH, South Lingkar",-6.926934,107.6261057,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Staf Dan Komando,"3J8H+HQQ, Jalan Martanegara, Lingkar Selatan",-6.933537299999999,107.6294774,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Gedung Direktorat Polgeta AGP,"Jalan Talaga Bodas No.80, Malabar",-6.9293214,107.6252127,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Wisma Pasis Chandra Dimuka Seskoad,"3J8G+VQH, South Lingkar",-6.932802000000001,107.626994,OPERATIONAL,3.6,8,"university, point_of_interest, establishment",,Unknown,Unknown
+FTSP - UKRI,"3JFG+FC8, South Lingkar",-6.9263386,107.6260852,OPERATIONAL,5,3,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Bimbingan Belajar Al Quran - Rumah Quran Center Bandung,"Jalan Pelajar Pejuang 45 No.58, Lingkar Selatan",-6.9318274,107.6256572,OPERATIONAL,5,151,"school, university, point_of_interest, establishment",,{'open_now': False},Unknown
+Bandung,"3JFG+66W, Jalan Galunggung Dalam, Lingkar Selatan",-6.9268775,107.6255664,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

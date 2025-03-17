@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+"Bubur sumsum,Candil,mutiara","Jalan Trs. Citamiang No.34, Sukamaju",-6.909081399999999,107.6353552,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Canarypedia,"Gang Pemuda No.58, Sukamaju",-6.906889400000001,107.6351539,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Barco,"Jalan Cikaso Selatan No.10-11, Sukamaju",-6.912511100000001,107.6340827,OPERATIONAL,4.8,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown

@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret Ahmad Yani 269,"Jalan A. Yani No.269, Cihapit",-6.914288,107.632291,OPERATIONAL,4.2,112,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+RY Cell Cihapit,"Jalan Cihapit No.depan no 30, Cihapit",-6.907314,107.623399,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Kurnia Mas,"Jalan Cihapit No.32, Cihapit",-6.908288700000001,107.6224338,OPERATIONAL,4.7,182,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko P & D Tjihapit,"Jalan Cihapit No.30, Cihapit",-6.908167200000001,107.6223047,OPERATIONAL,4.7,15,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Kel, Jalan A. Yani No.255 Kel, Cihapit",-6.9149349,107.6310104,OPERATIONAL,4.3,160,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

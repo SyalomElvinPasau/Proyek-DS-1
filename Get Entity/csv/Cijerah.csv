@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Borma Toserba – Cijerah,"Jalan Raya Cijerah No.90, Cijerah",-6.919788199999999,107.5695426,OPERATIONAL,4.2,5529,"supermarket, atm, grocery_or_supermarket, finance, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Alfamart - Cijerah 2 (F),"Jalan Raya Cijerah No.253, Caringin",-6.927677299999999,107.5657634,OPERATIONAL,4.1,153,"convenience_store, supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Prima Freshmart - Melong Asih Cijerah,"Jalan Melong Asih No.50, Cijerah",-6.9195109,107.5674666,OPERATIONAL,4.8,118,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Indomaret Melong Asih 63,"Jalan Melong Asih No.63, Cijerah",-6.9197007,107.5665707,OPERATIONAL,4.2,86,"supermarket, atm, convenience_store, grocery_or_supermarket, finance, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Warung salsabian/mamah tiara,"Gang Mekar Sari I No.74, Cijerah",-6.9251112,107.5649159,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': True},Unknown

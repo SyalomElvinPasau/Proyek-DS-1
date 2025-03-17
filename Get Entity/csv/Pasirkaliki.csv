@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret Kebon Kawung,"Jalan Kebon Kawung No.44, Pasir Kaliki",-6.912303,107.6001469,OPERATIONAL,3.6,24,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Kebon Kawung Kel No.46, RT.01/RW.9, Pasir Kaliki",-6.912311300000001,107.5999145,OPERATIONAL,3.8,33,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomart,"Gor Pajajaran, Pasir Kaliki",-6.908142499999999,107.6009288,OPERATIONAL,4.5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Pajajaran Kel No.47, RT.01/RW.07, Pasir Kaliki",-6.906962,107.5996728,OPERATIONAL,3.5,49,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+WARUNG AYU CELL,"Jalan Haji Mohammad Iskat No.31, Pasir Kaliki",-6.910042899999999,107.6019603,OPERATIONAL,4.8,8,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Kios Sembako Salsabila,"3JP2+XH4, Pasirkaliki",-6.9126184,107.601451,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown

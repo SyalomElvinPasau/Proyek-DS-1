@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret Batununggal,"Jalan Batununggal Indah IV No.17, Batununggal",-6.955377599999998,107.6287018,OPERATIONAL,3.7,42,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung tante yelin,"Jalan Parakan Ayu Raya No.7, Batununggal",-6.9511181,107.6322833,OPERATIONAL,4.2,5,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Alfamart Batununggal indah,"Jalan Batununggal Indah I No.14, Batununggal",-6.9549409,107.6270597,OPERATIONAL,4.5,26,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+osaka replexi,"2JWQ+M6Q, jalan 275buah batu, Batununggal",-6.9532847,107.6380951,OPERATIONAL,3.3,3,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Batununggal Cafe,"Jalan Batununggal Jalan Terusan Buah Batu No.1, Batununggal",-6.953712500000001,107.6384103,OPERATIONAL,4.8,4,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Intan asgar pangkas rambut,"Jalan Batununggal No.110, Batununggal",-6.954698400000001,107.638378,OPERATIONAL,3,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+TOKO FAMILY GRUP,"Jalan Batununggal No.67 A, Batununggal",-6.956930499999999,107.6375405,OPERATIONAL,4.8,5,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown

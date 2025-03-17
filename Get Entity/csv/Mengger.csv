@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Mulia Store,"2JPG+RRP, Mengger",-6.962917499999999,107.6270655,OPERATIONAL,4.4,251,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Lia Mart,Jalan Batununggal Mulia XIII No.31,-6.9638294,107.6312934,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Dede Mart,"Jalan Batununggal Indah II No.73, Mengger",-6.957299099999999,107.6239344,OPERATIONAL,4.9,7,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown

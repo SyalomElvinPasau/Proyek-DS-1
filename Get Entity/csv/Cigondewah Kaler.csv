@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart,"Jl. Muara Jaya Cigondewah Kaler No.7, Ds, RT.01/RW.02, Cigondewah Hilir",-6.931949100000001,107.5613318,OPERATIONAL,3.9,23,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Emil,"3H85+QQF, Jalan Batu Rengat, Cigondewah Kaler",-6.933054299999999,107.5594156,OPERATIONAL,3.8,6,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Toko Bahana,"3H95+4RW, Jalan Batu Rengat, Cigondewah Kaler",-6.9321302,107.559567,OPERATIONAL,4.5,67,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko Jaya,"3H75+J5Q, Cigondewah Kaler",-6.9359097,107.5579886,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Rizqy store,"Jalan Baturengat No.51, Cigondewah Kaler",-6.9370942,107.5575551,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+H.YAYAT MINIMART,"3H98+W6X, Cigondewah Kaler",-6.930149600000001,107.5656066,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

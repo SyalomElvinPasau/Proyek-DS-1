@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Garis Depan Bandung,"Jalan Simponi No.29, Turangga",-6.939582199999999,107.6322604,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+UNISA Bandung,"Jalan K.H. Ahmad Dahlan Dalam No.6, Turangga",-6.933154099999999,107.623957,OPERATIONAL,4.8,192,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+STAI Muhammadiyah Bandung,"Muhammadiyah, Kawasan RS. Muhammadiyah, Jalan Komplek Pendidikan Jalan Banteng Dalam No.6, Turangga",-6.932661,107.624103,OPERATIONAL,4.5,36,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+FLOYD by Fe Kitchen Store,"Jalan Karawitan No.49, RT.01/RW.10, Turangga",-6.938380299999999,107.6286799,OPERATIONAL,Unknown,Unknown,"store, university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gegerkalong girang,"3J5H+PPQ, Jalan Nusaindah, Gegerkalong",-6.940658899999999,107.6293497,OPERATIONAL,4.8,11,"university, point_of_interest, establishment",,Unknown,Unknown
+Lup,"Jalan Pucung No.13, Turangga",-6.9364076,107.6297988,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Akademi Industri Tekstil Bandung (AITB),"Jalan Wartawan 2 No.15, Turangga",-6.9406509,107.6312865,OPERATIONAL,4.8,5,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+House of Siswanto Family,"Jalan Wartawan IV No.39, Turangga",-6.941829899999999,107.6293954,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+ABAH-AKU BISA AKU HEBAT,"Jalan Degung No.3, Turangga",-6.935721999999998,107.6311276,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Rumah Biru💙,"Jalan RH Hasan Saputra I No.8a, Turangga",-6.9348347,107.6340868,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown

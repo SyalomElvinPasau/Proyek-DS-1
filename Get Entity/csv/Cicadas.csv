@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart Wiranta PT Sumber Alfaria Trijaya,"Jalan Wiranta No.24, Cicadas",-6.909886000000001,107.6377291,OPERATIONAL,4.4,51,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+Warung Gemoy Cicadas,"Gang Mawar 1 No.62, Cicadas",-6.9069662,107.637937,OPERATIONAL,5,1,"meal_takeaway, supermarket, grocery_or_supermarket, store, restaurant, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung eSTW asber /Abbassy,Gg.Bp Aha 3 Jalan Asep Berlian No.Rt07/06,-6.9049426,107.6385277,OPERATIONAL,Unknown,Unknown,"supermarket, convenience_store, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Purna Store,"Jalan Awi Bitung No.296, Cicadas",-6.907576799999999,107.6385709,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Waroeng Butat,"Jalan Sukaaman I No.36, Cicadas",-6.908804099999999,107.6379457,OPERATIONAL,4.9,7,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Depot Frozen Food,"Jalan Awi Bitung No.34, Cicadas",-6.908927799999999,107.638915,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Toko Alya,"Jalan Asep Berlian No.31, Cicadas",-6.907860599999998,107.640599,OPERATIONAL,4.5,4,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Awi Bitung No.20, RT.02/RW.09, Cicadas",-6.9095627,107.6392434,OPERATIONAL,2.4,19,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Ibu Ida,"3JRR+735, Cicadas",-6.909355100000001,107.6402456,OPERATIONAL,4.6,7,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+STIE Dharma Negara,"Jalan Babakan Sari No.68, Babakan Sari",-6.9224248,107.649894,OPERATIONAL,4.4,73,"university, accounting, finance, school, point_of_interest, establishment",,{'open_now': False},Unknown
+I Tutor English Course,"Jalan Arum Sari I No.7, Babakan Sari",-6.923594199999999,107.6538836,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Yani 54,"Jalan Babakan Sari No.125, Babakan Sari",-6.922274999999999,107.651608,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Gerbang Kampus Dharma Negara,"Jalan Babakan Sari No.93, 07, Babakan Sari",-6.9240664,107.6496065,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Blogger,"Jalan Babakan Sari No.161, Babakan Sari",-6.923995300000001,107.6532893,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+AMIK BSI Bandung,"3JJW+G9Q, Jalan Sekolah Internasional, RT.1/RW.6, Babakan Sari",-6.9186671,107.6459874,OPERATIONAL,3.4,5,"university, point_of_interest, establishment",,Unknown,Unknown
+CreativeArs Learning,"Jalan Terusan Sekolah No.1, RW.2, Cicaheum",-6.919623199999999,107.6445726,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown

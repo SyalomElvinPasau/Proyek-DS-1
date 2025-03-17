@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart,"Jalan Laswi No.114, RT.01/RW.10, Cibangkong",-6.9224744,107.6294718,OPERATIONAL,4.1,21,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung ARDA,"3JGM+XG9, Jalan Kuburan RT.02/RW.11, Cibangkong",-6.922578300000001,107.6338709,OPERATIONAL,4.5,6,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Juice N Juice,"3JGJ+7X9, Jalan Babakan Garut, Cibangkong",-6.9243251,107.6324932,OPERATIONAL,4.5,6,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Ibu Enting (Nandi Koswara),"3JHM+5FR, Jalan Cibangkong Tengah RT.01/RW.11, Cibangkong",-6.9220052,107.633651,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Alfamart,"Jalan Gatot Subroto Kel No.255, RT.01/RW.3, Gumuruh",-6.926346300000001,107.6339056,OPERATIONAL,4.1,24,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Agen lemineral TOKO SUMUR BOR,"Jalan Cibangkong No.14, Cibangkong",-6.9241173,107.6309421,OPERATIONAL,5,9,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Toko H.Obur,"Jalan Cinta Asih Utara No.377/122, RT.02/RW.12, Cibangkong",-6.9210509,107.6329423,OPERATIONAL,5,1,"department_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+MASJID AL IKHLAS MALEER UTARA,"3JGP+5X4, Jalan Maleer Utara, Maleer",-6.9246012,107.6374683,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown

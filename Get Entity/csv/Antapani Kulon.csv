@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Bakul Sayur Bandung Antapani,Jalan Antapani Lama No.39,-6.912031499999999,107.6585997,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Waroeng barman,"Jalan Kalijati 7 No.19, Antapani Kulon",-6.911394399999999,107.6535846,OPERATIONAL,4,6,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+War_beh,"Jalan Kalijati 7 No.19, Antapani Kulon",-6.9113727,107.6535624,OPERATIONAL,4,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung teh pipih,"Jalan Sukanegla No.176A, Antapani Kulon",-6.906691799999999,107.653008,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Super Indo Antapani,"Jalan Terusan Jakarta No.225-227, Antapani Kulon",-6.913422799999999,107.6605491,OPERATIONAL,4.2,2736,"supermarket, atm, finance, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

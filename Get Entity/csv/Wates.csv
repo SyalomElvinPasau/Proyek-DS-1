@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret m.toha 394,"Jalan Mochammad Toha No.386, Wates",-6.959879299999999,107.6131697,OPERATIONAL,4,41,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Mamah Euis,"Jalan Murdasan No.75, Wates",-6.960582699999999,107.6149707,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Mochammad Toha Kel No.373, RT.003/RW.007, Ciseureuh",-6.957738599999999,107.6137647,OPERATIONAL,4.3,92,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Arlinz Fashion Bandung,"Jl. Mochamad Toha gg. Murdasan, Wates",-6.9604215,107.6140081,OPERATIONAL,4.4,23,"home_goods_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+King Flowerhorn,"Jalan Tol Mohammad Toha Jalan Curug Candung No.104, Wates",-6.958868900000001,107.61022,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Aef fotocopy,"Jalan Tol Mohammad Toha Jalan Curug Candung No.104, Wates",-6.958871299999999,107.6102119,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung syuruput,"2JR5+CXX, Wates",-6.9588991,107.6099733,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+ADJAT MOTOR,"2JR5+7VF, Wates",-6.9593136,107.6096841,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+L,"Jalan Naradireja, Wates",-6.9599948,107.609609,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

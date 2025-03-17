@@ -1,0 +1,15 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sekolah Tinggi Teologi Baptis Bandung,"Jalan Soekarno-Hatta No.762, Cipadung Kidul",-6.936058200000001,107.7118004,OPERATIONAL,4.7,12,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Universitas Bhakti Kencana Bandung,"Jalan Soekarno-Hatta No.754, Cipadung Kidul",-6.9365228,107.7099744,OPERATIONAL,4.5,438,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Stikes Farmasi Bandung,"Jalan Soekarno-Hatta No.766, Cipadung Kidul",-6.941056400000001,107.7118093,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Upbjj,"3P57+5HG, Jalan Raya, Cipadung Kidul",-6.9420568,107.7139414,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Panyileukan regency blok A no 1,"3P47+H88, Cipadung Kidul",-6.943579799999998,107.7133427,OPERATIONAL,3.9,15,"university, point_of_interest, establishment",,Unknown,Unknown
+Straight Council kampung Inggris Cibiru,"Ruko Zahra Building, Jalan AH. Nasution No.100, Shariah",-6.9397521,107.7153531,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Pondok Pesantren Jati Hidayah,Cipadung Kidul,-6.9415251,107.7085957,OPERATIONAL,5,3,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Upbjjbandung,"Jalan Raya Panyileukan No.1A, Cipadung Kidul",-6.9368815,107.7126531,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Open University of Bandung,"Jalan Raya Panyileukan No.1A, Cipadung Kidul",-6.936836599999999,107.71245,OPERATIONAL,4.3,211,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Putra Pesantren Bahasa (Al-Ma'had Al-Lughawy),"3P65+693, Cipadung Kidul",-6.9395507,107.7083517,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Kost-kostan Ibu Nur,"Jalan Sauyunan Komplek Bumi Panyileukan No.F5/26, Cipadung Kidul",-6.943311599999999,107.7161921,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Sekolah Tinggi Farmasi Bandung,"Jalan Soekarno-Hatta No.754, Cipadung Kidul",-6.936024599999999,107.7102203,OPERATIONAL,5,5,"university, point_of_interest, establishment",,Unknown,Unknown
+Muhammadiyah University of Bandung,"Jalan Soekarno-Hatta No.752, Cipadung Kidul",-6.936144700000001,107.7090265,OPERATIONAL,4.7,812,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Fakultas Tarbiyah dan Keguruan (Gedung Baru),"Jalan Cimincrang No.27, Cimenerang",-6.9394755,107.7066378,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

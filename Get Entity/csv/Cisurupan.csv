@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Teh Susi toko,"Jalan Cilengkrang 1 No.17, Cisurupan",-6.902519100000001,107.7243066,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko NA .jaya,"Jalan Cilengkrang 1 No.50, Cisurupan",-6.909321400000001,107.7236452,OPERATIONAL,3.8,12,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+TOKO BERKAH,"Cilengkrang1,ujungberung,, Jalan Cilengkrang 1, Cisurupan",-6.8996593,107.7259922,OPERATIONAL,4.2,9,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko Dimas,"4P3G+2H6, Cisurupan",-6.897469800000001,107.7263834,OPERATIONAL,4.6,12,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

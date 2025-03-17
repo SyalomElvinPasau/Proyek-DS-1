@@ -1,0 +1,19 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Universitas Katolik Parahyangan,"Jalan Ciumbuleuit No.94, Hegarmanah",-6.8751984,107.604924,OPERATIONAL,4.6,1058,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung 2 FH UNPAR,"Jalan Ciumbuleuit No.94, Hegarmanah",-6.8744749,107.6054724,OPERATIONAL,4.6,30,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung ASP UNPAR,"Jalan Ciumbuleuit No.96, Hegarmanah",-6.874472000000001,107.6047359,OPERATIONAL,5,4,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lembaga Penelitian Dan Pengabdian Kepada Masyarakat,"Universitas Katolik Parahyangan, JL Ciumbeuleuit, No. 94, 40141, Hegarmanah",-6.8747311,107.6049002,OPERATIONAL,5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+Faculty of Economics,"Jalan Ciumbuleuit.94 Gedung 9 Hegarmanah, Ciumbuleuit",-6.8748475,107.6058585,OPERATIONAL,4.4,10,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lembaga Pengembangan Humaniora,"4JF4+WQ2, Jalan Ciloa, Hegarmanah",-6.875237,107.606885,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Akademi Manajemen Informatika Dan Komputer IPTB,"Jalan Cikendi No.32a, Hegarmanah",-6.874508899999999,107.6008169,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Ruang kuliah yolan,"4HGX+MPP, Hegarmanah",-6.873278399999999,107.5993373,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Gku ITB,"Jalan Hegarmanah Tengah No.1A, Hegarmanah",-6.873278399999999,107.5993373,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Rumah Kos Harmony Residence Ciumbuleuit Unpar,"Jalan Ciumbuleuit No.141, Hegarmanah",-6.876244199999999,107.6036724,OPERATIONAL,4.4,16,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Gedung 0 Rektorat UNPAR,"Jalan Ciumbuleuit No.94, Hegarmanah",-6.8750106,107.6049347,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Basement tercinta,"4JG4+33R, Unnamed Road, Hegarmanah",-6.874760299999999,107.6051267,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Auditorium Pusat Pembelajaran Arntz-Geise - PPAG UNPAR,"Gedung Pusat Pembelajaran Arntz-Geise Lantai 2 - 2A, Universitas Katolik Parahyangan, Jalan Ciumbuleuit No.94",-6.8753017,107.6055463,OPERATIONAL,4.3,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Fakultas Teknik Unpar,"Jalan Ciumbuleuit No.94, Hegarmanah",-6.875272100000001,107.6055583,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Arntz-Geisse Study Centre (UNPAR),"4JF4+R6F, Hegarmanah",-6.875449599999999,107.6055617,OPERATIONAL,5,4,"university, point_of_interest, establishment",,Unknown,Unknown
+Gedung 9 FE UNPAR,"Building 9, Jalan Ciumbuleuit No.94, Hegarmanah",-6.874969,107.6066101,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Unpar Gedung 9,"gate 3, Jalan Bukit Jarian No.45, Hegarmanah",-6.8754635,107.6068109,OPERATIONAL,4.7,26,"university, point_of_interest, establishment",,Unknown,Unknown
+Akademi Manajemen Informatika Dan Komputer Iptb,"Gang Arsa Manggala No.14, Hegarmanah",-6.880835800000001,107.6004509,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown

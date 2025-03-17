@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret kurdi,"Kompleks Kurdi, Jalan Haji Kurdi 1 No.60, Karasak",-6.9440142,107.6056893,OPERATIONAL,4.3,49,"convenience_store, atm, supermarket, grocery_or_supermarket, store, finance, food, point_of_interest, establishment",,{'open_now': False},Unknown
+TOKO SEMBAKO SELARAS,"Jalan Mochammad Toha No.234, Karasak",-6.9488917,107.6094366,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Toko Kita Raya,"Jalan Haji Kurdi 1 No.43, Karasak",-6.94431,107.6058146,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Econ Serba Rp10.000 ++,"Jalan Mochammad Toha No.306, Karasak",-6.953624,107.6109372,OPERATIONAL,4.5,321,"shopping_mall, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

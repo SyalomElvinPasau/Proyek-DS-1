@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart Cipadung 2,"Jalan Desa Cipadung No.55, Cipadung",-6.920813000000001,107.721029,OPERATIONAL,3.9,80,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomaret Cipadung F2TX,"3P98+64H, Jalan Raya Cipadung, Cipadung",-6.9319394,107.7153443,OPERATIONAL,4,105,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung bu yuyun,"Jalan Manglayang No.210, Cipadung",-6.923565200000001,107.7181303,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Arnata Manisi,"Jalan Manisi No.14, Pasir Biru",-6.923979999999999,107.7207106,OPERATIONAL,4.6,54,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Rumah TiginGisna(Warung mang Erom),"Cigaga, 05, RT.07/RW.14, Cipadung",-6.921479,107.7183757,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Agen galon Le minerale Toko Alifa,"Jalan Desa Cipadung No.37, Cipadung",-6.921188099999999,107.7209258,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Meiti Mart,"Jalan Desa Cipadung RT.04/RW.08, Cipadung",-6.928334200000001,107.7165318,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+TOKO SALWA,"Jalan Desa Cipadung No.47A, Cipadung",-6.9282257,107.7161097,OPERATIONAL,4.4,21,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+HDR Market Place,"Jalan Desa Cipadung No.59, Cipadung",-6.928388,107.716019,OPERATIONAL,4.9,7,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung Pak Oman,"Gg. Bidan rt 01/11 no.a22, Cipadung",-6.9278241,107.7145626,OPERATIONAL,4.8,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Dm Montor M31,"Jalan Manisi No.31, Cipadung",-6.930218000000001,107.7197542,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

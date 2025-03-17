@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart Pagarsih,"Jalan Pagarsih No.238, Jamika",-6.921989,107.5872559,OPERATIONAL,4.1,262,"convenience_store, supermarket, atm, finance, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+INDOMARET Pagarsih,"Jl. Pagarsih No.126 Cibadak Astana Anyar, Jamika",-6.922575699999999,107.5912742,OPERATIONAL,4.1,305,"supermarket, atm, finance, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+Alfamart,"Jalan Jamika No.38, RT.02/RW.09, Sukahaji",-6.9199399,107.5861896,OPERATIONAL,3.3,19,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Pagarsih No.160/162A, RT.7/RW.4, Jamika",-6.9223279,107.590538,OPERATIONAL,3.7,31,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+WARUNG ANI,Gang Mukalmi No.193 86JamikaKec,-6.921042799999999,107.5898577,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung Bu Imas,Jamika,-6.924222499999999,107.5892575,OPERATIONAL,4,10,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Ximi Store,"3HGR+CFX, Gang Pamarhadi, Jamika",-6.923883,107.5912387,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Dakyong Snacks,"3HGQ+426, Jamika",-6.924711500000001,107.5875277,CLOSED_TEMPORARILY,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Rumah risoles,"3HHP+VVJ, Jamika",-6.920291799999999,107.5871459,OPERATIONAL,4.9,7,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown

@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sosis & Baso Paskali,"Jalan Abdul Rahman Saleh No.34, Husen Sastranegara",-6.907248999999999,107.5836654,OPERATIONAL,4.5,132,"shopping_mall, supermarket, grocery_or_supermarket, store, health, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Kicau Mart,"City Square, Jalan Abdul Rahman Saleh, Husen Sastranegara",-6.9077609,107.5854221,OPERATIONAL,3.9,94,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown

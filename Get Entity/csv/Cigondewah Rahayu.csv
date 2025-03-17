@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Warung Pakan Burung Wahyudin,"Jalan Cigondewah Rahayu No.54, Cigondewah Rahayu",-6.948654700000001,107.5641183,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alle mandiri Bandung,"Jalan Kavindustri No.79 Blok C2, Cigondewah Rahayu",-6.949045099999999,107.5621847,OPERATIONAL,4.7,15,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Iwan Snack,"2HX8+H6R, Cigondewah Rahayu",-6.951015600000001,107.5655183,OPERATIONAL,4.5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Nenzy Alhusna,Komplek Bumi Panyileukan Blok G4 No.18,-6.9466876,107.5597202,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+PT. Dwi Gas,"Jalan Cibolerang Barat No.10, Cigondewah Rahayu",-6.9511712,107.5656868,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Yani,"1 blok F6 no 38, Jalan Taman Holis Indah, Cigondewah Rahayu",-6.943861800000001,107.5602552,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+warung bu tini,"2HW8+VHV, Jalan Cibolerang Barat, Cigondewah Rahayu",-6.952766,107.5664294,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

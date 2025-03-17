@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Bingo Gas Lpg Dan Air Galon,"Jalan Muararajeun Lama No.9s, Cihaur Geulis",-6.9010636,107.6277834,OPERATIONAL,4.8,6,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+"WarMep (kertas & lampu), warung rupa rupi","Jalan Terusan Ciliwung No.18b, Cihaur Geulis",-6.9030776,107.6300606,OPERATIONAL,4.8,4,"supermarket, book_store, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+TOKO DAFFA,"jl muararajeun lama 2, nomer No.57, Cihaur Geulis",-6.9000042,107.6307628,OPERATIONAL,4.9,8,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Minimarket Pos,"Jalan Supratman No.61, Cihaur Geulis",-6.905689,107.6296272,OPERATIONAL,3,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Mmh Ajeng,"4J2M+85R, Cihaur Geulis",-6.899128399999999,107.6328768,OPERATIONAL,4.6,7,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Warung Teh Emma,"Jalan Sukaluyu I Gang I No.78, Cihaur Geulis",-6.8994042,107.6330314,OPERATIONAL,4.5,11,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

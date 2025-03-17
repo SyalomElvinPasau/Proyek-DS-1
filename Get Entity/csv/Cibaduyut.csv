@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret Plus Singgasana Perdana,"Jalan Indrayasa No.1, Cibaduyut",-6.952792000000001,107.5976558,OPERATIONAL,4.1,418,"convenience_store, atm, supermarket, grocery_or_supermarket, store, finance, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Cibaduyut No.155, RT.01/RW.06, Cibaduyut",-6.9535711,107.5935149,OPERATIONAL,3,16,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Ikhsan collection,"2HWV+H4V, Jalan Ma Eja, Cibaduyut",-6.953509599999999,107.5927962,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+TOKO HASBI,"Jalan Indrayasa No.4D, Cibaduyut",-6.9523727,107.5938435,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung ikin,"Jalan Ma Eja No.112, Cibaduyut",-6.954370699999999,107.5917969,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Jalan Indrayasa No.72, RT.03/RW.01, Cibaduyut",-6.9521932,107.5945292,OPERATIONAL,4.1,72,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Ovic,"Gang Sauyunan No.32, Cibaduyut",-6.9549102,107.5949399,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung ibu enok,"Gang Haji Ibrahim No.124, Cibaduyut",-6.955695299999999,107.5942327,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung mang ajat,"Gang Haji Ibrahim No.04 rw 06 No. 6Kec, Cibaduyut",-6.9558566,107.594921,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Mm 51,"Jalan Singgasana Raya No.21-67, Cibaduyut",-6.9543767,107.5978298,OPERATIONAL,4.9,9,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Kampus Baru STEMBI BANDUNG,"Jalan Ranca Oray No.10, Mekarjaya, Rancasari, Kota Bandung, Jawa Barat 601853, Mekarjaya",-6.9664385,107.672001,OPERATIONAL,4.3,4,"university, point_of_interest, establishment",,Unknown,Unknown
+Akademi Kebidanan Ar-Rahmah,"Jalan Terusan Derwati No.61, Mekarjaya",-6.964013700000001,107.6738588,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Perpustakaan Bandung Business School,"Stembi Bandung, Mekarjaya",-6.9667307,107.6723631,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Digitech University (Universitas Teknologi Digital),"Kampus 1, Jalan Cibogo No.Indah 3, Mekarjaya",-6.9667482,107.6724657,OPERATIONAL,4.9,346,"university, point_of_interest, establishment",,{'open_now': False},Unknown

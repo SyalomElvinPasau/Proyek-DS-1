@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart,"Jalan Rajawali Barat No.29, Maleber",-6.9111284,107.5710366,OPERATIONAL,3.6,33,"convenience_store, atm, supermarket, finance, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Warung Bunda,"3HQF+P2F, Gang Kasuari II, Maleber",-6.9106977,107.5725336,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko ABC,"Jalan Maleber Barat No.83, Maleber",-6.906450599999999,107.5713251,OPERATIONAL,4.8,10,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Abah,"3HVC+HR4, Unnamed Road, Maleber",-6.906114199999999,107.5720635,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Toko Dua Anak Beruang,"Jalan Maleber Inpres I No.153, Maleber",-6.9054701,107.5708485,OPERATIONAL,4.9,8,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung mba mumun bri link,"3HWC+9CC, Maleber",-6.904061199999999,107.5710255,OPERATIONAL,4.7,12,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Warung Ibu Dalis,"3HMF+V5H, Gang Abah Muhammad I, Maleber",-6.9153116,107.5729879,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown

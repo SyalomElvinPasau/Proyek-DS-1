@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+SATU University - Kampus Bandung,"Jalan BKR No.63, Ancol",-6.938234199999999,107.6163493,OPERATIONAL,5,32,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+komputer reguler,"40253, Jalan Srimahi Dalam No.2A, RT./04/RW./01, Ancol",-6.9368798,107.6155051,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kursus Video Editing Bandung,"Jalan Ancol Timur XIII No.1, Ancol",-6.936209400000001,107.616516,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko Lagu dan kursus Musik,"Jalan Terusan Srimahi I No.11A, Ancol",-6.935936799999999,107.6157025,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

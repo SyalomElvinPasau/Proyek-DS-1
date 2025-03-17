@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret Padasuka 116,"Jalan Padasuka No.116, Pasirlayung",-6.895383,107.65607,OPERATIONAL,4.2,61,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Indomaret,"Jalan Padasuka No.45, Pasirlayung",-6.900765499999999,107.6537285,OPERATIONAL,4.5,193,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Yomart Padasuka 2,"Jalan Padasuka Atas No.125, Pasirlayung",-6.8950543,107.6558745,OPERATIONAL,4.3,208,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Sembako Abang,"Jalan Sirnagalih No.29, Pasirlayung",-6.8956668,107.657133,OPERATIONAL,4,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko encang,"Jalan Bungursari Raya No.3 No.10, Pasirlayung",-6.895388,107.654167,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Jalan Padasuka Kel No.81, RT.003/RW.006, Pasirlayung",-6.896904399999999,107.6547716,OPERATIONAL,3.9,60,"convenience_store, supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Pak Karto,"Jalan Asri No.10, Pasirlayung",-6.8946482,107.6538354,OPERATIONAL,4,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Heri Fresh Meal,"4M24+VJW, Pasirlayung",-6.8977707,107.6565638,OPERATIONAL,3,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+RAFSA RASA,"04, Jalan Padasuka No.44, Pasirlayung",-6.898978499999999,107.6543566,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown
+Gudang Alpukat Bandung - Alpukat Golden,"4M24+722, Pasirlayung",-6.8993627,107.6550125,OPERATIONAL,4.8,19,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Tk. Didin / Grosir dan Eceran,"Jalan Asri No.5, Pasirlayung",-6.8941433,107.6511971,OPERATIONAL,4.3,10,"supermarket, convenience_store, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': True},Unknown

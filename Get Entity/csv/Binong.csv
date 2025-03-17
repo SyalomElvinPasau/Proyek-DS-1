@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Warung pojok mama mia,"Jl binong jati II Rt 06/06, Jalan Raya Jati Asih No.II, Binong",-6.939302199999999,107.6388074,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung gaul,"Jalan Babakan Jati I No.57, Binong",-6.940655700000001,107.6414395,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Rumah sulas,"3J8R+29F, Binong",-6.9349457,107.6409216,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung Boy,"Jalan Ibrahim Adjie Gang Babakan Jati 2 No.226, RT.05/RW.08, Binong",-6.941459,107.6412186,OPERATIONAL,4.7,18,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Minyak Tanah Eceran Mbah,"3J8R+FFQ, Gang PLN, Binong",-6.933778999999999,107.641222,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Krez Krez,"Jalan H. Basuki III No.187, RT.007/RW.010",-6.942520200000001,107.6393955,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+BORMA Toserba • Kiaracondong,"Jalan Ibrahim Adjie No.418A, Binong",-6.942793099999999,107.6414792,OPERATIONAL,4.5,5704,"grocery_or_supermarket, supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung H Pepen,"Jalan H. Basuki III No.176, Binong",-6.942780099999999,107.6388395,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung Ceu Omi,"3J4Q+MC7, Binong",-6.943345299999999,107.6385521,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Ibu Omi,"Jalan H. Basuki III No.96, RT.04 rw10, Binong",-6.9435655,107.638738,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Minyak kita dan curah,Jalan Binong Jati No.2,-6.931339499999999,107.6408054,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

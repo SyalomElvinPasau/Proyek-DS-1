@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret Kiara Artha Park,"3JMR+G67, Jalan Banten, Kebonwaru",-6.916223299999999,107.6405556,OPERATIONAL,2.2,13,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Indomaret Kiara Artha Park,"Jalan Lebak 2 No.243, RT./07/RW./05, Kebonwaru",-6.917352500000001,107.642294,OPERATIONAL,2.2,5,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Jatira Aquatic,"3JPR+WG7, Kebonwaru",-6.912706999999999,107.6412856,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung Bu Yayah,"Jalan Anyer Dalam No.04, Kebonwaru",-6.918278399999999,107.6374563,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung mamah Dira,"Gang Samsi 1 No.261/125A, RT.06/RW.01, Kebonwaru",-6.911981,107.6418067,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung Pak Ading,"Gang Laksana 6 No.264, Kebonwaru",-6.912001800000001,107.6422285,OPERATIONAL,4.7,13,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Bi Enih,"Gang Opat No.143, RT.4/RW.7, Kebonwaru",-6.911266599999999,107.6408337,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Acc hp,"Jalan Ibrahim Adjie No.36a, Kebonwaru",-6.911491799999999,107.6433047,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown

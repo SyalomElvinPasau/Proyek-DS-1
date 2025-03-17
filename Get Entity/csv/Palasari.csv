@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Warung Bu eni,"Jalan Cilengkrang II, Palasari",-6.915121399999999,107.7208318,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Ibu Nani,"3PMC+P3R, Jalan Cilengkrang II, Palasari",-6.91565,107.7201362,OPERATIONAL,5,10,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung nandesket,"3PJ9+W8H, Jalan Cilengkrang II RT.01/RW.11, Palasari",-6.917688,107.7183439,OPERATIONAL,5,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+"Candra u""can","3PJ9+J88, Palasari",-6.918464999999999,107.7183396,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Toko Mughni,"Komplek Vijaya Kusuma Cipadung, Blok A3G No.5, RT 05, RW 11, Kel, Palasari",-6.918921499999999,107.7188404,OPERATIONAL,5,5,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

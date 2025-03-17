@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+TOKO SINAGA SISTER,"2HQR+Q43, Cibaduyut Kidul",-6.9606189,107.5902899,OPERATIONAL,4,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+HAYANGCUPANG,"Gang Babakan TVRI II, Cibaduyut Kidul",-6.960641600000001,107.5930826,OPERATIONAL,5,5,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Metozsacollection,"Gang Babakan TVRI II No.10b, Cibaduyut Kidul",-6.9604668,107.5931728,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+warung alfatih/ibu yeni,"2HVQ+G6P, Gang Cirangrang Timur, Cirangrang",-6.956157200000001,107.588063,OPERATIONAL,4.7,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown

@@ -1,0 +1,10 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Warung Kang Dul,"Alhikmah, Gang Mesjid RT.05/RW.06, Dungus Cariang",-6.913654999999999,107.580468,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Warung Bu Iim,"Jalan Rajawali Timur No.169, Dungus Cariang",-6.912994299999999,107.5807776,OPERATIONAL,4.5,6,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,Unknown,Unknown
+Warung Kopi Saroni,Jalan Rajawali Timur No.156,-6.9146442,107.5820759,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': True},Unknown
+Warung pa momon,"Jl. Rajawali Sakti II No.1, Dungus Cariang",-6.912266499999999,107.5810547,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': True},Unknown
+Warung Ko ACUNG,"3HMJ+FHF, Unnamed Road, Dungus Cariang",-6.9163226,107.5814103,OPERATIONAL,3,2,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+MORIMS_BETTAFISH BANDUNG,"Jalan Andir, Dungus Cariang",-6.915136,107.5832921,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Warung Doddy,"3HQJ+C88, Dungus Cariang",-6.9114625,107.5808281,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,Unknown,Unknown
+Syae Plastik Bdg,"3HQH+CRM, Jalan Halteu Utara gg. XII RW.2, Dungus Cariang",-6.9114247,107.579557,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,Unknown,Unknown
+Toko Pak Dedih,"Jalan Halteu Utara Gang Al Ikhlas No.115, Dungus Cariang",-6.9109428,107.5813828,OPERATIONAL,4.5,22,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown

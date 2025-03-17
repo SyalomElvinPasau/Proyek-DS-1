@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d82ed6b40f208cc40a5402a45dc14ecf {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_d82ed6b40f208cc40a5402a45dc14ecf" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_d82ed6b40f208cc40a5402a45dc14ecf = L.map(
+                "map_d82ed6b40f208cc40a5402a45dc14ecf",
+                {
+                    center: [-6.918944111650853, 107.56724175069522],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_9a4c412b91dd9a72e5ccbf8d0bb0575e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_9a4c412b91dd9a72e5ccbf8d0bb0575e.addTo(map_d82ed6b40f208cc40a5402a45dc14ecf);
+        
+    
+            var polygon_b4a5855569d3e0d68860080d111e9f4a = L.polygon(
+                [[-6.932335122999973, 107.56453477600007], [-6.932128055999897, 107.56449902400016], [-6.932075891999943, 107.56449688500004], [-6.932038163999948, 107.5644954230001], [-6.931932460999974, 107.56449132900013], [-6.932122998999944, 107.564575], [-6.932171954999887, 107.56459373500007], [-6.932203769999944, 107.564605713], [-6.932304974999965, 107.564557616], [-6.932347913999877, 107.56453699100018], [-6.932335122999973, 107.56453477600007]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_d82ed6b40f208cc40a5402a45dc14ecf);
+        
+    
+            var marker_b26ebb91dbb8f6414340d47f4ae37a32 = L.marker(
+                [-6.919788199999999, 107.5695426],
+                {
+}
+            ).addTo(map_d82ed6b40f208cc40a5402a45dc14ecf);
+        
+    
+            var icon_59f641aad5ce73c3adb0c3dd93892860 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5ca51d3add2dadf47e4779ecc243cfc8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f9f80e7569e1a548578c1ffbd2231be2 = $(`<div id="html_f9f80e7569e1a548578c1ffbd2231be2" style="width: 100.0%; height: 100.0%;">Borma Toserba – Cijerah</div>`)[0];
+                popup_5ca51d3add2dadf47e4779ecc243cfc8.setContent(html_f9f80e7569e1a548578c1ffbd2231be2);
+            
+        
+
+        marker_b26ebb91dbb8f6414340d47f4ae37a32.bindPopup(popup_5ca51d3add2dadf47e4779ecc243cfc8)
+        ;
+
+        
+    
+    
+                marker_b26ebb91dbb8f6414340d47f4ae37a32.setIcon(icon_59f641aad5ce73c3adb0c3dd93892860);
+            
+    
+            var marker_877f5c3726e643a72f37847b3e6f67d7 = L.marker(
+                [-6.927677299999999, 107.5657634],
+                {
+}
+            ).addTo(map_d82ed6b40f208cc40a5402a45dc14ecf);
+        
+    
+            var icon_5039df9eb0bb3573376366644463245f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_58c61669488d5200666e2f9458d72d5d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_54795f8a0471b5bf2fcc4502387fbb4d = $(`<div id="html_54795f8a0471b5bf2fcc4502387fbb4d" style="width: 100.0%; height: 100.0%;">Alfamart - Cijerah 2 (F)</div>`)[0];
+                popup_58c61669488d5200666e2f9458d72d5d.setContent(html_54795f8a0471b5bf2fcc4502387fbb4d);
+            
+        
+
+        marker_877f5c3726e643a72f37847b3e6f67d7.bindPopup(popup_58c61669488d5200666e2f9458d72d5d)
+        ;
+
+        
+    
+    
+                marker_877f5c3726e643a72f37847b3e6f67d7.setIcon(icon_5039df9eb0bb3573376366644463245f);
+            
+    
+            var marker_e65bbb39e32e38f0115cbf208e057ef5 = L.marker(
+                [-6.9195109, 107.5674666],
+                {
+}
+            ).addTo(map_d82ed6b40f208cc40a5402a45dc14ecf);
+        
+    
+            var icon_d9f7207eaf2596d82ca8358a52231dea = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c8b6eeb6e637bae7681db19590b0ea8b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_38000ca7d1c2907776a2499205cde92c = $(`<div id="html_38000ca7d1c2907776a2499205cde92c" style="width: 100.0%; height: 100.0%;">Prima Freshmart - Melong Asih Cijerah</div>`)[0];
+                popup_c8b6eeb6e637bae7681db19590b0ea8b.setContent(html_38000ca7d1c2907776a2499205cde92c);
+            
+        
+
+        marker_e65bbb39e32e38f0115cbf208e057ef5.bindPopup(popup_c8b6eeb6e637bae7681db19590b0ea8b)
+        ;
+
+        
+    
+    
+                marker_e65bbb39e32e38f0115cbf208e057ef5.setIcon(icon_d9f7207eaf2596d82ca8358a52231dea);
+            
+    
+            var marker_05a95451b4ba6117880fa298f663ef20 = L.marker(
+                [-6.9197007, 107.5665707],
+                {
+}
+            ).addTo(map_d82ed6b40f208cc40a5402a45dc14ecf);
+        
+    
+            var icon_342c5e987df1fe42a91879073d0ba4c2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1c74fffd2355b7fb24f511d18f75e72e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f5ab94f9c3af9a67dc8dba24e9faf0a1 = $(`<div id="html_f5ab94f9c3af9a67dc8dba24e9faf0a1" style="width: 100.0%; height: 100.0%;">Indomaret Melong Asih 63</div>`)[0];
+                popup_1c74fffd2355b7fb24f511d18f75e72e.setContent(html_f5ab94f9c3af9a67dc8dba24e9faf0a1);
+            
+        
+
+        marker_05a95451b4ba6117880fa298f663ef20.bindPopup(popup_1c74fffd2355b7fb24f511d18f75e72e)
+        ;
+
+        
+    
+    
+                marker_05a95451b4ba6117880fa298f663ef20.setIcon(icon_342c5e987df1fe42a91879073d0ba4c2);
+            
+    
+            var marker_d2770860cf4e0bbd023d0eed92ad51f2 = L.marker(
+                [-6.9251112, 107.5649159],
+                {
+}
+            ).addTo(map_d82ed6b40f208cc40a5402a45dc14ecf);
+        
+    
+            var icon_de6554f64bae3227bddd015e12a6a8ef = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5df1ecc992853c3b6845f69ff5079841 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_def954ce8bd7fed1919545281f7ee16f = $(`<div id="html_def954ce8bd7fed1919545281f7ee16f" style="width: 100.0%; height: 100.0%;">Warung salsabian/mamah tiara</div>`)[0];
+                popup_5df1ecc992853c3b6845f69ff5079841.setContent(html_def954ce8bd7fed1919545281f7ee16f);
+            
+        
+
+        marker_d2770860cf4e0bbd023d0eed92ad51f2.bindPopup(popup_5df1ecc992853c3b6845f69ff5079841)
+        ;
+
+        
+    
+    
+                marker_d2770860cf4e0bbd023d0eed92ad51f2.setIcon(icon_de6554f64bae3227bddd015e12a6a8ef);
+            
+</script>
+</html>

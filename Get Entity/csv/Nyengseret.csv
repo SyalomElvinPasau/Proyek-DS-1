@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Astar Food,Jalan Astana Anyar No.199A,-6.930369700000001,107.6011251,OPERATIONAL,4.7,23,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Ibu Sri Mulyati,"Ps. Anyar, Jl. Panjunan Blok KB8, Nyengseret",-6.930942,107.6006378,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung H Ukas,"Jalan Bapa Suhaya No.14, Nyengseret",-6.933022499999999,107.6007481,OPERATIONAL,4.7,10,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+warung iman oki,"3J82+MFQ, Jalan Bapa Suhaya, Nyengseret",-6.933297,107.601238,OPERATIONAL,4.7,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

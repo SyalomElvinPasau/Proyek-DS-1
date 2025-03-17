@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Gedung Rektorat ISBI Bandung,"Jalan Cijagra No.6A, Cijagra",-6.942641999999999,107.6272774,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Pascasarjana ISBI,"3J4H+M5M, Cijagra",-6.943276600000001,107.6279365,OPERATIONAL,4,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Indonesian Arts and Culture Institute,"Jalan Buah Batu No.212, Cijagra",-6.9430348,107.6280358,OPERATIONAL,4.6,574,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+SSC,"Jalan Buah Batu No.126, Cijagra",-6.936253799999999,107.6217883,OPERATIONAL,4.6,21,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+GK.DEWI ASRI,"3J4G+PXH, Cijagra",-6.9431951,107.6274961,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+"Jurusan Teater, Fakultas Seni Pertunjukan","Jalan Buah Batu No.212, Cijagra",-6.943584499999999,107.6277747,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Prodi TV dan Film,"3J4H+M5M, Cijagra",-6.943276600000001,107.6279365,OPERATIONAL,4,1,"university, point_of_interest, establishment",,Unknown,Unknown
+FSRD ISBI Bandung,"3J4H+G97, Jalan Buah Batu, Cijagra",-6.943719899999999,107.6284148,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Sekolah Tinggi Ekonomi Dan Bisnis Islam Al Jabar,"Jalan Mutumanikam No.22, Cijagra",-6.940214800000001,107.6233266,OPERATIONAL,4.8,4,"university, point_of_interest, establishment",,Unknown,Unknown
+MTs Swasta Terpadu Al-Huda,"Jalan Radio No.272, Cijagra",-6.9393296,107.6216254,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown

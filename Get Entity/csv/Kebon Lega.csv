@@ -1,0 +1,12 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Yomart Cibaduyut Lama,"Jalan Cibaduyut Lama No.155, Kebon Lega",-6.947872499999999,107.5925228,OPERATIONAL,4.3,255,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Alfamart,"Jalan Soekarno-Hatta No.369, Kebon Lega",-6.9476073,107.6028634,OPERATIONAL,3.8,38,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung ibu yati/dadan,"Jalan Cibaduyut Dalam I No.15, RW.39, Kebon Lega",-6.950617299999998,107.5961555,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Acen,"Jalan Leuwisari III No.14, Kebon Lega",-6.943769100000001,107.5972118,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+EVA house,"3H4X+PCV, Kebon Lega",-6.943144900000001,107.5985554,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Cuci motor setim,"Jalan Inhoftank No.126, Kebon Lega",-6.947322300000001,107.6022181,OPERATIONAL,4.3,6,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+Warung Ibu Ikeu,"Jalan Muara Sari 1 No.9a, Kebon Lega",-6.944578899999999,107.6014902,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung Zahra,"3J33+H27, Gang Bp. Aman, Kebon Lega",-6.946089999999999,107.6025565,OPERATIONAL,3,2,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung Mas Joni,"Jalan Cibaduyut Lama, Kebon Lega",-6.949512100000001,107.5923324,OPERATIONAL,4.3,4,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Bapak Adang,Kebon Lega,-6.950352,107.5925549,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Agen Galon Le Minerale - Mekar Wangi Mart,"Jalan Mekar Wangi No.32, Kebon Lega",-6.950060499999999,107.6029492,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown

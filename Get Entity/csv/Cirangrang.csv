@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+NS Mard-48,"2HWP+2CH, Jalan Raya Kopo, Margasuka",-6.9549487,107.5861112,OPERATIONAL,4.4,5,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Depo Air Minum Al - Maau Thafara,"Gang Cirangrang Timur, Cirangrang",-6.954786699999999,107.5861798,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Mamah Shafa / Teh Emi,"2HVP+MXC, Cirangrang",-6.955802800000001,107.5874051,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Camelia,"2HWP+2JG, Gang Cirangrang Timur, Cirangrang",-6.954932800000001,107.5865777,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Rizal Saepulah Fasya,"Jalan Kopo Elok No.9, RT.01/RW.04, Cirangrang",-6.9580497,107.5816783,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,Unknown,Unknown

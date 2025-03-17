@@ -1,0 +1,21 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Politeknik Kesejahteraan Sosial (Poltekesos) Bandung,"Jalan Ir. H. Juanda No.367, Dago",-6.872737,107.619692,OPERATIONAL,4.7,356,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Sangkuriang ITB,"Jalan Sangkuriang Dalam No.60/160A, Dago",-6.878341499999999,107.609663,OPERATIONAL,4.6,169,"university, point_of_interest, establishment",,Unknown,Unknown
+Polman Bandung Kampus Dago Pojok,"4JG9+Q2F, Dago",-6.8730872,107.6173349,OPERATIONAL,4.7,3,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Pintu Cisitu Dago Asri,"Jalan Dago Asri II No.16, Dago",-6.877050100000001,107.6149459,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Jl. Dago Pojok/Budi Laksana,"4JH8+4QX, Jl. Dago Pojok/BudiLaksana, Dago",-6.872138199999998,107.6169827,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Pmk Pascasarjana Itb,"Jalan Dagopojok No.36, Dago",-6.8720954,107.617287,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Kampung padi,"Jalan Lembah Cisitu No.5, Dago",-6.873272500000001,107.6133215,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Resimen Mahasiswa KI BS STKS,"No., Jl. Ir. H.Djuanda No.367, 40135, Dago",-6.873032599999999,107.6193556,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Dewan Keluarga Masjid Al Ihsan STKS,"Jalan Ir. H. Juanda No.367, Dago",-6.8730326,107.6193557,OPERATIONAL,4.9,10,"university, point_of_interest, establishment",,Unknown,Unknown
+Pos Satpam STKS,"Gedung Pascasarjana STKS, Dago",-6.872657599999999,107.6196389,OPERATIONAL,4,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Les Piano Privat Bandung,Dago Jati No 19B/162 A,-6.873467100000001,107.6204224,OPERATIONAL,5,1,"university, school, store, point_of_interest, establishment",,{'open_now': False},Unknown
+Jurusan DE,"Jalan Kanayakan No.21, Dago",-6.876882699999999,107.6202027,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Politeknik Manufaktur Bandung (POLMAN BANDUNG),"Jalan Kanayakan No.21, Dago",-6.8774688,107.6200117,OPERATIONAL,4.7,492,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Rumah Transit ITB Jalan Cihaur,"4JC9+JMH, Dago",-6.8784443,107.6192291,OPERATIONAL,4.5,4,"university, point_of_interest, establishment",,Unknown,Unknown
+AE Dept. Polman Bandung,"Jalan Kanayakan No.21 lt.4, Dago",-6.8773375,107.6206986,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Rumah Transit ITB Bukit Dago Utara II,"Jalan Bukit Dago Utara II No.17, Dago",-6.8688072,107.6162367,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Cikapundung Lower R1,"4JJ6+3WW, Dago",-6.869760499999999,107.6123182,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Pascasarjana Antropologi Fisip Unpad,"Jalan Bukit Dago Utara No.25, Dago",-6.868697000000001,107.6186509,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+FISIP Universitas Padjadjaran - Kampus Bandung,"Jalan Bukit Dago Utara No.25, Dago",-6.868697000000001,107.6186509,OPERATIONAL,4.8,81,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Pusat Psikologi Universitas Padjadjaran,"4JJC+675, Unnamed Road, Dago",-6.8694963,107.6207427,OPERATIONAL,4.2,9,"university, point_of_interest, establishment",,Unknown,Unknown

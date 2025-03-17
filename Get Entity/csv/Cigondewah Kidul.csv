@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart,"Jalan Taman Holis Indah Ds, RT.02/RW.01, Cigondewah Hilir",-6.9417915,107.5665863,OPERATIONAL,3.7,99,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alfamart,"Jl Taman Holis Indah Blok D-5, Kel RT.02/RW.05, Cibuntu",-6.9409506,107.5639046,OPERATIONAL,3.6,85,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Mang Ato,"blok sawah rt 03 rw 02 kel, Cigondewah Kidul",-6.941348099999999,107.5614767,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Atih Mama Amril,"Gg. Toko Lancar Jaya, Jalan Taman Holis Indah II RT.01/RW.02, Cigondewah Kidul",-6.9402832,107.5637575,OPERATIONAL,3,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Yomart - Taman Holis Indah,"Jalan Taman Holis Indah No.1 Ruko A, Cigondewah Kidul",-6.9404308,107.5645661,OPERATIONAL,4,77,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung ibu imat,"3H45+VQW, blok kasur RT.02/RW.05, Cigondewah Kidul",-6.9427547,107.5594624,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown

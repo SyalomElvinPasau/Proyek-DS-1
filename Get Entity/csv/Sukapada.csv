@@ -1,0 +1,13 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Toko Fajar,"Jalan Babakan Baru No.169, Sukapada",-6.8957225,107.6478525,OPERATIONAL,4.8,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung ibu ita,"4J3W+3XP, Jalan Babakan Baru, Sukapada",-6.8972834,107.6474638,OPERATIONAL,1,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Warung mba mijah,"4J3X+78V, Gang H.Sud, Sukapada",-6.8967645,107.6483063,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung mamah pipit,"4J3V+QX9, Jalan Babakan Baru RT.02/RW.11, Sukapada",-6.897627,107.646006,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Toko Al-amiin,"Jalan Babakan Baru No.233, Sukapada",-6.898594200000001,107.647295,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Yomart Cikutra 2,"4J3V+6GM, Jalan Cikutra, Sukapada",-6.896901700000001,107.64381,OPERATIONAL,4.1,172,"supermarket, atm, finance, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Pak Dadang,"Gang Sukaharja II No.Kel, Sukapada",-6.899611,107.6461824,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Toko Ibu Iis,"Gang Binaan V No.11, Sukapada",-6.8996909,107.6477456,OPERATIONAL,5,5,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko christian,"4J4X+XJ6, Jalan Pasir Leutik, Sukapada",-6.892585599999999,107.649003,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+kios unggas sukapada,"Jalan Bojong Koneng No.55, Sukapada",-6.8929022,107.6443724,OPERATIONAL,4.9,10,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Alma Telur,"Gang Neglasari Utara No.21, RT.02/RW.04, Sukapada",-6.900266400000001,107.6471181,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Toko Eni,"Jalan Bojong Koneng No.89, Sukapada",-6.8913408,107.6452243,OPERATIONAL,4.5,4,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

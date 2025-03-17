@@ -1,0 +1,7 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret Jalaprang,"Jalan Jalaprang No.36, Sukaluyu",-6.896562800000001,107.6309786,OPERATIONAL,4,42,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Alfamart Surapati Baru,"Jalan Surapati No.131, Sukaluyu",-6.8991829,107.6269579,OPERATIONAL,3.8,18,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko 55 (AHS 55),"Jalan Rereng Adumanis No.11, Sukaluyu",-6.8953978,107.6313103,OPERATIONAL,4.4,5,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Suradi,"Jalan Batik Jonas No.16, Sukaluyu",-6.894960299999999,107.6329154,OPERATIONAL,4.8,8,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Cantik Mini Market,"Jalan Cibeunying Landeuh No.61, RT.06/RW.04, Sukaluyu",-6.898632099999999,107.6271048,OPERATIONAL,4.5,150,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Toko Bumbu Uni EMA,"Pasar Cihaurgeulis, k9, Cihaur Geulis",-6.899423599999999,107.6274133,OPERATIONAL,5,8,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

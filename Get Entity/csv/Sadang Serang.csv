@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+STAI Sabili,"Jalan Gagak No.15, Sadang Serang",-6.8975028,107.6242932,OPERATIONAL,4.7,85,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+calistungluarbiasa,"Jalan Pasir Kaliki Barat No.15, Sadang Serang",-6.892176600000001,107.6244313,OPERATIONAL,5,2,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+kursus barista bandung,"Gg. Reuma tengah Rt/rw :004/019 no : 62 kec. coblong, Sadang Serang",-6.892968799999999,107.6262242,OPERATIONAL,5,27,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Universitas,"Jalan Gagak No.15, Sadang Serang",-6.8975028,107.6242932,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Gagak Residence,"Jalan Gagak No.166, RT.001/RW.005, Sadang Serang",-6.8925978,107.6275404,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kimia Terapan UNPAD,"4J39+HPH, Sadang Serang",-6.8960519,107.6193465,OPERATIONAL,5,3,"university, point_of_interest, establishment",,Unknown,Unknown
+Laboratorium Biokimia Universitas Padjadjaran,"4J39+8PP, Lebak Gede",-6.896668399999998,107.6193155,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Sekolah Tinggi Teologia Misi Indonesia,"Jalan Cikutra Barat No.1-F, Sadang Serang",-6.891875000000001,107.629036,OPERATIONAL,1,1,"university, point_of_interest, establishment",,Unknown,Unknown

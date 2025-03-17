@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Toserba Yogya Kopo Mas,"Kompleks Kopo Mas Regency, Jalan Raya Kopo No.618 A",-6.959166000000001,107.5802114,OPERATIONAL,4.3,1057,"supermarket, atm, grocery_or_supermarket, finance, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Mas Tahu,"Jalan Cibolerang No.59, Margasuka",-6.953106000000001,107.5802393,OPERATIONAL,1,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Makmur Jaya Grosir (Toko Sembako),"Jalan Raya Kopo No.590, Margasuka",-6.957805199999998,107.581403,OPERATIONAL,4.7,10,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Bp Komar,"2HX9+49M, Gang Haji Dayat, Margasuka",-6.952172900000001,107.5684301,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown

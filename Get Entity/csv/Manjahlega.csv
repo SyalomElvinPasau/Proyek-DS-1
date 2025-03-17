@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Mirai College Indonesia,"Jalan Merkuri Utara XI No.12, Manjahlega",-6.944918,107.667749,OPERATIONAL,5,110,"university, school, point_of_interest, establishment",,{'open_now': False},Unknown
+kursus ngaji,Komplek Margahayu Raya Jalan Merkuri Selatan VII No.1,-6.947953399999999,107.6682643,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kursus Bahasa Jepang Di Bandung,"Metro, Perumahan Margahayu Raya, Jalan Merkuri Utara XI No.12 Blok W",-6.944903799999998,107.6675214,OPERATIONAL,5,3,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Lembaga Manajemen Formasi Bandung,"Jalan Tata Surya Margahayu Raya No.78, Manjahlega",-6.9442344,107.66681,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+rumah,"Jalan Mars Tengah II No.12, Manjahlega",-6.945159399999998,107.6642144,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+H13N4NC,"Jalan Saturnus Tengah I No.22-2, Manjahlega",-6.952266300000001,107.6656867,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Nec National English Centre,"Ruko Rancabolang 1, Jalan Rancabolang No. 53, Manjahlega, Rancasari, Manjahlega",-6.942519300000001,107.6636963,OPERATIONAL,5,3,"university, point_of_interest, establishment",,{'open_now': False},Unknown

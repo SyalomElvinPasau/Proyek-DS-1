@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Politeknik Piksi Ganesha,"Gang H. Yasin III No.59, Sukabungah",-6.895748999999999,107.592578,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+University of Bandung Raya,"Jalan Pasir Kaliki No.199, Sukabungah",-6.899924599999999,107.5970628,OPERATIONAL,4.6,68,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Paud Tahfizh Pintar 1,"Jalan Haji Yasin No.29, Sukabungah",-6.894657500000001,107.5930041,OPERATIONAL,4.5,20,"school, university, point_of_interest, establishment",,{'open_now': False},Unknown
+STIKES AISYAH,"Jalan Sukajadi No.1, Sukabungah",-6.896601599999999,107.5970758,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Yayasan Karimur Rahmah,"Jalan Dr. Djundjunan No.24, Sukabungah",-6.899714200000001,107.5958274,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kuliah Sambil Kerja UICM Bandung,"Jalan Pasir Kaliki No.199, Sukabungah",-6.899924599999999,107.5970628,OPERATIONAL,5,21,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+UICM - Universitas Insan Cendekia Mandiri,"Jalan Pasir Kaliki No.199, Sukabungah",-6.899870299999999,107.597168,OPERATIONAL,4.8,38,"university, point_of_interest, establishment",,{'open_now': False},Unknown

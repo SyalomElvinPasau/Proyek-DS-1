@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+NASI KEPAL D'RICE JOY,"pt. Kayo surya utama, Jalan Raya Derwati No.15 Rt06, RW.02, pinggir",-6.964703,107.6806891,OPERATIONAL,5,1,"university, point_of_interest, establishment",,{'open_now': False},Unknown

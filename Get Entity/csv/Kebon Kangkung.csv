@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Teknik Mesin Unjani Bandung,"Jalan Papanggungan No.10, Kebon Kangkung",-6.9341579,107.6457449,OPERATIONAL,4.7,3,"university, point_of_interest, establishment",,Unknown,Unknown
+STT Mandala Bandung High Technology Campus,"Kampus I Jalan Mandala No.70, Kebon Kangkung",-6.943685400000001,107.6444096,OPERATIONAL,4.6,163,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+English Fun Club (EFC),Kebun Jayanti,-6.937832899999999,107.6444325,OPERATIONAL,5,9,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Mahasiswa Unjani,"3J6V+JR8, Kebon Kangkung",-6.9384595,107.6445791,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+BU EUIS PENGUASA,"3J5V+VM5, Sekejati",-6.9403519,107.644246,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Himpunan Mahasiswa Mesin Unjani,"No., Jalan Papanggungan No.8, Sukapura",-6.934056099999999,107.6457762,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Kampus II STTMANDALABDG,"Jalan Mandala No.66, Kebon Kangkung",-6.943642499999998,107.6439102,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Kampus STTP Mandala,"Kampus Upi - Yptk, Jl. Raya Lubuk Begalung, Kebon Kangkung",-6.944014399999999,107.6438998,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown

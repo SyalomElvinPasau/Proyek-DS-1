@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Warung Jasmine,"kost-kostan bpk.H.Enjang, Jalan Kawaluyaan Indah V No.102, Jatisari",-6.9353609,107.6617596,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+warung ono,"3M87+4MC, Jatisari",-6.9346935,107.664144,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Alfamart,"Ds, Jalan Kawaluyaan Jalan Margacinta No.026, RT.001/RW.027, Sekejati",-6.93676,107.65777,OPERATIONAL,3.8,26,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart Pasar Baru Selatan,"Jl. Pasar Baru Selatan No.6 Kel, Kebon Jeruk",-6.9181124,107.6039245,OPERATIONAL,3.3,16,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Yomart Gardujati,"Jalan Gardujati No.46, Kebon Jeruk",-6.9184325,107.5983979,OPERATIONAL,4.5,17,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Indomaret Saritem 69,"Jalan Saritem No.3, Kebon Jeruk",-6.9171253,107.5975372,OPERATIONAL,3.6,18,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Bisnis Fingo,"Jalan Kebon Jeruk, Kebon Jeruk",-6.9185498,107.6002278,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Paskal Tugu 23,"3HPX+24P, Ciroyom",-6.9149085,107.5978205,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Bu Nely,"Jalan Apeng No.13, Kebon Jeruk",-6.918923800000001,107.5966782,OPERATIONAL,4.3,6,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Warung bonkil 35,"Jalan Kebon Tangkil No.35, Kebon Jeruk",-6.9184125,107.5963343,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+WARUNG DAN TOILET PANGKALAN GRAB,"Stasiun Kereta Api, Jalan Stasiun Barat, Kebon Jeruk",-6.914928499999999,107.6021234,OPERATIONAL,5,6,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown

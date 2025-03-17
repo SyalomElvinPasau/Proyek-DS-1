@@ -1,0 +1,2 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+warung ibu yeni,"3HCX+JM8, Gang Salam, Panjunan",-6.928463299999999,107.5991994,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, store, point_of_interest, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,14 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Poltek Pajajaran,"Jalan Dipati Ukur No.68e, RW.02, Lebakgede",-6.8907492,107.6172184,OPERATIONAL,5,1,"university, school, point_of_interest, establishment",,Unknown,Unknown
+Universitas Komputer Indonesia,"Jalan Dipati Ukur No.112-116, Lebakgede",-6.887055999999999,107.6154746,OPERATIONAL,4.7,1169,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Unpad Dipatiukur,"Jalan Dipati Ukur No.35, Lebakgede",-6.893386800000001,107.6172317,OPERATIONAL,4.7,660,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Ilmu Komunikasi,"4J48+JVX, Lebak Gede",-6.893386800000001,107.6172317,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Teknologi Industri Pertanian,"4J48+JVX, Lebak Gede",-6.893386800000001,107.6172317,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Peternakan,"4J48+JVX, Lebak Gede",-6.893386800000001,107.6172317,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Ilmu Keperawatan,"4J48+JVX, Lebak Gede",-6.893386800000001,107.6172317,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Puslitbang Hukum Lp,"Jalan Imam Bonjol No.21, Lebakgede",-6.892432099999999,107.6149245,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Rumah kost Bu dewi,"4J58+9VR, Jalan Dipati Ukur Gang Ranting, Lebakgede",-6.891504800000001,107.6171342,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Doctoral Program in Accounting UNPAD,"Jalan Dipati Ukur No.35, Lebakgede",-6.8940162,107.6169948,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,Unknown,Unknown
+Akademi Keuangan Dan Perbankan Merdeka,"Jalan Dipati Ukur No.55, Lebakgede",-6.891292000000001,107.617124,OPERATIONAL,2.5,2,"university, point_of_interest, establishment",,Unknown,Unknown
+C23 Fakultas Ekonomi dan Bisnis Unpad,"Jalan Dipati Ukur No.35, Lebakgede",-6.8943086,107.6166547,OPERATIONAL,5,1,"university, point_of_interest, establishment",,Unknown,Unknown
+Joki Skripsi dan Olah Data,"4J58+HW4, Jalan Dipati Ukur, Lebakgede",-6.891115300000001,107.6173298,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': True},Unknown

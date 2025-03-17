@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Alfamart,"Jl Cikutra No.300 Rt.04 Rw.02 Kel.Neglasari Kec.Cibeunying Bandung, Neglasari",-6.893547799999999,107.6384869,OPERATIONAL,3.6,16,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung nainggolan,"Jalan Cikutra No.229, Cikutra",-6.893102499999999,107.6358777,OPERATIONAL,3.7,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Warung Pak Ace,"Gang Babakan Cikutra No.47, Neglasari",-6.891233499999999,107.6398252,OPERATIONAL,5,3,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+W A R F I R,"Jl. Terusan Jalan Citra Green Garden No.27, Neglasari",-6.896686900000001,107.6415748,OPERATIONAL,5,4,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Alfamart,"Jalan Cikutra No.151 Rt.02/05, Neglasari",-6.8978573,107.643534,OPERATIONAL,4.1,80,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

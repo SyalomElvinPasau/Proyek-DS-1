@@ -1,0 +1,4 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+LPK Budikarya Mandiri,"Jalan Aria Utama Ruko Aria Graha Regency No.8, Cipamokolan",-6.940158499999999,107.6721871,OPERATIONAL,4.9,17,"university, point_of_interest, establishment",,Unknown,Unknown
+Akademi Digital Bandung,"3M5H+RHG, Cipamokolan",-6.940431999999999,107.6789404,OPERATIONAL,5,11,"university, point_of_interest, establishment",,Unknown,Unknown
+Gloria English School,"Jalan Cipamokolan No.14-16, Cipamokolan",-6.939263800000001,107.6770686,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_78cfb108520a357ece69fd8a24a7824d {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_78cfb108520a357ece69fd8a24a7824d" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_78cfb108520a357ece69fd8a24a7824d = L.map(
+                "map_78cfb108520a357ece69fd8a24a7824d",
+                {
+                    center: [-6.929304193466846, 107.62957913330361],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b213aae8e79e0c1397d3fb82f6acd03a = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_b213aae8e79e0c1397d3fb82f6acd03a.addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var polygon_63ef1f710f78ffdef76118a4a36fc44b = L.polygon(
+                [[-6.92492151099998, 107.62921905500019], [-6.924942969999961, 107.62931823800011], [-6.924959182999942, 107.62939453100012], [-6.924991129999967, 107.62953186000004], [-6.925017832999913, 107.62964630100004], [-6.925047874999848, 107.62978363000008], [-6.925076960999945, 107.62987518400001], [-6.925130365999905, 107.63006591800018], [-6.925166606999881, 107.63020324700011], [-6.92521953499994, 107.63039398300003], [-6.925242423999975, 107.63050079300018], [-6.925271034999923, 107.63062286400009], [-6.925320147999969, 107.63082122800017], [-6.925339697999902, 107.63089752200005], [-6.925366401999895, 107.63101959200003], [-6.925437927999951, 107.63135528600009], [-6.925450325999918, 107.6314315790001], [-6.925469874999919, 107.63152313300003], [-6.925539969999875, 107.631782531], [-6.925658702999954, 107.63220977800012], [-6.925677776999919, 107.632286072], [-6.925734518999889, 107.63251495300005], [-6.925824165999927, 107.63270568900003], [-6.92598676599988, 107.63298034700017], [-6.926040648999901, 107.63307952900004], [-6.926140307999901, 107.63324737500005], [-6.926183699999967, 107.6333465570001], [-6.926302908999958, 107.63358307000004], [-6.926436424999963, 107.63382720900006], [-6.926488399999926, 107.633918763], [-6.926529406999862, 107.6339950570001], [-6.926612377999959, 107.63415527400014], [-6.92665767699998, 107.63423919600018], [-6.92670869799997, 107.634338378], [-6.926931380999974, 107.63476562500011], [-6.927007673999981, 107.63490295399998], [-6.927454947999877, 107.63571167000015], [-6.927541255999927, 107.63587951700009], [-6.927617549999923, 107.63602447500017], [-6.927663326999891, 107.63610839800009], [-6.92775630899996, 107.63627624600014], [-6.927866458999972, 107.63649749700005], [-6.927995204999888, 107.63672638000008], [-6.928227423999942, 107.63666534400016], [-6.928495883999915, 107.63660430900018], [-6.928696632999959, 107.63655853200004], [-6.928782461999958, 107.6365356440001], [-6.928915022999888, 107.63650512700013], [-6.929019450999931, 107.6364822380001], [-6.929526328999941, 107.63636779800004], [-6.929610250999929, 107.63634490900006], [-6.930354117999968, 107.63615417500006], [-6.930796145999921, 107.636039735], [-6.931043147999958, 107.63597870000001], [-6.931128978999936, 107.63595581100014], [-6.931214332999957, 107.63592529200002], [-6.931288718999895, 107.635910034], [-6.931369780999944, 107.63588714600007], [-6.931464194999933, 107.63586425700004], [-6.931548593999935, 107.63584137100014], [-6.931635380999978, 107.6358184820001], [-6.931734084999903, 107.63578796300015], [-6.931859968999845, 107.63575744700012], [-6.93219995499993, 107.63568115300018], [-6.932275295999943, 107.63566589300018], [-6.932465076999904, 107.63562011800019], [-6.932790279999892, 107.63553619400017], [-6.933043956999938, 107.635467528], [-6.933137415999909, 107.63545227000014], [-6.933673858999896, 107.6353302], [-6.933827400999917, 107.63529205300011], [-6.934149265999963, 107.63519287100013], [-6.934436796999876, 107.63510894900008], [-6.934509752999872, 107.63508606000005], [-6.934599876999869, 107.63507843000014], [-6.934548854999946, 107.6345672610002], [-6.934478758999887, 107.63425445600018], [-6.934428691999926, 107.6340408320001], [-6.934360980999941, 107.6339263910001], [-6.934360503999869, 107.6337585460002], [-6.934273718999975, 107.6331939690001], [-6.934269903999848, 107.63305664000018], [-6.934246539999947, 107.63278961300006], [-6.93424749299993, 107.63269043000008], [-6.934221743999956, 107.63252258300014], [-6.934191225999882, 107.6322708130001], [-6.93413829799988, 107.63195800900013], [-6.934116839999945, 107.63184356599999], [-6.934078215999875, 107.63166046200013], [-6.934064864999925, 107.63156890800019], [-6.93404245399995, 107.6315002450001], [-6.933944701999962, 107.63111877400007], [-6.933919905999915, 107.63105010900017], [-6.933881758999973, 107.63085174500009], [-6.933859347999885, 107.63066101100014], [-6.933827875999953, 107.63053894000006], [-6.93380784999988, 107.63040161100014], [-6.933739661999937, 107.63014984200004], [-6.933593272999929, 107.62962341200017], [-6.933521270999961, 107.62934875399998], [-6.933411598999953, 107.62881469700011], [-6.93333148999983, 107.62850189200009], [-6.933267591999936, 107.62828826900011], [-6.933207034999896, 107.62798309300007], [-6.933172702999912, 107.62783050500008], [-6.933141230999979, 107.62767791800013], [-6.93309783899997, 107.62751007000008], [-6.933062074999896, 107.62734985300006], [-6.933047293999948, 107.62726592900003], [-6.932940006999956, 107.62686920300007], [-6.932826041999931, 107.62649536100008], [-6.932807922999928, 107.62641143900004], [-6.932754039999907, 107.62621307400008], [-6.932702540999912, 107.62605285700005], [-6.932574271999954, 107.62570190300016], [-6.93234300599994, 107.62578582700019], [-6.932239055999958, 107.62549591100014], [-6.932075500999929, 107.625], [-6.93187761199988, 107.62451172000016], [-6.931825636999918, 107.6244049070001], [-6.931528567999976, 107.6237640380001], [-6.931372642999918, 107.6234817510001], [-6.931320665999976, 107.62336730900006], [-6.931180476999941, 107.62310028100018], [-6.931119918999968, 107.62297058000019], [-6.931065558999933, 107.62279510500014], [-6.930986880999967, 107.62259674000018], [-6.930892467999968, 107.62245941100008], [-6.930781840999884, 107.62248230000012], [-6.930575370999975, 107.62255096500002], [-6.930307865999964, 107.62261962900004], [-6.930023192999897, 107.62269592200005], [-6.929863929999954, 107.62274169900019], [-6.929735659999949, 107.6227722160001], [-6.929309366999917, 107.62288665900007], [-6.928886889999944, 107.6229782110002], [-6.92876481899998, 107.62300872700007], [-6.928590772999883, 107.62305450400004], [-6.928522586999918, 107.62307739300007], [-6.928323745999933, 107.62312317000004], [-6.927720069999964, 107.62326049900014], [-6.927536485999951, 107.62331390399999], [-6.926750181999921, 107.62352752600009], [-6.926640986999928, 107.62355804500004], [-6.926466940999944, 107.6235961920001], [-6.925980090999872, 107.62368774400005], [-6.925899981999919, 107.62371063200015], [-6.925398825999935, 107.62384033100011], [-6.925198078999927, 107.6239013660001], [-6.924935816999891, 107.62397766200002], [-6.924578189999977, 107.62408447200016], [-6.92433500299984, 107.62414550800008], [-6.923778056999936, 107.62434387200011], [-6.92380762099998, 107.62446594300019], [-6.923830031999955, 107.62456512500006], [-6.923880099999963, 107.62478637800018], [-6.923921106999956, 107.625], [-6.923988341999916, 107.62532043500005], [-6.924011705999931, 107.62541961700003], [-6.924032686999965, 107.62550353900008], [-6.924272060999954, 107.6265258790001], [-6.924325942999872, 107.62675476000015], [-6.924390793999919, 107.62702941800012], [-6.924414156999887, 107.62713623000008], [-6.924469469999963, 107.62738800000011], [-6.924494265999954, 107.6275177010001], [-6.924508571999979, 107.62759399400011], [-6.92452668999988, 107.62767791800013], [-6.924551485999871, 107.62779235900007], [-6.924650190999955, 107.62821960399998], [-6.924684047999961, 107.62837219300013], [-6.924712180999961, 107.62847137500012], [-6.924746512999945, 107.62859344400005], [-6.92478084499993, 107.62870788600009], [-6.92481517899995, 107.62882995700016], [-6.924870490999979, 107.62902069100011], [-6.92490243799989, 107.62914276200019], [-6.92492151099998, 107.62921905500019]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "lightblue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var marker_976dcd2a3320773112540df002c73c70 = L.marker(
+                [-6.932395199999999, 107.6349449],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_1091ec0c0261bb322ab24bac3ccfa540 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fcb2983fdb08eac0a521f814bab4e6be = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_067425e2fcb2202caa38ef8bf204f74d = $(`<div id="html_067425e2fcb2202caa38ef8bf204f74d" style="width: 100.0%; height: 100.0%;">STIE Pasundan</div>`)[0];
+                popup_fcb2983fdb08eac0a521f814bab4e6be.setContent(html_067425e2fcb2202caa38ef8bf204f74d);
+            
+        
+
+        marker_976dcd2a3320773112540df002c73c70.bindPopup(popup_fcb2983fdb08eac0a521f814bab4e6be)
+        ;
+
+        
+    
+    
+                marker_976dcd2a3320773112540df002c73c70.setIcon(icon_1091ec0c0261bb322ab24bac3ccfa540);
+            
+    
+            var marker_5610cdf34ebd7fcd152c46e14c7acd4a = L.marker(
+                [-6.931165600000001, 107.6352081],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_a4639b2a8916310057588f2e9dcce805 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8544752f39f233d9dc4f0fc2c05d3a75 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9707b6c40ad01417c8593bc0403f1f08 = $(`<div id="html_9707b6c40ad01417c8593bc0403f1f08" style="width: 100.0%; height: 100.0%;">Fakultas Ekonomi dan Bisnis Universitas Winaya Mukti</div>`)[0];
+                popup_8544752f39f233d9dc4f0fc2c05d3a75.setContent(html_9707b6c40ad01417c8593bc0403f1f08);
+            
+        
+
+        marker_5610cdf34ebd7fcd152c46e14c7acd4a.bindPopup(popup_8544752f39f233d9dc4f0fc2c05d3a75)
+        ;
+
+        
+    
+    
+                marker_5610cdf34ebd7fcd152c46e14c7acd4a.setIcon(icon_a4639b2a8916310057588f2e9dcce805);
+            
+    
+            var marker_6443e895dbf6c7dc12d8b43b29cc2814 = L.marker(
+                [-6.927163, 107.626359],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_222b8797e01b0bbafa648eb35ca3cc61 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_997a3407e67c8eb9ad79219d8944a9e8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d77982e71cb5a1fe0e851e6a3ea53d42 = $(`<div id="html_d77982e71cb5a1fe0e851e6a3ea53d42" style="width: 100.0%; height: 100.0%;">Universitas Kebangsaan Republik Indonesia</div>`)[0];
+                popup_997a3407e67c8eb9ad79219d8944a9e8.setContent(html_d77982e71cb5a1fe0e851e6a3ea53d42);
+            
+        
+
+        marker_6443e895dbf6c7dc12d8b43b29cc2814.bindPopup(popup_997a3407e67c8eb9ad79219d8944a9e8)
+        ;
+
+        
+    
+    
+                marker_6443e895dbf6c7dc12d8b43b29cc2814.setIcon(icon_222b8797e01b0bbafa648eb35ca3cc61);
+            
+    
+            var marker_a737b24df4286962e4bc6ca90d2963e8 = L.marker(
+                [-6.9285136, 107.6321932],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_a6c068f1d5919ddcbd000777fddcc926 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b107ed1bbcacdd2a2821d6c7ed016541 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_31d92b3fdd395f8f82b5c0437760026e = $(`<div id="html_31d92b3fdd395f8f82b5c0437760026e" style="width: 100.0%; height: 100.0%;">Asrama Angkub</div>`)[0];
+                popup_b107ed1bbcacdd2a2821d6c7ed016541.setContent(html_31d92b3fdd395f8f82b5c0437760026e);
+            
+        
+
+        marker_a737b24df4286962e4bc6ca90d2963e8.bindPopup(popup_b107ed1bbcacdd2a2821d6c7ed016541)
+        ;
+
+        
+    
+    
+                marker_a737b24df4286962e4bc6ca90d2963e8.setIcon(icon_a6c068f1d5919ddcbd000777fddcc926);
+            
+    
+            var marker_52be819a9a57c453454d793c7f5ae8e3 = L.marker(
+                [-6.927995699999999, 107.6261375],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_e3526f410358d20e66a6b76769080bc6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_076a0243bb54241d288b62b3a14cf49b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e9460ec0d63adb330a7ef4dd188a347d = $(`<div id="html_e9460ec0d63adb330a7ef4dd188a347d" style="width: 100.0%; height: 100.0%;">Precious Healty</div>`)[0];
+                popup_076a0243bb54241d288b62b3a14cf49b.setContent(html_e9460ec0d63adb330a7ef4dd188a347d);
+            
+        
+
+        marker_52be819a9a57c453454d793c7f5ae8e3.bindPopup(popup_076a0243bb54241d288b62b3a14cf49b)
+        ;
+
+        
+    
+    
+                marker_52be819a9a57c453454d793c7f5ae8e3.setIcon(icon_e3526f410358d20e66a6b76769080bc6);
+            
+    
+            var marker_aaa392c4fe9f7b4ffe5fa3c4b388a33c = L.marker(
+                [-6.926722799999999, 107.6268499],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_a3c438cf2bd21611c9b6aeb0f0dea578 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5719c58086d898c229271bb20c288851 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_641477e8e35ff55b3860a4a5a5f9e827 = $(`<div id="html_641477e8e35ff55b3860a4a5a5f9e827" style="width: 100.0%; height: 100.0%;">Pengolahan Air Bersih dan Air Limbah</div>`)[0];
+                popup_5719c58086d898c229271bb20c288851.setContent(html_641477e8e35ff55b3860a4a5a5f9e827);
+            
+        
+
+        marker_aaa392c4fe9f7b4ffe5fa3c4b388a33c.bindPopup(popup_5719c58086d898c229271bb20c288851)
+        ;
+
+        
+    
+    
+                marker_aaa392c4fe9f7b4ffe5fa3c4b388a33c.setIcon(icon_a3c438cf2bd21611c9b6aeb0f0dea578);
+            
+    
+            var marker_cb753d65424ba152738a6795cf615f7d = L.marker(
+                [-6.9265071, 107.6268853],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_3216173d41bcf5b9240c2119f513751e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_40dc0b095f6abe2c185fa144653b5fa0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_71c604ebd00227e1619bfd3dfe5b0a6e = $(`<div id="html_71c604ebd00227e1619bfd3dfe5b0a6e" style="width: 100.0%; height: 100.0%;">Fakultas Ekonomi UKRI</div>`)[0];
+                popup_40dc0b095f6abe2c185fa144653b5fa0.setContent(html_71c604ebd00227e1619bfd3dfe5b0a6e);
+            
+        
+
+        marker_cb753d65424ba152738a6795cf615f7d.bindPopup(popup_40dc0b095f6abe2c185fa144653b5fa0)
+        ;
+
+        
+    
+    
+                marker_cb753d65424ba152738a6795cf615f7d.setIcon(icon_3216173d41bcf5b9240c2119f513751e);
+            
+    
+            var marker_37b1a148386530c4208d049eab198865 = L.marker(
+                [-6.9265071, 107.6268853],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_62de7a91e611515f651b0b8b8c0f1e4f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_84dbea3557eb40a89f7cbc86a729b05a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c92ecec2140774943962423dd40b4dd5 = $(`<div id="html_c92ecec2140774943962423dd40b4dd5" style="width: 100.0%; height: 100.0%;">Sekretariat PMB UKRI</div>`)[0];
+                popup_84dbea3557eb40a89f7cbc86a729b05a.setContent(html_c92ecec2140774943962423dd40b4dd5);
+            
+        
+
+        marker_37b1a148386530c4208d049eab198865.bindPopup(popup_84dbea3557eb40a89f7cbc86a729b05a)
+        ;
+
+        
+    
+    
+                marker_37b1a148386530c4208d049eab198865.setIcon(icon_62de7a91e611515f651b0b8b8c0f1e4f);
+            
+    
+            var marker_6408f9254461dc48421a1d16c90095fa = L.marker(
+                [-6.926934, 107.6261057],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_901f2fd438ea5bfb0b67105ef120b734 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1cfe14f81be2b9b609c0b42a03a611fe = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_214789591a035462854382f6b942ece7 = $(`<div id="html_214789591a035462854382f6b942ece7" style="width: 100.0%; height: 100.0%;">kampus krui</div>`)[0];
+                popup_1cfe14f81be2b9b609c0b42a03a611fe.setContent(html_214789591a035462854382f6b942ece7);
+            
+        
+
+        marker_6408f9254461dc48421a1d16c90095fa.bindPopup(popup_1cfe14f81be2b9b609c0b42a03a611fe)
+        ;
+
+        
+    
+    
+                marker_6408f9254461dc48421a1d16c90095fa.setIcon(icon_901f2fd438ea5bfb0b67105ef120b734);
+            
+    
+            var marker_4112074bbcf47b247416164ec6e605ae = L.marker(
+                [-6.933537299999999, 107.6294774],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_dfa1ec045c02596f9aa186ffe0f2d33c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0e18d8d62e7d8abe169087c70206e329 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1287a02fb666cf1df86d6489b012eebf = $(`<div id="html_1287a02fb666cf1df86d6489b012eebf" style="width: 100.0%; height: 100.0%;">Sekolah Staf Dan Komando</div>`)[0];
+                popup_0e18d8d62e7d8abe169087c70206e329.setContent(html_1287a02fb666cf1df86d6489b012eebf);
+            
+        
+
+        marker_4112074bbcf47b247416164ec6e605ae.bindPopup(popup_0e18d8d62e7d8abe169087c70206e329)
+        ;
+
+        
+    
+    
+                marker_4112074bbcf47b247416164ec6e605ae.setIcon(icon_dfa1ec045c02596f9aa186ffe0f2d33c);
+            
+    
+            var marker_f7104d5e845804e09500d0f021b31b24 = L.marker(
+                [-6.9293214, 107.6252127],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_d56b571d89455861a39b6aa0fbf19793 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cd2ce9a05ea9b5285f060a6fd3c0d74a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_30ad0c3a7999b2901609b0175224b7cc = $(`<div id="html_30ad0c3a7999b2901609b0175224b7cc" style="width: 100.0%; height: 100.0%;">Gedung Direktorat Polgeta AGP</div>`)[0];
+                popup_cd2ce9a05ea9b5285f060a6fd3c0d74a.setContent(html_30ad0c3a7999b2901609b0175224b7cc);
+            
+        
+
+        marker_f7104d5e845804e09500d0f021b31b24.bindPopup(popup_cd2ce9a05ea9b5285f060a6fd3c0d74a)
+        ;
+
+        
+    
+    
+                marker_f7104d5e845804e09500d0f021b31b24.setIcon(icon_d56b571d89455861a39b6aa0fbf19793);
+            
+    
+            var marker_c671c51547bdee0e53468913b61a64bd = L.marker(
+                [-6.932802000000001, 107.626994],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_147febe605a24168d5cbf79826490617 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_701d9a4b77c622a66999a1f6813f6ecf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3ad67c2514ba497de8c7ed65fdda08c7 = $(`<div id="html_3ad67c2514ba497de8c7ed65fdda08c7" style="width: 100.0%; height: 100.0%;">Wisma Pasis Chandra Dimuka Seskoad</div>`)[0];
+                popup_701d9a4b77c622a66999a1f6813f6ecf.setContent(html_3ad67c2514ba497de8c7ed65fdda08c7);
+            
+        
+
+        marker_c671c51547bdee0e53468913b61a64bd.bindPopup(popup_701d9a4b77c622a66999a1f6813f6ecf)
+        ;
+
+        
+    
+    
+                marker_c671c51547bdee0e53468913b61a64bd.setIcon(icon_147febe605a24168d5cbf79826490617);
+            
+    
+            var marker_3ad520bc4a0aeecb6c8b3ad65a014707 = L.marker(
+                [-6.9263386, 107.6260852],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_80482dab1c463861301e27a5f50472b6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dd296c167ed322fa73c9482e6849dfa2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4c18f3f40c895cc0b8ac8eba75bfc7db = $(`<div id="html_4c18f3f40c895cc0b8ac8eba75bfc7db" style="width: 100.0%; height: 100.0%;">FTSP - UKRI</div>`)[0];
+                popup_dd296c167ed322fa73c9482e6849dfa2.setContent(html_4c18f3f40c895cc0b8ac8eba75bfc7db);
+            
+        
+
+        marker_3ad520bc4a0aeecb6c8b3ad65a014707.bindPopup(popup_dd296c167ed322fa73c9482e6849dfa2)
+        ;
+
+        
+    
+    
+                marker_3ad520bc4a0aeecb6c8b3ad65a014707.setIcon(icon_80482dab1c463861301e27a5f50472b6);
+            
+    
+            var marker_04ac354c62ed265946d9a8d1f834d676 = L.marker(
+                [-6.9318274, 107.6256572],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_52783b27368529908f97d453c9a1716b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8dcbc445c7644514ebd2ab079e27b069 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_66e1ddfc8275b4a731561140bf868c2c = $(`<div id="html_66e1ddfc8275b4a731561140bf868c2c" style="width: 100.0%; height: 100.0%;">Bimbingan Belajar Al Quran - Rumah Quran Center Bandung</div>`)[0];
+                popup_8dcbc445c7644514ebd2ab079e27b069.setContent(html_66e1ddfc8275b4a731561140bf868c2c);
+            
+        
+
+        marker_04ac354c62ed265946d9a8d1f834d676.bindPopup(popup_8dcbc445c7644514ebd2ab079e27b069)
+        ;
+
+        
+    
+    
+                marker_04ac354c62ed265946d9a8d1f834d676.setIcon(icon_52783b27368529908f97d453c9a1716b);
+            
+    
+            var marker_efde6fbe3fe09bb5f35269bb4417dd51 = L.marker(
+                [-6.9268775, 107.6255664],
+                {
+}
+            ).addTo(map_78cfb108520a357ece69fd8a24a7824d);
+        
+    
+            var icon_9b9359f6cc972b3cca90a670c1c9b0be = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7e068ae3215a2a51a2943910d338d9fa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6236439005a3fdc339dfdba8827f5d8a = $(`<div id="html_6236439005a3fdc339dfdba8827f5d8a" style="width: 100.0%; height: 100.0%;">Bandung</div>`)[0];
+                popup_7e068ae3215a2a51a2943910d338d9fa.setContent(html_6236439005a3fdc339dfdba8827f5d8a);
+            
+        
+
+        marker_efde6fbe3fe09bb5f35269bb4417dd51.bindPopup(popup_7e068ae3215a2a51a2943910d338d9fa)
+        ;
+
+        
+    
+    
+                marker_efde6fbe3fe09bb5f35269bb4417dd51.setIcon(icon_9b9359f6cc972b3cca90a670c1c9b0be);
+            
+</script>
+</html>

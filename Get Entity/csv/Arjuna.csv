@@ -1,0 +1,11 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Indomaret Paskal Baru,"Jalan Pasir Kaliki No.65, Arjuna",-6.910022399999999,107.5976082,OPERATIONAL,3.4,116,"convenience_store, supermarket, atm, finance, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+Alfamart,"Jalan Pajajaran No.123C, RT.04/RW.02, Arjuna",-6.907206599999999,107.5904978,OPERATIONAL,2.5,21,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Toko Kartika,"Jalan Bima No.35, Arjuna",-6.9113079,107.5946807,OPERATIONAL,5,1,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': True},Unknown
+Alfamart,"Jl. Bima Apart. Landmark, RT.01/RW.01, Arjuna",-6.912465099999999,107.5927212,OPERATIONAL,3.7,3,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Warung Pak Ponco,"Jalan Semar Dalam No.I No.271, Arjuna",-6.9096956,107.5967176,OPERATIONAL,4,4,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Gang saleh timur,"3HQW+VR2, Arjuna",-6.910360499999999,107.5970154,OPERATIONAL,4.3,3,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+Alfamart,"Jalan Pajajaran No.87, RT.10/RW.05, Arjuna",-6.9069771,107.5947545,OPERATIONAL,3.1,17,"convenience_store, supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+BC LASKAR SASAJI BARAT,"3HRR+P6C, Jalan Rama, Arjuna",-6.9081817,107.5905256,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,Unknown,Unknown
+345 Frozen Food,"Jalan Semar No.5, Arjuna",-6.908284999999999,107.5967486,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown
+Toserba Yogya,"Jalan Pajajaran No.83, Arjuna",-6.9067683,107.5954121,OPERATIONAL,4.2,1912,"supermarket, atm, finance, grocery_or_supermarket, store, point_of_interest, food, establishment",,{'open_now': False},Unknown

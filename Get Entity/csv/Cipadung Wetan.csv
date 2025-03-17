@@ -1,0 +1,5 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Pondok Pesantren Salafy Ar-Raaid Putri Cabang 2,"3P76+WR2, Cipadung Wetan",-6.9350068,107.7120993,OPERATIONAL,5,29,"university, point_of_interest, establishment",,{'open_now': True},Unknown
+Tamyiz Bandung,"Jalan Pangaritan No.5, Cipadung Kulon",-6.926970099999999,107.7068248,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Al-Jami'ah,"Jalan Raya Cipadung No.501, Cipadung",-6.9325033,107.7157746,OPERATIONAL,4.7,9,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+Asrama Cempaka Ungu,"Jalan Raya Cipadung, Cipadung Wetan",-6.933060299999999,107.7159868,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown

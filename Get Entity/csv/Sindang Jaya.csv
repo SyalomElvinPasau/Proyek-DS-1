@@ -1,0 +1,3 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Rizkia Wulandari - LMS Alhikhmah Academy,Jalan Sindanglaya No.47,-6.899622099999999,107.682061,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown
+House,"3MXP+39G, Jalan Sukaasih Atas V, Sindang Jaya",-6.902317099999999,107.6859576,OPERATIONAL,Unknown,Unknown,"university, point_of_interest, establishment",,{'open_now': False},Unknown

@@ -1,0 +1,6 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Toko reza mahendra,"3PHF+X68, Jalan Panday, Pasir Biru",-6.9200951,107.7230716,OPERATIONAL,4.7,3,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,Unknown,Unknown
+Warung Joshua,"Jalan Sukasari, Pasir Biru",-6.9220973,107.7217933,OPERATIONAL,4,11,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Warung Nenek Ara,"3PGC+8GX, Jalan Mekarsari 1, Pasir Biru",-6.9241389,107.7213732,OPERATIONAL,5,5,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': True},Unknown
+Grosir snacks tabriiz,Pasir Biru,-6.926714500000001,107.722515,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,{'open_now': False},Unknown
+Toko elip,"3PCF+RCM, Jalan Mekarjati, Pasir Biru",-6.927911900000001,107.723542,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, food, point_of_interest, store, establishment",,Unknown,Unknown

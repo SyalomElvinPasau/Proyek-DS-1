@@ -1,0 +1,8 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Sumber Rejeki,"Jalan Purwakarta No.143, Antapani Tengah",-6.9171714,107.6594345,OPERATIONAL,5,1,"store, supermarket, grocery_or_supermarket, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Ngewedang Rempah,"Jalan Cibatu XIV No.5, Antapani Tengah",-6.915056799999999,107.6638659,OPERATIONAL,5,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Pkbh Bandung,"3MM7+XM3, Jalan Jatiwangi Raya, Antapani Tengah",-6.9151044,107.6641717,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Agen galon le minerale freshwater,"3MM8+Q6W, Jalan Cibatu Raya, Antapani Tengah",-6.915426999999999,107.6656076,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Agen Galon Le Minerale - Movian,"Jalan Terusan Jakarta No.268, Antapani Tengah",-6.9150247,107.6653509,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Sasya Snack,"Jalan Antapani Lama No.42, Antapani Tengah",-6.9148001,107.6588352,OPERATIONAL,5,6,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+D'GreenSpourt,"3MM4+4GQ, Jalan Purwakarta, Antapani Kidul",-6.9171561,107.6563493,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown

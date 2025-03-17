@@ -1,0 +1,9 @@
+name,address,lat,lng,business_status,rating,user_ratings_total,types,price_level,opening_hours,secondary_opening_hours
+Toko Mang Ujang,"Jalan Terusan H Alpi No.7, Cibuntu",-6.920971099999999,107.5723258,OPERATIONAL,4.8,12,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Warung Bi Eneng,"Jalan Haji Alpi Gang H. Marzuki No.149, RT.03/RW.08, Cibuntu",-6.9208031,107.5725794,OPERATIONAL,4,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': True},Unknown
+Warung Nenek Dadut,"toko alat tulis nenek aji, dekat, Gang Pasantren, Cibuntu",-6.9206838,107.5711184,OPERATIONAL,5,1,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+TOKO KHANSA,"Jalan Terusan H Alpi No.350, Cibuntu",-6.922281799999999,107.5728695,OPERATIONAL,4.5,10,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Mamah Arkan,"3HGF+J5G, Jalan Cibuntu Barat RT.05/RW.09, Cibuntu",-6.923436,107.5729634,OPERATIONAL,4.5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Toko Gemi,"3HJC+8W8, Cibuntu",-6.919204,107.572336,OPERATIONAL,5,2,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
+Gudang kacang,"Jalan Soekarno-Hatta No.42C, Cibuntu",-6.9219494,107.5744913,OPERATIONAL,Unknown,Unknown,"supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,Unknown,Unknown
+Alfamart SPBU Soekarno Hatta,"Jalan Soekarno-Hatta Kel No.15, RT.08/RW.03, Cibuntu",-6.91927,107.57483,OPERATIONAL,4.3,78,"convenience_store, supermarket, grocery_or_supermarket, store, food, point_of_interest, establishment",,{'open_now': False},Unknown
