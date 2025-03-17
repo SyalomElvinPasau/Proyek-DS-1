@@ -6,7 +6,7 @@ import folium
 from shapely.geometry import shape, Point
 
 # Konstanta
-GEOJSON_PATH = "/home/elvin/Documents/Code/College/Proyek Data Science/Proyek-DS-1/GADM/kelurahan_bandung.geojson"
+GEOJSON_PATH = "C:/Users/HERMAN/Pictures/DEBBY/Semester 6/PDS1/PROYEK/Proyek-DS-1/GADM/kelurahan_bandung.geojson"
 HTML_FOLDER = "html"
 CSV_FOLDER = "csv"
 SEARCH_RADIUS = 1000  # Radius pencarian dalam meter
@@ -32,7 +32,7 @@ for kelurahan_data in geojson_data["features"]:
     places_result = gmaps.places_nearby(
         location=(centroid.y, centroid.x),
         radius=SEARCH_RADIUS,
-        type="school"
+        type="university"
     )
 
     filtered_places = []
@@ -50,14 +50,16 @@ for kelurahan_data in geojson_data["features"]:
                 "business_status": place.get("business_status", "Unknown"),
                 "rating": place.get("rating", "Unknown"),
                 "user_ratings_total": place.get("user_ratings_total", "Unknown"),
-                "types": ", ".join(place.get("types", []))
-                # "price_level": place.get("price_level", "Unknown")
+                "types": ", ".join(place.get("types", [])),
+                "opening_hours": place.get("opening_hours", "Unknown"),
+                "secondary_opening_hours": place.get("secondary_opening_hours", "Unknown")
+        
             })
 
     # Simpan hasil dalam file CSV
     csv_filename = os.path.join(CSV_FOLDER, f"{kelurahan_name}.csv")
-    with open(csv_filename, "w", newline="") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=["name", "address", "lat", "lng", "business_status", "rating", "user_ratings_total", "types", "price_level"])
+    with open(csv_filename, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=["name", "address", "lat", "lng", "business_status", "rating", "user_ratings_total", "types", "price_level", "opening_hours", "secondary_opening_hours"])
         writer.writeheader()
         writer.writerows(filtered_places)
     
