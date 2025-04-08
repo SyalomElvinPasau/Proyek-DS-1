@@ -10,11 +10,11 @@ from shapely.ops import unary_union
 # ==============================
 # Konfigurasi
 # ==============================
-GEOJSON_PATH = "/content/kelurahan_bandung.geojson"  # Ganti jika path beda
+GEOJSON_PATH = "/home/elvin/Documents/Code/College/Proyek Data Science/Proyek-DS-1/GADM/kelurahan_bandung.geojson"  # Ganti jika path beda
 API_KEY = "AIzaSyAHKvXsFJWeXNiydLFuaJRrNKbd-3KUoOQ"  # Replace with your actual API key
 OUTPUT_FOLDER = "output"
 CSV_FILENAME = "scraped_places.csv"
-SEARCH_TYPE = "school"  # Can be changed to: restaurant, hospital, etc.
+SEARCH_TYPE = "hospital"  # Can be changed to: restaurant, hospital, etc.
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 gmaps = googlemaps.Client(key=API_KEY)
@@ -91,8 +91,8 @@ else:
                 # Only include the place if it's inside the kelurahan polygon
                 if kelurahan_polygon.contains(place_point):
                     results_all.append({
-                        "center_lat": lat,
-                        "center_lng": lng,
+                        # v"center_lat": lat,
+                        # "center_lng": lng,
                         "name": place.get("name", "Unknown"),
                         "address": place.get("vicinity", "Unknown"),
                         "lat": place_lat,
