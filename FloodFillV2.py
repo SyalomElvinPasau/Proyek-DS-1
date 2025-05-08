@@ -5,17 +5,19 @@ import googlemaps
 import folium
 import csv
 from shapely.geometry import shape, Point
+from shapely.ops import transform
 from collections import deque
+from pyproj import Transformer
 
 # ==============================
 # Konfigurasi
 # ==============================
-GEOJSON_PATH = "path_to_kelurahan_bandung.geoJSON"  # Ganti dengan path ke file GeoJSON kelurahan Bandung
-API_KEY = "api_key" # Ganti dengan API key Google Anda
+GEOJSON_PATH = "C:/Users/i22077/Proyek-DS-1/GADM/kelurahan_bandung.geojson"  # Ganti dengan path ke file GeoJSON kelurahan Bandung
+API_KEY = "AIzaSyAHKvXsFJWeXNiydLFuaJRrNKbd-3KUoOQ"  # Ganti dengan API key Google Anda
 OUTPUT_FOLDER = "output_2"
 CSV_FILENAME = "scraped_places.csv"
-SEARCH_TYPE = "hospital"          # Dapat diubah ke: restaurant, school, dll.
-STEP_SIZE_M = 50                  # Jarak antar titik sampling dalam meter
+SEARCH_TYPE = "hospital"  # Bisa diganti: restaurant, school, dll.
+STEP_SIZE_M = 50  # Jarak antar titik sampling dalam meter
 
 # ==============================
 # Inisialisasi
@@ -29,7 +31,6 @@ gmaps = googlemaps.Client(key=API_KEY)
 with open(GEOJSON_PATH) as f:
     geojson_data = json.load(f)
 
-# Filter kelurahan 'Cibuntu'
 kelurahan_name = 'Cibuntu'
 kelurahan_data = None
 
@@ -45,16 +46,26 @@ if kelurahan_data is None:
 kelurahan_polygon = shape(kelurahan_data["geometry"])
 
 # ==============================
+# Tambah Buffer 1km dari Polygon Kelurahan
+# ==============================
+# Gunakan proyeksi UTM zona 48S untuk Bandung
+project_to_utm = Transformer.from_crs("epsg:4326", "epsg:32748", always_xy=True).transform
+project_to_wgs = Transformer.from_crs("epsg:32748", "epsg:4326", always_xy=True).transform
+
+kelurahan_utm = transform(project_to_utm, kelurahan_polygon)
+buffered_utm = kelurahan_utm.buffer(1000)  # buffer 1000 meter
+buffered_polygon = transform(project_to_wgs, buffered_utm)
+
+# ==============================
 # Flood Fill untuk Titik Sampling
 # ==============================
-STEP_DEG = STEP_SIZE_M / 111000  # Konversi meter ke derajat (approx.)
-
+STEP_DEG = STEP_SIZE_M / 111000  # approx meter ke derajat
 start_point = kelurahan_polygon.centroid
 visited = set()
 queue = deque()
 circle_centers = []
 
-queue.append((start_point.x, start_point.y))  # (lng, lat)
+queue.append((start_point.x, start_point.y))  # lng, lat
 
 while queue:
     x, y = queue.popleft()
@@ -67,9 +78,8 @@ while queue:
     if not kelurahan_polygon.contains(point):
         continue
 
-    circle_centers.append((y, x))  # (lat, lng)
+    circle_centers.append((y, x))  # lat, lng
 
-    # Tambahkan tetangga (4 arah)
     neighbors = [
         (x + STEP_DEG, y),
         (x - STEP_DEG, y),
@@ -85,7 +95,7 @@ while queue:
 # Google Places API Scraping
 # ==============================
 results_all = []
-SEARCH_RADIUS = STEP_SIZE_M  # Radius pencarian dalam meter
+SEARCH_RADIUS = STEP_SIZE_M
 
 for i, (lat, lng) in enumerate(circle_centers):
     try:
@@ -100,7 +110,8 @@ for i, (lat, lng) in enumerate(circle_centers):
             place_lng = place["geometry"]["location"]["lng"]
             place_point = Point(place_lng, place_lat)
 
-            if kelurahan_polygon.contains(place_point):
+            # Gunakan buffered_polygon.contains jika ingin data dari buffer 1km
+            if buffered_polygon.contains(place_point):  # Ganti ini jika hanya ingin yang di dalam kelurahan
                 results_all.append({
                     "name": place.get("name", "Unknown"),
                     "address": place.get("vicinity", "Unknown"),
@@ -130,19 +141,34 @@ else:
 centroid = kelurahan_polygon.centroid
 m = folium.Map(location=[centroid.y, centroid.x], zoom_start=15)
 
-# Tambahkan polygon kelurahan
+# Tambahkan polygon kelurahan (biru muda)
 if kelurahan_polygon.geom_type == 'MultiPolygon':
     for polygon in kelurahan_polygon.geoms:
-        polygon_coords = np.array(polygon.exterior.coords)
+        coords = np.array(polygon.exterior.coords)
         folium.Polygon(
-            locations=[(lat, lng) for lng, lat in polygon_coords],
+            locations=[(lat, lng) for lng, lat in coords],
             color="blue", fill=True, fill_color="lightblue", fill_opacity=0.5
         ).add_to(m)
 else:
-    polygon_coords = np.array(kelurahan_polygon.exterior.coords)
+    coords = np.array(kelurahan_polygon.exterior.coords)
     folium.Polygon(
-        locations=[(lat, lng) for lng, lat in polygon_coords],
+        locations=[(lat, lng) for lng, lat in coords],
         color="blue", fill=True, fill_color="lightblue", fill_opacity=0.5
+    ).add_to(m)
+
+# Tambahkan buffer 1km (ungu)
+if buffered_polygon.geom_type == 'MultiPolygon':
+    for poly in buffered_polygon.geoms:
+        coords = np.array(poly.exterior.coords)
+        folium.Polygon(
+            locations=[(lat, lng) for lng, lat in coords],
+            color="purple", weight=2, fill=False
+        ).add_to(m)
+else:
+    coords = np.array(buffered_polygon.exterior.coords)
+    folium.Polygon(
+        locations=[(lat, lng) for lng, lat in coords],
+        color="purple", weight=2, fill=False
     ).add_to(m)
 
 # Tambahkan titik sampling
