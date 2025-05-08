@@ -10,7 +10,7 @@ from shapely.ops import unary_union
 # ==============================
 # Konfigurasi
 # ==============================
-GEOJSON_PATH = "/home/elvin/Documents/Code/College/Proyek Data Science/Proyek-DS-1/GADM/kelurahan_bandung.geojson"  # Ganti jika path beda
+GEOJSON_PATH = "C:/Users/azrie/OneDrive/UNPAR/Materi Pembelajaran Informatika/Semester 6/Proyek Data Science 1/Tugas/Kode/Proyek-DS-1/GADM/kelurahan_bandung.geojson"  # Ganti jika path beda
 API_KEY = "AIzaSyAHKvXsFJWeXNiydLFuaJRrNKbd-3KUoOQ"  # Replace with your actual API key
 OUTPUT_FOLDER = "output"
 CSV_FILENAME = "scraped_places.csv"

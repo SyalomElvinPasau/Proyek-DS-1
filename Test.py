@@ -11,7 +11,7 @@ from matplotlib.patches import Polygon as MplPolygon, Circle as MplCircle
 # =============================
 # Konfigurasi
 # =============================
-GEOJSON_PATH = "C:/Users/HERMAN/Pictures/DEBBY/Semester 6/PDS1/PROYEK/Proyek-DS-1/GADM/kelurahan_bandung.geojson"  # Ganti jika path beda
+GEOJSON_PATH = "C:/Users/azrie/OneDrive/UNPAR/Materi Pembelajaran Informatika/Semester 6/Proyek Data Science 1/Tugas/Kode/Proyek-DS-1/GADM/kelurahan_bandung.geojson"  # Ganti jika path beda
 API_KEY = "AIzaSyAHKvXsFJWeXNiydLFuaJRrNKbd-3KUoOQ"
 OUTPUT_FOLDER = "output"
 CSV_FILENAME = "circle_packing_scrape.csv"
