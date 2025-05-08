@@ -6,7 +6,7 @@ import folium
 from shapely.geometry import shape, Point
 
 # Konstanta
-GEOJSON_PATH = "/home/elvin/Documents/Code/College/Proyek Data Science/Proyek-DS-1/GADM/kelurahan_bandung.geojson"
+GEOJSON_PATH = "C:/Users/azrie/OneDrive/UNPAR/Materi Pembelajaran Informatika/Semester 6/Proyek Data Science 1/Tugas/Kode/Proyek-DS-1/GADM/kelurahan_bandung.geojson"
 HTML_FOLDER = "html"
 CSV_FOLDER = "csv"
 SEARCH_RADIUS = 1000  # Radius pencarian dalam meter
@@ -32,7 +32,7 @@ for kelurahan_data in geojson_data["features"]:
     places_result = gmaps.places_nearby(
         location=(centroid.y, centroid.x),
         radius=SEARCH_RADIUS,
-        type="school"
+        type="school" 
     )
 
     filtered_places = []
@@ -57,7 +57,7 @@ for kelurahan_data in geojson_data["features"]:
     # Simpan hasil dalam file CSV
     csv_filename = os.path.join(CSV_FOLDER, f"{kelurahan_name}.csv")
     with open(csv_filename, "w", newline="") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=["name", "address", "lat", "lng", "business_status", "rating", "user_ratings_total", "types", "price_level"])
+        writer = csv.DictWriter(csvfile, fieldnames=["name", "address", "lat", "lng", "business_status", "rating", "user_ratings_total", "types"])
         writer.writeheader()
         writer.writerows(filtered_places)
     

@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-file_paths = glob.glob("/home/elvin/Documents/Code/College/Proyek Data Science/Proyek-DS-1/Result Hospital/csv/*.csv")  # Ganti folder_path dengan lokasi folder
+file_paths = glob.glob("C:/Users/azrie/OneDrive/UNPAR/Materi Pembelajaran Informatika/Semester 6/Proyek Data Science 1/Tugas/Kode/Proyek-DS-1/Result Restaurant/csv/*.csv")  # Ganti folder_path dengan lokasi folder
 
 df_list = []
 
@@ -16,4 +16,4 @@ for file in file_paths:
 
 df_combined = pd.concat(df_list, ignore_index=True)
 
-df_combined.to_csv("combinedCSV.csv", index=False)
+df_combined.to_csv("combinedCSVRestaurant.csv", index=False)
